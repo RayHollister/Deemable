@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; TV</title>
+	<atom:link href="/tag/tv/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Jimmy asks, &#8220;Why does everything on my HDTV look like a soap opera?&#8221;</title>
+		<link>/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/</link>
+		<comments>/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/#comments</comments>
+		<pubDate>Sun, 05 Oct 2014 16:22:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[HDTVs]]></category>
+		<category><![CDATA[Motion Smoothing]]></category>
+		<category><![CDATA[Soap Opera Effect]]></category>
+		<category><![CDATA[TV]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9261</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/panasonic_hdtv-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Panasonic" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;ve noticed something weird on my new Samsung HDTV. Whenever I watch broadcast TV, everything looks like it was shot on video &#8211; the best way I can describe it is as looking like a soap opera, but it <a href="/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/panasonic_hdtv-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Panasonic" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q:</strong> I&rsquo;ve noticed something weird on my new Samsung HDTV. Whenever I watch broadcast TV, everything looks like it was shot on video &ndash; the best way I can describe it is as looking like a soap opera, but it is prime time television. What is causing this?<span id="more-9261"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-9261-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150618.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150618.mp3">http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150618.mp3</a></audio><p><strong>A:</strong> What you&rsquo;re describing, Jimmy, is popularly known as the &ldquo;soap opera effect,&rdquo; and it is the result of an intentional feature of modern HDTVs commonly called &ldquo;motion smoothing&rdquo; or &ldquo;motion interpolation.&rdquo;</p>
+<div id="attachment_9274" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/panasonic_hdtv.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9274" src="//media/2014/10/panasonic_hdtv-300x200.jpg"  alt="Image Credit: Panasonic" width="300" height="200"></a><p class="wp-caption-text">Image Credit: Panasonic</p></div>
+<p>This feature was developed to resolve an issue stemming from the number of frames per second HDTVs can show. Most films and TV shows are filmed at 24 frames per second, which has been the standard for nearly a century. Modern HDTVs can display 30, 60, 120 or even 240 frames per second. TV makers had to come up with a way to display the 24 frames per second footage on the up-to-240 frames per second TV, so many used the simple method of showing the same frame multiple times in a row. But this caused a problem with major motion blur when images moved quickly across the screen.</p>
+<p>To fix this issue, TV manufactures came up with the motion smoothing solution. TVs can now take two frames from the TV show or movie, literally create a new frame that is the average of the two, and insert it between them in real time. This fixes the motion blur problem. In fact, it means that fast-moving objects on screen and fast camera pans stay crisp and detailed in a way that seems almost hyper-real.</p>
+<p>Now, this is great for certain types of shows, like football games where you want to see the ball travel across the field. But for normal TV programs or movies, the effect can be very disconcerting because we expect TV to look a certain way. Motion smoothing violates that expectation, and also seems to make the picture look unnaturally bright and clear. This most likely has something to do with the new frames the TV is creating.</p>
+<p>The good news is that there is a way to turn this off. On almost every TV, motion smoothing is a feature that can be enabled or disabled. Unfortunately, doing so almost always requires digging through those notoriously confusing TV menus. And, what this feature is called varies depending on who made your TV. To help you get to the right place, here is a list of what the major brands call it:</p>
+<ul><li><strong>Samsung</strong> &ndash; Auto Motion Plus</li>
+</ul><ul><li><strong>Sony</strong> &ndash; Motion Flow</li>
+</ul><ul><li><strong>Sharp</strong> &ndash; AquoMotion</li>
+</ul><ul><li><strong>Toshiba</strong> &ndash; ClearFrame or ClearScan</li>
+</ul><ul><li><strong>Vizio</strong> &ndash; Smooth Motion</li>
+</ul><ul><li><strong>LG</strong> &ndash; Tru Motion</li>
+</ul><p>If all else fails, look for a menu option that has the word &ldquo;motion&rdquo; in it. Disable that, Jimmy, and you&rsquo;ll be able to watch your favorite TV shows the way they were meant to be seen.</p>
+<p>And while you&rsquo;re in your TV&rsquo;s menus, you may want to take a little time to properly calibrate your television. We&rsquo;ve found that when many people buy a new TV, they install it, turn it on and watch it the way it came out of the box. But these people often aren&rsquo;t getting the picture quality that they paid for. When you buy a new TV, you need to calibrate the settings to what works for you and your home.</p>
+<p>For instance, the default setting on many TVs is to have the picture extremely bright, because that is what looks good on the floor of a store showroom. In a normal living room, however, maximum brightness is almost never a good idea. It can be too bright for the room and strain your eyes, and it can ruin the effect of scenes that are supposed to be dark and atmospheric.</p>
+<p>The best way to begin calibrating your TV is to experiment with the picture quality presets that most TVs come with. If there is one called &ldquo;Cinema,&rdquo; we would recommend starting with that, then adjusting brightness, contrast and color saturation settings until you get a picture that looks good to you.</p>
+<p>If you&rsquo;re really serious about getting the best possible picture out of your TV, there are calibration Blu-rays and DVDs available that will walk you through the process of getting things just right with a series of picture tests. One of the most popular calibration discs is one made by Disney called <em>WoW: World of Wonder</em>, which is supposed to do a great job and is apparently very easy to use.</p>
+<p>If nothing else, you should adjust the settings on your TV to find something you&rsquo;re comfortable with. And if you find it too confusing, there are technicians who can help you.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Jimmy asks, "Why does everything on my HDTV look like a soap opera?"' data-link="/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Jimmy asks, "Why does everything on my HDTV look like a soap opera?"' data-link="/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/jimmy-asks-everything-hdtv-look-like-soap-opera/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150618.mp3" length="3318518" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

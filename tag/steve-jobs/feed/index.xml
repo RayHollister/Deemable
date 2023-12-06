@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Steve Jobs</title>
+	<atom:link href="/tag/steve-jobs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The Future of Apple</title>
+		<link>/2011/06/the-future-of-apple/</link>
+		<comments>/2011/06/the-future-of-apple/#comments</comments>
+		<pubDate>Fri, 10 Jun 2011 19:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3542</guid>
+		<description><![CDATA[Steve Jobs, who has been on medical leave since January, triumphantly walked out to a standing ovation at this year&#8217;s Worldwide Developers Conference (WWDC). Taking place in San Francisco, the gaunt and seemingly frail Apple CEO managed to address the <a href="/2011/06/the-future-of-apple/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/the-future-of-apple/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" alt="" width="375" height="281"></p>
+<p>Steve Jobs, who has been on medical leave since January, triumphantly walked out to a standing ovation at this year&rsquo;s Worldwide Developers Conference (WWDC). Taking place in San Francisco, the gaunt and seemingly frail Apple CEO managed to address the thousands of developers in attendance by revealing major developments in Apple software that will be coming soon to consumers throughout the world.</p>
+<div><span style="text-decoration: underline"><strong>Mac OS X &ldquo;Lion&rdquo;</strong></span></div>
+<p>The latest Mac Operating System, called <em>Lion</em>, will add 250 new improvements &ndash; such as multi-touch gestures for controlling applications. As the eighth major release of Mac OS, Apple has taken a step in a different direction by making the new release emulate the mobile iOS platform. Jobs has stated in the past that the PC-era will soon pass by, and with over 50 million Mac users across the globe his vision is coming into fruition. The software update will be on sale next month exclusively in the Mac App Store, and unlike previous Mac updates that usually cost $129.99, the 4GB <em>Lion</em> update can be downloaded for a mere $29.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/tq2enQYTrbU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Read more about <em>Lion</em> in Apple&rsquo;s <a title="Lion Press Release" href="http://www.apple.com/pr/library/2011/06/06lion.html" target="_blank">Official Press Release</a>.</p>
+<div><span style="text-decoration: underline"><strong>iOS 5</strong></span></div>
+<p>After selling over 200 million iOS devices like the iPad, iPhone, and iPod Touch,<br>
+the highly popular mobile Apple iOS software will receive a much-anticipated update in the fall. Over 200 new features will be added including Notification Center, iMessage, Newsstand, and built-in Twitter integration. Users will be sent the new update over-the-air after it was announced that iOS devices will no longer require syncing with a computer to be activated or receive updates.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/LLJIef-e-7g?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Read more about iOS 5 <a title="iOS" href="http://www.apple.com/pr/library/2011/06/06ios.html" target="_blank">here</a>.</p>
+<p><span style="text-decoration: underline"><strong>iCloud</strong></span></p>
+<p>The headliner of the WWDC was undoubtedly the unveiling of Apple&rsquo;s iCloud, a free wireless storage and syncing system. Based on the idea of cloud computing, which allows users to store files and applications on the internet instead of on their own devices, the iCloud will help further integrate and synchronize Apple devices in an efficient and simple manner. Using Apple&rsquo;s servers, new files that a user loads onto their device will be automatically pushed and available in &ldquo;the cloud&rdquo; without having to manually sync or transfer anything.</p>
+<p>Several features set Apple&rsquo;s cloud computing service apart from competing cloud systems launched by Amazon and Google. The largest competitive advantage that the iCloud holds is its iTunes integration. As rumored before its release, iTunes will automatically push a user&rsquo;s purchased song to all other devices running iTunes at no charge. For an additional $25 a year, though, you can access up to 20,000 songs from your entire iTunes library through a new service known as iTunes Match, which scans the iTunes library and matches it to the millions of songs that the company acquired licensing rights to. Users can also upload additional songs that haven&rsquo;t found a match using the new program. Besides the iTunes integration, iCloud will also integrate with applications, documents, and photos.</p>
+<p>Apple iCloud is set to fully launch during the fall, but some features are available right now.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/zAYA7WfNjjI?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Additional information about the iCloud can be found at <a title="iCloud" href="http://www.apple.com/pr/library/2011/06/06icloud.html" target="_blank">Apple&rsquo;s web site</a>.</p>
+<p>Full WWDC keynote below:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/3lsMFzxtSZ8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" target="_blank">Photo</a> via <a title="WWDC" href="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" target="_blank">Ology</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Future of Apple" data-link="/2011/06/the-future-of-apple/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Future of Apple" data-link="/2011/06/the-future-of-apple/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/the-future-of-apple/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

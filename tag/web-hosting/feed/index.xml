@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Web hosting</title>
+	<atom:link href="/tag/web-hosting/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Eileen asks, &#8220;How can I find out where a website is hosted and who the owner is?&#8221;</title>
+		<link>/2014/08/eileen-asks-can-find-website-hosted-owner/</link>
+		<comments>/2014/08/eileen-asks-can-find-website-hosted-owner/#comments</comments>
+		<pubDate>Thu, 07 Aug 2014 10:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Domain names]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Registrar]]></category>
+		<category><![CDATA[Web hosting]]></category>
+		<category><![CDATA[WhoIs search]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9095</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/whois-150x150.png" class="attachment-thumbnail wp-post-image" alt="whois" style="float:left; margin:0 15px 15px 0;" />Q: I got my cell phone number about seven years ago. The problem is that the previous owner&#8217;s name and my phone number figure prominently on a charitable organization&#8217;s website, and I have been getting calls for that organization for <a href="/2014/08/eileen-asks-can-find-website-hosted-owner/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/eileen-asks-can-find-website-hosted-owner/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/whois-150x150.png" class="attachment-thumbnail wp-post-image" alt="whois" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p126495-embed" src="http://www.prx.org/p/126495/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> I got my cell phone number about seven years ago. The problem is that the previous owner&rsquo;s name and my phone number figure prominently on a charitable organization&rsquo;s website, and I have been getting calls for that organization for years. I just called all of the numbers on the site, and all are either not working, or not associated with that organization. Is there any way I can find out where the website is hosted and who to contact about getting my phone number removed?<span id="more-9095"></span></p>
+<p><strong>A:</strong> That sounds like it&rsquo;s a very frustrating problem, Eileen, but luckily there is something you can try: a WhoIs search. A WhoIs search is a way of retrieving the domain name contact information from the registrar, and using that to find the web host.</p>
+<div id="attachment_9096" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/08/whois.png" class="gallery_colorbox"><img class="wp-image-9096 size-medium" src="//media/2014/08/whois-300x225.png"  alt="whois" width="300" height="225"></a><p class="wp-caption-text">Image credit: Sean Birch</p></div>
+<p>Now, that probably just sounded like a bunch of tech gobbledygook, so let us take a moment to explain a couple of things. A domain name is the name that serves as the website&rsquo;s address (for example, &ldquo;deemable.com&rdquo; is the domain name for our site). A registrar is basically a company that a person would buy a domain name from. In the process of selling a domain name, the registrar would take a buyer&rsquo;s contact information (including their name, business address, email address and phone number) and store it all in a publicly accessible database. A WhoIs search will allow you to search through that database.</p>
+<p>There are a lot of websites that offer WhoIs search tools, but two of the most reliable ones are <a href="http://networksolutions.com/whois" target="_blank">networksolutions.com/whois</a> and <a href="http://whois.domaintools.com/" target="_blank">whois.domaintools.com</a>. Enter the domain name of the website you&rsquo;re trying to find information for, and you&rsquo;ll get a large chunk of text which includes addresses and phone numbers for the people managing that site. Then it&rsquo;s time to start calling and sending emails, Eileen.</p>
+<p>Assuming, that is, that the information from the registrar is up to date. With a small charitable organization like the one you&rsquo;re talking about, you might run the risk of that info being outdated. If this is the case, you can attempt to find the web hosting company for the website (the company that keeps the website on their actual physical servers) and ask for their assistance. Sometimes the registrar and the web host for a website are the same company, but this is not always true. Unfortunately, when they are two different companies, finding the web host can be less straightforward than finding the domain name owner. This might require professional help.</p>
+<p>If all of that wasn&rsquo;t tricky enough to manage, there is no guarantee that the people who own and run the website will remove your phone number from the site when you actually get in touch with them. If they ignore you or refuse to help, you only other option may be legal action. That&rsquo;s why we would recommend asking <em>really</em> nicely, Eileen.</p>
+<p>It often seems like our personal information is completely out of our control on the Internet, but it&rsquo;s usually possible to manage what&rsquo;s out there if you stay calm and be patient.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Eileen asks, "How can I find out where a website is hosted and who the owner is?"' data-link="/2014/08/eileen-asks-can-find-website-hosted-owner/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Eileen asks, "How can I find out where a website is hosted and who the owner is?"' data-link="/2014/08/eileen-asks-can-find-website-hosted-owner/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/eileen-asks-can-find-website-hosted-owner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Deemable Tech is now on A Small Orange!</title>
+		<link>/2012/11/deemable-tech-is-now-on-a-small-orange/</link>
+		<comments>/2012/11/deemable-tech-is-now-on-a-small-orange/#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 04:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[A Small Orange]]></category>
+		<category><![CDATA[cat videos]]></category>
+		<category><![CDATA[Web hosting]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5976</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/catvideos-150x150.png" class="attachment-thumbnail wp-post-image" alt="Cat Videos!" style="float:left; margin:0 15px 15px 0;" />If you tried to get to our website in the last hour, you know that we were in the middle of moving our website over to our new server at A Small Orange. We are now moved over. Our website <a href="/2012/11/deemable-tech-is-now-on-a-small-orange/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/deemable-tech-is-now-on-a-small-orange/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/catvideos-150x150.png" class="attachment-thumbnail wp-post-image" alt="Cat Videos!" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>If you tried to get to our website in the last hour, you know that we were in the middle of moving our website over to our new server at <a href="http://asmallorange.com/">A Small Orange</a>. We are now moved over. Our website is so much faster! Thanks to A Small Orange for their support of Deemable Tech.</p>
+<p>However, If you didn&rsquo;t try to go to our website in the last hour, you missed out on this:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/wf_IIbT8HGk?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech is now on A Small Orange!" data-link="/2012/11/deemable-tech-is-now-on-a-small-orange/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech is now on A Small Orange!" data-link="/2012/11/deemable-tech-is-now-on-a-small-orange/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/deemable-tech-is-now-on-a-small-orange/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

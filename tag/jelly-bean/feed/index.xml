@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Jelly Bean</title>
+	<atom:link href="/tag/jelly-bean/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 4</title>
+		<link>/2012/07/deemable-tech-episode-4/</link>
+		<comments>/2012/07/deemable-tech-episode-4/#comments</comments>
+		<pubDate>Mon, 02 Jul 2012 18:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 4.1]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Jelly Bean]]></category>
+		<category><![CDATA[Nexus 7]]></category>
+		<category><![CDATA[Nexus Q]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5221</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />This week Ray Hollister, Kevin Clark, and Aaron Edelson get giddy over Google&#8217;s gorgeous new gadgets, the Nexus 7 and Nexus Q, and they get a sugar rush from Google&#8217;s new sweet Android version 4.1, Jelly Bean. Then, they pondered <a href="/2012/07/deemable-tech-episode-4/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/07/deemable-tech-episode-4/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/2012/06/deemable-tech-episode-2/deemabletechlogosquare/" rel="attachment wp-att-5185"><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200"></a>This week Ray Hollister, Kevin Clark, and Aaron Edelson get giddy over Google&rsquo;s gorgeous new gadgets, the Nexus 7 and Nexus Q, and they get a sugar rush from Google&rsquo;s new sweet Android version 4.1, Jelly Bean. Then, they pondered all the possible ways to keep your passwords practically perfect.</p>
+<p>All that and more on this episode of Deemable Tech.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5221-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-02.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-02.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-02.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-02.mp3">Deemable Tech &ndash; Episode 4</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 4" data-link="/2012/07/deemable-tech-episode-4/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 4" data-link="/2012/07/deemable-tech-episode-4/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/07/deemable-tech-episode-4/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-02.mp3" length="51887776" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Episode 3</title>
+	<atom:link href="/2012/06/deemable-tech-episode-3/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/06/deemable-tech-episode-3/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Joel</title>
+		<link>/2012/06/deemable-tech-episode-3/#comment-652</link>
+		<dc:creator><![CDATA[Joel]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2012 19:53:36 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=5211#comment-652</guid>
+		<description><![CDATA[RE: Passwords - I read a great article over at Lifehacker on how to create unique passwords that are easy to remember.  The short and sweet is to have a base password that uses a combination of letters (upper and lower case) number and special characters that are meaningful to you, and then use something like the first several characters of the site you are logging into as the unique part.  So, for instance, your base password could be your spouse&#039;s initials (I&#039;ll use &quot;ABC&quot; for the example&quot;), plus the date of birth of your first child (I&#039;ll use 0101 for the example).  Then, the first three letters of the site.  So, if I was going to log into Deemable Tech, my password could look like ABC0101dee.  Then, you just use the ABC0101 for all your passwords, and just switch out the last part per web site.
+
+Here&#039;s the article I referenced: http://lifehacker.com/184773/geek-to-live--choose-and-remember-great-passwords]]></description>
+		<content:encoded><![CDATA[<p>RE: Passwords &#8211; I read a great article over at Lifehacker on how to create unique passwords that are easy to remember.  The short and sweet is to have a base password that uses a combination of letters (upper and lower case) number and special characters that are meaningful to you, and then use something like the first several characters of the site you are logging into as the unique part.  So, for instance, your base password could be your spouse&#8217;s initials (I&#8217;ll use &#8220;ABC&#8221; for the example&#8221;), plus the date of birth of your first child (I&#8217;ll use 0101 for the example).  Then, the first three letters of the site.  So, if I was going to log into Deemable Tech, my password could look like ABC0101dee.  Then, you just use the ABC0101 for all your passwords, and just switch out the last part per web site.</p>
+<p>Here&#8217;s the article I referenced: <a href="http://lifehacker.com/184773/geek-to-live--choose-and-remember-great-passwords" rel="nofollow">http://lifehacker.com/184773/geek-to-live&#8211;choose-and-remember-great-passwords</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2012/06/deemable-tech-episode-3/#comment-651</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2012 19:47:53 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=5211#comment-651</guid>
+		<description><![CDATA[Joel, Thank you! I can&#039;t believe I never thought of that. I could have been doing that with Find My iPhone all this time. Where do I need to send the check for the marriage counseling?]]></description>
+		<content:encoded><![CDATA[<p>Joel, Thank you! I can&#8217;t believe I never thought of that. I could have been doing that with Find My iPhone all this time. Where do I need to send the check for the marriage counseling?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Joel</title>
+		<link>/2012/06/deemable-tech-episode-3/#comment-650</link>
+		<dc:creator><![CDATA[Joel]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2012 18:51:14 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=5211#comment-650</guid>
+		<description><![CDATA[Another great use for Where&#039;s My Droid is getting someone&#039;s attention.  For instance, my wife tends to set her phone to silent, and then forget to restore her ringer (A great app to deal with that automatically is Shush! Ringer Restorer).  So, if I&#039;m trying to get in contact with her, but she&#039;s blissfully unaware that her phone is ringing, I can use Where&#039;s My Droid to force her ringer to go full-volume for several minutes, which gets her attention.
+Saved our marriage.
+Or something.]]></description>
+		<content:encoded><![CDATA[<p>Another great use for Where&#8217;s My Droid is getting someone&#8217;s attention.  For instance, my wife tends to set her phone to silent, and then forget to restore her ringer (A great app to deal with that automatically is Shush! Ringer Restorer).  So, if I&#8217;m trying to get in contact with her, but she&#8217;s blissfully unaware that her phone is ringing, I can use Where&#8217;s My Droid to force her ringer to go full-volume for several minutes, which gets her attention.<br />
+Saved our marriage.<br />
+Or something.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

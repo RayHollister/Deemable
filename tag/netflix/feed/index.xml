@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; NetFlix</title>
+	<atom:link href="/tag/netflix/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#105 The Rumor Mill</title>
+		<link>/2016/01/105-the-rumor-mill/</link>
+		<comments>/2016/01/105-the-rumor-mill/#comments</comments>
+		<pubDate>Fri, 15 Jan 2016 20:15:05 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Oculus]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10391</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/01/Glade_Creek_Grist_Mill-square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="That rumor mill&#039;s a-churning. Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" />This week, Ray, Tom and Sean delve into rumors about the next iPhone as well as Twitter&#8217;s famous 140-character limit. Plus, the latest about the Oculus Rift, and the story of a man who found more than he bargained for <a href="/2016/01/105-the-rumor-mill/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/01/105-the-rumor-mill/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/01/Glade_Creek_Grist_Mill-square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="That rumor mill&#039;s a-churning. Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_10394" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2016/01/Glade_Creek_Grist_Mill-square.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10394" src="//media/2016/01/Glade_Creek_Grist_Mill-square-300x300.jpg"  alt="That rumor mill's a-churning. Image credit: Wikimedia Commons" width="300" height="300"></a><p class="wp-caption-text">That rumor mill&rsquo;s a-churning. Image credit: Wikimedia Commons</p></div>
+<p>This week, Ray, Tom and Sean delve into rumors about the next iPhone as well as Twitter&rsquo;s famous 140-character limit. Plus, the latest about the Oculus Rift, and the story of a man who found more than he bargained for in his Amazon cart.</p>
+<p><span id="more-10391"></span></p>
+<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="http://deemable.com/reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
+<p>And make sure to&nbsp;subscribe to the show and leave a review&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;and&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10391-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/01/DeemableTech_2016-01-14.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/01/DeemableTech_2016-01-14.mp3">http://cpa.ds.npr.org/wjct/audio/2016/01/DeemableTech_2016-01-14.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>Apple planning to remove headphone jack on the iPhone 7</h3>
+<p><span style="font-weight: 400;">The rumor mill about the next iPhone is churning and this time it has come up with a doozy. In order to get the next version of the iPhone even slimmer, Apple is supposedly going to ditch the headphone jack. </span></p>
+<p><span style="font-weight: 400;">These rumors actually started swirling about a month ago, but now </span><a href="http://www.fastcompany.com/3055208/its-true-apple-will-drop-the-headphone-jack-to-make-the-iphone-7-slimmer-and-simpler" target="_blank"><span style="font-weight: 400;">Fast Company has a new source which has confirmed them</span></a><span style="font-weight: 400;">, along with adding new details: that the replacement will be a lightning jack with a headphone adaptor, or completely wireless EarPods.</span></p>
+<p><span style="font-weight: 400;">Fast Company also says that the next iPhone will employ a new noise-cancelling technology to improve sound quality. </span></p>
+<p>&nbsp;</p>
+<h3>Oculus Rift announces release date, final price</h3>
+<p><span style="font-weight: 400;">The product that arguably has launched the current wave of excitement about virtual-reality-tech has finally gotten a price, and a date on which you will be able to buy it. That product, of course, is the Oculus Rift. The date? Sometime in March, assuming you pre-ordered, oh, last week. The price? $599.</span></p>
+<p><a href="http://arstechnica.com/gaming/2016/01/virtually-a-reality-oculus-rift-goes-on-sale/"><span style="font-weight: 400;">According to Ars Technica</span></a><span style="font-weight: 400;">, that scores you a cutting-edge VR headset, a head-tracking camera, an Xbox One controller, an Oculus remote, cables, a carrying case, and two games. That sounds pretty good, but note that it doesn&rsquo;t include the beefy high-end PC you&rsquo;ll need to plug your headset into.</span></p>
+<p><span style="font-weight: 400;">If all you&rsquo;ve got at home right now is Sean Birch&rsquo;s Chromebook, expect to drop $1,500 to gain access to a high resolution universe of virtual wonder.</span></p>
+<p><span style="font-weight: 400;">After two dev kits, which were priced at $300 and $350 respectively, and Oculus founder Palmer Lucky stating in an interview in October that the Rift would cost &ldquo;more than $350,&rdquo; many eager fans are experiencing sticker shock. They have taken to the internets to express their anger. </span><a href="http://arstechnica.com/gaming/2016/01/oculus-founder-apologizes-for-messaging-poorly-on-599-rift-price/" target="_blank"><span style="font-weight: 400;">Outrage was so great that Palmer Lucky popped up on reddit to apologize for misleading people</span></a><span style="font-weight: 400;">. That said, if you pre-order the Rift right now, you&rsquo;ll be lucky to get it by April, so clearly the high price has not been enough to discourage everyone.</span></p>
+<p>&nbsp;</p>
+<h3>Netflix gives customers socks for the holidays</h3>
+<p><span style="font-weight: 400;">You probably remember the Netflix-and-chill button that Netflix recently released design specs for so DIY enthusiasts could build their own. Well the company has topped themselves with their latest DIY brainstorm &ndash; Netflix socks. </span></p>
+<p><span style="font-weight: 400;">If you regularly binge watch so much that you fall asleep, Netflix socks are for you. These socks detect when you&rsquo;ve fallen asleep and send a pause signal to Netflix, so you won&rsquo;t miss a moment of Jessica Jones! You can check them out at </span><a href="https://makeit.netflix.com/" target="_blank"><span style="font-weight: 400;">makeit.netflix.com</span></a><span style="font-weight: 400;">. There are even multiple snazzy templates for great Netflix-themed patterns! </span></p>
+<p><span style="font-weight: 400;">Just to be clear, you can&rsquo;t buy these &ndash; you have to make them! So get out your darning needles and soldering iron and get to work! If any Deemable Tech listeners are planning on building this or the Netflix button, we&rsquo;d love to see your work!</span></p>
+<p>&nbsp;</p>
+<h3>Lenovo ditching the Motorola brand name, but keeping &ldquo;Moto&rdquo;</h3>
+<p><span style="font-weight: 400;">Motorola was once a powerhouse in mobile phones, but it has been through a lot of changes lately. First it was purchased by Google, which launched the Moto X line of phones, and then it was sold to Lenovo. </span></p>
+<p><a href="http://www.cnet.com/news/goodbye-moto-rola-iconic-brand-name-to-be-phased-out/" target="_blank"><span style="font-weight: 400;">In an interview with Cnet this month</span></a><span style="font-weight: 400;"> while at CES, Lenovo announced that it would begin phasing out the &ldquo;Motorola&rdquo; branding on its phones and replacing it with Lenovo branding. Lenovo will, however, be keeping the &ldquo;Moto&rdquo; name and the iconic &ldquo;batwing&rdquo; logo. So you can still say, &ldquo;Hello, Moto.&rdquo; But really, it is goodbye to Motorola as we know it.</span></p>
+<p>&nbsp;</p>
+<h3>Twitter to break the 140 character limit, probably for real this time</h3>
+<p><span style="font-weight: 400;">There are always endless rumors swirling that Twitter is about to increase its famous 140 character limit. And actually right now it looks like those rumors have some substance. </span></p>
+<p><a href="http://recode.net/2016/01/05/twitter-considering-10000-character-limit-for-tweets/" target="_blank"><span style="font-weight: 400;">According to re/code</span></a><span style="font-weight: 400;">, sources within the company say that tweets will still initially appear in your Twitter feed as 140 characters, but will then feature some kind of call to action which allows them to be expanded, showing up to 10,000 characters of text. This would be a pretty significant change for a company that has built its reputation on very brief messages. The same rumors also say that Twitter is experimenting with changing its reverse chronological timeline, another core feature from early days.</span></p>
+<p><span style="font-weight: 400;">Since Twitter went public in 2013 it has struggled to impress investors with steady growth. CEO Jack Dorsey and other company heads are definitely looking at radical changes to keep the social media giant relevant. </span></p>
+<h3>IE is Dead, Long Live Edge&hellip; and IE</h3>
+<p><span style="font-weight: 400;">Microsoft finally </span><a href="http://www.pcworld.com/article/3021789/windows/microsoft-patch-tuesday-kills-off-windows-8-and-internet-explorer-8-9-and-10.html" target="_blank"><span style="font-weight: 400;">buried Internet Explorers</span></a><span style="font-weight: 400;"> 8, 9 and 10. If you have one of them installed on your computer it will still work, but just like when Microsoft pulled the plug on Windows XP back in 2013, you won&rsquo;t receive any security updates anymore. </span></p>
+<p><span style="font-weight: 400;">Speaking of operating systems, Windows killed another operating system this week. No, it wasn&rsquo;t Vista, it was Windows 8! If you&rsquo;re running Windows 8, you need to upgrade to 8.1 or 10, because you will no longer get bug fixes or security updates. Why did Microsoft skip Vista? Who knows, but our guess is that there is a very small user base running 8 compared to Vista. But the reaper is coming for Vista too. Vista will swim with the fishes in April 2017.</span></p>
+<p>&nbsp;</p>
+<h3>Customer finds unexpected dildo in his shopping cart after poor customer service experience at Amazon.de</h3>
+<p><a href="http://arstechnica.com/information-technology/2016/01/amazon-customer-complains-finds-spiteful-10-inch-dildo-in-his-shopping-basket/" target="_blank"><span style="font-weight: 400;">Ars Technica reported on an unusual customer service snafu last week</span></a><span style="font-weight: 400;">. Not that customer service screw ups are unusual, but this one came from Amazon, typically known for their top notch customer service. </span></p>
+<p><span style="font-weight: 400;">An IT contractor living in Ireland had ordered a textbook from Amazon.de, the Germany-based version of the site. Unfortunately he was shipped the wrong edition. After spending a great deal of time on the phone with a customer service rep, he was informed that the company did not have the right edition and they would only be able to credit him his money back.</span></p>
+<p><span style="font-weight: 400;">Upset, the contractor left a negative review on a customer satisfaction survey.</span></p>
+<p><span style="font-weight: 400;">A few days later he was browsing the site at work and noticed that there was something in his shopping basket. Not having added anything to the cart, he clicked to see what it was. At this point he discovered that a dildo known as &ldquo;The Hulk&rdquo; had been added to his basket. </span></p>
+<p><span style="font-weight: 400;">Since the contractor was at his job and was being observed by coworkers, including a woman, he was not pleased by this. He reports that he was able to get in touch with an executive at Amazon.de and had been credited with 100 euros for the incident. The company hinted that the dildo had been added to the contractor&rsquo;s basket by the customer service rep, but would not say if any steps had been taken to discipline the rep.</span></p>
+<p>&nbsp;</p>
+<p>Image credit: Glade_Creek_Grist_Mill.jpg: Gabor Eszes (UED77)derivative work: WVhybrid at en.wikipedia (Glade_Creek_Grist_Mill.jpg) [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AGlade_Creek_Grist_Mill-square.jpg">via Wikimedia Commons</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#105 The Rumor Mill" data-link="/2016/01/105-the-rumor-mill/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#105 The Rumor Mill" data-link="/2016/01/105-the-rumor-mill/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/01/105-the-rumor-mill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/01/DeemableTech_2016-01-14.mp3" length="36476269" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#90 Cutting Cords and Fiber Optic Cables</title>
+		<link>/2015/07/90-cutting-cords-and-fiber-optic-cables/</link>
+		<comments>/2015/07/90-cutting-cords-and-fiber-optic-cables/#comments</comments>
+		<pubDate>Sat, 04 Jul 2015 00:10:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[MS-DOS]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Siri]]></category>
+		<category><![CDATA[SpaceX]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10124</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/divide_zero_by_zero_square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="divide_zero_by_zero_square" style="float:left; margin:0 15px 15px 0;" />This week Ray, Tom and Sean discuss news about Netflix&#8217;s growth, videos on Facebook, SpaceX and more. Plus, Siri hits a little too close to home when we ask her to divide zero by zero. That and more on this <a href="/2015/07/90-cutting-cords-and-fiber-optic-cables/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/90-cutting-cords-and-fiber-optic-cables/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/divide_zero_by_zero_square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="divide_zero_by_zero_square" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray, Tom and Sean discuss news about Netflix&rsquo;s growth, videos on Facebook, SpaceX and more. Plus, Siri hits a little too close to home when we ask her to divide zero by zero. That and more on this week&rsquo;s Deemable Tech!</p>
+<p>If you&rsquo;re listening to Deemable Tech on our website, would you subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>? And, while you&rsquo;re there, would you leave a review and say a few nice things about us? The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<audio class="wp-audio-shortcode" id="audio-10124-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-03.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-03.mp3</a></audio><h1>THIS WEEK&rsquo;S RUNDOWN</h1>
+<h3>Netflix expected to be bigger than major TV networks</h3>
+<p><a href="http://gizmodo.com/netflix-s-about-to-be-bigger-than-abc-cbs-nbc-and-fo-1713886024">A Wall Street research firm estimates that Netflix will have more viewers than ABC, CBS, NBC and FOX </a>within a year. Or at least it would, if Netflix were a 24-hour broadcast television network and not a streaming video service. The way the networks and Netflix measure viewership are different, and they also serve up different kinds of programming. For instance, the networks carry live sports events and Netflix does not. Even so, a rough crunch of the numbers shows that Netflix is expanding rapidly even as the TV networks&rsquo; audiences are shrinking, which means that by next year Netflix will probably have more eyeballs than any of the big four.</p>
+<h3>Google Photos tags African-American developer as &ldquo;gorilla&rdquo;</h3>
+<p><a href="https://docs.google.com/document/d/167FIBRcN9IPRtSpwP3uUHtc_don83UaXNDbIwjs9Zxk/edit?pli=1">Google Photos found itself scrambling to do damage control</a> when a black developer found that the service had tagged pictures of him with his black female friend with the tag &ldquo;gorillas.&rdquo; After the dev posted a screenshot of the issue on Twitter, Google?s Chief Social Architect reached out to him within an hour-and-a-half saying, &ldquo;This is 100% not OK.&rdquo;</p>
+<p>Google says that the &ldquo;gorilla&rdquo; tag has since been removed from the tag database and that Google is tweaking its algorithms, specifically in regards to dark-skinned faces. Google says that this is not the first time the automatic image tagging has had issues, and that an early bug labeled humans of all races as &ldquo;dogs.&rdquo;</p>
+<h3><b>Facebook considers paying video content creators</b></h3>
+<p>Facebook has built a video empire off of letting people rip videos off of YouTube and post them on its site. We can&rsquo;t tell you how many times we&rsquo;ve seen a video on Facebook that I know the person who posted it did not own.</p>
+<p>To make things worse, Facebook reduced the size of YouTube video previews, so the creators had to choose between posting the video on Facebook natively where lots of people would see it, but not receiving any revenue, or posting the video on YouTube and sharing it on Facebook and few people seeing it.</p>
+<p>Facebook is finally letting creators earn a bit of money. Now when you are watching a &ldquo;suggested video&rdquo; ? perhaps after you watched a funny cat video that your friend posted ? you&rsquo;ll see a short ad before Facebook automatically goes to the next video. Facebook will keep 45% of the revenue and give the rest to the partner who posted the video which is right on par with YouTube&rsquo;s rev-share terms.</p>
+<p>Dan Rose, Facebook?s VP of partnerships <a href="http://variety.com/2015/digital/news/facebook-video-ad-revenue-partners-1201532366/">told Variety</a>, &ldquo;We&rsquo;ve heard consistently from media companies and other video creators that if they were able to make money from their videos, they would publish more.&rdquo;</p>
+<p>The question is going to be how will Facebook get rid of all of the pirated content on its website?</p>
+<h3>&ldquo;Rampage&rdquo; game developer releasing MS-DOS version</h3>
+<p>Game developer Vblank has announced that it will <a href="http://arstechnica.com/gaming/2015/06/ms-dos-is-getting-a-new-game-in-the-form-of-retro-city-rampage-486/">release a new version of its 8-bit-style game Retro City Rampage for MS-DOS</a>. The game will be called Retro City Rampage 486, and the system requirements include 3.7 MB of hard drive space, 4 MB of RAM and, yes, an Intel 486 CPU. Oh, and a copy of MS-DOS, obviously. That&rsquo;s the one with the blinking text prompt that you had to use before Windows 95, in case you&rsquo;ve forgotten. You mean you don?t have a copy sitting around on six floppies somewhere?</p>
+<p>This is not Vblank&rsquo;s first port of Rampage to a decidedly &ldquo;retro&rdquo; system. They also recently finished a port designed to run on an original Nintendo. In case you?re keeping track, a classic Nintendo console squeezes out barely 300K of memory all told. Wow.</p>
+<p>If you&rsquo;re eager to run the game but don&rsquo;t have a working computer from 1992 sitting around the house, we recommend the emulator DOSBox.</p>
+<h3>Leap second causes &ldquo;sporadic outages&rdquo; across the Internet</h3>
+<p>You may have heard that the world&rsquo;s official time keepers added a leap second to the world&rsquo;s official clocks this week. They do this every so often to keep the clocks in sync with the spinning of the earth &ndash; apparently the atomic clocks we use don&rsquo;t account for small changes in the earth&rsquo;s behavior. Time keepers have had to add 25 of these leap seconds since 1973.</p>
+<p>You might think that one second wouldn&rsquo;t make much of a difference to anything, but it totally does when computers are involved. Most machines rely on software code that isn&rsquo;t prepared to deal with this extra second. In fact, the last time a leap second was added in 2012 sites like Reddit went down, and flights in Australia were grounded because machines at Qanta Airways went dark.</p>
+<p>Companies were a little more prepared this time around, but according to analysis from a firm called <a href="http://www.wired.com/2015/07/leap-second-causes-sporadic-outages-across-internet/">Dyn Research, the leap second still caused sporadic Internet outages including a hiccup that lasted about five minutes</a>. And apparently it was caused by a particular router.</p>
+<p>There was a lag as internet service providers and other companies worked to reroute data through other paths.</p>
+<h3>SpaceX rocket explodes shortly after launch</h3>
+<p>Over the weekend NASA&rsquo;s partnership with privately owned company SpaceX suffered a setback when an unmanned rocket on a mission to resupply the International Space Station <a href="http://www.theverge.com/2015/6/28/8858801/spacex-falcon-9-rocket-explosion-nasa">exploded approximately two and a half minutes after launch</a>. In a Tweet, SpaceX founder Elon Musk said that there had been an &ldquo;overpressure event in the upper stage liquid oxygen tank.&rdquo; Up until Saturday&rsquo;s explosion, the Falcon 9 rockets used by SpaceX have always been perfectly reliable. This is, however, the third ISS resupply mission in a row to fail. The ISS crew is currently reported to have enough supplies to last through September.</p>
+<h3>Someone is cutting internet cables in California</h3>
+<p>The Wall Street Journal <a href="http://news.wjct.org/post/somebody-cutting-internet-cables-california">reported that early Tuesday morning unknown persons severed fiber-optic cables carrying internet traffic across Northern California, apparently intentionally</a>. This was the most recent of several such attacks on internet infrastructure in California in the last year. Internet disruptions and slowdowns were reported between Sacramento and Seattle. The FBI says that someone broke into an underground vault to attack the cables. They are asking for the public&rsquo;s assistance in finding the culprits.</p>
+<h3>Fiber goes faster</h3>
+<p>Speaking of fiber optic cables, reddit user FrakinBeast posted a story from Gizmodo that <a href="http://gizmodo.com/engineers-just-broke-the-capacity-limit-for-fiber-optic-1714070706">engineers were able to make fiber optic cables carry more data</a> even further than ever before. The electrical engineers at UC San Diego got a transmission to travel 7,400 miles. Unfortunately, that&rsquo;s all that we could understand in this story.</p>
+<h3>Ask Siri to divide zero by zero</h3>
+<p>An Easter egg found in Apple&rsquo;s Siri virtual assistant has social media abuzz this week. When asked the question &ldquo;What is zero divided by zero?&rdquo; Siri responds with a philosophical &ndash; and at times personal &ndash; answer.</p>
+<p><a href="http://deemable.com/media/2015/07/divide_zero_by_zero.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-10127" src="//media/2015/07/divide_zero_by_zero-300x99.jpg"  alt="divide_zero_by_zero" width="500" height="165"></a></p>
+<p>&mdash;</p>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#90 Cutting Cords and Fiber Optic Cables" data-link="/2015/07/90-cutting-cords-and-fiber-optic-cables/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#90 Cutting Cords and Fiber Optic Cables" data-link="/2015/07/90-cutting-cords-and-fiber-optic-cables/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/90-cutting-cords-and-fiber-optic-cables/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-03.mp3" length="24205214" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#86 The Episode Where We Did Not Run Out of News</title>
+		<link>/2015/06/86-the-episode-where-we-did-not-run-out-of-news/</link>
+		<comments>/2015/06/86-the-episode-where-we-did-not-run-out-of-news/#comments</comments>
+		<pubDate>Fri, 05 Jun 2015 22:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Federal government]]></category>
+		<category><![CDATA[GIFs]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Lego Worlds]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[ThinkGeek]]></category>
+		<category><![CDATA[Valve]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10067</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/06/Apple_I_Computer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="An example of an early Apple I computer on display in the Smithsonian Museum.
+
+Photo credit: Ed Uthman / Flickr" style="float:left; margin:0 15px 15px 0;" />This week, Ray, Tom and Sean discuss the Federal&#160;Office of Personnel Management being hacked, Facebook finally adding support for GIFs, and a woman who didn&#8217;t realize the old computer she was throwing out was really a piece of Apple history <a href="/2015/06/86-the-episode-where-we-did-not-run-out-of-news/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/06/86-the-episode-where-we-did-not-run-out-of-news/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/06/Apple_I_Computer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="An example of an early Apple I computer on display in the Smithsonian Museum.
+
+Photo credit: Ed Uthman / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week, Ray, Tom and Sean discuss the Federal&nbsp;Office of Personnel Management being hacked, Facebook finally adding support for GIFs, and a woman who didn&rsquo;t realize the old computer she was throwing out was really a piece of Apple history worth $200,000. The guys are also joined by Ryan Thompson of <a href="http://gamesartandmusic.com/" target="_blank">GAAM (Games Arts and Music)</a> to look at some of the week&rsquo;s top video games news, including Lego&rsquo;s new &ldquo;Minecraft killer&rdquo; game, Lego Worlds. All that and a whole lot more on this week&rsquo;s Deemable Tech!</p>
+<p>If you&rsquo;re listening to Deemable Tech on our website, would you subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>? And, while you&rsquo;re there, would you leave a review and say a few nice things about us? The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<audio class="wp-audio-shortcode" id="audio-10067-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-05.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-05.mp3">http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-05.mp3</a></audio><h1>THIS WEEK&rsquo;S RUN DOWN</h1>
+<h3><b>Woman junks $200,000 Apple I prototype</b></h3>
+<p>Okay, so you&rsquo;re cleaning out the attic and you spot an old computer moldering in the corner, so you decide to cart if off to the electronics recycler. Stop! Is that an Apple I computer? Because if it is, it might be worth as much as $200,000!</p>
+<p>Now the chances that you have an Apple I in your attic are slim, because only about 200 were ever made and they weren&rsquo;t commercially available like their predecessor, the Apple II. But a woman in Silicon Valley apparently did have one lying around, as <a href="http://news.wjct.org/post/silicon-valley-recycling-firm-seeks-mystery-apple-i-donor">she showed up last month at a local recycler on dropped one off along with a bunch of junk</a>, saying her husband had died and she was cleaning up.</p>
+<p>The recycler is now searching for the woman because it is their policy to split half the proceeds of any sales with donors. Unfortunately, the woman left no information. In fact, when they asked her if she wanted a tax receipt, she said &ldquo;No, I don&rsquo;t need anything.&rdquo;</p>
+<div id="attachment_10077" style="width: 410px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/06/Apple_I_Computer.jpg" class="gallery_colorbox"><img class="wp-image-10077" src="//media/2015/06/Apple_I_Computer-300x182.jpg"  alt="An example of an early Apple I computer on display in the Smithsonian Museum. Photo credit: Ed Uthman / Flickr" width="400" height="243"></a><p class="wp-caption-text">An example of an early Apple I computer on display in the Smithsonian Museum.<br> Photo credit: Ed Uthman / Flickr</p></div>
+<h3><b>Science teacher suspended for using cellphone jammer to crack down on cell phones in class</b></h3>
+<p>This next news story was submitted by redditor <i>FrakinBeast</i>:</p>
+<p><a href="http://www.news4jax.com/news/teacher-suspended-for-jamming-cell-phones/33371066">A Tampa Bay area science teacher has been suspended after he allegedly used a signal jammer to prevent his students from using their cellphones during class</a>. The school board issued instructor Dean Liptak a five day suspension without pay, saying that he might have interfered with people trying to dial 9-1-1. It is not clear where Liptak acquired the jamming device, but they are available online. On its website, the FCC reminds consumers that &ldquo;It is a violation of federal law to use a cell jammer or similar devices that intentionally block, jam, or interfere with authorized radio communications such as cell phones, police radar, GPS, and Wi-Fi.&rdquo;</p>
+<p><a href="http://arstechnica.com/tech-policy/2015/06/florida-science-teacher-suspended-for-signal-jamming-students-cell-phones/">This is not Dean Liptak&rsquo;s first run-in with the school board</a>. He is a former professional wrestler and has previously been reprimanded for test questions referencing the velocity of a student thrown against the wall by a teacher, and the mass of a car running over a baby.</p>
+<h3><b>Facebook adds GIF support</b></h3>
+<p>After years of waiting, you can now share animated GIFs on Facebook! The site finally added <a href="http://www.forbes.com/sites/amitchowdhry/2015/06/01/facebook-starts-supporting-animated-gifs/">support for GIFs</a> this past week, and using it is as easy as posting a link.</p>
+<p><img class=" aligncenter" src="http://www.reactiongifs.com/wp-content/uploads/2012/09/orson_wells_Slow-Clap.gif" alt=""></p>
+<p>Just like videos from YouTube, you simply copy and paste the link for a GIF into your status update window, wait for it to load, and hit post.</p>
+<p>Also like videos, your auto-play settings affect animated GIFs. Depending on how you have those set, GIFs will either automatically start looping or they will show up as a still image with a little white circle that says &ldquo;GIF&rdquo; in the middle which you have to click to play.</p>
+<p>We should note that while you can now post animated GIFs using links, you still can&rsquo;t upload them directly from your computer or phone.</p>
+<h3><b>Facebook also tests pronunciation tool</b></h3>
+<p>In other Facebook news, they have started testing <a href="https://www.yahoo.com/tech/facebook-testing-new-name-pronunciation-advice-116664180304.html">a feature that will let you tell the world how to pronounce your name</a>. On certain profiles, a phonetic pronunciation of the user&rsquo;s name is displayed in their details. You can also click that pronouncer to hear an audio clip of how to say the name.</p>
+<p>They are just focusing on English speakers in the US at the moment. It looks like most people who fall into that category have this feature, which you can find in the About tab on your profile. Look under the &ldquo;Details About You&rdquo; menu for the &ldquo;How do you say your name?&rdquo; feature.</p>
+<p>You&rsquo;ll see that Facebook offers three suggestions on how they think your first and last names are pronounced, or you can enter your own pronunciation.</p>
+<h3><b>Amazon Prime launches same day delivery in 14 cities</b></h3>
+<p>Good news for Amazon Prime members living in New York City, Seattle, San Francisco, Tampa Bay, and ten other select cities &ndash; you never have to leave your home again! <a href="http://arstechnica.com/business/2015/05/amazon-prime-launches-free-same-day-shipping-in-14-cities/">Amazon is rolling out free same day delivery in your area</a> for orders of $35 and up. For orders that don&rsquo;t qualify for free same day delivery, it costs $5.99, truly a bargain when it comes to avoiding the unwashed masses! In fact, even if you live in one of the chosen fourteen cities you may not qualify for same day delivery, depending on <i>where</i> in town you are. <a href="http://www.amazon.com/b?ie=UTF8&amp;node=8729023011">Amazon has a zip code search page</a> where you can check your eligibility.</p>
+<p>Amazon has been rumored to be working on same day delivery for years. Expect these fourteen cities to just be the tip of the iceberg.</p>
+<h3><b>IRS and OPM hacked</b></h3>
+<p>The Office of Personnel Management, basically the HR department of the entire Federal government, was hacked this week. According to a letter released by the OPM,<a href="http://www.cbsnews.com/news/officials-administration-hit-by-massive-data-breach/"> almost 4 million current and former federal employees may have been impacted</a>, including yours truly. The source of the hack has not been confirmed yet, but CBS News White House Correspondent Major Garrett is saying all signs point to Chinese hackers.</p>
+<p>As a former IRS employee, Ray is terriefied. The Office of Personnel Management has more personally identifiable information on him than his wife and his mother combined.</p>
+<h3><b>Netflix probably not planning to ruin everything</b></h3>
+<p>This week some <a href="http://mashable.com/2015/06/01/netflix-not-getting-ads/">news outlets reported that Netflix was experimenting with pre- and post-credits-roll advertising</a>. This had some folks in an uproar &ndash; was Netflix about to devolve into a Hulu Plus-style cesspit of insidious advertising? Well, probably not. Think less Hulu Plus, more HBO. Netflix says it is experimenting, just experimenting mind you, with showing previews for Netflix&rsquo;s own original series at either the beginning or end of streaming content. If this is in fact the case, this seems fairly innocuous to us and could even be welcome if the previews are well done and well targeted.</p>
+<h3><b>How did Vanity Fair keep Caitlyn Jenner a secret?</b></h3>
+<p>According to Mashable, Vanity Fair went to great lengths to make sure <a href="http://mashable.com/2015/06/01/caitlyn-jenner-protected-exclusive/">the story did not leak out</a>. The story and photos were edited on a computer that was air-gapped. All network connections, Wi-Fi and bluetooth connections were disabled, and every night the files were deleted from the computer. The photos were even hand delivered to the printer.</p>
+<h3>GameStop to purchase ThinkGeek</h3>
+<p>In a surprise turn of events, game retailer GameStop appears to be <a href="http://arstechnica.com/business/2015/06/gamestop-outbids-hot-topic-for-thinkgeek-parent-company-purchase/" target="_blank">buying nerd-themed online retailer ThinkGeek</a>. ThinkGeek was set to be acquired for a cool $122 million by mall retailer HotTopic when GameStop swooped in and topped them with a $140 million offer. The acquisition will allow GameStop to display ThinkGeek merchandise in its stores, a move which has obvious synergies.</p>
+<h3><b>Valve begins offering refunds for all Steam games</b></h3>
+<p>Valve, the company behind the popular Steam PC game store and download client, announced this week that it is <a href="http://arstechnica.com/gaming/2015/06/valve-begins-offering-refunds-for-all-steam-games/" target="_blank">changing its refund policy</a>.</p>
+<p>It used to be that Valved that only offered refunds for games purchased through Steam in extreme circumstances. Their new policy, however, applies to all games.</p>
+<p>&ldquo;Maybe your PC doesn&rsquo;t meet the hardware requirements; maybe you bought a game by mistake; maybe you played the title for an hour and just didn&rsquo;t like it,&rdquo; the policy reads. &ldquo;It doesn&rsquo;t matter. Valve will, upon request via help.steampowered.com, issue a refund for any reason, if the request is made within 14 days of purchase, and the title has been played for less than two hours.&rdquo;</p>
+<p>This does not necessarily mean you can try out games for free, though. Steam said they reserve the right to decline a refund if they think a user is abusing the system.&nbsp;BUT they will allow you to return a game right before one of the famous ridiculous sales and then repurchase that game for the newer, lower price.</p>
+<h3><b>Lego Worlds Launches</b></h3>
+<p><a href="http://lego.gizmodo.com/lego-worlds-is-basically-minecraft-but-with-those-plast-1708195154">TT Games and the Lego Group have made Lego&rsquo;s hotly anticipated &ldquo;Minecraft Killer,&rdquo; Lego Worlds, available as an early access beta on Steam</a>. For under $15 you too can help TT Games and The Lego Group debug their open world plastic brick building paradise. <a href="http://www.engadget.com/2015/06/01/lego-worlds/">Lego Worlds lets players</a> build existing sets, do free-form building and even customize your own mini-figs. Still missing from the game is any form of multiplayer. Possibly Lego is concerned about players sharing certain types of <a href="http://www.exquisitetweets.com/tweets?eids=SOlZp2L8I8.SOl4CsO6YC.SOmhNAiuES.SOmlJ2T2Gq.SOmpjeGn1w.SOmwta15gX.SOmB4207kO.SOmJPgkOFU.SOmOl1j08a.SOmW0jPTRA.SOm72fKFfE.SOncwNl2SP.SOnlkgH05k.SOntnuAhGw.SOqg0uZR8K.SOqkXGJtbU.SOqrXBJruS" target="_blank">anatomically-correct&nbsp;tall buildings</a>.</p>
+<p>&mdash;</p>
+<p>&nbsp;</p>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<p><em>Photo Credit: <a href="https://www.flickr.com/photos/euthman/281712899/in/photolist-qTRqX-8Yg65f-5VKByX-5LaoaK-cs6BwA-4vMCqL-n9ZpnN-oa2Tf1-atEdpR-5sh5MY-3mDkS3-51zkT3-8TWp2c-5tBAg4-4CckKu-aw8CwB-5GJo64-4Bfxya-96mYuq-hzB1t-5KWjsg-z8z6J-oybqk-729b4-4CeU33-9hHpjg-4BdXk9-5n9at-5E8otF-cJXbXw-4nficR-atvnG7-6QWc7V-pTGr2-5whRwW-PBm9R-5BkosD-4CeU5L-6UQ4Gb-CRZe6-4w9tXh-7x8Cg-4sbJ3S-4BfNv1-4LWkRy-2xnYty-55d1tu-7VR3pU-5yhFqq-5yk9cA" target="_blank">&ldquo;Apple I Computer&rdquo;</a> by <a href="https://www.flickr.com/photos/euthman/" target="_blank">Ed Uthman</a> is used under <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#86 The Episode Where We Did Not Run Out of News" data-link="/2015/06/86-the-episode-where-we-did-not-run-out-of-news/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#86 The Episode Where We Did Not Run Out of News" data-link="/2015/06/86-the-episode-where-we-did-not-run-out-of-news/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/06/86-the-episode-where-we-did-not-run-out-of-news/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-05.mp3" length="60105161" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#70 There&#8217;s Always A Leak</title>
+		<link>/2015/02/70-theres-always-leak/</link>
+		<comments>/2015/02/70-theres-always-leak/#comments</comments>
+		<pubDate>Fri, 13 Feb 2015 21:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[florida]]></category>
+		<category><![CDATA[House of Cards]]></category>
+		<category><![CDATA[Jeb Bush]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Puls]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<category><![CDATA[Will.i.am]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9603</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/02/house-of-cards-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="house-of-cards" style="float:left; margin:0 15px 15px 0;" />If you missed last week&#8217;s episode, we have rebooted the Deemable Tech podcast. From now on, we are not answering tech questions on this show. But, we are answering them on our spin-off show, Ask Deemable Tech. So, if that&#8217;s <a href="/2015/02/70-theres-always-leak/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/70-theres-always-leak/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/02/house-of-cards-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="house-of-cards" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><audio class="wp-audio-shortcode" id="audio-9603-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2015-02-13.mp3?_=4"></source><a href="http://deemable.com/audio/DeemableTech_2015-02-13.mp3">http://deemable.com/audio/DeemableTech_2015-02-13.mp3</a></audio><br><a href="http://deemable.com/media/2015/02/house-of-cards.jpg" class="gallery_colorbox"><img class="alignright wp-image-9606 size-medium" src="//media/2015/02/house-of-cards-300x169.jpg"  alt="house-of-cards" width="300" height="169"></a>If you missed last week&rsquo;s episode, we have rebooted the Deemable Tech podcast. From now on, we are not answering tech questions on this show. But, we are answering them on our spin-off show, Ask Deemable Tech. So, if that&rsquo;s what you love, go subscribe to that podcast. It&rsquo;s called <a title="Ask Deemable Tech on iTunes" href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/ca/podcast/ask-deemable-tech-wjct/id960516412?mt=2" target="_blank" rel="external nofollow">Ask Deemable Tech</a> &ndash; search for it on iTunes.</p>
+<p>Help us decide what stories we talk about on the show, go to our subreddit page and submit a story. Or vote other stories up or down. <a title="Deemable Tech on Reddit" href="http://reddit.com/r/Deemable" target="_blank">reddit.com/r/Deemable</a></p>
+<h2>This Week&rsquo;s Run Down</h2>
+<h3>Season 3 of House of Cards leaks out early</h3>
+<p>Season 3 of the critically acclaimed Netflix original show House of Cards is scheduled to come out on Feb. 27th, but fans got an accidental sneak peek on Tuesday when the first ten episodes appeared on the streaming TV service early. Netflix quickly pulled it, but those who were already streaming an episode were able to continue to do so as long as they did not stop until the episode ended. Netflix kept a good sense of humor about it, tweeting ?This is Washington. There is always a leak.? Fans can binge on the twisted schemes of the conniving Frank Underwood starting February 27th.</p>
+<p><a href="http://www.theverge.com/2015/2/11/8021935/house-of-cards-season-three-is-on-netflix-right-now" target="_blank">http://www.theverge.com/2015/2/11/8021935/house-of-cards-season-three-is-on-netflix-right-now</a></p>
+<h3>Jeb Bush accidentally doxes thousands of Floridians</h3>
+<p>In his words, &ldquo;In the spirit of transparency,&rdquo; presidential candidate Jeb Bush released emails from when he was governor of Florida. Unfortunately, the sensitive information like Social security numbers, addresses, phone numbers and Credit Card numbers were not redacted from the emails. So, his team basically just accidentally doxed thousands of Floridians.</p>
+<p><a href="http://www.theverge.com/2015/2/10/8013531/jeb-bush-florida-email-dump-privacy" target="_blank">http://www.theverge.com/2015/2/10/8013531/jeb-bush-florida-email-dump-privacy</a></p>
+<h3>Jeb Bush&rsquo;s CTO resigns over controversial tweets</h3>
+<p>Chief Technical Officer for Jeb Bush&rsquo;s presidential campaign resigned Tuesday after it came out in the media that Ethan Czahor posted several sexist and racist jokes on Twitter several years ago. He did delete them before starting to work for Bush, but the backlash was apparently too intense.</p>
+<p>Kristy Campbell, a spokeswoman for Bush says, &ldquo;While Ethan has apologized for regrettable and insensitive comments, they do not reflect the views of Gov. Bush or his organization and it is appropriate for him to step aside. We wish him the best.&rdquo;</p>
+<p><a href="http://www.nydailynews.com/news/politics/new-tech-adviser-jeb-bush-potential-campaign-resignsm-article-1.2110482" target="_blank">http://www.nydailynews.com/news/politics/new-tech-adviser-jeb-bush-potential-campaign-resignsm-article-1.2110482</a></p>
+<h3>Will.i.am Puls ?Smart watch? Beta Reviews</h3>
+<p><a href="http://gizmodo.com/will-i-ams-puls-smartwatch-so-bad-im-actually-kind-of-1685130042" target="_blank">http://gizmodo.com/will-i-ams-puls-smartwatch-so-bad-im-actually-kind-of-1685130042</a></p>
+<p><a href="http://techcrunch.com/2014/10/15/will-i-ams-plan-to-bring-fashion-and-technology-together-with-the-creation-of-i-am/" target="_blank">http://techcrunch.com/2014/10/15/will-i-ams-plan-to-bring-fashion-and-technology-together-with-the-creation-of-i-am/</a></p>
+<h3>Snapchat selfie leads to first degree murder charge</h3>
+<p>A Pennsylvania 16-year-old has been charged with first degree murder after posting a selfie on Snapchat with the dead victim.</p>
+<p>Snapchat messages delete themselves after a short period of time, but the person who received the picture saved it before it deleted itself.</p>
+<p><a href="http://triblive.com/news/westmoreland/7729452-74/police-morton-photo#axzz3Qh0xyVti" target="_blank">http://triblive.com/news/westmoreland/7729452-74/police-morton-photo#axzz3Qh0xyVti</a></p>
+<h3>Facebook makes plans for the afterlife</h3>
+<p>Facebook has announced new features that allow users to designate a very special Facebook Friend to administer their profile after they die. Before when a Facebook user died there were only two options for their account: permanent deletion or ?memorialization?. Memorialized accounts were frozen in time and could not be accessed, even by immediate family members.</p>
+<p>Facebook?s new features will let the ?legacy contact? have SOME control over the memorialized profile. Among other things they will be able to post at the top of the deceased timeline, according to Facebook, ?to announce a memorial service or share a special message.? They can also approve or deny friend requests and update profile pictures.</p>
+<p>What they cannot do is access the deceased? private messages. Some secrets, it seems, you take to the grave.</p>
+<p><a href="http://newsroom.fb.com/news/2015/02/adding-a-legacy-contact/" target="_blank">http://newsroom.fb.com/news/2015/02/adding-a-legacy-contact/</a></p>
+<p><a href="http://news.wjct.org/post/facebook-virtual-you-planning-your-digital-afterlife">&nbsp;http://news.wjct.org/post/facebook-virtual-you-planning-your-digital-afterlife</a></p>
+<p>Don&rsquo;t forget to<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/ca/podcast/deemable-tech-wjct/id540595466?mt=2" target="_blank" rel="external nofollow"> subscribe to the show on iTunes</a> or whatever you use to <a href="http://feeds.feedburner.com/DeemableTech" target="_blank">subscribe to podcasts</a>.</p>
+<p>If you have a comment, contact us at feedback at deemable.com or leave us a voicemail at 1-888-972-9868.</p>
+<p>Help us decide what stories we talk about on the show, go to our subreddit page and submit a story. Or vote other stories up or down. <a title="Deemable Tech on Reddit" href="http://reddit.com/r/Deemable" target="_blank">reddit.com/r/Deemable</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#70 There's Always A Leak" data-link="/2015/02/70-theres-always-leak/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#70 There's Always A Leak" data-link="/2015/02/70-theres-always-leak/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/70-theres-always-leak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2015-02-13.mp3" length="35890884" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Netflix is King</title>
+		<link>/2011/05/netflix-is-king/</link>
+		<comments>/2011/05/netflix-is-king/#comments</comments>
+		<pubDate>Wed, 18 May 2011 15:37:19 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[BitTorrent]]></category>
+		<category><![CDATA[Net Neutrality]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Peer-to-Peer]]></category>
+		<category><![CDATA[Real-Time Entertainment]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<category><![CDATA[Video on demand]]></category>
+		<category><![CDATA[VOD]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3185</guid>
+		<description><![CDATA[A recent study conducted by the internet traffic experts at Sandvine Inc. revealed that peer-to-peer file sharing networks have just been surpassed in North American bandwidth usage by Netflix, which may be the first time in the history of the <a href="/2011/05/netflix-is-king/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/netflix-is-king/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://static3.businessinsider.com/image/4dd2de16ccd1d55a3b000000/chart-of-the-day-netflix-video-streaming-may-2011.jpg" alt="" width="474" height="356"></p>
+<p>A <a title="Sandvine Global Internet Spring Report 2011" href="http://www.wired.com/images_blogs/epicenter/2011/05/SandvineGlobalInternetSpringReport2011.pdf" target="_blank">recent study</a> conducted by the internet traffic experts at Sandvine Inc. revealed that peer-to-peer file sharing networks have just been surpassed in North American bandwidth usage by Netflix, which may be the first time in the history of the internet that the largest percentage of internet traffic is from content that is actually <em>paid for</em>. Peer-to-peer networks like BitTorrent have long held the top spot of  U.S. broadband traffic, with a large percentage of usage coming from the  sharing of copyrighted files. According to the report though, Netflix, the popular online service which streams movie and television shows, is now the &ldquo;unquestioned king of North America&rsquo;s fixed access networks.&rdquo;</p>
+<p>When measuring total web traffic and averages over a 24-hour period, Netflix accounts for 22.2% of North American web traffic as opposed to BitTorrent&rsquo;s 21.6% share. During the peak prime time hours between 8 and 10 PM, Netflix even hits 29.7% of all wired network traffic &ndash; signifying the rapid growth of Video-on-Demand and Real-Time Entertainment services.</p>
+<p>The growth of Netflix and similar online alternatives certainly benefit the consumer, with monthly subscriptions costing only $7.99 for Netflix&rsquo;s all-you-can-watch, streaming-only service. Traditional TV networks, however, are not too pleased with the online competition threatening their business model. Also, the enormous amount of bandwidth that Netflix takes up decreases internet speeds for other users, which is one of the main arguments against <a title="Net Neutrality" href="http://deemable.com/stuff/2011/04/the-battle-over-net-neutrality/" target="_blank">Network Neutrality</a>. While Netflix is currently only available in Canada and the United     States, CEO Reed Hastings sees Netflix expanding in the future into &ldquo;all     the markets where people have broadband and like TV.&rdquo;</p>
+<p>Who knows what will happen, but maybe, just maybe&hellip; the traditional television/boob tube/idiot box will disappear altogether one day &ndash; from a simple $3 billion idea that was launched after <a title="Hastings Netflix idea" href="http://money.cnn.com/2009/01/27/news/newsmakers/hastings_netflix.fortune/" target="_blank">Hastings was charged late fees</a> for returning a copy of Apollo 13 after the due date.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://static3.businessinsider.com/image/4dd2de16ccd1d55a3b000000/chart-of-the-day-netflix-video-streaming-may-2011.jpg" target="_blank">Photo</a> by <a title="Yarow" href="http://www.businessinsider.com/author/jay-yarow" target="_blank">Jay Yarow</a> via <a title="Business Insider" href="http://www.businessinsider.com/" target="_blank">BusinessInsider</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Netflix is King" data-link="/2011/05/netflix-is-king/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Netflix is King" data-link="/2011/05/netflix-is-king/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/netflix-is-king/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reconnected: PlayStation Network Back Online</title>
+		<link>/2011/05/reconnected-playstation-network-back-online/</link>
+		<comments>/2011/05/reconnected-playstation-network-back-online/#comments</comments>
+		<pubDate>Sun, 15 May 2011 19:31:27 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cyperattack]]></category>
+		<category><![CDATA[MLB.tv]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[PlayStation]]></category>
+		<category><![CDATA[PlayStation Network]]></category>
+		<category><![CDATA[PSN]]></category>
+		<category><![CDATA[PSP]]></category>
+		<category><![CDATA[Qriocity]]></category>
+		<category><![CDATA[Sony]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3158</guid>
+		<description><![CDATA[After 22 grueling days of outage, gamers and users throughout the world can finally reconnect to the PlayStation Network after Sony carried out a phased restoration process. Although PlayStation store access won&#8217;t be restored until later, PSN&#8217;s reactivation restores online <a href="/2011/05/reconnected-playstation-network-back-online/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/reconnected-playstation-network-back-online/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://blog.us.playstation.com/files/2011/05/Firmware-Lead-440x247.jpg" alt="" width="440" height="247"></p>
+<p>After 22 grueling days of outage, gamers and users throughout the world can finally reconnect to the PlayStation Network after Sony carried out a phased restoration process. Although PlayStation store access won&rsquo;t be restored until later, PSN&rsquo;s reactivation restores online multiplayer and chat functions, friends list   and trophy comparison functionality, PlayStation Home, and services like Hulu, Netflix, and MLB.tv. Once logging in, PSN users will be required to update to the latest 3.61 firmware and change their account passwords. Details about changing your password are provided below from the <a title="Password change" href="http://blog.us.playstation.com/2011/05/14/ps3-system-software-update/" target="_blank">PlayStation Blog</a>:</p>
+<p>&ldquo;If using a PS3, your password can only be changed on your own PS3 (or a  PS3 on which your PSN account was activated), as an added layer of  security. If you have never downloaded any content using your account on  the system, an email will be sent to the registered sign-in ID (email  address) associated with your account when you first attempt to sign-in  to PSN. This e-mail will contain a link that will enable you to change  your password. In this email, click on the link and follow the  instructions to change your password. Once you have changed your  password you can sign-in to your account using your new password.&rdquo;</p>
+<p>Down for over 3 weeks after hackers breached the network&rsquo;s security, Sony had to rebuild the entire PlayStation Network with more advanced security technology, encryption, firewalls, and early-warning systems. The outage affected over 77 million users worldwide and, even worse, the security breach may have allowed for the hackers to <a title="stolen information" href="http://mashable.com/2011/05/03/sony-another-hacker-attack/" target="_blank">steal</a> personal credit and debit card information from over 24 million user accounts.</p>
+<p>Kazuo Hirai, Sony Corporation&rsquo;s Executive Deputy President, released a <a title="video" href="http://blog.us.playstation.com/2011/05/14/kazuo-hirai-playstation-network-relaunch-announcement/" target="_blank">video statement</a> on the PlayStation Blog providing more detailed information on the restoration of the PlayStation Network and the new security features being implemented.</p>
+<p>To compensate for the long outage and compromise of account information, Sony is offering 30 days free membership in the PlayStation Plus service, which provides exclusive access to certain games and beta trials. To those users who are already subscribed to the PlayStation Plus service, an additional 30 days will be added for free. Sony Online Entertainment subscribers will also receive a special <a title="Welcome Back" href="http://www.soe.com/securityupdate/welcomeback/" target="_blank">Welcome Back Program</a> upon return.</p>
+<p>At this point though, how many PSN users will even want to return to the network after the massive failure that Sony just dealt with?</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Reconnected: PlayStation Network Back Online" data-link="/2011/05/reconnected-playstation-network-back-online/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Reconnected: PlayStation Network Back Online" data-link="/2011/05/reconnected-playstation-network-back-online/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/reconnected-playstation-network-back-online/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PlayStation Network Goes Down</title>
+		<link>/2011/04/playstation-network-goes-down/</link>
+		<comments>/2011/04/playstation-network-goes-down/#comments</comments>
+		<pubDate>Sat, 23 Apr 2011 00:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Call of Duty]]></category>
+		<category><![CDATA[COD]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Outage]]></category>
+		<category><![CDATA[PlayStation]]></category>
+		<category><![CDATA[PlayStation 3]]></category>
+		<category><![CDATA[PSN]]></category>
+		<category><![CDATA[Sony]]></category>
+		<category><![CDATA[Zombies]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2695</guid>
+		<description><![CDATA[Nazi Zombies, you are free to roam the earth for a little while longer as Sony&#8217;s PlayStation Network has been out of service since 4/20. The PlayStation Network is Sony&#8217;s equivalent to Xbox LIVE, which allows for PlayStation 3 users <a href="/2011/04/playstation-network-goes-down/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/playstation-network-goes-down/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: left"><img class="aligncenter" src="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" alt="" width="660" height="309"></p>
+<p style="text-align: left">Nazi Zombies, you are free to roam the earth for a little while longer  as Sony&rsquo;s PlayStation Network has been out of service since 4/20.</p>
+<p>The PlayStation Network is Sony&rsquo;s equivalent to Xbox LIVE, which allows for PlayStation 3 users to download games, download or stream movies and music, and have access to other services. More importantly, the network serves as the infrastructure for people to connect and play each other in multiplayer games such as Call of Duty. Oddly enough, the  network failure happened to coincide with the release of several  brand  new games including Mortal Kombat, Portal 2, SOCOM 4, and  inFAMOUS 2&rsquo;s beta release. While access to the network is free, content such as Netflix must be paid for by users, leaving them wondering whether they will be reimbursed if the outage lasts any longer.</p>
+<p>A little over a year ago, Sony users of the non-slim PS3 had a <a title="similar outage" href="http://blog.us.playstation.com/2010/03/01/latest-info-on-playstation-network-status/" target="_blank">similar outage</a> on their PlayStation Network that was &ldquo;caused by a bug in the clock functionality incorporated in the system.&rdquo; Patrick Seybold, the Senior Director of Corporate Communications &amp; Social Media, posted a message yesterday on Sony&rsquo;s <a title="PSN Blog" href="http://blog.us.playstation.com/2011/04/21/latest-update-on-psn-outage/" target="_blank">PlayStation Blog</a> that said, &ldquo;While we are investigating the cause of the Network outage, we wanted to  alert you that it may be a full day or two before we&rsquo;re able to get  the&nbsp;service completely back up and running. Thank you very much for your  patience while we work to resolve this matter. Please stay tuned  to&nbsp;this space for more details, and we&rsquo;ll update you again as soon as we  can.&rdquo;</p>
+<p>While there are an estimated 70 million users on the network worldwide, Sony is unable to clarify how many people are currently affected by the outage. However, players from all over the world have taken their Zombie rage to  popular social media sites like Twitter and Facebook to express their  displeasure with Sony. Got some spare time since you can&rsquo;t own some newbs? Check out some of the tweets found by a quick search of <a href="http://twitter.com/#!/search/%23PSN" target="_blank">#PSN on Twitter.</a></p>
+<p>&ndash; Update 4/23 &ndash;</p>
+<p>Patrick Seybold has made <a title="post" href="http://blog.us.playstation.com/2011/04/22/update-on-playstation-network-qriocity-services/" target="_blank">another post</a> on the PlayStation Blog regarding the ongoing issue:</p>
+<p>&ldquo;An external intrusion on our system has affected our PlayStation Network  and Qriocity services. In order to conduct a thorough investigation and  to verify the smooth and secure operation of our network services going  forward, we turned off PlayStation Network &amp; Qriocity services on  the evening of Wednesday, April 20th. Providing quality entertainment  services to our customers and partners is our utmost priority. We are  doing all we can to resolve this situation quickly, and we once again  thank you for your patience. We will continue to update you promptly as  we have additional information to share.&rdquo;<a title="Photo" href="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" target="_blank"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" target="_blank">Photo</a> by <a title="Charlie Sorrel" href="http://www.wired.com/gadgetlab/author/mistercharlie/" target="_blank">Charlie Sorrel</a> via <a title="Wired" href="http://www.wired.com/" target="_blank">Wired</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="PlayStation Network Goes Down" data-link="/2011/04/playstation-network-goes-down/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="PlayStation Network Goes Down" data-link="/2011/04/playstation-network-goes-down/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/playstation-network-goes-down/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Netflix and ‘The House of Cards’</title>
+		<link>/2011/03/netflix-and-the-house-of-cards/</link>
+		<comments>/2011/03/netflix-and-the-house-of-cards/#comments</comments>
+		<pubDate>Tue, 22 Mar 2011 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alan Rambaldini]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Movies]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Show Business]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=1010</guid>
+		<description><![CDATA[Recently Netflix confirmed rumors that the DVD-by-mail company would have the exclusive first-license to air a new drama called House of Cards on its instant streaming platform. This is a departure from Netflix&#8217;s normal business of licensing TV shows and <a href="/2011/03/netflix-and-the-house-of-cards/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/03/netflix-and-the-house-of-cards/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Recently Netflix confirmed <a title="The Netflix Blog - House of Cards" href="http://blog.netflix.com/2011/03/house-of-cards.html" target="_blank">rumors</a> that the DVD-by-mail company would have the exclusive first-license to air a new drama called <em>House of Cards</em> on its instant streaming platform. This is a departure from Netflix&rsquo;s normal business of licensing TV shows and movies from TV networks and movie studios after they have aired or been released on DVD. While the strategy of creating &lsquo;must-see&rsquo; content to lure in more subscribers may or may not succeed, it&rsquo;s the reported price-tag that raises eyebrows. The original report from <a title="Netflix To Enter Original Programming With Mega Deal For David Fincher-Kevin Spacey Series 'House Of Cards' - &nbsp;Deadline.com" href="http://www.deadline.com/2011/03/netflix-to-enter-original-programming-with-mega-deal-for-david-fincher-kevin-spacey-drama-series-house-of-cards/" target="_blank">Deadline</a> estimates that at $4-6 million per episode, the 26-episode commitment would cost Netflix more than $100 million. Subsequent reports have called this estimate high; <a title='Netflix May Pay for "House Of Cards" Original Show | Peter Kafka | MediaMemo | AllThingsD' href="http://mediamemo.allthingsd.com/20110316/house-of-cards-could-cost-netflix-big-and-still-save-it-money-in-the-end/" target="_blank">MediaMemo&rsquo;s Peter Kafka</a> figures a better estimate would be $3 million per episode, or around $78 million total. But that&rsquo;s just for producing the new show; additional bandwidth and promotional expenses will likely run the number back up to $100 million. Can the company possibly justify such an expense for one show?</p>
+<p>In 2010, with revenues of more than $2.1 billion, Netflix earned net income of $161 million for a healthy profit margin of 7.4%. The company is rapidly adding subscribers, with analysts estimating revenues at more than $3.1 billion for this year and $4 billion in 2012. Clearly, the company can afford <em>House of Cards</em>. However, with Netflix&rsquo;s instant-streaming-only plan available for $7.99 per month, they would need to add more than one million additional subscribers for a year just to break-even on the deal. This would represent an increase of 5% on the company&rsquo;s 20 million subscriber base.</p>
+<p>Is it realistic to expect 1 million households to drop $7.99 per month for access to a new drama series? While the talent on board (which includes director David Fincher, fresh off an Oscar nomination for his work on <em>The Social Network, </em>as well as actor Kevin Spacey) is a positive sign for the quality of <em>House of Cards</em>, there&rsquo;s no guarantee that the show will prove popular with viewers. Even HBO with its stellar track record including hits like <em>The Sopranos</em> and <em>True Blood</em> occasionally misfires (does anyone remember <em>John From Cincinnati</em>?). The fact that HBO turned down acquiring <em>House of Cards</em> itself because the show&rsquo;s production company Media Rights Capital wouldn&rsquo;t agree to produce a pilot episode doesn&rsquo;t exactly fill me with confidence.</p>
+<p>If new subscribers joined Netflix for <em>House of Cards</em> and subsequently stayed on board, the company would obviously profit. However, this is far from a sure thing. Netflix&rsquo;s subscriber churn will make it unlikely that the company can continue to grow its subscriber base at the rate it has become accustomed to. <a title="The Netflix Churn Challenge - Seeking Alpha" href="http://seekingalpha.com/article/252310-the-netflix-churn-challenge" target="_blank">Jim Pyke</a> points out that new subscribers from 2002 to 2010 come in at over 50 million, or about half of all U.S. households. We don&rsquo;t know how many of these subscribers are unique, and how many are people who joined Netflix, dropped it temporarily, and subsequently subscribed again, but making some reasonable assumptions about the churn rate and the number of U.S. households shows that Netflix will hit a wall in terms of household penetration within the next three or four years. HBO, the current leader in pay-TV, has topped out with 28 million subscribers.</p>
+<p>The biggest obstacles that Netflix faces in the near term are the expiration of its licensing deals. With content owners being squeezed by the drop in DVD sales as more and more consumers eschew buying discs in favor of renting them, studios will be demanding more cash from Netflix for instant streaming rights. Couple that with broadband providers grumbling about the massive bandwidth that the service takes (and worried that more and more cable subscribers will cut the cord in favor of some combination of Netflix, iTunes and Hulu), and the company could be squeezed from both sides. A commitment of hundreds of millions for original content might not turn out to be the best use of shareholders&rsquo; cash, when the same money could buy shows with existing fan bases. Recent deals with ABC and CBS are reported to have come in the $150-200 million range.</p>
+<p>It will be years before anyone knows whether or not Netflix&rsquo;s new strategy is successful, and we may never know the truth. With or without original content Netflix will continue to gain subscribers as the value proposition of DVDs-by-mail plus an expanding lineup of instant streaming programming for a few dollars a month is tough to beat. The question is whether or not <em>House of Cards</em> and presumably additional original content will lure in enough subscribers to justify their high development costs. I think it&rsquo;s likely that most of Netflix&rsquo;s original content will not carry such a high price tag, because it doesn&rsquo;t need to. The occasional &lsquo;tentpole&rsquo; production like <em>House of Cards</em> will generate buzz, and it can be bolstered by cheaper-to-produce content (like reality shows) to make sure subscribers feel they&rsquo;re getting their money&rsquo;s worth from Netflix.</p>
+<p>But maybe I&rsquo;m asking the wrong question. Maybe CEO Reed Hastings first option isn&rsquo;t becoming another HBO, but rather to keep open that possibility as an alternative to buying the rights to pre-existing content. If studios buy this bluff during the next round of negotiations, the $100 million could pay for itself.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Netflix and ?The House of Cards?" data-link="/2011/03/netflix-and-the-house-of-cards/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Netflix and ?The House of Cards?" data-link="/2011/03/netflix-and-the-house-of-cards/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/netflix-and-the-house-of-cards/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

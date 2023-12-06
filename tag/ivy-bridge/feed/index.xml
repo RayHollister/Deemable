@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; ivy bridge</title>
+	<atom:link href="/tag/ivy-bridge/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Transitions: Intel&#8217;s New 3-D Transistor</title>
+		<link>/2011/05/transitions-intels-new-3-d-transistor/</link>
+		<comments>/2011/05/transitions-intels-new-3-d-transistor/#comments</comments>
+		<pubDate>Thu, 05 May 2011 23:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3-D]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[desktop]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[ivy bridge]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[processor]]></category>
+		<category><![CDATA[transistor]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2956</guid>
+		<description><![CDATA[3-D Tri-Gate. While it might sound like a mix between Trident gum and the Watergate scandal, Tri-Gate is actually a revolutionary 3-D transistor designed by Intel that will soon be put into high-volume manufacturing. As the microscopic building block of <a href="/2011/05/transitions-intels-new-3-d-transistor/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/transitions-intels-new-3-d-transistor/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://images.fastcompany.com/upload/3dchips.jpg" alt="" width="417" height="243"></p>
+<p>3-D Tri-Gate. While it might sound like a mix between Trident gum and the Watergate scandal, Tri-Gate is actually a revolutionary 3-D transistor designed by Intel that will soon be put into high-volume manufacturing. As the microscopic building block of modern electronics, transistors are semiconductor devices that are used to switch and amplify electronic signals.</p>
+<p>For decades, the 2-D planar transistor structure has powered nearly every electronics device, and now, Intel has announced that it will be putting their new 3-D transistors into high-volume production at the 22-nanometer node in an Intel processor &ndash; simply known as &ldquo;Ivy Bridge&rdquo;. The Tri-Gate transistors will help Intel keep pace with Moore&rsquo;s Law, named after Intel&rsquo;s co-founder, Gordon Moore, which describes a trend in computing hardware in which the number of transistors that can be placed on an integrated circuit doubles nearly every two years. This is a <em>huge </em>breakthrough in transistor technology.</p>
+<p>You may be asking, &ldquo;Why should I care?&rdquo; Well, the new 3-D Tri-Gate transistors will be <em>much</em> faster, <em>much</em> smaller, and consume up to 50% less power. Intel, the largest provider of PC processors, says that the new 3-D  transistors are so small that more than 100 million could fit on the  head of a pin. Ivy Bridge is also said to be 37% more efficient than the best  of Intel&rsquo;s current chips at low voltage, and could help Intel break  into the mobile arena of smartphones and tablets. Although the mass production of Ivy Bridge won&rsquo;t begin until later this   year or early next year, Intel began demonstrating prototypes of   computers and servers running the new 3-D chip yesterday at a news   conference. We are now witnessing the future of technology in transition!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://www.fastcompany.com/1751732/why-youll-care-about-intels-3-d-chip-invention-mobile-battery-life" target="_blank">Photo</a> by <a title="Kit Eaton" href="http://www.fastcompany.com/user/kit-eaton" target="_blank">Kit Eaton</a> via <a title="Fast Company" href="http://www.fastcompany.com/" target="_blank">Fast Company</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/transitions-intels-new-3-d-transistor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

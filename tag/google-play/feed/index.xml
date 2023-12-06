@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Google Play</title>
+	<atom:link href="/tag/google-play/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Mike asks, &#8220;Can I use one keyboard and mouse with two computers?&#8221;</title>
+		<link>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/</link>
+		<comments>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#comments</comments>
+		<pubDate>Fri, 16 Aug 2013 15:40:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[desktop computers]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[KVM]]></category>
+		<category><![CDATA[Lifehacker]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mobile Mouse]]></category>
+		<category><![CDATA[ShareMouse]]></category>
+		<category><![CDATA[Synergy]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7887</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I use two desktop computers at work, and I&#8217;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse <a href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p101665-embed" src="http://www.prx.org/p/101665/embed.js?size=small"></script></p>
+<div id="attachment_7894" style="width: 356px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/08/two_computers_one_keyboard.png" class="gallery_colorbox"><img class=" wp-image-7894 " src="//media/2013/08/two_computers_one_keyboard.png"  alt="Image Credit: Chris Owens / Flickr" width="346" height="207"></a><p class="wp-caption-text">Image Credit: Chris Owens / Flickr</p></div>
+<p><strong>Q:</strong> I use two desktop computers at work, and I&rsquo;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse for both computers? Also, is there any app I can use to control my computer from my iPad?</p>
+<p><strong>A:</strong> Thanks for your question, Mike. There are a couple of methods to control two different computers from one keyboard and mouse: either with a cable or with software.</p>
+<p>First, there is a cable called a&nbsp;KVM&nbsp;switch, which is short for &ldquo;keyboard, video and mouse&rdquo; switch. These let you share one mouse, keyboard and monitor between two computers. There are also KM switch cables that allow you to share just a keyboard and mouse with two computers that have two separate monitors. If you are using the two different computers at the same time, that second one might be the best option for you.</p>
+<p>Either way, they both run between $20 and $100. The great thing about using a physical cable is that the connection is really fast, and you&rsquo;ll never have any lag. The down side is that you are limited by the length of the cable. Also, you&rsquo;ll need to press a button, or turn a switch, to go back and forth between the two computers.</p>
+<p>If you want to go the software route, there are two great programs that do the same thing as a KM switch, but over your network instead of a cable. One is called&nbsp;<a href="http://www.share-mouse.com/" data-cke-saved-href="http://www.share-mouse.com/">ShareMouse</a>. It is super easy to use, and isn&rsquo;t too difficult to set up. However, it normally costs $30 per computer!</p>
+<p>Another option is a program called&nbsp;<a href="http://synergy-foss.org/" data-cke-saved-href="http://synergy-foss.org/">Synergy</a>&nbsp;(this is the one we prefer). It&rsquo;s a tiny bit harder to set up than&nbsp;ShareMouse, but it&nbsp;starts at only $10&nbsp;and it&rsquo;s open-source, so there&rsquo;s an entire community constantly working on it to make it better! On both programs you don&rsquo;t have to press a button to switch computers &ndash; it&rsquo;s as simple as sliding your mouse off the edge of one screen, and it will appear on the other screen. Also, both programs support clipboard sharing, which allows you to copy text on one computer and paste it on the other.</p>
+<p>Both programs are relatively small ones that don&rsquo;t use up a lot of resources on your computers or bandwidth on your network. One potential downside of using one of these programs is that if your network is bogged down (for example if you are running streaming video or downloading a lot), you might notice a slight lag in reaction time. Also, neither program supports sharing a monitor between the two computers.</p>
+<p>If you are trying to do that with software, you&rsquo;ll have to try Remote Desktop or a Virtual Network Computing program. That&rsquo;s a little bit more complicated, and probably isn&rsquo;t worth it if you have both computers in the same room.</p>
+<p>If each computer does have its own monitor, we recommend starting out by trying Synergy. That will probably be the best solution for your problem. If that doesn&rsquo;t work, then try&nbsp;ShareMouse&nbsp;or a hardware KM or&nbsp;KVM&nbsp;switch.</p>
+<p>To answer your second question about controlling your computers from your iPad, we recommend&nbsp;<a href="http://mobilemouse.com/" data-cke-saved-href="http://mobilemouse.com/">Mobile Mouse Pro</a>. You can get it in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;for $2.99 (it&rsquo;s also available for the same price in&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en">Google Play</a>&nbsp;for Android users). You have to install a small server app on your desktop, but once you do and open the app, your phone or tablet turns into a&nbsp;multitouch&nbsp;trackpad, remote keyboard, and music and presentation remote.&nbsp;If you just want to try out Mobile Mouse before you buy it, there is a free version called Mobile Mouse&nbsp;Lite&nbsp;in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;and&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en">Google Play</a>.</p>
+<p>Hopefully one of these options will help you out, Mike. Try them out, and clear off that desk!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>#41 &#8211; The Legend of GAAM Is EXTREME, But It&#8217;s Not Free-99</title>
+		<link>/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/</link>
+		<comments>/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/#comments</comments>
+		<pubDate>Mon, 24 Jun 2013 03:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Airport]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[GAAM]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[Google Reader]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[RSS]]></category>
+		<category><![CDATA[RSS readers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7399</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/GAAMShow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Legend of GAAM" style="float:left; margin:0 15px 15px 0;" />If you missed it live, Ryan Thompson from GAAM, Games Art and Music, stopped by the studio tonight to talk to us about the upcoming The Legend of GAAM Show July 13 at 6:00 PM at the Museum and Gardens <a href="/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/GAAMShow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Legend of GAAM" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/06/GAAMShow.jpg" class="gallery_colorbox"><img class="alignright wp-image-7406" alt="The Legend of GAAM" src="//media/2013/06/GAAMShow.jpg"  width="200" height="200"></a>If you missed it live, Ryan Thompson from <a href="http://gaamshow.com/">GAAM, Games Art and Music</a>, stopped by the studio tonight to talk to us about the upcoming <a href="http://gaam.eventbrite.com/">The Legend of GAAM Show</a> July 13 at 6:00 PM at the Museum and Gardens at 4160 Boulevard Center Drive, Jacksonville, Florida. Before we talked to him about that, we answered Joel&rsquo;s question about which Macbook Pro and which Airport to pick. Then, we helped Katy pick a newsreader for her Android phone.</p>
+<p><a href="https://www.facebook.com/ILoveGAAM">GAAM on Facebook</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/BqSJroMH6O4?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-7399-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-23.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-23.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-23.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-23.mp3">#41 &ndash; The Legend of GAAM Is EXTREME, But It&rsquo;s Not Free-99</a><br>
+DRAFT SCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by <a href="http://audibletrial.com/Deemable">audible.com</a> &ndash; Deemable Tech listeners can get a FREE audiobook download at <a href="http://audibletrial.com/Deemable">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: So, if you haven&rsquo;t noticed, the podcast has been a little sporadic lately. We&rsquo;ve been only doing the show every other week.</p>
+<p>Summer vacation!</p>
+<p>We have good reasons, I have a pile of products to review like the Therapik and the Jabra Halo 2.<br>
+We&rsquo;re also working on getting the app developed. Starting in September we&rsquo;ll come back with weekly podcasts.</p>
+<p>Today on the show we have a special guest, Ryan Thompson, creator and President of GAAM, which stands for Games, Art and Music.</p>
+<p>But first we have a couple questions from listeners.</p>
+<p>Joel writes: Hey Ray and Tom,<br>
+You may remember me from such questions as, &ldquo;should I sick my finger in there?&rdquo; and &ldquo;is this burning sensation normal?&rdquo;<br>
+Today I&rsquo;d like to know about the differences between some Apple products.<br>
+I&rsquo;m slowing being turned to the Gala side (that&rsquo;s an apple joke) and switching to more and more Apple products.<br>
+I would specifically like to know about the differences between two products:<br>
+MacBook Pro vs. MacBook Pro w/Retina Display<br>
+and<br>
+AirPort vs. AirPort EXTREME!<br>
+For the MacBook Pro, it&rsquo;s important to note that I am not a graphic designer/artists. The extent of my photo editing skills will just be basic touch-up of photos. I&rsquo;m not looking for a gaming rig, just something that&rsquo;s reliable, fast, and that has a decent battery life.<br>
+For the AirPort vs. Extreme, other than awesome flashbacks to the &rsquo;90s,<br>
+what makes the EXTREME so EXTREME?<br>
+RAY: OK, let me answer your first question. Here&rsquo;s the differences between the Macbook Pro and the Macbook Pro with Retina Display.<br>
+Obviously the Retina Display model has a retina display. 2880 x 1800 pixels vs 1440 x 900 pixels<br>
+-More pixels, brighter screen, incredibly high detail. More room for photo and video editing<br>
+&ndash; Also the Retina display model is thinner and about a pound lighter.<br>
+The retina model comes with more standard RAM, 8 GB vs 4 GB, but you can get 8 GB in the standard Macbook Pro model.<br>
+The retina model comes with 768 GB flash storage, but the standard model comes with 512 Solid State drive or 1 TB hard drive.<br>
+Also, the retina model does not have an optical drive so no DVDs or CDs.<br>
+If you are graphic designer, or video editor, I&rsquo;d say go with the retina model if you can afford it. Otherwise, I&rsquo;d stick with the standard model, unless you just really want the retina display.<br>
+&mdash;&ndash;<br>
+Now, for Airport vs Airport Extreme<br>
+There&rsquo;s actually three options, Airport Express, Airport Extreme and Airport Time Capsule.<br>
+The difference is in the price, size, speed and capability of the routers.<br>
+The Airport Express is the cheapest at $99, smallest at about the same size as an Apple TV (about a 4 inch square, 1 inch tall.). It&rsquo;s also the slowest. It only runs up to 802.11n. It also only has one Ethernet ports and one USB port. You can plug a printer into it and share it on your network. You can also use the Airport Express for audio AirPlay. So, you can play music or podcasts wireless from your iOS devices or Mac computers to speakers plugged into your Airport Express.<br>
+The Airport Extreme costs $199, and it is about the same size, but about 4 times taller. It looks like four Airport Expresses stacked on top of each other. It runs 802.11ac which is the fastest existing WiFi standard. It can run up to 3 times faster than 802.11n, if you have a computer with a 802.11ac wifi adapter. With the Airport Extreme you can also share a hard drive on your network in addition to a printer.<br>
+The Airport Time Capsule is basically an Airport Extreme with a hard drive built in. The 2 TB model costs $299, and the 3 TB model costs $399.<br>
+Strangely the Time Capsule and the Extreme both dropped the AirPlay feature.<br>
+Also, if you were wondering, because I was, neither the Macbook Pro, nor the Macbook Pro with Retina Display come with 802.11ac wifi. They only have 802.11n.<br>
+The only Mac that is currently for sale with 802.11ac is the new Macbook Air. The new Mac Pro (the well designed trash can) will have 802.11ac.</p>
+<p>Katy writes: Hello Tom and Ray!<br>
+I like to follow a few blogs and would love to get updates when new posts are added. Can you recommend a blog reader app for my Droid?<br>
+Thanks guys!<br>
+PS, we love your show! My twin babies Christopher &amp; Clara like to listen to it with us every Thursday morning. They&rsquo;re going to be so smart!<br>
+TOM: Wow, those poor kids. Thanks for listening, Katy! Anyway, what you need in as RSS reader app. We&rsquo;ve talked about RSS before. It&rsquo;s basically the way that blogs can publish their content to third party apps. Almost every blog out there supports this.<br>
+RAY: Lots of news sites do also.<br>
+TOM: Yeah. So with a good RSS reader app you can get all your news and favorite blogs in one place. If you go to the Google Play Market and search for ?RSS reader&rsquo; you&rsquo;ll see dozens of apps, most of them free.<br>
+A word of caution, though: do not download the Google Reader app. Google Reader is being shut down July 1st, 2013. So if you download it now you&rsquo;ll only have a matter days of before it stops working.<br>
+RAY: It&rsquo;s too bad, since Google Reader was kind of the 900 lbs gorilla of the RSS reader world.<br>
+TOM: That&rsquo;s true. In fact Google Reader was more than just an app, it was also an entire back-end database that synched what you had and hadn&rsquo;t read across multiple devices. A lot of other apps actually depended on it. And that&rsquo;s why you also need to avoid apps that are dependent on Google Reader, because those will also stop working on July 1st. A few examples include the NewsRob and GoodNews apps. Those tell you that they run off Google Reader and that they will be shutting down. Be sure to check for that on any app you download.<br>
+RAY: Okay, so those are apps not to use. What are some suggestions for apps that Katy should use?<br>
+TOM: Feedly.<br>
+RAY: Feedly?<br>
+TOM: Feedly.<br>
+Feedly is the heir apparent to Google Reader. If you were previously using Google Reader, Feedly is making it very easy to migrate to Feedly. Like Google Reader, it allows you to synchronize what you&rsquo;ve read across multiple devices, like your desktop and your phone. It looks and feels similar to Google Reader, except it is more customizable. Feedly would be my #1 and probably my #2 suggestion for an RSS Reader app for Android right now.<br>
+RAY: Yeah, Feedly is great. And it&rsquo;s also available for the iPhone in the App Store.<br>
+TOM: gReader is another app that is getting strong reviews. It used to connect Google Reader, but now you can connect it to Feedly.<br>
+RAY: Why wouldn&rsquo;t people just use the Feedly app?<br>
+TOM: Well, it&rsquo;s possible people might like the feel of gReader more. But yeah, if you&rsquo;re just starting out like Katy is, I would recommend Feedly. And the best part of all, it doesn&rsquo;t cost a thing!<br>
+TOM: It&rsquo;s Free-99!<br>
+RAY: It&rsquo;s Free-99?<br>
+TOM: It&rsquo;s Free-99!<br>
+RAY: Personally, after I heard the news about Google Reader, I spent the requisite amount of time mourning my favorite news reader, but after that I decided not to move on and find another reader. I&rsquo;ve gone back to just reading Google News for the big headlines, and checking the individual websites. I do use Flipboard a bit to follow some sites, but otherwise, I have reduced the amount of news reading I have done by about 90%. I&rsquo;m not sure if I&rsquo;ll go back or not, but for now, I&rsquo;m satisfied with Flipboard.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#41 - The Legend of GAAM Is EXTREME, But It's Not Free-99" data-link="/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#41 - The Legend of GAAM Is EXTREME, But It's Not Free-99" data-link="/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-23.mp3" length="60022700" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Sherry asks &#8220;How can I keep my son safe on the Internet on his tablet?&#8221;</title>
+		<link>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/</link>
+		<comments>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#comments</comments>
+		<pubDate>Thu, 17 Jan 2013 14:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Kids Mail]]></category>
+		<category><![CDATA[Kids Place]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7213</guid>
+		<description><![CDATA[Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&#8217;t supposed to? The hosts of Deemable Tech, Ray <a href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&rsquo;t supposed to? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p90848-embed" src="http://www.prx.org/p/90848/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:<br>
+Sherry writes: Hey guys!<br>
+We bought a Polaroid tablet for my 11 year-old son for Christmas. We picked it up for only $50 on Woot! Is there a way that we can control which websites he can access on it?<br>
+An additional question would be: What are the best options for kid safe e-mail? I just Googled it and found this one: http://www.kidsemail.org/ </p>
+<p>TOM: $50? Nice deal Sherry! Well played indeed.<br>
+Let&rsquo;s answer her last question first. Email for your kids &ndash; how do you control it? </p>
+<p>RAY: Well Tom, Sherry mentioned Kids Email. Kids Email is a subscription based email service that allows you to monitor and control who your kid is exchanging emails with. It has an Android app called KMail. It has some nice features like only allowing your kid to receive emails from an approved contact list, filtering out swear words and copying you on every email. </p>
+<p>TOM: Honestly, Ray, I feel like Sherry could achieve most of the same results by just making sure you have the password to your kid&rsquo;s email account. She can then see what emails he&rsquo;s receiving and what emails he&rsquo;s sending. </p>
+<p>Sherry, be upfront with your kid about the fact that you&rsquo;ll be monitoring his emails. Tell him you&rsquo;ll be checking periodically and as time goes on if you feel he&rsquo;s emailing responsibly you&rsquo;ll feel comfortable checking less and less.<br>
+That&rsquo;s what I would do. </p>
+<p>RAY: Now as far as general parental controls: while Android has virtually no parental controls built into the operating system, there are plenty of free or cheap third party apps on the Play Market which will give you a lot of control over how your tablet gets used. </p>
+<p>TOM: Speaking of the Play Market, why don&rsquo;t you go ahead and open up that app. Maybe the first thing you want to do is restrict what apps your kid can download. Open up the settings and scroll down to &ldquo;Set or change PIN.&rdquo; Go ahead and set a PIN code. Then check the box that says &ldquo;Use PIN for purchases.&rdquo; Now no one who doesn&rsquo;t know your PIN can use your phone to download apps. </p>
+<p>RAY: Now you can go further with apps that basically offer a very limited ?sandbox&rsquo; for your kid to play in. For example, there is a free third party app called Kids Place that basically creates a separate desktop for your kid. Once inside the Kids Place desktop, he only has access to apps you have specified. </p>
+<p>Maybe most importantly, Kids Place blocks in-app purchases. Some parents have run into trouble when they check their monthly credit card statements and see that their kids have spent hundreds of dollars on virtual fuzzy hats for their game character. </p>
+<p>Kids Place blocks that from happening, and I think that&rsquo;s a big bonus. Just search for &ldquo;Kids Place&rdquo; on the Play Market. </p>
+<p>TOM: Now Kids Place is really designed to block internet access entirely. If you want limited access for your kid, there are other options. </p>
+<p>But first you should be aware that there is really no way in the world to guarantee that your child stays out of trouble on the internet. New web sites spring up all the time, people come up with new tools and workarounds for existing blocks, and it&rsquo;s impossible for even the most zealous content controls to find and block them all. Plus, if your kid puts his mind to it he&rsquo;s eventually going to find his way around those blocks anyway. </p>
+<p>Unfortunately, that&rsquo;s the reality of the situation on today&rsquo;s internet. </p>
+<p>You might notice a theme here: No program can take the place of personally monitoring your son&rsquo;s internet and email use. I know when I was eleven I knew how to get into things on the computer that I wasn&rsquo;t supposed to. Your kid probably does too. </p>
+<p>TOM: We talked about this in more detail on our podcast this week. So be sure to check it out on Deemable.com. That&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast. </p>
+<p>RAY: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com. For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211222/BoyTablet_medium.png" title="How can we keep our kids safe on the Internet if they have their own devices?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sandra asks &#8220;Can I return an app?&#8221;</title>
+		<link>/2013/01/sandra-asks-can-i-return-an-app/</link>
+		<comments>/2013/01/sandra-asks-can-i-return-an-app/#comments</comments>
+		<pubDate>Thu, 03 Jan 2013 14:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Amazon appstore]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[app refund]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7211</guid>
+		<description><![CDATA[Sandra just bought an app from the app store, and it doesn&#8217;t work. Is there any way she can get a refund? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&#8217;s Ask Deemable <a href="/2013/01/sandra-asks-can-i-return-an-app/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/sandra-asks-can-i-return-an-app/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Sandra just bought an app from the app store, and it doesn&rsquo;t work. Is there any way she can get a refund? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p91017-embed" src="http://www.prx.org/p/91017/embed.js?size=full"></script></p>
+<p>RAY: Hello, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: Sandra asks, I bought an app from the app store, and it doesn&rsquo;t work. Is there any way to get a refund?</p>
+<p>TOM: Okay, first of all, this depends on what app store you bought your app from. The Android Market (now known as Google Play) has different refund policies from Apple&rsquo;s App Store. So the answer will vary depending on whether you bought your app on an Android device (like a Samsung Galaxy or a Droid Razr Maxx) or an iOS device, like an iPhone or iPad.</p>
+<p>If you buy any app in Google Play you actually have a very short window in which you can get a no-questions-asked refund. Here&rsquo;s the trick: you have fifteen minutes from the moment you download the app to get the refund. Go back to the app page (actually if you&rsquo;re lucky it will open right to it) and there should be a refund button visible. But only within the first fifteen minutes!</p>
+<p>The moral of the story is that you should always immediately open any Android app after you download it to see if it works. If it crashes on you, or isn&rsquo;t what you thought it was, you need to get back into Google Play pronto. By the way, this is a one-time deal. You can&rsquo;t keep downloading and refunding an app over and over again.</p>
+<p>If you&rsquo;ve waited longer than fifteen minutes, well&hellip; Google says you&rsquo;re at the mercy of the app&rsquo;s developer. Open Google Play, find your app, then scroll down the page to the &lsquo;Developer&rsquo; section. There will be contact information for the people that developed the app. Send them a phone call or an email or whatever and&hellip; good luck with that.</p>
+<p>RAY: With iPhone and iPad apps, you can&rsquo;t get a refund. That&rsquo;s it. Sorry.</p>
+<p>TOM: Really? that&rsquo;s it?</p>
+<p>RAY: OK, that&rsquo;s not entirely true. Well, actually it is true, technically. The iTunes Store Terms and Conditions specifically say, &ldquo;All sales and rentals of products are final.&rdquo; So, they don&rsquo;t have to refund you anything.</p>
+<p>However, if you bought some terrible app, or you purchased an app and it didn&rsquo;t do what you thought it would, you may be able to get a refund.</p>
+<p>First, open iTunes on your desktop or laptop as soon as you can. There&rsquo;s no timeframe that you have to act within like there is with Android, but probably the sooner the better. Then, open the iTunes store, and click on your account. It&rsquo;s going to be the email address that you use to sign into iTunes and it will be in the top right corner. Now, go down to Purchase History and click See All. Scroll down to the button that says Report a Problem and click it. Then click the Report a Problem link that appears next to the app that you want to get a refund for. Then, choose one of the reasons for your complaint,</p>
+<p>I didn&rsquo;t receive this application<br>
+I inadvertently purchased this application<br>
+This application does not function as expected<br>
+This application is not compatible with my device</p>
+<p>Finally, click Submit, and hope.</p>
+<p>TOM: Click Hope?</p>
+<p>RAY: No, just click Submit, and hope that they will refund your purchase!</p>
+<p>TOM: Hahah. And, in your experience, do they?</p>
+<p>RAY: Let&rsquo;s just say I&rsquo;ve been lucky so far.</p>
+<p>To hear more answers to questions like Sandra&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com. </p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister </p>
+<p>TOM: And, I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211506/android-market-refund-time-window_medium.png" title="Bad App? Try to get your money back."></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sandra asks "Can I return an app?"' data-link="/2013/01/sandra-asks-can-i-return-an-app/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sandra asks "Can I return an app?"' data-link="/2013/01/sandra-asks-can-i-return-an-app/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/sandra-asks-can-i-return-an-app/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

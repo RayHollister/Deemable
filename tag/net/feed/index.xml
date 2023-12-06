@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Net</title>
+	<atom:link href="/tag/net/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The Battle Over Net Neutrality</title>
+		<link>/2011/04/the-battle-over-net-neutrality/</link>
+		<comments>/2011/04/the-battle-over-net-neutrality/#comments</comments>
+		<pubDate>Wed, 13 Apr 2011 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[Net]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Neutrality]]></category>
+		<category><![CDATA[Open]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2405</guid>
+		<description><![CDATA[The internet was designed to be an open and freely flowing network of communication. Sure, there are some sites that are blocked due to their content, but for the most part, you can access what you want whenever you feel <a href="/2011/04/the-battle-over-net-neutrality/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/the-battle-over-net-neutrality/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://turbo.inquisitr.com/wp-content/2011/01/net-neutrality.jpg" class="gallery_colorbox"><img class="aligncenter" src="http://schrier.files.wordpress.com/2010/05/net-neutrality.jpg"  alt="" width="424" height="354"></a>The internet was designed to be an open and freely flowing network of communication. Sure, there are some sites that are blocked due to their content, but for the most part, you can access what you want whenever you feel the need. However, this could all change within the next few years depending on one heavily debated issue: Network Neutrality.</p>
+<p>In December of 2010, the Federal Communications Commission (FCC) voted  three-to-two to adopt an open-internet neutrality plan, often referred  to as Network Neutrality. Simply put, the basic principle of Net Neutrality is that high-speed internet providers should offer everyone equal access to the web, regardless of the content, data, applications, software, and platforms used while connected to broadband internet service. Therefore, Network Neutrality would continue to maintain the current status quo of internet access &ndash; do what thou wilt.</p>
+<p>Last Friday, however, the House of Representatives approved House Joint Resolution 37, which repealed the Federal Communications Commission&rsquo;s order of Net Neutrality. Opponents of Net Neutrality point to the need for stricter regulation  due to the substantial amount of bandwidth  consumed by the accelerated  growth of online video and file sharing in recent years. Critics also argue that the  government has no right to meddle in the affairs of business practices  online and that some forms of data discrimination is actually desirable.</p>
+<p>Without Network Neutrality though, broadband companies who own content providers, like Comcast who owns NBC,  would be able to block the Web sites of their competitors and  violate our freedom to information. Internet service providers would also begin to offer a tiered service model, where those who  pay to be in the top tier gain the highest quality of service, speed, and access to Web content,  while those in the lower tiers will get the short end of the stick.</p>
+<p>Although the legislation must pass through the Senate first, President Obama, who is a staunch supporter of open internet rules, has already stated that he will veto any such legislation to overturn the FCC&rsquo;s ruling. While the subject of Net Neutrality already has hit major, headache-inducing complications, this is an important issue to watch closely for the sake of our God-given right to YouTube as we please.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://turbo.inquisitr.com/wp-content/2011/01/net-neutrality.jpg" target="_blank">Photo</a> by <a href="http://www.inquisitr.com/4810/the-inquisitr-welcomes-steven-hodson-to-the-writing-team/" target="_blank">Steven Hodson</a> via <a href="http://www.inquisitr.com/" target="_blank">TheInquisitr</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Battle Over Net Neutrality" data-link="/2011/04/the-battle-over-net-neutrality/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Battle Over Net Neutrality" data-link="/2011/04/the-battle-over-net-neutrality/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/the-battle-over-net-neutrality/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

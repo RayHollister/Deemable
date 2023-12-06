@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Alleged LulzSec Leader Arrested</title>
+	<atom:link href="/2011/06/alleged-lulzsec-leader-arrested/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/06/alleged-lulzsec-leader-arrested/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Austin Rucker</title>
+		<link>/2011/06/alleged-lulzsec-leader-arrested/#comment-364</link>
+		<dc:creator><![CDATA[Austin Rucker]]></dc:creator>
+		<pubDate>Mon, 27 Jun 2011 23:00:31 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=3662#comment-364</guid>
+		<description><![CDATA[Here&#039;s something pretty in depth on the subject: aka 2 hackers hacking (five golden rings)
+
+http://ifoundtheinter.net/?p=117]]></description>
+		<content:encoded><![CDATA[<p>Here&#8217;s something pretty in depth on the subject: aka 2 hackers hacking (five golden rings)</p>
+<p><a href="http://ifoundtheinter.net/?p=117" rel="nofollow">http://ifoundtheinter.net/?p=117</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

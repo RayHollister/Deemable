@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Clare asks, &#8220;How can I have both a Mac and a PC?&#8221;</title>
+	<atom:link href="/2014/05/clare-asks-can-mac-pc/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/05/clare-asks-can-mac-pc/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2014/05/clare-asks-can-mac-pc/#comment-1847</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2014 04:43:52 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=8824#comment-1847</guid>
+		<description><![CDATA[Clare: I run Windows 8.1 and Mac OS X 10.9 on my Macbook Pro. (That&#039;s actually my laptop in the picture!) It&#039;s the best Windows laptop I have ever used, and I have lost count of how many I have used. You have no more vulnerability of getting a virus on Windows as you do on any other Windows laptop, and installing Windows on Bootcamp does NOT create a virus vulnerability for your Mac OS partition. A KVM switch will not change the fact that you would have to buy two separate computers.]]></description>
+		<content:encoded><![CDATA[<p>Clare: I run Windows 8.1 and Mac OS X 10.9 on my Macbook Pro. (That&#8217;s actually my laptop in the picture!) It&#8217;s the best Windows laptop I have ever used, and I have lost count of how many I have used. You have no more vulnerability of getting a virus on Windows as you do on any other Windows laptop, and installing Windows on Bootcamp does NOT create a virus vulnerability for your Mac OS partition. A KVM switch will not change the fact that you would have to buy two separate computers.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Alberto Crespo</title>
+		<link>/2014/05/clare-asks-can-mac-pc/#comment-1838</link>
+		<dc:creator><![CDATA[Alberto Crespo]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 17:49:57 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=8824#comment-1838</guid>
+		<description><![CDATA[Clare: I do not recommend to install Windows on a Mac. Besides the interface it is awful you will create a virus vulnerability for your computer. 
+Try a KVM switch, that means a hardware device that allows you to control multiple computers from one keyboard, video monitor and mouse. It is possible to control a Mac and a PC together and you can get it for $30 up. 
+Note: to connect the Mac to de KVM you will need a Mac or Mac compatible connector.
+
+Alberto]]></description>
+		<content:encoded><![CDATA[<p>Clare: I do not recommend to install Windows on a Mac. Besides the interface it is awful you will create a virus vulnerability for your computer.<br />
+Try a KVM switch, that means a hardware device that allows you to control multiple computers from one keyboard, video monitor and mouse. It is possible to control a Mac and a PC together and you can get it for $30 up.<br />
+Note: to connect the Mac to de KVM you will need a Mac or Mac compatible connector.</p>
+<p>Alberto</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

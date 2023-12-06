@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Games Art and Music</title>
+	<atom:link href="/tag/games-art-and-music/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#54 Teenage Mutant Ninja Deemable</title>
+		<link>/2013/11/54-teenage-mutant-ninja-deemable/</link>
+		<comments>/2013/11/54-teenage-mutant-ninja-deemable/#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 17:34:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[GAAM]]></category>
+		<category><![CDATA[Games Art and Music]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[TMNT]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8418</guid>
+		<description><![CDATA[This week Ray and Elizabeth were joined in the studio&#160;by Ryan Paul Thompson, the founder and president of GAAM, Games Art and Music, to talk to us about the upcoming GAAM event, Teenage Mutant Ninja GAAM, Saturday, December 7, 2013 <a href="/2013/11/54-teenage-mutant-ninja-deemable/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/11/54-teenage-mutant-ninja-deemable/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Elizabeth were joined in the studio&nbsp;by Ryan Paul Thompson, the founder and president of <a onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gaamshow.com/']);" href="http://gaamshow.com/">GAAM, Games Art and Music</a>, to talk to us about the upcoming GAAM event, <a href="http://gaam.eventbrite.com/">Teenage Mutant Ninja GAAM</a>, Saturday, December 7, 2013 starting at 6:00 PM. There&rsquo;s going to be&nbsp;video game art exhibit, video game competition, cosplay competition and free beer! Ray, Tom and Sean went to the <a href="http://deemable.com/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/">last GAAM show</a>, and it was a blast. If you love video games, you should definitely check it out. Head over to <a href="http://gaam.eventbrite.com/">gaam.eventbrite.com</a> to get your tickets.</p>
+<p style="text-align: center;"><a href="http://gaam.eventbrite.com/"><img class="aligncenter" alt="Teenage Mutant Ninja GAAM" src="//media/2013/11/TMNG.jpg" width="600" height="222"></a></p>
+<p>After the break, Ray and Elizabeth answered listeners questions about&nbsp;&nbsp;transferring an iTunes collection from a dead computer, which antivirus software is the best, and how to restore an iPhone from an older backup.</p>
+<p>And remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!&nbsp;</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8418-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">#54 Teenage Mutant Ninja Deemable</a></p>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>ELIZABETH: I&rsquo;m Elizabeth Pampalone, in for Tom Braun</p>
+<p>RAY: and this is Deemable Tech. This week&rsquo;s episode is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>ELIZABETH: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: We mentioned this last week, but once Tom get&rsquo;s back, we are going to be&nbsp;working on our first, hour-long Deemable Tech radio special, and we need your help. We need some live callers to be&nbsp;on the show. So, we want you to call and leave a voicemail. We will be using them to pick our callers for the show. Make sure to leave your phone number so we can schedule a time for you to be on the show.</p>
+<p>Now, before we get to your questions, we have a guest back in the studio again, Ryan Thompson, creator and President of GAAM, Games, Art and Music is here! Welcome to the show, Ryan!</p>
+<p>You were on the show back in June before your last event and you guys have another awesome event coming up really soon.</p>
+<p>Questions for Ryan Paul Thompson</p>
+<ul><li>What is GAAM? What is the purpose of GAAM?</li>
+<li>Where did you get the idea for GAAM?</li>
+<li>Ask about the last GAAM&nbsp;event, The Legend of GAAM</li>
+<li>Tell us about Teenage Mutant Ninja GAAM</li>
+</ul><p>Ryan, thanks so much for coming in. Where can our listeners find out more about GAAM and get tickets for the event?</p>
+<p>BREAK</p>
+<p>Well, we have to take a quick break, after the break Elizabeth and I will answer a few questions from you guys about antivirus software, moving your iTunes account to a new computer.</p>
+<p>You&rsquo;re listening to Deemable Tech.</p>
+<p>OUTRO</p>
+<p><b>Name: </b>Phil</p>
+<p><b>Question:</b>&nbsp;How do I switch my iTunes account from an old computer which no longer turns on to my new computer? I&rsquo;ve downloaded iTunes onto&nbsp;the new computer but, needless to say, it doesn&rsquo;t recognize my account. The last time I changed computers with the same problem I had to start a new account on the new computer and reenter music into my library. I have all my music on my iPod but now am not able to add to it.</p>
+<p><b>Answer: </b>Before Switching computers, go into My Music (Music), Itunes, Save the iTunes Library.itl and iTunes Library.xml files to a flash drive or external drive. Install itunes&nbsp;on the new computer. Go into the same location (Music/iTunes) and replace those files with your library files from the older computer. Make sure to move your music files to the same place as they lived on the old computer. (ie Music)</p>
+<p>If it&rsquo;s too late, and you&rsquo;ve already gotten rid of your old computer, try <a href="http://www.digidna.net/diskaid">DiskAid</a> or <a href="http://www.macroplant.com/iexplorer/">iExplorer</a> to take music, movies, etc. off of your iPad, iPod, iPhone and get it into your computer.</p>
+<p><b>Name: </b>Danielle</p>
+<p>&nbsp;<b>Question: </b>Is paying for antivirus software more safer that the free versions? What are some recommendations for antivirus?</p>
+<p><b>Answer: </b>We answered this once before on our <a href="http://deemable.com/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">radio segment</a>. If you are using a Windows: XP, Vista, Win 7 use MS Security Essentials. It is FREE and works seamlessly with Windows Firewall and Windows Defender. Windows 8 has MS Security Essentials built in. It is really the best antivirus software on the market, especially for the price. Word of caution: you can only use ONE antivirus at a time. You can not have TWO running, they will cancel each other out!</p>
+<p>If you are using Mac, antivirus protection is built&nbsp;in. Check System Preferences, Security &amp; Privacy. There are some settings you might want to check out the settings there. Some of the items on General and Privacy tabs are good to go through based on what your personal preferences happen to be.</p>
+<p><b>Name:</b> Valerie</p>
+<p><b>Question:</b> Can I retrieve an iPhone backup from maybe 5 backups ago?</p>
+<p>iPhoto&nbsp;apparently failed on one of my loads from image capture, and of course I had the &ldquo;delete&nbsp;after import&rdquo; option checked. I saw some warning about iPhoto&nbsp;being full (although not an issue since) after my Macbook Pro had been working&nbsp;for awhile. I didn&rsquo;t have time to deal with it and later re-backed up my phone. When I went looking for the 3 months of photos/videos, I couldn&rsquo;t find them anywhere on my computer &mdash; it is a mess. Also my time machine (to my external hard drive) apparently hadn&rsquo;t been working during that time period either. I just can&rsquo;t imagine that the photos/video from the whole&nbsp;upload don&rsquo;t exist in some cache somewhere.</p>
+<p><b>Answer:</b> Plug in your iPhone, click the Summary button, and under Backups click Restore Backup. If you have multiple backups saved, you should have a drop down menu appear. Choose one of the options.</p>
+<p><a href="http://support.apple.com/kb/HT1766">http://support.apple.com/kb/HT1766</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/54-teenage-mutant-ninja-deemable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3" length="31698039" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Prem asks, &#8220;How can I recover files from a corrupt USB drive?&#8221;</title>
+	<atom:link href="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Kordell Stewart</title>
+		<link>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/#comment-989</link>
+		<dc:creator><![CDATA[Kordell Stewart]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2013 01:06:35 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=8365#comment-989</guid>
+		<description><![CDATA[One thing I want to know to know about your utility Check Disk that whether it provide Save Recovery Session option to avoid re-scanning USB drive. I am familiar with utility Remo Recover, they provides Save Recovery Session option to avoid re-scanning USB]]></description>
+		<content:encoded><![CDATA[<p>One thing I want to know to know about your utility Check Disk that whether it provide Save Recovery Session option to avoid re-scanning USB drive. I am familiar with utility Remo Recover, they provides Save Recovery Session option to avoid re-scanning USB</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

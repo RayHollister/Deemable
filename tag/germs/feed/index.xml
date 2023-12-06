@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; germs</title>
+	<atom:link href="/tag/germs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 39 &#8211; Get a Smart Phone, and Keep It Clean!</title>
+		<link>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/</link>
+		<comments>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/#comments</comments>
+		<pubDate>Mon, 03 Jun 2013 02:32:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[computer problems]]></category>
+		<category><![CDATA[germs]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7363</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" />Today on Deemable Tech we&#8217;ll be talking about how to clean your cellphone, how to plug in your computer if your house has older power outlets, and how to fix issues with a networked printer, and a listener who hates <a href="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Today on Deemable Tech we&rsquo;ll be talking about how to clean your cellphone, how to plug in your computer if your house has older power outlets, and how to fix issues with a networked printer, and a listener who hates cellphones but has to buy one.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/XsUPrRj2d9Y?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-7363-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3">Episode 39 &ndash; Get a Smart Phone, and Keep It Clean!</a></p>
+<p><img class="alignright" title="Your Smart Phone is Full of Germs! How do you sanitize it?" alt="" src="//media/2013/06/iPhonePetriDish.jpg" width="186" height="286"></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>RAY: Today on the show we&rsquo;ll be talking about how to clean your cellphone,</p>
+<p>TOM: How to plug in your computer if your house has older power outlets,</p>
+<p>RAY: And how to fix issues with a networked printer. But first, a listener who hates cellphones has to buy one. Let&rsquo;s see if we can help her out. Tom, can you read that?</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>RAY: Today on the show we&rsquo;ll be talking about how to clean your cellphone,</p>
+<p>TOM: How to plug in your computer if your house has older power outlets,</p>
+<p>RAY: And how to fix issues with a networked printer. But first, a listener who hates cellphones has to buy one. Let&rsquo;s see if we can help her out. Tom, can you read that?</p>
+<p dir="ltr">Brandy writes: Hi, Tech Guys!</p>
+<p dir="ltr">I wouldn&rsquo;t call myself a Luddite, but I chose to go cell free about 4 years ago. My last phone was the Nextel Motorola Nascar green screen flip phone. That was FOREVER ago. Now I have come to realize that I need a cell phone for work. Here&rsquo;s the problem: I don&rsquo;t understand what any of the specifications mean. I know what I want in a phone, I just need to learn the language so I can make an educated decision. Please help. Thanks so much.</p>
+<p dir="ltr">I read that you want as much info as possible. Well, I know that I want an Android, I love my Galaxy tab, but it&rsquo;s not about my person preference. More importantly, I need a phone that will sync with my email at work. We run off and outlook cloud based email. We also use a system called Village Management Software (VMS) which I can access from the web. I work in property management, so a good camera would be helpful, and one that I can sync to my computer easily. And an added perk would be a silent mode that is truly silent (none of that vibrating while I&rsquo;m in a meeting going on, thank you).</p>
+<p dir="ltr">I think that about covers it. I appreciate your taking the time to read my question, and look forward to your much needed advise. (I am really truly going there kicking and screaming; I just don&rsquo;t want a dang cell phone!)</p>
+<p dir="ltr">Thanks!</p>
+<p dir="ltr">TOM: Welcome to the 21st century, Brandy!</p>
+<p dir="ltr">You know what I always say? Go big or go home. Sounds to me based on everything you&rsquo;ve described as though you need a smartphone. You know, one of those big, flat slabs of plastic that you can touch.</p>
+<p dir="ltr">RAY: Wait, they have phones you can touch?!?</p>
+<p dir="ltr">TOM: Uh, Ray. Smartphones. You&rsquo;ve had a smartphone since like 2003. Hello?</p>
+<p dir="ltr">RAY: 2002, actually. But for this question I thought I&rsquo;d play the role of Brandy, returning to civilization after four years of living in Tibet and searching for her chakra, and encountering these new-fangled smart-phones for the first time.</p>
+<p dir="ltr">TOM: OK, um, Brandy. I&rsquo;ll try to help you out.</p>
+<p dir="ltr">RAY: *in girl voice* Thank you! Can you explain to me what a smartphone is and why I need one?</p>
+<p dir="ltr">TOM: Sure, ?Brandy.? I imagine even in Tibet or deepest, darkest St. Augustine, they&rsquo;ve heard of the iPhone. The iPhone is a smartphone, in fact it was the first widely popular touch-based smartphone and it&rsquo;s still a good phone today. So an iPhone is a good example of a smartphone.</p>
+<p dir="ltr">But in 2013, I&rsquo;d basically define a smartphone as any phone that has some touch-based interface, can connect to the internet, and runs apps. Apps are basically extra programs that you can download for your phone which do all kinds of things.</p>
+<p dir="ltr">RAY: I&rsquo;ve seen iPhones! But I don&rsquo;t want to play Scrabble and check Facebook, which is what my friends do with theirs. I just need the phone to be able to check email, get on the web and take pictures.</p>
+<p dir="ltr">TOM: Brandy, a smartphone does all those things and does them really well. You don&rsquo;t have to place ?Words With Friends? or be constantly checking your least favorite social networking site to use a smartphone.</p>
+<p dir="ltr">RAY: But something like an iPhone just seems like more than I need!</p>
+<p dir="ltr">TOM: Maybe it is. But here&rsquo;s the thing: iPhones may have features that you don&rsquo;t ever plan on using, but they are relatively inexpensive and extremely well supported. I could probably find the 2013 equivalent of your green NASCAR phone made by some obscure company, and it might allow you to check your email, surf the web and take pictures, but it probably wouldn&rsquo;t do it WELL.</p>
+<p dir="ltr">Sooner or later you&rsquo;d (probably sooner) you&rsquo;d have problems with your phone and then no one would know how to help you fix them because you&rsquo;ve got a phone no one has ever heard of.</p>
+<p dir="ltr">RAY: So I should get an iPhone?</p>
+<p dir="ltr">TOM: Now wait a minute there, Brandy. I was just using an iPhone as an example of a smartphone you might have heard of. There are a few different major types of smartphone: there&rsquo;s the iPhone, of course. But there are also Android phones, Windows phones and Blackberries.</p>
+<p dir="ltr">And earlier, Brandy, you said you had a Galaxy Tab which you liked and so you wanted an Android phone.</p>
+<p dir="ltr">RAY: Oh yes, I did say that. I completely remember saying that. I definitely want an Android, not an iPhone.</p>
+<p dir="ltr">TOM: Well that&rsquo;s fine, there are some good Android phones out there. Android phones are more diverse than iPhones. Only Apple makes iPhones, so they are all pretty similar. But Android is actually just a phone operating system. Lots of different companies make phones that run Android.</p>
+<p dir="ltr">RAY: What do you suggest, Mr. Deemable Tech Guy?</p>
+<p dir="ltr">TOM: *sigh* Well Brandy, you already have a Samsung Galaxy Tab, so how about a Samsung Galaxy S3 or S4? They are both really good phones and they will feel very similar to the Galaxy Tab. The S4 is the newer and more powerful phone, but it&rsquo;s also more expensive.</p>
+<p dir="ltr">With a little help from your office IT guy you can setup your Galaxy S phone to connect to your Outlook email. The camera on the phone is pretty good, although I will be honest and tell you that the iPhone has a better camera. And by default, Galaxy S phones offer both ?vibrate&rsquo; and ?mute&rsquo; modes, so you can turn off that annoying vibration if you so choose. You can also create your own customized ?silent mode&rsquo; if that is not enough.</p>
+<p dir="ltr">As long as your software is accessible through the web, it should work from your smartphone&rsquo;s browser.</p>
+<p dir="ltr">RAY: Okay, thanks so much for your helpful advice! I will go and purchase a Samsung Galaxy S 3 or 4 immediately!</p>
+<p>Oh hey, Tom, I&rsquo;m back. Were you able to help Brandy with her problem?</p>
+<p dir="ltr">TOM: Shandra writes: I was letting my three-year-old play with my iPhone when she spit up all over it. Eww. I need to get it clean. Like, really clean, not just ?dab-it-with-a-lint-free-cloth clean.? It&rsquo;s a phone. You put it up to your face! And I just know its crawling with germs now. How can I disinfect my iPhone?</p>
+<p dir="ltr">RAY: Oh, that is gross!</p>
+<p dir="ltr">TOM: Shandra is correct, though. The Wall Street Journal recently reported a couple studies that showed that cellphones are, quote, ?veritable reservoirs of pathogens.? Another sample of smartphones phones showed abnormally high numbers of coliforms, a bacteria indicating fecal contamination.</p>
+<p dir="ltr">RAY: I can top that, Tom. Recently several news outlets reported that a thief in Uganda contracted the ebola virus after stealing a cellphone from a hospital patient.</p>
+<p dir="ltr">TOM: Wow. Well with that in mind you&rsquo;ll definitely want to clean your phone. Ideally, you would use a lint-free cloth and some alcohol which should kill 99% of bacteria, but it&rsquo;s not necessarily that simple.</p>
+<p dir="ltr">RAY: Certain touch-screen smart-phones, including the iPhone, have an oleophobic coating on them to protect them from smudges and fingerprints. Using cleaners with alcohol will wear down the oleophobic coating on your iPhone and iPad.</p>
+<p dir="ltr">TOM: Eventually. Now, anecdotal evidence indicates that an occasional light cleaning with alcohol doesn&rsquo;t seem to have much ill effect on an iPhone, but you use it against the manufacturer&rsquo;s recommendations and at your own risk.</p>
+<p dir="ltr">RAY: Most phones can be cleaned with a small amount of mild soap and a little bit of water. Of course, you&rsquo;ll want to consult the manual for your device. Just make sure that the rag is just a little wet. That will get rid of most germs. It won&rsquo;t kill the germs, but it will get them off your phone, which is all that really matters, right? You&rsquo;ll have a phone with hardly any germs on it.</p>
+<p dir="ltr">TOM: If you really want to get that phone clean, and don&rsquo;t mind spending a little money, there are a few specialty cleaners designed specifically for the iPhone and iPad. Bausch and Lomb makes a travel cleaning kit which is actually sold through the Apple store. And Monster Cable makes the Monster CleanTouch, also designed for iGadgets. Both of these products will run you about $20.</p>
+<p dir="ltr">Be sure to test any cleaner you try before use by dabbing a small amount of it on the corner of your cellphone&rsquo;s screen. Better to damage a small piece of your screen then whole thing.</p>
+<p dir="ltr">If you&rsquo;re truly obsessed with keeping your touch screen germ-free and you don&rsquo;t want to abrade or damage the finish in any way, you can always try UV light. The VIOLIGHT UV Cellphone Sanitizer claims that it will not only charge your cell phone, but destroy 99% of all bacteria in the process. And it&rsquo;s only $49.99.</p>
+<p dir="ltr">RAY: Or you could just save some money and head to the beach. Good old-fashioned sunshine also produces UV rays. Normally we would tell you to keep your smartphone out of the sun, but if you want to disinfect it, try leaving it in the sunshine for a few hours. The UV rays will kill just about anything that&rsquo;s still left on it.</p>
+<p dir="ltr">TOM: Plus, you can work on your tan.</p>
+<p dir="ltr">For listeners who have a smartphone or tablet other than a iPhone or iPad, be sure to follow the manufacturer&rsquo;s recommendations for cleaning in the manual that came with your device.</p>
+<p>&nbsp;</p>
+<p dir="ltr">Daniel writes &ndash; I have moved into an old apartment building downtown and I have noticed that it only has two electrical outlets that allow three prongs. Most of the outlets only allow two prong plugs. And there are no three prong outlets in the bedroom which I want to setup as my office.</p>
+<p dir="ltr">A lot of my electronics, including my laptop, have three-prong plugs. My power strip also has a three prong plug.</p>
+<p dir="ltr">Is there some kind of three-to-two prong adaptor I can get so I can plug in my power strip? Is it safe to use a three prong plug on a two prong outlet? I assume the third prong is there for a reason, but I am not an electrician.</p>
+<p dir="ltr">Thanks!</p>
+<p dir="ltr">RAY: Good question Daniel! The third prong on your laptop plug is called the ?ground&rsquo;. Any piece of electronic equipment that has a metal case should have a ground. The ground runs directly from the metal in the device into the, well, the ground.</p>
+<p dir="ltr">The idea is that if there is an accidental spark in your laptop it will run harmlessly into the ground instead of giving you a nasty shock.</p>
+<p dir="ltr">TOM: So if you grabbed a hacksaw and sawed off that third prong and then plugged your laptop into a two prong outlet, it would still work, right?</p>
+<p dir="ltr">RAY: Right. But you&rsquo;d be disabling an important safety feature.</p>
+<p dir="ltr">TOM: The ?ground&rsquo; is there to protect you. The idea is that if there&rsquo;s a fault in one of the devices you have plugged into the outlet, the current will run into the ground instead of electrocuting you. Which is, you know, nice.</p>
+<p dir="ltr">Now what about adaptors. I know I&rsquo;ve seen three-to-two prong adaptors. Is using one a good idea?</p>
+<p dir="ltr">RAY: OK, so those are actually known as ?cheater plugs&rsquo;.</p>
+<p dir="ltr">Daniel may have a problem finding a cheater plug now because they&rsquo;ve stopped making them within the last couple years. The reason is that those adaptors were designed around the assumption that the screw in the middle of the outlet is connected to the ground. So the current from the ground prong runs to the screw.</p>
+<p dir="ltr">But actually, they discovered a lot of times the screw is not grounded. Your average person who is not an electrician can&rsquo;t tell the difference, which means that they can&rsquo;t tell if a the adaptor is safe or not.</p>
+<p dir="ltr">TOM: Ah, so you could get an adaptor for your two prong outlet and plug your three prong laptop into it, but you don&rsquo;t know if it&rsquo;s really grounded.</p>
+<p dir="ltr">RAY: Right. It&rsquo;s pretty risky.</p>
+<p dir="ltr">TOM: So what would you suggest?</p>
+<p dir="ltr">RAY: Ideally you should replace the whole outlet with a GFCI.</p>
+<p dir="ltr">TOM: Which stands for&hellip;?</p>
+<p dir="ltr">RAY: Ground Fault Circuit Interrupter. If you&rsquo;ve ever seen one of those outlets in a bathroom or a kitchen that has a red and a green button, that&rsquo;s a GFCI. A GFCI works like a mini-circuit-breaker. If it detects a power surge it disconnects the power entirely, hopefully in time to prevent you from being electrocuted. Then you have to reset it by hitting the green button.</p>
+<p dir="ltr">TOM: Should Daniel try to install a GFCI himself?</p>
+<p dir="ltr">RAY: It&rsquo;s possible to do, but it definitely requires some careful re-wiring. Always, always cut the power to the outlet before you attempt to do something like this.</p>
+<p dir="ltr">If you&rsquo;re not sure, you should probably get an electrician to do it.</p>
+<p dir="ltr">TOM: One last thing we should mention. I am not an electrician so I&rsquo;m not sure why it works this way, but everything I&rsquo;ve ever heard indicates that surge protectors don&rsquo;t work well or possibly at all if you don&rsquo;t plug them into a grounded outlet.</p>
+<p>RAY: Good to know.</p>
+<p dir="ltr">TOM: MW writes &ndash; I have a pair of Toshiba laptops for my kids, they came w/ Vista but I have installed valid copies of Win 7 home premium on them. Recently upgraded our wireless router to one with two USB ports, I have connected a large networked hard disk on one and an older HP D 1300 series printer on the other USB connection so the kids could access a printer and keep them off Mom&rsquo;s machine.</p>
+<p dir="ltr">When I tried to set up the printer on both laptops after the Win 7 install, one automatically recognized the printer, installed the driver and we can access it w/ no problem. The other computer refuses to acknowledge the presence of the printer and I can&rsquo;t get Win 7 to connect to it, although it readily acknowledges the hard disk and I can store or retrieve files from the remote hard disk from both Toshiba laptops, so it is connected to the router. I know of no difference in how Win 7 was installed on both machines, I installed them both and there appeared to be no issues w/ the install process.</p>
+<p dir="ltr">I&rsquo;ve tried deleting all the &ldquo;printers&rdquo; on the recalcitrant machine and unplugging and reconnecting the printer to the router and the install disk for the 1300 is not recognized by Win 7 and won&rsquo;t run, and it refuses to let me &ldquo;Run as XP&rdquo;, etc.</p>
+<p dir="ltr">Many thanks.</p>
+<p dir="ltr">RAY: Okay, so, just to recap, let me see if I have got this straight:</p>
+<ul><li dir="ltr">
+<p dir="ltr">MW has a pair of identical laptops, upgraded from Windows Vista to Windows 7.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">MW has a home network running through a router with two wireless USB ports.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Hooked up to the router are a portable hard drive and a HP D1300 series printer.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Both laptops can see the networked hard drive, but only one can see the HP printer, even though they should be in every way identical.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Attempts to reinstall the printer drivers and to detach and reattach the printer to the network make no difference.</p>
+</li>
+</ul><p dir="ltr">Did I get it right?</p>
+<p dir="ltr">TOM: Sounds to me like you have accurately described the situation, Ray.</p>
+<p dir="ltr">RAY: Hooray, what do I win?</p>
+<p dir="ltr">TOM: Um, one thousand Listening Comprehension Points?</p>
+<p dir="ltr">*applause*</p>
+<p dir="ltr">RAY: Can I redeem those for anything?</p>
+<p dir="ltr">TOM: Here, I&rsquo;ve got thirteen cents in loose change in my pocket. It&rsquo;s all yours.</p>
+<p dir="ltr">RAY: Wow. Alright Tom, got any thoughts on why one of MW&rsquo;s identical laptops can&rsquo;t see the networked printer?</p>
+<p dir="ltr">TOM: Well my first thought is that I think that MW is getting a little too hung up on the fact that the laptops are supposed to be identical.</p>
+<p dir="ltr">TOM: It&rsquo;s my experience that two identical computers can have completely different problems. In fact this happens all the time. Ask the IT guys at your office.</p>
+<p dir="ltr">At my office the help desk guys will buy multiple new computers, identical machines from the same company, and set them up for employees. They don&rsquo;t even install Windows in the traditional sense: they install an ?image&rsquo;, an exact copy, of a hard drive on every single computer.</p>
+<p dir="ltr">So, you have multiple machines bought from the same manufacturer with the same specs. Then you install exactly identical software on every machine. Then you give them to the users. Guess how often these ?identical&rsquo; machines develop ?unique&rsquo; issues?</p>
+<p dir="ltr">All. The. Time.</p>
+<p dir="ltr">You have to realize that a computer is an incredibly complicated machine, composed of trillions of intricate connections between tiny parts. These parts, by the way, are manufactured all over the world before they are assembled by Toshiba or Samsung or HP or whoever. It&rsquo;s all too easy for tiny, undetectable flaws to be introduced at some point in the process. There&rsquo;s really no such thing as identical computers.</p>
+<p dir="ltr">RAY: Exactly. So MW, don&rsquo;t get too hung up on the fact that the laptops are identical. They can easily have different issues. You really need to concentrate on troubleshooting the problem.</p>
+<p dir="ltr">The first thing I would do and that anyone is going to tell you is that you should search for the latest drivers for your printer and make sure those are installed on the problem laptop.</p>
+<p dir="ltr">TOM: Now, MW is probably like to hear this, but I think the printer may be the problem.</p>
+<p dir="ltr">RAY: Why is that?</p>
+<p dir="ltr">TOM: Well, so I noticed MW was plugging the printer into the USB port of the router. And MW said that it was an older printer. That immediately makes me think that the HP D1330 was not designed to be a networked printer.</p>
+<p dir="ltr">And I looked it up on Google, and guess what, it&rsquo;s not.</p>
+<p dir="ltr">RAY: Well that&rsquo;s why routers have USB ports, right? So you can take a non-network printer and use it as a networked one.</p>
+<p dir="ltr">TOM: Sure. And you can do that in theory. But I&rsquo;m here to tell you that in my experience networking printers that weren&rsquo;t designed specifically to be networked printers is horrendously unreliable.</p>
+<p dir="ltr">I&rsquo;ve had all kinds of trouble with similar situations: the printers freeze up, they disappear from the network, they are still there but they stop working. And you never figure out WHY. The next day they may go back to working normally.</p>
+<p dir="ltr">I know that right now MW is having a specific problem with just one of their computers, but just give it time: I will bet you anything that the other computers have sporadic problems printing to that printer.</p>
+<p dir="ltr">At the end of the day I think MW will save themselves a lot of time and headaches by going out and dropping a chunk of cash to buy a printer that&rsquo;s INTENDED to be used on a network.</p>
+<p dir="ltr">Just my two cents.</p>
+<p dir="ltr">You got anything you want to add, Ray?</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
+<p dir="ltr">Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 39 - Get a Smart Phone, and Keep It Clean!" data-link="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 39 - Get a Smart Phone, and Keep It Clean!" data-link="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3" length="33075618" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

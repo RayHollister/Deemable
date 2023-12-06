@@ -1,0 +1,24 @@
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 288
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1004
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: #45 Deemable Tech and The Podsters</title>
+	<atom:link href="/2013/08/deemable-tech-and-the-podsters/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/08/deemable-tech-and-the-podsters/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+</channel>
+</rss>

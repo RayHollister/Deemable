@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Mobile Mouse</title>
+	<atom:link href="/tag/mobile-mouse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Mike asks, &#8220;Can I use one keyboard and mouse with two computers?&#8221;</title>
+		<link>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/</link>
+		<comments>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#comments</comments>
+		<pubDate>Fri, 16 Aug 2013 15:40:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[desktop computers]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[KVM]]></category>
+		<category><![CDATA[Lifehacker]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mobile Mouse]]></category>
+		<category><![CDATA[ShareMouse]]></category>
+		<category><![CDATA[Synergy]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7887</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I use two desktop computers at work, and I&#8217;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse <a href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p101665-embed" src="http://www.prx.org/p/101665/embed.js?size=small"></script></p>
+<div id="attachment_7894" style="width: 356px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/08/two_computers_one_keyboard.png" class="gallery_colorbox"><img class=" wp-image-7894 " src="//media/2013/08/two_computers_one_keyboard.png"  alt="Image Credit: Chris Owens / Flickr" width="346" height="207"></a><p class="wp-caption-text">Image Credit: Chris Owens / Flickr</p></div>
+<p><strong>Q:</strong> I use two desktop computers at work, and I&rsquo;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse for both computers? Also, is there any app I can use to control my computer from my iPad?</p>
+<p><strong>A:</strong> Thanks for your question, Mike. There are a couple of methods to control two different computers from one keyboard and mouse: either with a cable or with software.</p>
+<p>First, there is a cable called a&nbsp;KVM&nbsp;switch, which is short for &ldquo;keyboard, video and mouse&rdquo; switch. These let you share one mouse, keyboard and monitor between two computers. There are also KM switch cables that allow you to share just a keyboard and mouse with two computers that have two separate monitors. If you are using the two different computers at the same time, that second one might be the best option for you.</p>
+<p>Either way, they both run between $20 and $100. The great thing about using a physical cable is that the connection is really fast, and you&rsquo;ll never have any lag. The down side is that you are limited by the length of the cable. Also, you&rsquo;ll need to press a button, or turn a switch, to go back and forth between the two computers.</p>
+<p>If you want to go the software route, there are two great programs that do the same thing as a KM switch, but over your network instead of a cable. One is called&nbsp;<a href="http://www.share-mouse.com/" data-cke-saved-href="http://www.share-mouse.com/">ShareMouse</a>. It is super easy to use, and isn&rsquo;t too difficult to set up. However, it normally costs $30 per computer!</p>
+<p>Another option is a program called&nbsp;<a href="http://synergy-foss.org/" data-cke-saved-href="http://synergy-foss.org/">Synergy</a>&nbsp;(this is the one we prefer). It&rsquo;s a tiny bit harder to set up than&nbsp;ShareMouse, but it&nbsp;starts at only $10&nbsp;and it&rsquo;s open-source, so there&rsquo;s an entire community constantly working on it to make it better! On both programs you don&rsquo;t have to press a button to switch computers &ndash; it&rsquo;s as simple as sliding your mouse off the edge of one screen, and it will appear on the other screen. Also, both programs support clipboard sharing, which allows you to copy text on one computer and paste it on the other.</p>
+<p>Both programs are relatively small ones that don&rsquo;t use up a lot of resources on your computers or bandwidth on your network. One potential downside of using one of these programs is that if your network is bogged down (for example if you are running streaming video or downloading a lot), you might notice a slight lag in reaction time. Also, neither program supports sharing a monitor between the two computers.</p>
+<p>If you are trying to do that with software, you&rsquo;ll have to try Remote Desktop or a Virtual Network Computing program. That&rsquo;s a little bit more complicated, and probably isn&rsquo;t worth it if you have both computers in the same room.</p>
+<p>If each computer does have its own monitor, we recommend starting out by trying Synergy. That will probably be the best solution for your problem. If that doesn&rsquo;t work, then try&nbsp;ShareMouse&nbsp;or a hardware KM or&nbsp;KVM&nbsp;switch.</p>
+<p>To answer your second question about controlling your computers from your iPad, we recommend&nbsp;<a href="http://mobilemouse.com/" data-cke-saved-href="http://mobilemouse.com/">Mobile Mouse Pro</a>. You can get it in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;for $2.99 (it&rsquo;s also available for the same price in&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en">Google Play</a>&nbsp;for Android users). You have to install a small server app on your desktop, but once you do and open the app, your phone or tablet turns into a&nbsp;multitouch&nbsp;trackpad, remote keyboard, and music and presentation remote.&nbsp;If you just want to try out Mobile Mouse before you buy it, there is a free version called Mobile Mouse&nbsp;Lite&nbsp;in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;and&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en">Google Play</a>.</p>
+<p>Hopefully one of these options will help you out, Mike. Try them out, and clear off that desk!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

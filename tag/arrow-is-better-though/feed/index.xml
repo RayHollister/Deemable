@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Arrow Is Better Though</title>
+	<atom:link href="/tag/arrow-is-better-though/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: How do I uninstall Flash?</title>
+		<link>/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/</link>
+		<comments>/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/#comments</comments>
+		<pubDate>Wed, 03 Jun 2015 21:25:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Adobe Flash]]></category>
+		<category><![CDATA[Adobe Shockwave]]></category>
+		<category><![CDATA[Arrow Is Better Though]]></category>
+		<category><![CDATA[deemable.com/flash]]></category>
+		<category><![CDATA[Flash Sucks]]></category>
+		<category><![CDATA[The Flash Doesn't Suck]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10056</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/06/adobe_flash_player_icon-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Adobe Systems" style="float:left; margin:0 15px 15px 0;" />Felicia writes, &#8220;I read a news article that said hackers could infect my computer through Flash. How do I know if I have Flash? And how can I get rid of it?&#8221; You have really been paying attention, Felicia! Earlier <a href="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/06/adobe_flash_player_icon-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Adobe Systems" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Felicia writes, &ldquo;I read a news article that said hackers could infect my computer through Flash. How do I know if I have Flash? And how can I get rid of it?&rdquo;</strong></em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10056-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150603.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150603.mp3">http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150603.mp3</a></audio><div id="attachment_10059" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/06/adobe_flash_player_icon.png" class="gallery_colorbox"><img class="size-medium wp-image-10059" src="//media/2015/06/adobe_flash_player_icon-300x300.png"  alt="Image credit: Adobe Systems" width="300" height="300"></a><p class="wp-caption-text">Image credit: Adobe Systems</p></div>
+<p>You have really been paying attention, Felicia! Earlier this year there was a big scare when researchers discovered that there were three big security holes in Flash. These vulnerabilities would have allowed hackers to do very bad things if you visited the wrong websites.</p>
+<p>Adobe, the company that makes Flash, has since patched all three of those security holes, but we feel that it&rsquo;s really hard to trust that there aren&rsquo;t more issues that we don?t know about. Plus, Flash is an outdated technology that most people don?t need. So we say it&rsquo;s time to get rid of it.</p>
+<p>Flash is installed on most browsers on desktops and laptops, so you most likely do have it. To find out for sure if you have it follow the &ldquo;Check my Flash&rdquo; link below. If the page asks you to install Flash, you don&rsquo;t have it installed on the browser you are using. Otherwise, you do.</p>
+<p><strong><a href="http://get.adobe.com/flashplayer" target="_blank">Check My Flash</a></strong></p>
+<p>Flash is everywhere because it used to be the piece of technology that allowed websites to show fun animations and play videos. Now, though, there&rsquo;s an advanced technology called HTML5 that lets you do that kind of stuff much more safely and without being constantly bugged to download updates. Flash is also slow and clunky to use. iPhones have never supported it because of this, which is one of the reasons that the rest of the internet has gradually moved away from it.</p>
+<p>So, basically, it&rsquo;s not that great, it&rsquo;s kind of clunky, it&rsquo;s not 100 percent safe, and you don&rsquo;t need it. Like we said, it&rsquo;s time to get rid of it!</p>
+<p>Uninstalling it is easy to do. Just follow the steps on Adobe&rsquo;s site for removing Flash from <a href="https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html" target="_blank"><strong>Windows </strong></a>and <a href="https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-mac-os.html" target="_blank"><strong>Mac OS</strong></a>.</p>
+<p>Now, we should note that some people might actually need Flash on their computers. For instance, some corporate intranet sites require it, which means uninstalling it entirely is not a good option if you have to use one of those sites. However, even if you have to keep Flash around, there are ways to make it safer for you to use.</p>
+<p>One very easy way is to use Google&rsquo;s Chrome browser. Chrome runs Flash inside what is called a &ldquo;sandbox,&rdquo; which means it is isolated from the rest of the computer.</p>
+<p>If that isn&rsquo;t safe enough for you, there is a free browser plugin for both Firefox and Chrome called FlashBlock. FlashBlock, as the name implies, blocks all Flash on a web page by default, leaving only a small icon. You have to right-click that icon and tell it you want to enable that piece of Flash in order to view it.</p>
+<p>If you&rsquo;re not sure if you need Flash or not, try uninstalling it and see if you can get along without it! After all, you can reinstall it any time you want. In the meantime, you&rsquo;ll probably see a lot fewer of those auto-playing ad videos when you visit websites. We bet you won&rsquo;t miss those at all!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/06/adt_20150603.mp3" length="3516176" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

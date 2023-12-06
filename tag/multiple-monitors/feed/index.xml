@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; multiple monitors</title>
+	<atom:link href="/tag/multiple-monitors/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Brian asks, &#8220;How can I use multiple monitors with my computer?&#8221;</title>
+		<link>/2014/03/brian-asks-can-multiple-monitors-computer/</link>
+		<comments>/2014/03/brian-asks-can-multiple-monitors-computer/#comments</comments>
+		<pubDate>Thu, 06 Mar 2014 11:40:02 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[multiple monitors]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8596</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/02/multiple_monitors-150x150.png" class="attachment-thumbnail wp-post-image" alt="multiple_monitors" style="float:left; margin:0 15px 15px 0;" />Q:&#160;The other day I was at a co-worker&#8217;s office, and he had two monitors on his desk. I thought he had two computers, but then I saw him drag a window from one screen to the other. Then, he pulled <a href="/2014/03/brian-asks-can-multiple-monitors-computer/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/brian-asks-can-multiple-monitors-computer/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/02/multiple_monitors-150x150.png" class="attachment-thumbnail wp-post-image" alt="multiple_monitors" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p112474-embed" src="http://www.prx.org/p/112474/embed.js?size=small"></script></p>
+<p><strong>Q:&nbsp;</strong>The other day I was at a co-worker&rsquo;s office, and he had two monitors on his desk. I thought he had two computers, but then I saw him drag a window from one screen to the other. Then, he pulled out his iPad, and started using it as another screen. He acted so nonchalant about it, I didn&rsquo;t want to ask him how he set it up, but it looked like magic!</p>
+<p>How does that work, and more importantly, how can I do it? My computer only has one place to plug in a monitor. Is there some hardware that you have to buy to make that voodoo happen?<span id="more-8596"></span></p>
+<div id="attachment_8597" style="width: 347px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/02/multiple_monitors.png" class="gallery_colorbox"><img class=" wp-image-8597 " src="//media/2014/02/multiple_monitors.png"  alt="multiple_monitors" width="337" height="251"></a><p class="wp-caption-text">Image credit: Chance Reecher / Flickr</p></div>
+<p><strong>A:&nbsp;</strong>Awesome question, Brian! No, it&rsquo;s not magic, but it does look pretty cool. Having dual monitors (or multiple monitors) can really improve your productivity too. It&rsquo;s like having a bigger desk &ndash; the more screen space you have to work on, the more you can get done faster. Instead of having to manually switch back and forth between windows on one monitor, you can just turn your head and look at the other screen.</p>
+<p>It&rsquo;s also a lot easier to multitask, and it&rsquo;s easier to stay focused on your primary task, when you have multiple screens. You can put what is most important right in front of you, and put things that are less important on another monitor.</p>
+<p>There are a few different ways to do this, but which one will work best depends on your computer. On most laptops, you can simply plug in an extra monitor. On desktops, the first way to do it is to install an additional video card. A video card is a piece of hardware that goes inside your computer to give you an additional monitor port. You&rsquo;ll have to do a little research about your computer to find out what kind of video card you can install into it. It will be an AGP or PCI card if it&rsquo;s an older computer, or a PCI Express card if it is a newer computer. You should be able to find out which one you need by looking in the owner&rsquo;s manual.</p>
+<p>If you can&rsquo;t find your owner&rsquo;s manual, you should be able to find the information on the manufacturer&rsquo;s website. Just search Google or Bing for the name of your computer (like &ldquo;Dell Inspiron 8500&rdquo;), and you should be able to find the site with the manual.</p>
+<p>If you don&rsquo;t want to do all of that research or you&rsquo;re concerned about opening the computer case, you can always get an external video adapter. This is a little box that plugs into the USB port on the front or back of your computer and gives you an extra video port. Then, you can plug your other monitor into that.</p>
+<p>If neither of those solutions work, or you just don&rsquo;t want to buy any hardware, the other way to do it is through a virtual connection. To do that, you&rsquo;ll need a piece of software like&nbsp;<a href="http://www.avatron.com/apps/air-display/">Air Display by Avatron</a>&nbsp;and a working laptop or iPad or Android tablet. All you have to do is install the software on your main computer, and install the software on the other computer or tablet. Boom! You&rsquo;ve got second screen! Your old computer or tablet will still work, but the only thing you&rsquo;ll be using it for is as your second monitor.</p>
+<p>Regardless of which method you use, you will probably have to play with your display settings to get your monitors working the way you want them to. Once you do, you will be able to do two screen magic just like your co-worker.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Brian asks, "How can I use multiple monitors with my computer?"' data-link="/2014/03/brian-asks-can-multiple-monitors-computer/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Brian asks, "How can I use multiple monitors with my computer?"' data-link="/2014/03/brian-asks-can-multiple-monitors-computer/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/brian-asks-can-multiple-monitors-computer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

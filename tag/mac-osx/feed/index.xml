@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Mac OSX</title>
+	<atom:link href="/tag/mac-osx/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Alana asks &#8220;Why isn&#8217;t iMessage the same across all of my devices?&#8221;</title>
+		<link>/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/</link>
+		<comments>/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/#comments</comments>
+		<pubDate>Thu, 07 Feb 2013 14:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[iMessage]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[ipod touch]]></category>
+		<category><![CDATA[Mac OSX]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7215</guid>
+		<description><![CDATA[Alana wants to know why iMessage &#8211; a feature on Apple devices like iPhones iPads that lets you send text messages using your data plan rather than your texting plan &#8211; separates texts according to which device they were sent <a href="/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Alana wants to know why iMessage &ndash; a feature on Apple devices like iPhones iPads that lets you send text messages using your data plan rather than your texting plan &ndash; separates texts according to which device they were sent to or from, even though they&rsquo;re all from the same person. What does she need to do to make sure all of her devices are using the same login information? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p91392-embed" src="http://www.prx.org/p/91392/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: </p>
+<p>TOM: Alana sent us an email with the great title iMessage iAin&rsquo;t iWorking. She asks: I thought that when iOS 6.0 came out iMessage was supposed to be synchronized between your iPad and your iPhone. I have an iPad and an iPhone, and my husband has an iPhone, but he has to send texts to either my iPad or iPhone. It doesn&rsquo;t work on both. Did I read that wrong, or do I have something set up wrong? </p>
+<p>RAY: iOS 6 did fix the problem, but it didn&rsquo;t fix it automatically. </p>
+<p>TOM: OK, first of all, for our listeners that don&rsquo;t have iOS devices, iMessage is a text messaging system that works on iPhones, iPads and iPod touches. It replaces text messaging for folks using those devices. So, your iMessage texts don&rsquo;t use your texting plan, but go over your data plan instead. </p>
+<p>RAY: The problem was that you had to keep track of which device you were messaging. So, for instance, I could send a message to my wife&rsquo;s iPhone or her iPad, but not to both at the same time. And to make things worse, iMessage would show the message based on who sent it, not which device sent it. So, I would have two message threads that both had my wife&rsquo;s name on them. It was really frustrating, and there wasn&rsquo;t anything we could do about it. The problem was that on an iPhone, you signed into iMessage with your phone number, but on the iPad and iPod touch you signed in with your email address.<br>
+Then, iOS 6 came out, and you could sign into iMessage on any device with multiple sign-ins, including additional email addresses and your phone number. So, that was supposed to fix the problem. Now, all your iMessages would appear on all of your devices. Except it didn&rsquo;t &ldquo;just work.&rdquo; Everyone that I&rsquo;ve talked to that has multiple iDevices has dealt with this.<br>
+But, fortunately, it is fairly easy to fix. </p>
+<p>TOM: So Ray, what do they do to fix it? </p>
+<p>RAY: If you want to sync your iDevices across iMessage, open the Settings app on all of your devices and go to Messages, and tap Send &amp; Receive. Then, scroll down to the heading that reads &ldquo;Start new conversations from:&rdquo; Make sure that whatever sign-in you are using for that, it is the same sign-in across devices. If you have an iPhone, I would suggest using your iPhone&rsquo;s number, but otherwise, just make sure you are using the same email address. </p>
+<p>Also, I made the assumption that you are using the same Apple ID on both devices, but just to be safe, check and make sure that you are. The Apple ID at the top of that page must be the same on both devices. If it&rsquo;s not, tap on Apple ID and Sign Out, and then sign in to the same address on both. Also, under the heading &ldquo;You can be reached by iMessage at:&rdquo; make sure that you have all of the same email addresses and phone numbers. If you are missing a phone number or email address on one of the devices, you need to make them match. Either delete it from the device that has it, or add it to the device that doesn&rsquo;t.<br>
+Then, you should be good, Alana. Test it out. </p>
+<p>TOM: To hear more answers to questions like Alana&rsquo;s, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and, of course, subscribe to our podcast. </p>
+<p>RAY: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com. For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/212946/getthemessage_medium.jpg" title="What's going on with iMessage?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alana asks &quot;Why isn't iMessage the same across all of my devices?&quot;" data-link="/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alana asks &quot;Why isn't iMessage the same across all of my devices?&quot;" data-link="/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/alana-asks-why-isnt-imessage-the-same-across-all-of-my-devices/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

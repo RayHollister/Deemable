@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Answering Machines</title>
+	<atom:link href="/tag/answering-machines/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Kasper asks, &#8220;How can I get voicemails off my old answering machine?&#8221;</title>
+		<link>/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/</link>
+		<comments>/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/#comments</comments>
+		<pubDate>Sun, 28 Dec 2014 05:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Answering Machines]]></category>
+		<category><![CDATA[Google Voice]]></category>
+		<category><![CDATA[MacGyver]]></category>
+		<category><![CDATA[panasonic]]></category>
+		<category><![CDATA[RadioShack]]></category>
+		<category><![CDATA[Voicemails]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9483</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/12/PanasonicCordlessPhones-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: John Britton / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: Here&#8217;s a question about a lower-tech gadget. I have a Panasonic cordless telephone with a digital answering machine. Over the years, it has collected several messages that I&#8217;d like to archive. I don&#8217;t see any inputs or outputs for <a href="/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/12/PanasonicCordlessPhones-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: John Britton / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9484" style="width: 310px" class="wp-caption alignright"><img class="wp-image-9484 size-medium" src="//media/2014/12/PanasonicCordlessPhones-300x225.jpg" alt="Image credit: John Britton / Flickr" width="300" height="225"><p class="wp-caption-text">Image credit: <a href="https://flic.kr/p/85iSc3">John Britton / Flickr</a></p></div>
+<p><strong>Q:</strong> Here&rsquo;s a question about a lower-tech gadget. I have a Panasonic cordless telephone with a digital answering machine. Over the years, it has collected several messages that I&rsquo;d like to archive. I don&rsquo;t see any inputs or outputs for doing this. Is there a way to permanently store the messages on this answering machine digitally?<span id="more-9483"></span></p>
+<p><strong>A: </strong>Your question would be a lot easier to answer if your phone wasn&rsquo;t cordless. If your phone had a cord on it,&nbsp;you would only&nbsp;have to buy a <a href="http://www.radioshack.com/mini-recorder-control/4301237.html" target="_blank">mini recorder control from RadioShack</a>&nbsp;to connect it directly to your computer or recorder so that you could record from it. But, there are three different ways that you can extract the voicemails from the answering machine.</p>
+<h3>The Caveman Way (or The Obvious Way)</h3>
+<p>Since it is cordless, you&rsquo;ll have to transfer the messages wirelessly, using the oldest form of wireless communication: sound. Hold a the microphone of a recorder up to speaker of your answering machine. Press Record on the recorder, and press Play on the answering machine. Ta da! You have a mildly listenable digital recording.</p>
+<h3>The MacGyver Way (or The Hacker Way)</h3>
+<p>If you&rsquo;re feeling a little handy, there is a another method&nbsp;that will give&nbsp;you a higher&nbsp;quality recording. (Disclaimer: This will <em>destroy</em> your answering machine. It will never function in the way it was intended to function again. You could also lose all of your voicemails&nbsp;in the process.&nbsp;Proceed with caution. Also, you may want to try recording them &ldquo;The Caveman&nbsp;Way&rdquo; first, just in case.)</p>
+<p>First, you&rsquo;ll need to get a <a href="http://www.radioshack.com/12-ft-24-gauge-speaker-cable-with-1-8-plug/4202454.html#?CID=ip:Affiliate:RSO:VigLink&amp;clickid=0byzZu2fn0VIWsJQK32o23WyUkV2nl2NQ3LkRA0" target="_blank">speaker cable with a&nbsp;? inch plug on one side and two bare wires</a> on the other end. You need it to be long enough to reach from your answering machine to the back of your computer or to your recorder.</p>
+<p>Once you have the wire, you&rsquo;ll need to open the answering machine case. It usually only takes a few screws to open the case.</p>
+<p>Now, look for the speaker. You may be able to see where the speaker before you open the case. It&rsquo;s where the sound is coming out of the case.</p>
+<p>Now that you have the case open, and you have found the speaker, you should see two wires&nbsp;connected to the speaker. Cut or remove them from the speaker.</p>
+<p><a href="http://www.instructables.com/id/Master-a-perfect-inline-wire-splice-everytime/" target="_blank">Splice the wires</a> from the answering machine together with the speaker cable. Never spliced wires before? Check out the previous link for a guide from Instructables.</p>
+<p>Finally, plug the&nbsp;? plug into the microphone port on your computer or recording device.</p>
+<p>Now, if you are recording on your computer, fire up recording software like <a href="http://audacity.sourceforge.net/" target="_blank">Audacity</a> or <a href="https://www.apple.com/mac/garageband/" target="_blank">GarageBand</a>&nbsp;and press record. If you&rsquo;re using a recording device, just press record. Then, press Play on the answering machine.</p>
+<p>If you did everything right, you should be getting&nbsp;a digital recording of your voicemails that sounds better than anything you could have recorded &ldquo;The Caveman Way.&rdquo;</p>
+<p>If you didn&rsquo;t do everything right, then you have a useless pile&nbsp;of plastic and circuit board. Sorry about that!</p>
+<h3>The Safer&nbsp;Way (or The Nerdy Way)</h3>
+<p>Since your answering machine is a digital machine, it likely has a remote access feature. Find the manual for your answering machine,&nbsp;(Yeah, right. You can <a href="http://www.panasonic.com/uk/consumer/home-phones/telephones-with-answering-machine.html" target="_blank">look up the manual for your answering machine on Panasonic&rsquo;s website</a>.) and find the instructions on how to access your answering machine remotely.</p>
+<p>Once you know how to access it remotely, use&nbsp;a service like <a href="https://support.google.com/voice/answer/115082?hl=en" target="_blank">Google Voice&nbsp;to record the call</a>.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Kasper asks, "How can I get voicemails off my old answering machine?"' data-link="/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Kasper asks, "How can I get voicemails off my old answering machine?"' data-link="/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/12/kasper-asks-can-get-voicemails-off-old-answering-machine/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; tech help</title>
+	<atom:link href="/tag/tech-help/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#54 Teenage Mutant Ninja Deemable</title>
+		<link>/2013/11/54-teenage-mutant-ninja-deemable/</link>
+		<comments>/2013/11/54-teenage-mutant-ninja-deemable/#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 17:34:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[GAAM]]></category>
+		<category><![CDATA[Games Art and Music]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[TMNT]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8418</guid>
+		<description><![CDATA[This week Ray and Elizabeth were joined in the studio&#160;by Ryan Paul Thompson, the founder and president of GAAM, Games Art and Music, to talk to us about the upcoming GAAM event, Teenage Mutant Ninja GAAM, Saturday, December 7, 2013 <a href="/2013/11/54-teenage-mutant-ninja-deemable/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/11/54-teenage-mutant-ninja-deemable/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Elizabeth were joined in the studio&nbsp;by Ryan Paul Thompson, the founder and president of <a onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gaamshow.com/']);" href="http://gaamshow.com/">GAAM, Games Art and Music</a>, to talk to us about the upcoming GAAM event, <a href="http://gaam.eventbrite.com/">Teenage Mutant Ninja GAAM</a>, Saturday, December 7, 2013 starting at 6:00 PM. There&rsquo;s going to be&nbsp;video game art exhibit, video game competition, cosplay competition and free beer! Ray, Tom and Sean went to the <a href="http://deemable.com/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/">last GAAM show</a>, and it was a blast. If you love video games, you should definitely check it out. Head over to <a href="http://gaam.eventbrite.com/">gaam.eventbrite.com</a> to get your tickets.</p>
+<p style="text-align: center;"><a href="http://gaam.eventbrite.com/"><img class="aligncenter" alt="Teenage Mutant Ninja GAAM" src="//media/2013/11/TMNG.jpg" width="600" height="222"></a></p>
+<p>After the break, Ray and Elizabeth answered listeners questions about&nbsp;&nbsp;transferring an iTunes collection from a dead computer, which antivirus software is the best, and how to restore an iPhone from an older backup.</p>
+<p>And remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!&nbsp;</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8418-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">#54 Teenage Mutant Ninja Deemable</a></p>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>ELIZABETH: I&rsquo;m Elizabeth Pampalone, in for Tom Braun</p>
+<p>RAY: and this is Deemable Tech. This week&rsquo;s episode is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>ELIZABETH: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: We mentioned this last week, but once Tom get&rsquo;s back, we are going to be&nbsp;working on our first, hour-long Deemable Tech radio special, and we need your help. We need some live callers to be&nbsp;on the show. So, we want you to call and leave a voicemail. We will be using them to pick our callers for the show. Make sure to leave your phone number so we can schedule a time for you to be on the show.</p>
+<p>Now, before we get to your questions, we have a guest back in the studio again, Ryan Thompson, creator and President of GAAM, Games, Art and Music is here! Welcome to the show, Ryan!</p>
+<p>You were on the show back in June before your last event and you guys have another awesome event coming up really soon.</p>
+<p>Questions for Ryan Paul Thompson</p>
+<ul><li>What is GAAM? What is the purpose of GAAM?</li>
+<li>Where did you get the idea for GAAM?</li>
+<li>Ask about the last GAAM&nbsp;event, The Legend of GAAM</li>
+<li>Tell us about Teenage Mutant Ninja GAAM</li>
+</ul><p>Ryan, thanks so much for coming in. Where can our listeners find out more about GAAM and get tickets for the event?</p>
+<p>BREAK</p>
+<p>Well, we have to take a quick break, after the break Elizabeth and I will answer a few questions from you guys about antivirus software, moving your iTunes account to a new computer.</p>
+<p>You&rsquo;re listening to Deemable Tech.</p>
+<p>OUTRO</p>
+<p><b>Name: </b>Phil</p>
+<p><b>Question:</b>&nbsp;How do I switch my iTunes account from an old computer which no longer turns on to my new computer? I&rsquo;ve downloaded iTunes onto&nbsp;the new computer but, needless to say, it doesn&rsquo;t recognize my account. The last time I changed computers with the same problem I had to start a new account on the new computer and reenter music into my library. I have all my music on my iPod but now am not able to add to it.</p>
+<p><b>Answer: </b>Before Switching computers, go into My Music (Music), Itunes, Save the iTunes Library.itl and iTunes Library.xml files to a flash drive or external drive. Install itunes&nbsp;on the new computer. Go into the same location (Music/iTunes) and replace those files with your library files from the older computer. Make sure to move your music files to the same place as they lived on the old computer. (ie Music)</p>
+<p>If it&rsquo;s too late, and you&rsquo;ve already gotten rid of your old computer, try <a href="http://www.digidna.net/diskaid">DiskAid</a> or <a href="http://www.macroplant.com/iexplorer/">iExplorer</a> to take music, movies, etc. off of your iPad, iPod, iPhone and get it into your computer.</p>
+<p><b>Name: </b>Danielle</p>
+<p>&nbsp;<b>Question: </b>Is paying for antivirus software more safer that the free versions? What are some recommendations for antivirus?</p>
+<p><b>Answer: </b>We answered this once before on our <a href="http://deemable.com/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">radio segment</a>. If you are using a Windows: XP, Vista, Win 7 use MS Security Essentials. It is FREE and works seamlessly with Windows Firewall and Windows Defender. Windows 8 has MS Security Essentials built in. It is really the best antivirus software on the market, especially for the price. Word of caution: you can only use ONE antivirus at a time. You can not have TWO running, they will cancel each other out!</p>
+<p>If you are using Mac, antivirus protection is built&nbsp;in. Check System Preferences, Security &amp; Privacy. There are some settings you might want to check out the settings there. Some of the items on General and Privacy tabs are good to go through based on what your personal preferences happen to be.</p>
+<p><b>Name:</b> Valerie</p>
+<p><b>Question:</b> Can I retrieve an iPhone backup from maybe 5 backups ago?</p>
+<p>iPhoto&nbsp;apparently failed on one of my loads from image capture, and of course I had the &ldquo;delete&nbsp;after import&rdquo; option checked. I saw some warning about iPhoto&nbsp;being full (although not an issue since) after my Macbook Pro had been working&nbsp;for awhile. I didn&rsquo;t have time to deal with it and later re-backed up my phone. When I went looking for the 3 months of photos/videos, I couldn&rsquo;t find them anywhere on my computer &mdash; it is a mess. Also my time machine (to my external hard drive) apparently hadn&rsquo;t been working during that time period either. I just can&rsquo;t imagine that the photos/video from the whole&nbsp;upload don&rsquo;t exist in some cache somewhere.</p>
+<p><b>Answer:</b> Plug in your iPhone, click the Summary button, and under Backups click Restore Backup. If you have multiple backups saved, you should have a drop down menu appear. Choose one of the options.</p>
+<p><a href="http://support.apple.com/kb/HT1766">http://support.apple.com/kb/HT1766</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/54-teenage-mutant-ninja-deemable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3" length="31698039" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#53 Apple News, Saving Tunes and Scanning Documents</title>
+		<link>/2013/10/53-apple-news-saving-tunes-scanning-documents/</link>
+		<comments>/2013/10/53-apple-news-saving-tunes-scanning-documents/#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[iPad Mini with Retina Display]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Macbook Air]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8397</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&#160; They also answered <a href="/2013/10/53-apple-news-saving-tunes-scanning-documents/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/53-apple-news-saving-tunes-scanning-documents/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&nbsp; They also answered questions about backing up your music collection, how to use your iPhone as a scanner and how to scrub&nbsp;a computer of your personal data before you donate it.</p>
+<audio class="wp-audio-shortcode" id="audio-8397-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">#53 Apple News, Saving Tunes and Scanning Documents </a></p>
+<p><img class="alignright size-large wp-image-8402" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" src="//media/2013/10/10-23-2013-1024x576.png" width="659" height="370"></p>
+<p>TRANSCRIPT</p>
+<p><strong>RAY:</strong> From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p><strong>TOM:</strong> I&rsquo;m Tom Braun,</p>
+<p><strong>RAY: </strong>and <em>this </em>is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p><strong>TOM:</strong>&nbsp;Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p><strong>RAY: </strong>Hey, we are working on recording an hour long Deemable Tech radio special so give us a call to &ldquo;audition&rdquo; for the show.</p>
+<p><strong>TOM: </strong>Today on the show we?re going to answer your questions about using your smart phone to scan things, backing up your music files and donating your old computer. But first let?s talk tech news.</p>
+<p>Ray, I see you chomping at the bit there, so go ahead and tell us about your tech story of the week!</p>
+<p><strong>RAY: </strong>Well Tom, we get to talk about your favorite thing: Apple had a press event!</p>
+<p>Last Tuesday Apple had a big press announcement</p>
+<p>iPad Air</p>
+<p>? Dropped from 1.4 lbs to 1 lb</p>
+<p>iPad Mini with Retina display $399</p>
+<p>? Same price as the iPad 2 which is still on sale.</p>
+<p>iPad Mini price dropped from $329 to $299</p>
+<p>? Still more expensive than a Nexus 7 at $269 and the Nexus 7 has a better screen.</p>
+<p>New Macbook Pros with Retina Display</p>
+<p>? Faster Intel Haswell CPUs</p>
+<p>? 13&Prime; models saw a $200 price drop.</p>
+<p>13&Prime; Macbook stayed the same price</p>
+<p>The 15&Prime; Macbook disappeared.</p>
+<p>Mac Pro (iTrash&nbsp;can) available date and pricing was announced</p>
+<p>? December 2013</p>
+<p>? Starting at $2,999</p>
+<p>last major update was 2010</p>
+<p>Mavericks OSX 10 FREE</p>
+<p>iWork: Pages, Numbers, and Keynote Formerly $9.99 each on iOS and $19.99 on OSX</p>
+<p>iLife: GarageBand, iPhoto, iMovie&nbsp;&ndash; Formerly $4.99 each on iOS and $15.00 each on OSX</p>
+<p>TOM: In the interest of equal time, here are some other non-Apple stories from this week. Best Buy reports that returns of the Samsung Galaxy Gear are over 30%.</p>
+<p>Acer has a new Chromebook, the Acer 720. It?s got a Haswell CPU under the hood. 11.6-inch 1366&times;768 TN screen. It retails for $249. Includes USB 3.0, HDMI.</p>
+<p>RAY: Kenneth writes, <strong>I want to back up my music/photos files on my Dell Home Edition computer that&rsquo;s using Windows XP as an (OS)Operating System. Which backup system or program do you recommend?</strong></p>
+<p><strong>The reason why I need to do this is because while playing music files the music is skipping so I googled the problem and that&rsquo;s what it recommended me to do is backup my music files. I did try downloading a backup program but I was getting an error message at the finish part of the download.</strong></p>
+<p>TOM: Hey Kenneth. We talked a little about backup programs last week, so you?ll want to check that out. There are a lot of good cloud backup programs out there right now, and they?re easy to use.</p>
+<p>If you want to backup&nbsp;music specifically, it actually gets even easier. Google Play Music will scoop up your music library and upload it to their cloud automatically. From there you can access it from anywhere, or download it again if you lose it.</p>
+<p><strong>RAY:</strong> Yeah, it?s great. But I?m a little confused about something.</p>
+<p>TOM: What?s that?</p>
+<p><strong>RAY:</strong> Why would backing up Kenneth?s music files stop his music player from skipping?</p>
+<p>TOM: Uhhhhhhh? yeah, I don?t know. That seems strange. Backing up your music just makes a copy of it. It doesn?t do anything to the original files.</p>
+<p>The only thing I can think of is that maybe Kenneth is just running out of space on his hard drive.</p>
+<p><strong>RAY:</strong> He did say that he was unable to download a backup program. If he was out of space that would make sense.</p>
+<p>TOM: Yeah. Once you get very low on space on your hard drive you won?t be able to download anything that?s not very small. And it causes a lot of other problems too. Your Operating System uses spare hard drive space to do stuff. Like if a program is running in memory but you?re not using it, your OS might dump a snapshot of that memory onto your hard drive temporarily to free up space. But if you?re out of hard drive space, that?s not going to happen. You?ll see your entire computer getting slower and slower. It might even cause your music to skip.</p>
+<p><strong>RAY:</strong> The only way to fix this is to either delete some files, move files off your hard drive, or uninstall programs.</p>
+<p>TOM: Yeah. If you have an older, smaller hard drive you may find yourself having to do this kind of housekeeping quite a lot. Music files are a great way to start. Try downloading Google Music, because it?s super small. Once it has scanned and uploaded your music library to the cloud, which might take a couple days, start deleting music.</p>
+<p><strong>RAY:</strong> You also need to open up Program Files in the Windows control panel and go through and look for programs you aren?t using. If you see any, click and uninstall them. Remember with most programs you can always reinstall them later if you need them.</p>
+<p><strong>TOM:</strong> Nowadays people have a lot of video files on their hard drives. Nothing will eat up space faster. Time to burn some DVDs! And do you really need a copy of every season of Friends?</p>
+<p>We have a voicemail from Geri:</p>
+<p><strong>Hi guys this is jerry&nbsp;calling over wife I&nbsp;from Cameroon in Africa &hellip; I was calling to harass you asked me to let you know if my old computer game would work gravel &hellip; and it&rsquo;s working great it totally will run on my computer so thanks for the tip okay so my new question I&rsquo;ve just been informed by a friend on face book and that I can use my I phone &hellip; camera as a scanner and that they&rsquo;re apps for the I need to know more and so I&rsquo;m calling to best guys I know to help me find out so that you can do the research and tell me the best thing &hellip; I have an I phone for okay thanks</strong></p>
+<p>Depends on what you want to use it for, OCR or image capture.</p>
+<p><strong>OCR</strong></p>
+<p>ABBYY&nbsp;TextGrabber + Translator $5.99</p>
+<p><strong>Image capture</strong></p>
+<p>ABBYY&nbsp;FineScanner $1.99</p>
+<p>JotNot Scanner Pro $.99</p>
+<p>TOM: Julie wrote in: <strong>I have 2 laptop computers that I would like to donate&nbsp;to a school or organization. How can I erase/remove any personal information in the hard drive, before I donate&nbsp;them? i&nbsp;have been told&nbsp;i can reinstall the original set up discs that came with each one but I can&rsquo;t find those. Is there an inexpensive way to do this, i.e. where I don&rsquo;t have to buy expensive software or take it somewhere like Best Buy where it will cost a lot of $$? Thanks. </strong></p>
+<p>We talked about this once before, on episode #42, but it never hurts to repeat. You have the right idea. You definitely want to wipe your computer <em>before</em> you give it away or sell it.</p>
+<p>In that episode, we mentioned If it?s a Windows PC you?re getting rid of, use a program like Eraser or the Drive Wiper in CCleaner to completely eradicate your data. If you?re tossing out a Mac, there?s a program called Permanent Eraser. All of these programs are free.</p>
+<p>However, one of our listeners, Eva, pointed out that this will not wipe the entire hard drive clean, because it won&rsquo;t wipe the operating system. That is true. To wipe the entire hard drive clean, you need to do one of two things, boot it from the USB or CD/DVD drive or remove the hard drive and use a USB adapter to attach it as an external hard drive to another computer.</p>
+<p>Restore partition.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/53-apple-news-saving-tunes-scanning-documents/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3" length="39942353" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#51 How To Root Your TI-84</title>
+		<link>/2013/10/51-root-ti-84/</link>
+		<comments>/2013/10/51-root-ti-84/#comments</comments>
+		<pubDate>Wed, 09 Oct 2013 16:42:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Calendar apps]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[productivity apps]]></category>
+		<category><![CDATA[receipt and recordkeeping]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[to do list apps]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8343</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" />On this week&#8217;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an <a href="/2013/10/51-root-ti-84/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/51-root-ti-84/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this week&rsquo;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an Android app to the SD card. They also announced the winner of the Amazon Gift Card, #24 Eugene!</p>
+<audio class="wp-audio-shortcode" id="audio-8343-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">#51 How To Root Your TI-84</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/NZ5aPUbt3rY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><img class="alignright  wp-image-8344" alt="TI-84-Hacked" src="//media/2013/10/TI-84-Hacked.jpg" width="360" height="322"></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech PODcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: Before we jump into the show, could I ask a favor? ? OK, thanks.</p>
+<p>Would you take a second and tell your friends about Deemable Tech? Especially if you know someone who is interested&nbsp;in learning more about technology, whether they currently know nothing about technology, or you think they already know everything about technology. Tell them to check out Deemable Tech. We&rsquo;d really appreciate it!</p>
+<p>RAY: Also, if you haven&rsquo;t done so already, make sure you are subscribed&nbsp;to Deemable Tech. Just go to iTunes and search for Deemable Tech, or go to deemable.com/itunes to take you directly to our iTunes page. You can also subscribe to our YouTube page. And we&rsquo;re on the Facebook and the Twitter, just search for Deemable Tech.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>RAY: Well, the time is finally here to announce the winner of the Amazon Gift Card contest. If you&rsquo;re not familiar with it, we have been asking&nbsp;you guys to answer a few questions about the Deemable Tech podcast. All you had to do was go to Deemable.com and click the link to take the survey. And if you did it, you are entered&nbsp;to win a $20 Amazon Gift Card, which we are going to draw the winner of riiiight, after we answer your questions!</p>
+<p>TOM: Today on the show we?re going to answer your questions about what phone works best for overseas travel,</p>
+<p>RAY: Which calendar app is the best,</p>
+<p>TOM: How to move apps to the SD Card on an Android phone,</p>
+<p>RAY: And how to print a morning edition. But first &ndash;</p>
+<p>TOM: We have a question from Deborah.</p>
+<p dir="ltr"><strong>Deborah writes:</strong> I am a teacher, and I need to track my receipts for tax purposes. I try to keep up with this on my computer, but invariably forget, get behind, and give up. This leads to me merely estimating my out-of-pocket expenses for my classroom at tax time. Is there a good, FREE app for my iPhone that can help me keep up with my expenses and receipts? I searched the app store at iTunes, but the results list was so long that it was daunting, especially since I cannot sort it for reviews. I thought I had found a winner with <a href="https://www.concur.com/">Concur</a>, but then realized only the app was free &ndash; an online account would require money.</p>
+<p dir="ltr">RAY: Well, let me start by making a disclosure and a disclaimer. I work for the IRS, but I do not speak for the IRS. Don&rsquo;t take anything that I say as representative of the Internal Revenue Service&rsquo;s position&nbsp;on anything. They are solely my opinions and do not necessarily reflect the Internal Revenue Service&rsquo;s view or opinion.</p>
+<p dir="ltr">Also, do not take anything that we say as financial or accounting advice. If you need financial or accounting advice, we strongly recommend seeking expert advice from qualified professionals.</p>
+<p dir="ltr">Now, that being said, we do know of a couple of apps that might work for what you are trying to find. The simplest one, is also free, and it&rsquo;s called <a href="https://drive.google.com/">Google Drive</a>. Just start a Spreadsheet up on Google Drive to keep track of your transactions, and take photos of your receipts and upload them to a Receipt folder in Google Drive.</p>
+<p dir="ltr">Now, for a solution that is custom made for what you are trying to do, <a href="http://www.onereceipt.com/">OneReceipt</a> is a great app that you can use to scan receipts in with your iPhone camera. It automatically determines the amount of the transaction, and what it was for. It also can connect to your email account, so when you get electronic receipts, like from Apple iTunes account, Amazon, Office Depot, Square, etc, it will grab those receipts for you and keep track of them as well.</p>
+<p dir="ltr">The app is currently&nbsp;free, but it is still in beta. Also, I doubt that the optical character recognition is as good as the results imply. There must be someone looking at these receipts to confirm the results. That might make you uncomfortable. But it is pretty seamless and simple to use.</p>
+<p dir="ltr">An app called <a href="http://lemon.com/">Lemon Wallet</a>&nbsp;does the same, but it&rsquo;s mostly focused on storing your credit cards and loyalty cards. The receipt scanning feature isn&rsquo;t quite&nbsp;as good, and the app is a little crashy the last time I tried it.</p>
+<p dir="ltr">I haven&rsquo;t found any other apps that were free or worth the money, if anyone of our listeners know of expense record keeping apps that you like that work on iOS, let us know. Send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">Now, there is a question of&nbsp;whether or not&nbsp;these apps would be sufficient&nbsp;for record keeping if you were audited by the IRS. I wish I could answer that question, but I don&rsquo;t know the answer. But I do know where you can find the answer, go to <a href="http://www.irs.gov/">irs.gov</a> and search for &ldquo;Publication 17 Your Federal Income Tax&rdquo;. That will have all the answers you seek, and if it&rsquo;s not in there, it will usually tell you where to find the answer in a different publication. And if you still can&rsquo;t find the answer, you can call the IRS at 1-800-829-1040 (Individuals) or 1-800-829-4933 (Business)</p>
+<p dir="ltr"><strong>Summer asked:</strong>&nbsp;I listened recently to your advice about using a phone outside the U.S. I will be traveling to MX soon and I&rsquo;ve lived there before, so I actually have an el cheapo phone that I can bring with me and use there. However, I&rsquo;d like to use my iPhone if I could..it&rsquo;s an iPhone 4s, but it&rsquo;s on the Sprint Network. You mentioned iPhone 4s would work&mdash;but that Sprint uses CDMA&hellip;.so&hellip;Is there something I can do so that it will work for me? I won&rsquo;t have a ton of WiFi access&hellip;thanks!</p>
+<p dir="ltr">Great question, Summer. An iPhone 4S does work international because it is a world phone, however, like you said Sprint does use CDMA. There is a SIM card in your phone, but you can&rsquo;t activate it except for international roaming without unlocking your phone. However, if you call Sprint they will might unlock it for you, if you are in good standing with Sprint and you explain why you need it unlocked and you are very nice to them. This will be much easier if you are out of contract. If you are still in contract, you might have a harder time. Otherwise, you&rsquo;ll have to unlock it the old fashioned way, which means jailbreaking it. If that is something you are interested in trying visit&nbsp;<a href="http://www.imore.com/jailbreak">imore.com/jailbreak</a>&nbsp;at your own risk.</p>
+<p><strong>Louis asks:</strong>&nbsp;After recovering items from two different recovery software applications I am unable to open videos and over 90% of the photos. Please provide me guidance to resolve this problem.</p>
+<p>Thanks for your email. We need some additional&nbsp;details to be&nbsp;able to help you out. What operating system are you running, and what software applications did you use? Email us back at questions@deemable.com and hopefully we should be able to help you out. If you need access to those files faster, check out our business directory at <a title="Business Directory" href="http://deemable.com/business-directory/">http://deemable.com/business-directory/</a>&nbsp;and there are several companies in Jacksonville that should be able to help you out.</p>
+<p dir="ltr"><strong>Krysten asked on Facebook:</strong>&nbsp;Can anyone recommend a calendar app for my iPhone? I&rsquo;ve kept my calendar as a list in my notes for years and have accidentally deleted it multiple times, which is all stupid, I know. Haven&rsquo;t found a calendar app yet that I like. I want to be&nbsp;able to integrate tasks I&rsquo;ve given myself for the day and I&rsquo;d like it to be easy to cut/paste from date to date. Suggestions?</p>
+<p dir="ltr">The built in&nbsp;calendar app is pretty good since iOS 7 came out, but I honestly don&rsquo;t think you want a calendar app. I think you want a good task manager or to-do list app.</p>
+<p dir="ltr">Check out <a href="http://www.davidco.com/about-gtd">Getting Things Done</a>. You should only use a calendar app for events that are set in time, not for tasks.</p>
+<p dir="ltr">If you are looking for a to-do app, Reminders in iOS is actually a pretty decent basic task app. If you&rsquo;re looking for something a little more comprehensive, <a href="http://www.toodledo.com/">Toodledo</a>&nbsp;is a great app that will let you organize your tasks by context and by location.</p>
+<p><strong>Dana emailed us:</strong></p>
+<p>I listened to your discussion on the use of cellphones overseas. I wanted to print this. On your website/WJCT, I see that I can listen to it, but I do not see where I can print this.</p>
+<p>Can you forward me a copy of this? I would like to have this copy so I can decide what I would like to do as I plan to travel soon.</p>
+<p>All of our Radio Segments at <a href="http://deemable.com/radio">deemable.com/radio</a> We include a transcript of the segment on the site. We don&rsquo;t have a print friendly version, but we will look into it. The copy of the transcript on <a href="http://wjctnews.org/">WJCT&rsquo;s news website</a> is printer friendly, just click the Print icon above the headline. Otherwise, just copy and paste the text into a Word or Google Drive document.</p>
+<p dir="ltr"><strong>Robert Snyder writes</strong>, I had to uninstall Facebook on my Android phone, and when I reinstalled it, I couldn&rsquo;t move it to my SD card. This is a problem because my phone doesn&rsquo;t have a lot of internal memory.</p>
+<p dir="ltr">Why can&rsquo;t I move it, and is there a way around it?</p>
+<p dir="ltr">TOM: Robert Snyder? Snyder, that name rings a bell.</p>
+<p dir="ltr">ROBERT: Yeah I?m? back here?</p>
+<ul><li dir="ltr">
+<p dir="ltr">What phone does Robert have?</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">What version of Android? (Froyo)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Publishers can set apps so that they can?t be moved to the SD card.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Later versions of Android have disabled move to SD card completely</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Apps running on the SD card are de-prioritized and run much slower. To be fair though, with the exception of&nbsp;games most apps are pretty small. It?s the data that takes up a lot of space. So most music, pictures and video will be stored on your SD card.</p>
+</li>
+<li dir="ltr">If you?re really strapped for space and need to move stuff to the SD card, you have two options: root the phone, or download an app. There are apps that will move it to the SD card, but use at your own risk.</li>
+</ul><p>All right it is actually time is to announce the winner of the Amazon Gift Card contest! We had 27 of entries to the contest. Now we are going to <a href="http://random.org/">random.org</a> to pick one of these contestants at random. The winner was number 24, Eugene! Thanks to everyone who answered the survey!</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p dir="ltr">Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/51-root-ti-84/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3" length="34856173" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#50 The Ginger Episode</title>
+		<link>/2013/09/50-ginger-episode/</link>
+		<comments>/2013/09/50-ginger-episode/#comments</comments>
+		<pubDate>Mon, 30 Sep 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8320</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/09-29-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" style="float:left; margin:0 15px 15px 0;" />This week on Deemable Tech, Tom is out-of-town, but Elizabeth Pampalone stepped in to keep the show rolling. And, she gave Tom a run for his money. Ray and Elizabeth answered lots of questions, including questions about Blue Screens of <a href="/2013/09/50-ginger-episode/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/50-ginger-episode/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/09-29-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img src="//media/2013/09/09-29-2013-1024x576.png" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" width="659" height="370" class="alignright size-large wp-image-8324">This week on Deemable Tech, Tom is out-of-town, but Elizabeth Pampalone stepped in to keep the show rolling. And, she gave Tom a run for his money. Ray and Elizabeth answered lots of questions, including questions about Blue Screens of Death, whether you can change your internet provider without changing your email provider, Facebook photo syncing, how to print from your iPad, and Critical Updates that break things!</p>
+<audio class="wp-audio-shortcode" id="audio-8320-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3">#50 The Ginger Episode</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/_qQWifjPIMY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>LIZ: I&rsquo;m Elizabeth Pampalone in for Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>So, Tom is out&hellip;again. This time he gave some notice, so I asked our friend Elizabeth Pampalone to give us a hand, and she was gracious enough to help. Thanks for coming in, Elizabeth.</p>
+<p>LIZ: *vamp response*</p>
+<p>RAY:</p>
+<p>Actually, you did almost all of the work getting ready for this show, you&rsquo;re giving Tom a run for his money. I tell you what, I&rsquo;ll hire you for half of what I pay Tom.</p>
+<p>&ndash; I gonna be the brains, and I guess that leaves me to be the beauty. This is not going to go well for me.</p>
+<p>It&rsquo;s the ginger episode. If you&rsquo;re watching the video stream &hellip;</p>
+<p>Before we jump into the show, could I ask a favor? OK, thanks. Would you take a second and tell your friends about Deemable Tech? Especially if you know someone who is interested&nbsp;in learning more about technology, whether they currently know nothing about technology, or you think they already know everything about technology. Tell them to check out Deemable Tech. We&rsquo;d really appreciate it!</p>
+<p>Also, if you haven&rsquo;t done so already, make sure you are subscribed&nbsp;to Deemable Tech. Just go to iTunes and search for Deemable Tech, or go to deemable.com/itunes to take you directly to our iTunes page. You can also subscribe to our YouTube page. And we&rsquo;re on the Facebook and the Twitter, just search for Deemable Tech.</p>
+<p>LIZ: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>RAY: Hey folks, time is dwindling down to the end of our Amazon Gift Card contest. All you have to do is answer a few questions about the Deemable Tech podcast. Just go to Deemable.com and click the link to take the survey. You can&rsquo;t miss it, it is the first or second article at the top of the page, but it is ends September 30th, so don&rsquo;t wait, go submit&nbsp;your survey answers right now. Even if you&rsquo;re listening live, go pull up the survey now, because you won&rsquo;t have much time after we finish recording this episode.</p>
+<p>Don&rsquo;t worry, it&rsquo;s not a trivia contest. We just need your opinion on a few questions. If you could take a few minutes and answer our survey it will really help us out a lot. And, just for doing so, you&rsquo;ll be entered to win a $20 Amazon Gift Card.</p>
+<p>Speaking of questions, Elizabeth, what kind of questions do we have today?</p>
+<p>LIZ: Well, we have questions about Blue Screens of Death, whether you can change your internet provider without changing your email provider, Facebook photo syncing, how to print from your iPad, and Critical Updates that break things!</p>
+<p>RAY: Awesome, let&rsquo;s start with Blue Screens of Death.</p>
+<p>JUDY<br>
+Hi, Saw article in Folio about BSOD. Am getting a lot of unexpected shutdowns &ndash; 4 in last week-&nbsp;and service hang ups &ndash; 15 last week. Microsoft-speak about drivers, etc. might as well be Greek given how little I know about computers. What should I do to address it? How serious is it? Thanks so much!!</p>
+<p>ANSWER: I would call a tech ASAP!</p>
+<p>WALTER</p>
+<p>Switch Email Service Providers and not lose emails. forwarding emails to another account for a short time.</p>
+<p>ANSWER:<br>
+I do not recommend using ANY of the ISP accounts email addresses. You can use something like a GMAIL&nbsp;account and BEFORE you switch start having your emails forwarded. this will eliminate&nbsp;the need to go cold turkey with your account when you switch. a gmail&nbsp;account is like your cell phone. no matter where you live it travels with you. your ISP email address (bellsouth/comcast) is like a landline, when you move it stays behind. Switching to gmail&nbsp;and fwding&nbsp;your accounts before you switch ISPs is like when the post office fwds&nbsp;your mail. you don&rsquo;t have to worry about the missed&nbsp;messages or people not knowing your email address because you will see all of them come in and you will be able to tell if that person or company is using your gmail&nbsp;address or your old ISP address. this gives you a chance to gradually switch all of your addresses over for daily use rather than having to switch all at once.</p>
+<p>&hellip; this is marvin&nbsp;here in jacksonville&nbsp;3670124 I&rsquo;ve asked this question before but I&rsquo;m not quite getting the answer you gave me I wanna print out my address book I&rsquo;m on on&nbsp;h. p. computer per sorry &hellip; s. sorry 1930 annex and I&rsquo;m using windows x. p. progress and hi&nbsp;address book his obscured died on the right have bye &hellip; part of the address book proper left I can print out name is but hello information is sitting behind the they&rsquo;ll have for the page hello if I explained that well or not 3670124 thanks.</p>
+<p>ANSWER: When printing anything online you want to make sure you are not printing the web page but printing the email or in this case, the addressbook you actually want to print.</p>
+<p>I always look for a Printer icon that is ON the page. The word print or the printer icon to print the items you want to print without printing all those annoying ads etc that are normally on webpages.</p>
+<p>KATHERINE I have an iPhone 5 and every time I take a photo and try to upload it to Facebook, it keeps adding it to a stream of old photos and the comments from friends are from all the old photos. How do I get this to stop and just upload 1 photo at a time in a post?</p>
+<p>ANSWER: Open Facebook app on your phone, Go to the Photos Section, Go to Synched. If you have set it up to sync you can scroll to the bottom and turn that off. If you have not set it up to synch&nbsp;it will ask you if you want to. I say NO, don&rsquo;t do it. Every photo you post to Facebook becomes property of facebook&nbsp;and they can use them however they wish. also, sometimes i take photos of stupid stuff and I don&rsquo;t want my mom and everybody seeing them.</p>
+<p>ROBERT<br>
+Recently, as I use the &lsquo;back arrow&rsquo; on my Internet Explorer browser to return to a previous page, something strange has happened. Even if I continue to click on the back arrow, I still do not return to the previous web page. After waiting a few moments, I click on the down arrow next to the back arrow and all that I see are a bunch of web page links that I have never visited. Usually, there is a portion of the links that has something like: ad.doubleclick.<br>
+In order to get back to the web page that I want, I have to either open a new web browser page; or, I can click on the Home link (alt +M) and then type in the URL address all over again. What is going on; and, more importantly, how can I block this from happening again?</p>
+<p>Bob: Installed Adblock and its working fine, however I still get<br>
+random audio ads (sometimes playing over audio coming from<br>
+a U-tube I&rsquo;m watching) and other times while reading an e-mail.</p>
+<p>Is there a solution to block unwanted audio?</p>
+<p>ANSWER:This is not a browser hack but some sites open multiple windows of ads that can appear in your browser as if you had visited the site multiple times. this often happens on ad heavy sites like sites where you can watch tv online etc. TO ROBERT&nbsp;If I am going to open a link like this, I try to Right click on the Link before going to it and ?open in a new tab? this helps to keep your original spot if you decide the link wasn?t worth it and want to go back to your original page. TO BOB If you are using Google Chrome as your browser, which you should be,whenever&nbsp;there is a pop up a box will appear near the Bookmark star. It will have a red X on it. If you click it you will see a list of all the pop ups that did NOT pop up. in order to&nbsp;stop the audio, you must open each hidden pop up and close it using the normal means, the red X. This can happen with Audio and Non Audio pop ups and can be&nbsp;very annoying as they often start playing the audio after a few min. If the audio ad is on the page you are viewing you can click the MUTE symbol on the ad. this usually works, but some ads have taken to makeing&nbsp;the mute button look like it is muted and it is playing really loudly. click the mute button anyway, this will stop the audio.</p>
+<p>JULIE<br>
+Using Clearwire, Not giving her the speeds she needs</p>
+<p>ANSWER: Might have someone come out and look at it BEFORE you switch providers. Clearwire only allows you to have up to 8 devices on at a time depending on your service you pay for.</p>
+<p>SCOTT<br>
+Wants to print from ipad to printer.</p>
+<p>ANSWER:<br>
+Need a printer with Airprint :</p>
+<p>All of the models sold by apple are airprint&nbsp;compatible. you don&rsquo;t have to buy it from apple, but most wireless HP models have airprint&nbsp;that were made within the last year.</p>
+<p>Also, there is an app called Collobos&nbsp;printer that you can buy for $20. if you have a computer that is on and connected to a printer and connected to the same network your wifi&nbsp;is on, you can print via that printer. essentially Collobos is a patch to make any printer that is connected&nbsp;to a computer that is connected&nbsp;to your wifi&nbsp;network your ipad&nbsp;or iphone&nbsp;is on an airprint compatible printer.</p>
+<p>https://www.collobos.com/</p>
+<p>Joe</p>
+<p>Guys,</p>
+<p>I am at my wits end&nbsp;regarding&nbsp;a Microsoft Critical Update that just won&rsquo;t install. It has failed over and over again&nbsp;on my Windows 7 laptop. I have tried everything mentioned in the Microsoft Knowledgebase&nbsp;and on Tech Net. Nothing works! This includes downloading the critical update separately and trying to install it, using the MS Fixit&nbsp;tool, using a Hot Fix utility to fix Windows Update, use the SFC&nbsp;command to find/repair missing files, etc. I have shut down my firewall and turned off my A/V program and even tried to install the critical update in Safe Mode! The update is apparently critical to security as it updates the kernel to remove some vulnerability. What I don&rsquo;t understand is why Microsoft gives you a cryptic error message on the fail that doesn&rsquo;t really tell you anything! The update is KB2850851&nbsp;and error I get is 800736B3.</p>
+<p>The laptop is an HP DV7&nbsp;with Windows 7 64 bit. It&rsquo;s about 18 months old and I haven&rsquo;t had any problems with it until now. I run Webroot Secure Anywhere for A/V and the built-in Security Essentials from Microsoft.</p>
+<p>Thanks.</p>
+<p>http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_update/unable-to-install-update-kb2850851-error-8007045d/a1bcef56-687b-4afc-af00-428a96c6c1c3</p>
+<p>RAY<br>
+Randomly and occasionally the computer will not wake from sleep state. I have looked at the event log for this. Results: Event log. Critical error. Message: The last sleep transition was unsuccessful. This error could be caused if the system stopped responding, failed, or lost power during the sleep transition. Windows Vista Home Premium.<br>
+Going to event log online help reveals nothing useful: Results for: Microsoft Product: Windows Operating System; Version: 6.0.6002.18005; Event ID: 41; Event Source: Microsoft-Windows-Kernel-Power.<br>
+This is not helpful. This failure occurs less than once a month. The solution is a hard reboot, using the power switch to turn off and turn on the computer. Then it works fine for several months. The hardware diagnostic tools scan shows that all the hardware is working. Since it happens rarely and randomly, it would be difficult to troubleshoot. Any suggestions? The computer is up to date regarding&nbsp;service packs and other updates and updating the bios did not help. The mouse and none of the buttons on the keyboard do not wake the computer. Hibernation is not enabled for this computer, only sleep state. Since this is an infrequent and random error, perhaps the only solution is to give the computer a hard boot when necessary. Thank you for your assistance.</p>
+<p>ANSWER:<br>
+The problem was solved on several message boards by going back to an older version of the motherboard BIOS Or you are overclocking their ATI cards</p>
+<p>ANDREA I was wondering if you know of any places in Jacksonville, FL that buys and/or recycles old outdated electronics such as: computers, cell phones, keyboards, hard drives, etc.?<br>
+ANSWER<br>
+http://www.scrapcomputers.com/</p>
+<p>MARY Apple told me they would sell me a refurbished ipad for $220<br>
+I would like to find a reputable repair service (preferably locally) who can repair or replace the damaged screen without going broke in the process. Is that possible? I know that in doing so, I would void my Apple warranty and would be SOL in the event that something else goes wrong, but honestly, since Apple&rsquo;s &ldquo;technicians&rdquo; are now just fulltime warranty specialists, I would probably have to replace the device anyway(at which point, the mini would go into a drawer somewhere and I&rsquo;d dedicate myself full time to my Android devices). I called a couple of local fix it places and most charge close to $200 to replace the screen (almost as much as Apple charges for a replacement). I&rsquo;m also concerned that some of these technicians may damage the device in the process of replacing the screen. Do you know of a reputable company that can help me out without cleaning me out?<br>
+Time: 09/20/2013 at 3:52 PM<br>
+ANSWER: iphone911.com reasonable prices, good hours and fast service.</p>
+<p>http://www.theiphone911.com/<br>
+http://www.jaxiphonerepair.com/<br>
+http://www.ubreakifix.com/</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#50 The Ginger Episode" data-link="/2013/09/50-ginger-episode/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#50 The Ginger Episode" data-link="/2013/09/50-ginger-episode/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/50-ginger-episode/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3" length="0" type="" />
+		</item>
+		<item>
+		<title>#49 Ray Admits He&#8217;s an Idiot</title>
+		<link>/2013/09/49-ray-admits-hes-an-idiot/</link>
+		<comments>/2013/09/49-ray-admits-hes-an-idiot/#comments</comments>
+		<pubDate>Wed, 25 Sep 2013 13:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[Apple 5S]]></category>
+		<category><![CDATA[CD-ROM]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[Scrabble]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8269</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/09-22-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="iPhone 5S, Chromecasts, Homegroup, Scrabble CD-ROM and Intel vs AMD" style="float:left; margin:0 15px 15px 0;" />This week on Deemable Tech, we&#8217;re really back in the studio, and we answer tech questions! We have questions about how to wipe an iPad, whether you should buy an AMD or an Intel laptop, the best way to host <a href="/2013/09/49-ray-admits-hes-an-idiot/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/49-ray-admits-hes-an-idiot/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/09-22-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="iPhone 5S, Chromecasts, Homegroup, Scrabble CD-ROM and Intel vs AMD" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-8271" alt="iPhone 5S, Chromecasts, Homegroup, Scrabble CD-ROM and Intel vs AMD" src="//media/2013/09/09-22-2013-1024x576.png" width="395" height="222">This week on Deemable Tech, we&rsquo;re really back in the studio, and we answer tech questions! We have questions about how to wipe an iPad, whether you should buy an AMD or an Intel laptop, the best way to host unique email addresses, and more. And Ray and Tom talk about their new toys! Ray has an iPhone 5S, and Tom finally got his hands on the semi-mythical Chromecast.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/5HMUFizAfwk?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><audio class="wp-audio-shortcode" id="audio-8269-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-22.mp3?_=5"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-22.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-22.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-22.mp3">#49 Ray Admits He&rsquo;s an Idiot</a></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>RAY: And if you haven&rsquo;t done so already, make sure to subscribe to the Deemable Tech podcast. Just go to iTunes and search for Deemable Tech, or go to <a href="http://deemable.com/itunes">deemable.com/itunes</a>&nbsp;to take you directly to our iTunes page. You can also subscribe to our YouTube page at <a href="http://youtube.com/DeemableTech">youtube.com/DeemableTech</a>. And we&rsquo;re on <a href="http://facebook.com/Deemable">the Facebook</a> and <a href="http://twitter.com/Deemable">the Twitter</a>, just search for Deemable Tech.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY:</p>
+<p>We&rsquo;ve started a new <a href="http://http//deemable.com/2013/09/answer-a-survey-to-enter-to-win-a-20-amazon-gift-card/">Amazon Gift Card contest</a>. All you have to do is answer a few questions about the Deemable Tech podcast.</p>
+<p>Don&rsquo;t worry, it&rsquo;s not a trivia contest. We just need your opinion on a few questions. If you could take a few minutes and answer our survey it will really help us out a lot. And, just for doing so, you&rsquo;ll be entered to win a $20 Amazon Gift Card.</p>
+<p>Just go to Deemable.com and click the link to take the survey. You can&rsquo;t miss it, it will be the first or second article at the top of the page until the contest is over. Speaking of which, it ends September 30th, so don&rsquo;t wait, go submit&nbsp;your survey answers right now,&hellip; unless you&rsquo;re listening live, then wait until the show&rsquo;s over and then answer the questions.</p>
+<p>Speaking of questions, Tom, do we have any questions?</p>
+<p>TOM: Do we have any questions? Do we have any questions?! Yeah, we have questions. We have questions about how to wipe an iPhone, whether you should buy an AMD or an Intel laptop, the best way to host unique email addresses, and more.</p>
+<p>RAY: Ooh ooh an we talk about our new toys?</p>
+<p>TOM: OH, that?s right, we both have fun new gadgets. Ray has an iPhone 5S, and I?ve finally got my hands on the semi-mythical Chromebook. But first we?re going to dive into a couple of questions, starting with this one from Martha.</p>
+<p>TOM: Martha writes, I am a middle school art teacher. My classroom is long and narrow and set up for for&nbsp;projection on the center of one of the long walls. With large classes of 44 students plus, nearly half of them cannot see the examples and demonstrations that I am projecting. Having 16 -20 students move their seats every time I want to show them something eats up too much class time. I am looking for a way to project the same image on the side and end wall at the same time &ndash; and of course on a school teachers budget. I have a laptop and an LCD projector. I thought about trying to add a TV to the set up. How? Will it work? Is there a better (and/or cheaper) option?<br>
+Thanks guys!</p>
+<p>RAY: It all depends on your setup Martha. I am assuming that you are connecting your laptop to your projector with a VGA cable. The end of a VGA cable looks like an upside-down trapezoid with 3 rows of 5 pins on it. That used to be&nbsp;the standard monitor/projector cable. If you&rsquo;re using HDMI or DVI then these instructions would be a little different.<br>
+Many projectors have an extra VGA out port, so you can daisy chain them.</p>
+<p>Let me explain what that means.</p>
+<p>If it doesn&rsquo;t, you&rsquo;ll have to get a VGA splitter. You can find them for $10 to $20.</p>
+<p>Now, if I was doing this, and I had an unlimited amount of money, I would hook up another projector on the other side of the room. But, since you mentioned that you&rsquo;re on a school teacher&rsquo;s budget, and, if I had to guess you&rsquo;re probably paying for this out of your own pocket, I expect you don&rsquo;t have a load of cash to throw it this problem.</p>
+<p>You mentioned that you have a TV that you could add to the set up. That will most likely work, but you may have to buy adapters to connect the laptop to the television set. If you&rsquo;re really lucky, it might have a VGA in port on it. If you&rsquo;re not so lucky, you may have to buy an adapter, which can run anywhere from $50-$200 depending on which type of adapter you need.</p>
+<p>Either way, you are going to need a cable to run from your laptop, or from the other projector, to the other side of the room where the TV or the other projector is going to be. 50 foot VGA cables run anywhere from $15-$60 online.</p>
+<p>So, best case scenario this is going to cost you about $50. Worst case scenario it might cost you closer to $200.</p>
+<p>I hope that helps. If that seems doable to you, but you need some more help, do us a favor and take a picture of the back of your laptop, and the back of the projector where you plug it in the laptop, and the back of the TV where the ports are. We will be able to tell you more specifically what exact cables and/or adapters you need. Email us those pictures at questions@Deemable.com and we&rsquo;ll take another look at it okay? Thanks.</p>
+<p>Maliery writes, Are AMD processors the generic processors in comparison to Intel Celeron processors?<br>
+I&rsquo;m shopping for a laptop, and I&rsquo;m finding that the price of the AMD is more alluring, but not more than the specs on a i5&nbsp;intel processor. If I bought an AMD processor (laptop), will I be disappointed when I visit my grandma, and she&rsquo;s playing Solitare&nbsp;on an i5?</p>
+<p>Thanks for the question, Maliery.</p>
+<p>The way you framed it makes me think you?re comparing, say, Tylenol to the generic store-brand stuff. Processors don?t work quite&nbsp;the same way. There can be a lot of little differences under the hood.</p>
+<p>AMD had kind of a hay-day in the 90?s, and several desktops I owned then had AMD processors and could go toe-to-toe with more expensive Intel machines. But things have really changed. While AMD computers are often quite cheap these days, they just aren?t up to par with Intel machines.</p>
+<p>I?m not just talking about performance, either. You?re generally going to see better battery life on Intel laptops versus AMD laptops. Intel chips do a much better job with power management. I also suspect that you?re just going to have a smoother overall experience with an Intel machine.</p>
+<p>Even price doesn?t have to hold you back from buying Intel. I recently helped a friend shop for an Intel laptop that was under $500. Sure, there are some real bargain basement AMD laptops, but once you get down to the $250 range I?d start thinking about getting a Chromebook for that email-and-web-browsing laptop.</p>
+<p>It is possible to get higher end AMD processors that have clock speeds on par with lower end Intel processors. But Intel simply makes a better chip, so unless you are planning on buying a laptop based on price alone I would not get an AMD.</p>
+<p>Name: Bill</p>
+<p>Question: One of the icons on my iPad screen is called&nbsp;&ldquo;Notes&rdquo;. It&rsquo;s a yellow legal pad app that I have used often to make notes in meetings. How do I print those notes off my iPad using my MG6220 Canon Printer? Thanks.</p>
+<p>Fortunately your Printer is AirPrint ready. So you can automatically print from your iPad.</p>
+<p>Just tap the Action button, which on iOS 6 is square with an arrow point sorta to the right. On iOS 7 it&rsquo;s a square with an arrow pointing up.</p>
+<p>Walk through from there</p>
+<p>http://www.usa.canon.com/cusa/support/consumer/printers_multifunction/pixma_mg_series/pixma_mg6220</p>
+<p>BREAK</p>
+<p>RAY: So, if you follow us on Twitter @Deemable, or if you follow me on Twitter @RayHollister, then you know that I spent Friday morning waiting in line at the Apple store for the iPhone 5S.</p>
+<p>TOM: Now Ray, I know you are an Apple fan, but I thought you always said people that lined up overnight for the iPhone launches were idiots?</p>
+<p>RAY: Oh, don&rsquo;t get me wrong, I still think they&rsquo;re idiots, I&rsquo;ve just accepted that I am one of them. All kidding aside, it was a lot of fun although it was exhausting. I got there at about 3:00 AM and got my iPhone 5S&nbsp;at just after 8:00, so it wasn&rsquo;t too bad, but I really didn&rsquo;t prepare for it. I was busy all day Thursday, so I was about to pass out from exhaustion by the time I got home. If you want to read the highlights, check out my Twitter feed @rayhollister.</p>
+<p>TOM: So, what&rsquo;s your verdict? Was it worth the wait and the money?</p>
+<p>RAY:<br>
+TouchID works fantastic<br>
+I never had a passcode&nbsp;on my iPhone before, like most people, but now I have a 35+ character passcode</p>
+<p>It works almost every single time. The only time I have had a problem was when my fingers were wet, and I tried to unlock it.</p>
+<p>The A7 processor is so snappy.<br>
+Significantly faster than my iPhone 4S, and quite a bit faster than my friend&rsquo;s iPhone 5.<br>
+The larger screen size took a little bit&nbsp;to get used to. Especially with my Megan Fox thubs.</p>
+<p>Camera</p>
+<p>Burst mode</p>
+<p>SloMo</p>
+<p>True Tone flash</p>
+<p>New sounds, no more marimba</p>
+<p>RAY: So Tom, I know that you also recently got a new toy, and I wondered if you wanted to talk about it a little bit.<br>
+TOM: Does a geek want to talk about his new toy??? Does Tim Cook own an iPhone?<br>
+RAY: OK, so tell us what it is.<br>
+TOM: It?s a Chromecast.<br>
+RAY: Now explain to our listeners what a Chromecast is.<br>
+TOM: Basically a Chromecast&nbsp;is a little dongle that plugs into the HDMI port of your television. When connected to your home wifi network, any device that can run Google Chrome can send video and audio wirelessly directly to your TV.<br>
+It works pretty well, and the kicker is that it?s $30.<br>
+The Chromecast actually came out this summer, but at that low price they sold out within about 24 hours. I wasn?t one of the people in the first wave, but I went ahead and put it an order for one on Amazon.com.<br>
+Right when Google announced the Chromecast I had actually been looking for ways to do exactly what it does: stream wireless video from my laptop to my TV. I probably stream video from my laptop 70% of the time I?m using my TV. I was getting tired of lugging my laptop into the living room and tripping over the eight foot HDMI cable I use to connect it.<br>
+Google is not the first company to come up with a way to broadcast video from a computer to a TV.<br>
+RAY: There?s Apple TV.<br>
+TOM: Right, but you have to have&nbsp;a Mac, and I don?t. Some newer Intel-based laptops have a technology called WiDi&nbsp;which can do it, but my laptop unfortunately doesn?t have that either. There are a number of third party&nbsp;solutions out there, but they all have two big drawbacks: they all require line of sight to the TV, and they all start at $150 and go up from there.<br>
+RAY: You can get AirParrot for Windows. It lets you broadcast video from your Mac or Windows PC to an Apple TV. It&rsquo;s only $9.99 for the program, but you still have to buy a $99 Apple TV.<br>
+TOM: Right. So when Google announced that it had a $30 solution to this problem I definitely paid attention.<br>
+RAY: Okay, so how does the Chromecast actually work? How do you set it up?<br>
+TOM: *explains*<br>
+RAY: Cool. Can you send any video to the TV with the Chromecast?<br>
+TOM: No, you can?t send just anything. You have to have the Google Chrome browser installed, and that?s what?s going to talk to your television. But the nice thing is that Chrome is available for the PC, the Mac, Android and iDevices. So any of those can talk to the Chromecast.<br>
+So far the only apps that have native support for Chromecast&nbsp;are YouTube, Netflix and Google Play. If you have any of those apps on your phone or tablet you should see a square Chromecast&nbsp;icon. Touching the icon will send whatever you?re playing to the Chromecast. This works very well. The Chromecast actually streams the video or audio, and your phone or tablet basically acts as the controller.<br>
+RAY: But what about things that don?t have native Chromecast support?<br>
+TOM: There is a Chromecast&nbsp;extension which you install on Chrome, and that puts a button on your browser that allows you to share any browser tab with Chromecast. So if your want to share something that doesn?t have Chromecast&nbsp;support yet you can still do that. For instance, Hulu doesn?t have native Chromecast&nbsp;support but you simply cast the tab you?re watching it in and it appears on your TV &ndash; with a second or so delay, granted.<br>
+RAY: What about local files. Can you play movies that are on your hard drive?<br>
+TOM: You can, at least on a Windows PC. You can actually play video files in Chrome, as long as they aren?t in a proprietary format. Windows Media Player?s WMV files and Apple?s MOV files won?t work, but file types like AVI and MP4 will open in a Chrome tab. And then you can share them to your Chromecast.<br>
+Overall it works pretty well. Sometimes the interface&nbsp;is a little clunky and there can be&nbsp;a delay of a few seconds when starting a video. And of course it doesn?t support every video format. But for $30 I personally am willing to forgive a lot of those quirks.</p>
+<p>BREAK</p>
+<p>TOM:<br>
+Subject: For Those w/o a Domain Name<br>
+Ray, Tom-<br>
+Howdy. Your listeners might be interested in https://www.sneakemail.com,/<br>
+they provide a fair priced solution similar to what Amber and you do.<br>
+-Hoff<br>
+RAY: Last week Amber and I talked about how we use bestbuy@rayhollister.com, avenue@amberhollister.com etc.<br>
+For folks without their own domain address Sneakemail.com works the same way. $2.00 per month, which is about the same price as a domain name without all the hassle.</p>
+<p>Geri writes in:</p>
+<p>Okay, don&rsquo;t laugh&hellip; I just found an old computer game CD-Rom designed for Windows 95/98. (I said don&rsquo;t laugh!) It&rsquo;s Scrabble, and it would be more convenient than online options sometimes, since I&rsquo;m in Africa. Anyway, will this thing work on my Windows XP (also outdated now, I know)? Will it crash my computer?<br>
+Waiting anxiously for your response if I can get my Scrabble on!</p>
+<p>RAY: It should work. Most likely you&rsquo;ll only need to put the disc in. However, you might have to run it in &ldquo;compatibility mode.&rdquo; Try it and see.</p>
+<p>Dave writes, Hi.<br>
+I have a Samsung Centura&nbsp;phone that accumulates frequently called<br>
+numbers. This is something different from the regular call log which I<br>
+can clear any time. The frequently called log is retaining _every_<br>
+number I dial and I cannot find a way to delete/clear this log. In fact<br>
+I would like to disable it altogether. Any help?<br>
+Thanks very much.<br>
+TOM: OK Dave, hopefully we can help you. We aren?t familiar with the Samsung Centura&nbsp;and we don?t have access to one, but we can tell you what the internet says about your problem. I searched for ?samsung centura frequently called numbers? and found someone complaining about the same issue. Another user said there is an app they can download that will do the trick.<br>
+Try searching for and downloading the ?HistoryEraser? app from DUMAPIC in the Google Play Market.<br>
+Once you have the app, select `Contacts`. Then, select target will say `All Frequently Called (in Favorites tab). Press `Ok` and they`re gone!<br>
+As far as I can tell, the HistoryEraser&nbsp;app looks legit. But we haven?t tried it ourselves, so this is a little bit of a use-at-your-own-risk case. That said, if this issue is really driving you crazy it might worth trying.</p>
+<p>Michael wrote on our Facebook page:</p>
+<p>All of a sudden an icon called &ldquo;Homegroup&rdquo; appeared on my desktop. I didn&rsquo;t do anything I know of to get this, whatever it is. Have I been hacked or what? Is it safe and, if so, what for? And how did I get it? I&rsquo;m running Windows 8, but not on a touch screen.</p>
+<p>RAY: Most likely it is safe. I haven&rsquo;t heard of any viruses or hacks involving Homegroup. You or someone on your network was most likely playing with file sharing settings. A homegroup&nbsp;is something that is setup on Windows 7 and 8 to allow you to share documents, photos, music, videos and printers with other people on your home network. You can set it up so that they make changes to your documents or set it up so all they can do is view them.</p>
+<p>You don&rsquo;t have to do anything about it, but if you want to get rid of it from your desktop, we&rsquo;ll include a link in our show notes with directions on how to remove the Homegroup&nbsp;icon from Windows 8 and how to remove the Homegroup icon from Windows 7 if any other listeners that have Windows 7 want to remove it as well.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#49 Ray Admits He's an Idiot" data-link="/2013/09/49-ray-admits-hes-an-idiot/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#49 Ray Admits He's an Idiot" data-link="/2013/09/49-ray-admits-hes-an-idiot/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/49-ray-admits-hes-an-idiot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-22.mp3" length="51531024" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Technology Book Buying Guide: How To Pick a How To Guide</title>
+		<link>/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/</link>
+		<comments>/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/#comments</comments>
+		<pubDate>Fri, 19 Jul 2013 14:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Pampalone]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[How to guides]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tech]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7544</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/07/TechnologyHowToGuides-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="How To Pick a How To Guide" style="float:left; margin:0 15px 15px 0;" />You: &#8220;I&#8217;d really like to learn Photoshop. Ugh! There aren&#8217;t any classes when I am not at work. Private tutoring is so expensive, I guess I&#8217;ll just have to get a book and learn it on my own.&#8221; Later, at <a href="/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/07/TechnologyHowToGuides-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="How To Pick a How To Guide" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/07/TechnologyHowToGuides.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7562" title="How To Pick a How To Guide" alt="" src="//media/2013/07/TechnologyHowToGuides-300x225.jpg"  width="300" height="225"></a>You: &ldquo;I&rsquo;d really like to learn Photoshop. Ugh! There aren&rsquo;t any classes when I am not at work. Private tutoring is so expensive, I guess I&rsquo;ll just have to get a book and learn it on my own.&rdquo;</p>
+<p>Later, at the store&hellip;</p>
+<p>You: &ldquo;Man, there are so&nbsp;many books on Photoshop! I had no idea! I guess I will just get the book labeled &ldquo;FOR DUMMIES&rdquo; because I want to start from the beginning.&rdquo;</p>
+<p>Does that scenario describe your own experience? If so, you are reading the right post. Many people choose to buy a book when they want to teach themselves something on the computer. This works wonders if you are technically minded, a self starter, and extremely disciplined. The worst offenders are the &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374162991&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AFor%20Dummies%20(Computer%2FTech)&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">For Dummies</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; books. Have you even read one of them, actually read one? They may work for some people, but for most, they are too wordy and more technical than us &ldquo;dummies&rdquo; need. Their counter parts are the&nbsp;&ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AMissing%20Manual&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Missing Manuals</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&ldquo;. There was a reason they were missing. They come across as the bible of whatever subject their title boasts. However, upon further examination, they fall into the same mindset that anyone reading a technical book&nbsp;must be technically minded.</p>
+<p>But, you are reading this to find out which books are&nbsp;the good ones.</p>
+<p>The &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3ATeach%20Yourself%20VISUALLY&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Teach Yourself Visually</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series is one of the better ones. They give you lots and lots pictures. There are some step-by-step instructions, but mostly pictures. I recommend this to my clients who are visual learners and those who learn by doing. The &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3ASimplified&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Simplified</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series come in a close second. Another great series for someone new to a certain subject is the &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3APlain%20%26%20Simple&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Plain &amp; Simple</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series. It is a great short book to get your feet wet in any subject.</p>
+<p>&ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AVisual%20QuickStart%20Guide&amp;rnid=3275128011&amp;tag=deemtech-20#/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&amp;field-keywords=Visual+Quick+Tips&amp;rh=n%3A283155%2Ck%3AVisual+Quick+Tips" target="_blank">Visual Quick Tips</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series is always a great reference. &ldquo;<a href="http://www.amazon.com/s/?ie=UTF8&amp;keywords=sam+teach+yourself&amp;tag=googhydr-20&amp;index=stripbooks&amp;hvadid=19724759061&amp;hvpos=1t1&amp;hvexid=&amp;hvnetw=g&amp;hvrand=16182600592041655975&amp;hvpone=&amp;hvptwo=&amp;hvqmt=b&amp;hvdev=c&amp;ref=pd_sl_3ajbbd6nr2_b" target="_blank">Sam&rsquo;s Teach Yourself</a>&rdquo; is good if you are attending a class where someone can explain what Sam fails to explain. It is a great supplemental read.</p>
+<p><a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=portable%20genius&amp;linkCode=ur2&amp;sprefix=Portable%20Genius%2Caps%2C272&amp;tag=deemtech-20&amp;url=search-alias%3Dstripbooks" target="_blank">Portable Genius</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0"> is a great series of how to and quick reference guides for anyone with an iPhone or iPad only. (Your parents, grandparents, etc.) It is a great series for those who just want to learn the basics and not be bogged down with too much outside info.&nbsp;Que came out with a &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374171850&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AMy...&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">My&hellip;</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series that rivals the &ldquo;Portable Genius&rdquo;. The &ldquo;My&hellip;&rdquo; Series covers all types of tablets, computers, phones. They even have a book on the Chromebook.</p>
+<p>&ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374163061&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AIn%20Easy%20Steps&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">In Easy Steps</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; and &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;keywords=for%20seniors&amp;linkCode=ur2&amp;qid=1374171070&amp;rh=n%3A283155%2Ck%3Afor%20seniors%2Cp_lbr_books_series_browse-bin%3AIn%20Easy%20Steps&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">In Easy Steps For Seniors</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; are two amazing series out of England. They are some of the best step-by-step and easiest to understand for seniors. I recommend both of these series to all seniors. The books are light, uncluttered, and a larger print; perfect for the Greatest Generation.</p>
+<p>As you excel in your studies,&nbsp;&ldquo;<a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=digital%20classroom&amp;linkCode=ur2&amp;tag=deemtech-20&amp;url=search-alias%3Dstripbooks" target="_blank">Digital Classroom</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; and Adobe&rsquo;s &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374171850&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AClassroom%20in%20a%20Book&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Classroom in a Book</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; series takes you to the next level. &ldquo;<a href="http://www.amazon.com/gp/search/?ie=UTF8&amp;bbn=283155&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;qid=1374171850&amp;rh=n%3A283155%2Cp_lbr_books_series_browse-bin%3AStep%20by%20Step%20(Microsoft)&amp;rnid=3275128011&amp;tag=deemtech-20" target="_blank">Step by Step</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0">&rdquo; is another series that can bring your skills from a 3 to a 7 in a matter of hours. They can be wordy, but they are easy to understand.</p>
+<p>The <a href="http://www.amazon.com/s/ref=sr_nr_n_8?rh=n%3A283155%2Cn%3A3510%2Ck%3Ao%27reilly&amp;keywords=o%27reilly&amp;ie=UTF8&amp;qid=1374197222&amp;rnid=1000" target="_blank">O&rsquo;Reilly</a> books are not to be topped when it comes to the best in the business. If you are at a higher level and need that extra push or want to learn something new, O&rsquo;Reilly is for you. They are comprehensive and serve as great desk references as well as paperweights when needed. They are worth every penny, and now available in non-paperweight edition (eBook).</p>
+<p>When purchasing a book, Rule #1 is to&nbsp;always make sure you are getting the book that is right for you. If you have Mac OSX Lion, but the book you have in your hand is Mountain Lion, put it back. You should be getting the exact book for your exact program. If you have MS Word 2013, an MS Word 2010 book will not be kind to you. Close enough only works in horseshoes and hand grenades. Now that we know to match our book to our program, what about&nbsp;when the book was written? Was the program updated since the book was written? Take Facebook for example. People buy a book about Facebook, get it home and realize that nothing looks the same. Facebook doesn&rsquo;t have a new &ldquo;edition&rdquo; out, but the program has been updated.</p>
+<p>Rule #2 is always check the copyright! If a book was not published in the current year (ie: 2013), it is not worth looking at. When it comes to technology, everything changes so fast. It can take up to one year to bring a book to press and distribute it to the stores. If you have a book in your hand that says it was copyrighted in 2011, the info could be up to 3 years old!</p>
+<p>For those of you on a budget, the library is a great resource, but remember to check on Rule #2! Many public libraries also now offer eBooks that can be &ldquo;checked out&rdquo; on a tablet or computer with an Internet connection. It takes a bit of time to figure it out, but it is a great alternative to the $60+ some books can run.</p>
+<p>Another alternative is used bookstores. Sometimes, if you are trying to learn a program that is 1-2 versions back, the regular stores do not carry books on that software anymore. (See Rule #1.) Another option is a nifty little website called <a href="http://ALLBookstores.com/">ALLBookstores.com</a>. They have a one stop shopping approach to book buying. The site compares all other bookstore sites to find you the best price on any given book. They compile a list of well-known sites like <a href="http://www.amazon.com/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=deemtech-20%22&gt;Amazon&lt;/a&gt;&lt;img%20src=%22https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1">Amazon</a>, <a href="http://ebay.com/">eBay</a>, and <a href="http://half.com/">Half.com</a>, as well as the little guys like <a href="http://www.wonderbk.com/">WonderBooks</a>, and <a href="http://www.textbookx.com/">Textbookx</a>.</p>
+<p>If you still can&rsquo;t find the right book, try this tried and true test. Grab&nbsp;three books off the shelf on your subject. Open each one into the middle. If you can comprehend and understand what they are asking you to do, and it makes some sense, it is the book for you! Not all writers write books for everyone. Find one that has a writing style you can learn from, hence the test.</p>
+<p>Happy Hunting!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Technology Book Buying Guide: How To Pick a How To Guide" data-link="/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Technology Book Buying Guide: How To Pick a How To Guide" data-link="/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Kevin asks, &#8220;How do I use my web browser?&#8221;</title>
+		<link>/2013/07/kevin-asks-how-do-i-use-my-web-browser/</link>
+		<comments>/2013/07/kevin-asks-how-do-i-use-my-web-browser/#comments</comments>
+		<pubDate>Thu, 18 Jul 2013 14:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Domain names]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[URIs]]></category>
+		<category><![CDATA[URLs]]></category>
+		<category><![CDATA[Web browsers]]></category>
+		<category><![CDATA[websites]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7545</guid>
+		<description><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" />Q: I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&#8217;m doing things the long way. To be honest I don&#8217;t <a href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p100195-embed" src="http://www.prx.org/p/100195/embed.js?size=full"></script></p>
+<p></p>
+<p><strong>Q:</strong> I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&rsquo;m doing things the long way. To be honest I don&rsquo;t know much about the web and I get a little bit overwhelmed every time I open Internet Explorer. Any advice?</p>
+<p><strong>A:</strong> Deep breaths, Kevin! It&rsquo;s going to be okay. We&rsquo;re here to help.</p>
+<p>The good news is that you are definitely not alone here. We talk to people all the time who can&rsquo;t figure out how to get from Point A to Point B on their browser. When you open Internet Explorer you may see up to three different fields where you can type things. You know you want to go to a specific website, but where do you type it in?</p>
+<p>What you want to do is type the URL into the address bar. URL stands for &ldquo;Uniform Resource Locator,&rdquo; which is just the formal name for a web address. For example, www.google.com and deemable.com are both URLs. Either way, they usually look like &ldquo;www.nameofthewebsite.com&rdquo;.</p>
+<p>Now here&rsquo;s a secret: 99% of the time you can leave off the &ldquo;www&rdquo;. You don&rsquo;t have to type &ldquo;www.google.com&rdquo;, you can just type &ldquo;google.com&rdquo; and your browser will figure out the rest.</p>
+<p>The place you want to type it is not the search bar of the website that is your home page. That will search for any web page that references the name of the website. Granted, the web page itself will probably be the first search result, but you&rsquo;re adding an extra step. You want to type the web address, or URL, into the address bar, which is above the web page. You can identify it because it will have the address of the current page, usually prefixed by &ldquo;http://&rdquo;/ or &ldquo;https://&rdquo;/ (incidentally, you don&rsquo;t have to type &ldquo;http://&rdquo;/ either, because your browser will fill that in as well).</p>
+<div id="attachment_7549" style="width: 537px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2013/07/bing.png" class="gallery_colorbox"><img class=" wp-image-7549 " alt="Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you're new to surfing the Internet." src="//media/2013/07/bing-1024x544.png"  width="527" height="280"></a><p class="wp-caption-text">Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you&rsquo;re new to surfing the Internet.</p></div>
+<p>There are a couple of things to be aware of. First, you may or may not have another field at the top of your browser that is for searching. Typing the web address into <em>that</em> field is just the same as if you went to Yahoo or Google or Bing and searched for the web address there. It&rsquo;s for searching, not for navigating directly to a website.</p>
+<p>The other thing to be aware of is that in newer browsers the address field can also do web searches. So if you type &ldquo;facebook.com&rdquo; you will be taken directly to Facebook, but if you type in &ldquo;books of faces&rdquo; it will search for &ldquo;books of faces&rdquo; on your preferred search engine.</p>
+<p>So, Kevin, try typing the URL for your email site into the address bar and hitting enter. Once you&rsquo;re there, don&rsquo;t forget that you can bookmark websites that you use frequently. Look for a star icon up at the top of your browser and click that. That will add your email to a list of favorite websites. Once you do that, you won&rsquo;t have to type anything &ndash; your email will always be just a click away.</p>
+<p><a href="http://deemable.com/media/2013/07/BrowserLogos.png" class="gallery_colorbox"><img src="//media/2013/07/BrowserLogos-300x153.png"  alt="Web Browser Logos" width="300" height="153" class="alignnone size-medium wp-image-7557"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/kevin-asks-how-do-i-use-my-web-browser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 40 &#8211; We&#8217;re iWatching You</title>
+		<link>/2013/06/episode-40-were-iwatching-you/</link>
+		<comments>/2013/06/episode-40-were-iwatching-you/#comments</comments>
+		<pubDate>Mon, 10 Jun 2013 02:09:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[computer problems]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[nsa leak]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7387</guid>
+		<description><![CDATA[Today on Deemable Tech we help Lydia understand what a QR code is and how to use it, we help &#8220;other&#8221; Ray with his monitor problem, Michael has a &#8220;foggy&#8221; camera on his iPhone, and we help Mary figure out <a href="/2013/06/episode-40-were-iwatching-you/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/episode-40-were-iwatching-you/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Today on Deemable Tech we help Lydia understand what a QR code is and how to use it, we help &ldquo;other&rdquo; Ray with his monitor problem, Michael has a &ldquo;foggy&rdquo; camera on his iPhone, and we help Mary figure out why her laptop uses all of her WiFi hotspot in an hour. Then, we have a conversation about the NSA leak, and Apple&rsquo;s upcoming World Wide Developer Conference.</p>
+<p>We didn&rsquo;t even mention it on the show, but this week&rsquo;s episode is somewhat special. It&rsquo;s the one year anniversary of Deemable Tech! Also, it&rsquo;s our 40th episode. So, that&rsquo;s something.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/_c2m4GMXoxU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<audio class="wp-audio-shortcode" id="audio-7387-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3?_=6"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3">Episode 40 &ndash; We&rsquo;re iWatching You</a></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>TOM: Lydia writes: What is a QR Code? I saw somebody at the mall looking at a movie poster with a black and white square that looked techy, and they said something about a QR code. What is that?<br>
+RAY: Thanks for your question Lydia. Actually you described it pretty well. A QR code is a techy looking, black and white square.<br>
+TOM: They kinda look like small crossword puzzles. What they can do is pretty cool though. The QR in QR code stands for Quick Response. They were first used in the automobile industry to help manufacturers keep track of parts.<br>
+QR codes are similar to the bar codes or UPC symbols that you might see at a grocery store on the back of a can of beans. The difference is that a barcode is just one line of information, usually a twelve digit UPC number. The numbers that you see beneath the barcode are literally all that the laser scanner reads. Barcodes are one dimensional, (left to right) but QR codes are 2 dimensional: they store information left to right and up and down.<br>
+RAY: Now, here&rsquo;s how this affects you, or could affect you. QR codes can have a lot of information stored in them, like website addresses, phone numbers, and other information, and you can read QR codes with a smartphone and a QR code reader app. And, a lot of companies are starting to put QR codes on their posters and in their ads in magazines and billboards.<br>
+So, let&rsquo;s say you&rsquo;re looking at an ad in a magazine for a product you&rsquo;re interested in, and you&rsquo;d like to more information about it. Instead of having to enter the website&rsquo;s address in manually, or having to search the Internet for it, you could grab your phone, open your QR code reader, and snap a picture of the code, and boom you&rsquo;ve got the link to their website and it opens. Most QR codes that I&rsquo;ve seen just have a link to the website in them, but I&rsquo;ve seen a couple that real estate agents had on their brochures that had their contact information stored in them. So, when I scanned the code, I got their name, phone numbers, email addresses and website all in a note on my iPhone. I didn&rsquo;t have to write any of it down.<br>
+TOM: So, QR codes could be really awesome, but they still face a lot of hurdles. The fact is that most people don&rsquo;t know what they are or how to read them. Actually, though, they&rsquo;re fairly easy to use.<br>
+RAY: To use a QR code, you have to have a QR code reader on your phone. The best app I&rsquo;ve found for the iPhone is QRReader, but there are tons of QR code readers for the iPhone. Just search the app store for &ldquo;QR code reader,&rdquo; and try them out.<br>
+Also, Microsoft has a similar 2D barcode called Microsoft Tag. It looks like multi-colored triangles sitting on shelves, so the appearance is much friendlier. Also, Microsoft has been pretty aggressively getting companies to start posting Tags on their ads and on their products. The Microsoft Tag app, which is available on practically ALL phones, (iPhones, Androids, Windows Phone, Blackberry, and standard feature phones) is the best one that I have found because it scans all 2D barcodes, including QR codes and Microsoft&rsquo;s Tags.<br>
+TOM: There are numerous free apps in the Android play market that will allow you to read QR codes. Just search for ?QR code reader&rsquo;. Then download the app, open it up, point your camera at one of those black and white squares, and watch the magic happen.</p>
+<p>Guys, my iPhone out camera is foggy, the in camera is perfectly clear. How do I fix? Thanks, mike</p>
+<p>Hi Ray and Tom,</p>
+<p>Sometimes the monitor fails to receive a signal when the computer wakes from sleep. The screen remains blank. Sometimes there is a single short beep. Sometimes not. The internal hardware self test and device manager show all devices working normally. Rebooting the computer fixes the problem. Any suggestions? </p>
+<p>Do I need a separate video card for ordinary (non-gaming) computer use? Maybe I could simply remove the optional video card which has only 128 MB of memory. The computer has 6 GB. Perhaps the motherboard has enough memory for ordinary (non-gaming) video use. As I remember there was a recall of NVIDIA GeForce 9300 GE cards years ago, which this computer has, but this card did not qualify at that time. Thanks. </p>
+<p>(the other) Ray </p>
+<p>Hi Ray or Tom, its Mary Davis. I currently use a hot spot for my home wifi. It gives me 5GB of data usage per month. I also have two laptops- one old, one new. I installed the hotspot using the same settings for both computers. On the old computer it works fine, I watch shows on Hulu quite a bit. On the new computer it takes about one hour to reach the 5GB mark. I&rsquo;ve asked AT&amp;T to help but they couldn&rsquo;t without me bringing everything to their store. I can&rsquo;t figure out what&rsquo;s going on. I saw your article in Folio and thought I&rsquo;d ask you. Thoughts?</p>
+<p>Thanks,<br>
+Mary <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;"></p>
+<p><a href="http://www.guardian.co.uk/world/2013/jun/09/nsa-secret-surveillance-lawmakers-live">Edward Snowden identifies himself as source of NSA leaks</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 40 - We're iWatching You" data-link="/2013/06/episode-40-were-iwatching-you/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 40 - We're iWatching You" data-link="/2013/06/episode-40-were-iwatching-you/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/episode-40-were-iwatching-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3" length="62084075" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 39 &#8211; Get a Smart Phone, and Keep It Clean!</title>
+		<link>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/</link>
+		<comments>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/#comments</comments>
+		<pubDate>Mon, 03 Jun 2013 02:32:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[computer problems]]></category>
+		<category><![CDATA[germs]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7363</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" />Today on Deemable Tech we&#8217;ll be talking about how to clean your cellphone, how to plug in your computer if your house has older power outlets, and how to fix issues with a networked printer, and a listener who hates <a href="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Today on Deemable Tech we&rsquo;ll be talking about how to clean your cellphone, how to plug in your computer if your house has older power outlets, and how to fix issues with a networked printer, and a listener who hates cellphones but has to buy one.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/XsUPrRj2d9Y?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<audio class="wp-audio-shortcode" id="audio-7363-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3?_=7"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3">Episode 39 &ndash; Get a Smart Phone, and Keep It Clean!</a></p>
+<p><img class="alignright" title="Your Smart Phone is Full of Germs! How do you sanitize it?" alt="" src="//media/2013/06/iPhonePetriDish.jpg" width="186" height="286"></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>RAY: Today on the show we&rsquo;ll be talking about how to clean your cellphone,</p>
+<p>TOM: How to plug in your computer if your house has older power outlets,</p>
+<p>RAY: And how to fix issues with a networked printer. But first, a listener who hates cellphones has to buy one. Let&rsquo;s see if we can help her out. Tom, can you read that?</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>RAY: Today on the show we&rsquo;ll be talking about how to clean your cellphone,</p>
+<p>TOM: How to plug in your computer if your house has older power outlets,</p>
+<p>RAY: And how to fix issues with a networked printer. But first, a listener who hates cellphones has to buy one. Let&rsquo;s see if we can help her out. Tom, can you read that?</p>
+<p dir="ltr">Brandy writes: Hi, Tech Guys!</p>
+<p dir="ltr">I wouldn&rsquo;t call myself a Luddite, but I chose to go cell free about 4 years ago. My last phone was the Nextel Motorola Nascar green screen flip phone. That was FOREVER ago. Now I have come to realize that I need a cell phone for work. Here&rsquo;s the problem: I don&rsquo;t understand what any of the specifications mean. I know what I want in a phone, I just need to learn the language so I can make an educated decision. Please help. Thanks so much.</p>
+<p dir="ltr">I read that you want as much info as possible. Well, I know that I want an Android, I love my Galaxy tab, but it&rsquo;s not about my person preference. More importantly, I need a phone that will sync with my email at work. We run off and outlook cloud based email. We also use a system called Village Management Software (VMS) which I can access from the web. I work in property management, so a good camera would be helpful, and one that I can sync to my computer easily. And an added perk would be a silent mode that is truly silent (none of that vibrating while I&rsquo;m in a meeting going on, thank you).</p>
+<p dir="ltr">I think that about covers it. I appreciate your taking the time to read my question, and look forward to your much needed advise. (I am really truly going there kicking and screaming; I just don&rsquo;t want a dang cell phone!)</p>
+<p dir="ltr">Thanks!</p>
+<p dir="ltr">TOM: Welcome to the 21st century, Brandy!</p>
+<p dir="ltr">You know what I always say? Go big or go home. Sounds to me based on everything you&rsquo;ve described as though you need a smartphone. You know, one of those big, flat slabs of plastic that you can touch.</p>
+<p dir="ltr">RAY: Wait, they have phones you can touch?!?</p>
+<p dir="ltr">TOM: Uh, Ray. Smartphones. You&rsquo;ve had a smartphone since like 2003. Hello?</p>
+<p dir="ltr">RAY: 2002, actually. But for this question I thought I&rsquo;d play the role of Brandy, returning to civilization after four years of living in Tibet and searching for her chakra, and encountering these new-fangled smart-phones for the first time.</p>
+<p dir="ltr">TOM: OK, um, Brandy. I&rsquo;ll try to help you out.</p>
+<p dir="ltr">RAY: *in girl voice* Thank you! Can you explain to me what a smartphone is and why I need one?</p>
+<p dir="ltr">TOM: Sure, ?Brandy.? I imagine even in Tibet or deepest, darkest St. Augustine, they&rsquo;ve heard of the iPhone. The iPhone is a smartphone, in fact it was the first widely popular touch-based smartphone and it&rsquo;s still a good phone today. So an iPhone is a good example of a smartphone.</p>
+<p dir="ltr">But in 2013, I&rsquo;d basically define a smartphone as any phone that has some touch-based interface, can connect to the internet, and runs apps. Apps are basically extra programs that you can download for your phone which do all kinds of things.</p>
+<p dir="ltr">RAY: I&rsquo;ve seen iPhones! But I don&rsquo;t want to play Scrabble and check Facebook, which is what my friends do with theirs. I just need the phone to be able to check email, get on the web and take pictures.</p>
+<p dir="ltr">TOM: Brandy, a smartphone does all those things and does them really well. You don&rsquo;t have to place ?Words With Friends? or be constantly checking your least favorite social networking site to use a smartphone.</p>
+<p dir="ltr">RAY: But something like an iPhone just seems like more than I need!</p>
+<p dir="ltr">TOM: Maybe it is. But here&rsquo;s the thing: iPhones may have features that you don&rsquo;t ever plan on using, but they are relatively inexpensive and extremely well supported. I could probably find the 2013 equivalent of your green NASCAR phone made by some obscure company, and it might allow you to check your email, surf the web and take pictures, but it probably wouldn&rsquo;t do it WELL.</p>
+<p dir="ltr">Sooner or later you&rsquo;d (probably sooner) you&rsquo;d have problems with your phone and then no one would know how to help you fix them because you&rsquo;ve got a phone no one has ever heard of.</p>
+<p dir="ltr">RAY: So I should get an iPhone?</p>
+<p dir="ltr">TOM: Now wait a minute there, Brandy. I was just using an iPhone as an example of a smartphone you might have heard of. There are a few different major types of smartphone: there&rsquo;s the iPhone, of course. But there are also Android phones, Windows phones and Blackberries.</p>
+<p dir="ltr">And earlier, Brandy, you said you had a Galaxy Tab which you liked and so you wanted an Android phone.</p>
+<p dir="ltr">RAY: Oh yes, I did say that. I completely remember saying that. I definitely want an Android, not an iPhone.</p>
+<p dir="ltr">TOM: Well that&rsquo;s fine, there are some good Android phones out there. Android phones are more diverse than iPhones. Only Apple makes iPhones, so they are all pretty similar. But Android is actually just a phone operating system. Lots of different companies make phones that run Android.</p>
+<p dir="ltr">RAY: What do you suggest, Mr. Deemable Tech Guy?</p>
+<p dir="ltr">TOM: *sigh* Well Brandy, you already have a Samsung Galaxy Tab, so how about a Samsung Galaxy S3 or S4? They are both really good phones and they will feel very similar to the Galaxy Tab. The S4 is the newer and more powerful phone, but it&rsquo;s also more expensive.</p>
+<p dir="ltr">With a little help from your office IT guy you can setup your Galaxy S phone to connect to your Outlook email. The camera on the phone is pretty good, although I will be honest and tell you that the iPhone has a better camera. And by default, Galaxy S phones offer both ?vibrate&rsquo; and ?mute&rsquo; modes, so you can turn off that annoying vibration if you so choose. You can also create your own customized ?silent mode&rsquo; if that is not enough.</p>
+<p dir="ltr">As long as your software is accessible through the web, it should work from your smartphone&rsquo;s browser.</p>
+<p dir="ltr">RAY: Okay, thanks so much for your helpful advice! I will go and purchase a Samsung Galaxy S 3 or 4 immediately!</p>
+<p>Oh hey, Tom, I&rsquo;m back. Were you able to help Brandy with her problem?</p>
+<p dir="ltr">TOM: Shandra writes: I was letting my three-year-old play with my iPhone when she spit up all over it. Eww. I need to get it clean. Like, really clean, not just ?dab-it-with-a-lint-free-cloth clean.? It&rsquo;s a phone. You put it up to your face! And I just know its crawling with germs now. How can I disinfect my iPhone?</p>
+<p dir="ltr">RAY: Oh, that is gross!</p>
+<p dir="ltr">TOM: Shandra is correct, though. The Wall Street Journal recently reported a couple studies that showed that cellphones are, quote, ?veritable reservoirs of pathogens.? Another sample of smartphones phones showed abnormally high numbers of coliforms, a bacteria indicating fecal contamination.</p>
+<p dir="ltr">RAY: I can top that, Tom. Recently several news outlets reported that a thief in Uganda contracted the ebola virus after stealing a cellphone from a hospital patient.</p>
+<p dir="ltr">TOM: Wow. Well with that in mind you&rsquo;ll definitely want to clean your phone. Ideally, you would use a lint-free cloth and some alcohol which should kill 99% of bacteria, but it&rsquo;s not necessarily that simple.</p>
+<p dir="ltr">RAY: Certain touch-screen smart-phones, including the iPhone, have an oleophobic coating on them to protect them from smudges and fingerprints. Using cleaners with alcohol will wear down the oleophobic coating on your iPhone and iPad.</p>
+<p dir="ltr">TOM: Eventually. Now, anecdotal evidence indicates that an occasional light cleaning with alcohol doesn&rsquo;t seem to have much ill effect on an iPhone, but you use it against the manufacturer&rsquo;s recommendations and at your own risk.</p>
+<p dir="ltr">RAY: Most phones can be cleaned with a small amount of mild soap and a little bit of water. Of course, you&rsquo;ll want to consult the manual for your device. Just make sure that the rag is just a little wet. That will get rid of most germs. It won&rsquo;t kill the germs, but it will get them off your phone, which is all that really matters, right? You&rsquo;ll have a phone with hardly any germs on it.</p>
+<p dir="ltr">TOM: If you really want to get that phone clean, and don&rsquo;t mind spending a little money, there are a few specialty cleaners designed specifically for the iPhone and iPad. Bausch and Lomb makes a travel cleaning kit which is actually sold through the Apple store. And Monster Cable makes the Monster CleanTouch, also designed for iGadgets. Both of these products will run you about $20.</p>
+<p dir="ltr">Be sure to test any cleaner you try before use by dabbing a small amount of it on the corner of your cellphone&rsquo;s screen. Better to damage a small piece of your screen then whole thing.</p>
+<p dir="ltr">If you&rsquo;re truly obsessed with keeping your touch screen germ-free and you don&rsquo;t want to abrade or damage the finish in any way, you can always try UV light. The VIOLIGHT UV Cellphone Sanitizer claims that it will not only charge your cell phone, but destroy 99% of all bacteria in the process. And it&rsquo;s only $49.99.</p>
+<p dir="ltr">RAY: Or you could just save some money and head to the beach. Good old-fashioned sunshine also produces UV rays. Normally we would tell you to keep your smartphone out of the sun, but if you want to disinfect it, try leaving it in the sunshine for a few hours. The UV rays will kill just about anything that&rsquo;s still left on it.</p>
+<p dir="ltr">TOM: Plus, you can work on your tan.</p>
+<p dir="ltr">For listeners who have a smartphone or tablet other than a iPhone or iPad, be sure to follow the manufacturer&rsquo;s recommendations for cleaning in the manual that came with your device.</p>
+<p>&nbsp;</p>
+<p dir="ltr">Daniel writes &ndash; I have moved into an old apartment building downtown and I have noticed that it only has two electrical outlets that allow three prongs. Most of the outlets only allow two prong plugs. And there are no three prong outlets in the bedroom which I want to setup as my office.</p>
+<p dir="ltr">A lot of my electronics, including my laptop, have three-prong plugs. My power strip also has a three prong plug.</p>
+<p dir="ltr">Is there some kind of three-to-two prong adaptor I can get so I can plug in my power strip? Is it safe to use a three prong plug on a two prong outlet? I assume the third prong is there for a reason, but I am not an electrician.</p>
+<p dir="ltr">Thanks!</p>
+<p dir="ltr">RAY: Good question Daniel! The third prong on your laptop plug is called the ?ground&rsquo;. Any piece of electronic equipment that has a metal case should have a ground. The ground runs directly from the metal in the device into the, well, the ground.</p>
+<p dir="ltr">The idea is that if there is an accidental spark in your laptop it will run harmlessly into the ground instead of giving you a nasty shock.</p>
+<p dir="ltr">TOM: So if you grabbed a hacksaw and sawed off that third prong and then plugged your laptop into a two prong outlet, it would still work, right?</p>
+<p dir="ltr">RAY: Right. But you&rsquo;d be disabling an important safety feature.</p>
+<p dir="ltr">TOM: The ?ground&rsquo; is there to protect you. The idea is that if there&rsquo;s a fault in one of the devices you have plugged into the outlet, the current will run into the ground instead of electrocuting you. Which is, you know, nice.</p>
+<p dir="ltr">Now what about adaptors. I know I&rsquo;ve seen three-to-two prong adaptors. Is using one a good idea?</p>
+<p dir="ltr">RAY: OK, so those are actually known as ?cheater plugs&rsquo;.</p>
+<p dir="ltr">Daniel may have a problem finding a cheater plug now because they&rsquo;ve stopped making them within the last couple years. The reason is that those adaptors were designed around the assumption that the screw in the middle of the outlet is connected to the ground. So the current from the ground prong runs to the screw.</p>
+<p dir="ltr">But actually, they discovered a lot of times the screw is not grounded. Your average person who is not an electrician can&rsquo;t tell the difference, which means that they can&rsquo;t tell if a the adaptor is safe or not.</p>
+<p dir="ltr">TOM: Ah, so you could get an adaptor for your two prong outlet and plug your three prong laptop into it, but you don&rsquo;t know if it&rsquo;s really grounded.</p>
+<p dir="ltr">RAY: Right. It&rsquo;s pretty risky.</p>
+<p dir="ltr">TOM: So what would you suggest?</p>
+<p dir="ltr">RAY: Ideally you should replace the whole outlet with a GFCI.</p>
+<p dir="ltr">TOM: Which stands for&hellip;?</p>
+<p dir="ltr">RAY: Ground Fault Circuit Interrupter. If you&rsquo;ve ever seen one of those outlets in a bathroom or a kitchen that has a red and a green button, that&rsquo;s a GFCI. A GFCI works like a mini-circuit-breaker. If it detects a power surge it disconnects the power entirely, hopefully in time to prevent you from being electrocuted. Then you have to reset it by hitting the green button.</p>
+<p dir="ltr">TOM: Should Daniel try to install a GFCI himself?</p>
+<p dir="ltr">RAY: It&rsquo;s possible to do, but it definitely requires some careful re-wiring. Always, always cut the power to the outlet before you attempt to do something like this.</p>
+<p dir="ltr">If you&rsquo;re not sure, you should probably get an electrician to do it.</p>
+<p dir="ltr">TOM: One last thing we should mention. I am not an electrician so I&rsquo;m not sure why it works this way, but everything I&rsquo;ve ever heard indicates that surge protectors don&rsquo;t work well or possibly at all if you don&rsquo;t plug them into a grounded outlet.</p>
+<p>RAY: Good to know.</p>
+<p dir="ltr">TOM: MW writes &ndash; I have a pair of Toshiba laptops for my kids, they came w/ Vista but I have installed valid copies of Win 7 home premium on them. Recently upgraded our wireless router to one with two USB ports, I have connected a large networked hard disk on one and an older HP D 1300 series printer on the other USB connection so the kids could access a printer and keep them off Mom&rsquo;s machine.</p>
+<p dir="ltr">When I tried to set up the printer on both laptops after the Win 7 install, one automatically recognized the printer, installed the driver and we can access it w/ no problem. The other computer refuses to acknowledge the presence of the printer and I can&rsquo;t get Win 7 to connect to it, although it readily acknowledges the hard disk and I can store or retrieve files from the remote hard disk from both Toshiba laptops, so it is connected to the router. I know of no difference in how Win 7 was installed on both machines, I installed them both and there appeared to be no issues w/ the install process.</p>
+<p dir="ltr">I&rsquo;ve tried deleting all the &ldquo;printers&rdquo; on the recalcitrant machine and unplugging and reconnecting the printer to the router and the install disk for the 1300 is not recognized by Win 7 and won&rsquo;t run, and it refuses to let me &ldquo;Run as XP&rdquo;, etc.</p>
+<p dir="ltr">Many thanks.</p>
+<p dir="ltr">RAY: Okay, so, just to recap, let me see if I have got this straight:</p>
+<ul><li dir="ltr">
+<p dir="ltr">MW has a pair of identical laptops, upgraded from Windows Vista to Windows 7.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">MW has a home network running through a router with two wireless USB ports.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Hooked up to the router are a portable hard drive and a HP D1300 series printer.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Both laptops can see the networked hard drive, but only one can see the HP printer, even though they should be in every way identical.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Attempts to reinstall the printer drivers and to detach and reattach the printer to the network make no difference.</p>
+</li>
+</ul><p dir="ltr">Did I get it right?</p>
+<p dir="ltr">TOM: Sounds to me like you have accurately described the situation, Ray.</p>
+<p dir="ltr">RAY: Hooray, what do I win?</p>
+<p dir="ltr">TOM: Um, one thousand Listening Comprehension Points?</p>
+<p dir="ltr">*applause*</p>
+<p dir="ltr">RAY: Can I redeem those for anything?</p>
+<p dir="ltr">TOM: Here, I&rsquo;ve got thirteen cents in loose change in my pocket. It&rsquo;s all yours.</p>
+<p dir="ltr">RAY: Wow. Alright Tom, got any thoughts on why one of MW&rsquo;s identical laptops can&rsquo;t see the networked printer?</p>
+<p dir="ltr">TOM: Well my first thought is that I think that MW is getting a little too hung up on the fact that the laptops are supposed to be identical.</p>
+<p dir="ltr">TOM: It&rsquo;s my experience that two identical computers can have completely different problems. In fact this happens all the time. Ask the IT guys at your office.</p>
+<p dir="ltr">At my office the help desk guys will buy multiple new computers, identical machines from the same company, and set them up for employees. They don&rsquo;t even install Windows in the traditional sense: they install an ?image&rsquo;, an exact copy, of a hard drive on every single computer.</p>
+<p dir="ltr">So, you have multiple machines bought from the same manufacturer with the same specs. Then you install exactly identical software on every machine. Then you give them to the users. Guess how often these ?identical&rsquo; machines develop ?unique&rsquo; issues?</p>
+<p dir="ltr">All. The. Time.</p>
+<p dir="ltr">You have to realize that a computer is an incredibly complicated machine, composed of trillions of intricate connections between tiny parts. These parts, by the way, are manufactured all over the world before they are assembled by Toshiba or Samsung or HP or whoever. It&rsquo;s all too easy for tiny, undetectable flaws to be introduced at some point in the process. There&rsquo;s really no such thing as identical computers.</p>
+<p dir="ltr">RAY: Exactly. So MW, don&rsquo;t get too hung up on the fact that the laptops are identical. They can easily have different issues. You really need to concentrate on troubleshooting the problem.</p>
+<p dir="ltr">The first thing I would do and that anyone is going to tell you is that you should search for the latest drivers for your printer and make sure those are installed on the problem laptop.</p>
+<p dir="ltr">TOM: Now, MW is probably like to hear this, but I think the printer may be the problem.</p>
+<p dir="ltr">RAY: Why is that?</p>
+<p dir="ltr">TOM: Well, so I noticed MW was plugging the printer into the USB port of the router. And MW said that it was an older printer. That immediately makes me think that the HP D1330 was not designed to be a networked printer.</p>
+<p dir="ltr">And I looked it up on Google, and guess what, it&rsquo;s not.</p>
+<p dir="ltr">RAY: Well that&rsquo;s why routers have USB ports, right? So you can take a non-network printer and use it as a networked one.</p>
+<p dir="ltr">TOM: Sure. And you can do that in theory. But I&rsquo;m here to tell you that in my experience networking printers that weren&rsquo;t designed specifically to be networked printers is horrendously unreliable.</p>
+<p dir="ltr">I&rsquo;ve had all kinds of trouble with similar situations: the printers freeze up, they disappear from the network, they are still there but they stop working. And you never figure out WHY. The next day they may go back to working normally.</p>
+<p dir="ltr">I know that right now MW is having a specific problem with just one of their computers, but just give it time: I will bet you anything that the other computers have sporadic problems printing to that printer.</p>
+<p dir="ltr">At the end of the day I think MW will save themselves a lot of time and headaches by going out and dropping a chunk of cash to buy a printer that&rsquo;s INTENDED to be used on a network.</p>
+<p dir="ltr">Just my two cents.</p>
+<p dir="ltr">You got anything you want to add, Ray?</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
+<p dir="ltr">Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 39 - Get a Smart Phone, and Keep It Clean!" data-link="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 39 - Get a Smart Phone, and Keep It Clean!" data-link="/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/episode-39-get-a-smart-phone-and-keep-it-clean/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-02.mp3" length="33075618" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 37 &#8211; More Evil Printers!</title>
+		<link>/2013/05/episode-37-more-evil-printers/</link>
+		<comments>/2013/05/episode-37-more-evil-printers/#comments</comments>
+		<pubDate>Mon, 06 May 2013 03:38:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Printer trouble]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7312</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" />This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand <a href="/2013/05/episode-37-more-evil-printers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/episode-37-more-evil-printers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_7314" style="width: 375px" class="wp-caption alignright"><a href="http://www.somethingofthatilk.com/index.php?id=454"><img class=" wp-image-7314 " title="Printers. Can't live with them, can't beat them with a baseball bat." alt="Graph via Something of that Ilk." src="//media/2013/05/WhyYouCantPrintThat.png" width="365" height="282"></a><p class="wp-caption-text">Graph via <a href="http://www.somethingofthatilk.com/index.php?id=454">Something of that Ilk</a>.</p></div>
+<p>This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand why her phone is better at being a computer than her computer is. All that and more on this week&rsquo;s episode of Deemable Tech.</p>
+<p><audio class="wp-audio-shortcode" id="audio-7312-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3?_=8"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">Episode 37 &ndash; More Evil Printers!</a></p>
+<p><strong>ROUGH TRANSCRIPT</strong></p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/" target="_blank">asmallorange.com</a>.</p>
+<p>And, by audible.com &ndash; get a FREE audiobook download at <a href="http://audibletrial.com/Deemable" target="_blank">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>TOM: This week on the podcast we&rsquo;re talking about&hellip; what are we talking about, Ray?</p>
+<p>RAY: Well Tom, this week we&rsquo;re going to talk about how to shop for laptops, but first we&rsquo;re going to talk about your favorite topic.</p>
+<p>TOM: What&rsquo;s that?</p>
+<p>RAY: Printers!</p>
+<p>TOM: NOOOOOOOOOOOO!!!!</p>
+<p>RAY: Listeners from last week&rsquo;s podcast may remember that Tom has an &ndash; aversion &ndash; to printers.</p>
+<p>TOM: They are from the devil and should be burned.</p>
+<p>RAY: Well, people still have questions about printers. Let&rsquo;s see if we can help the nice people out.</p>
+<p>TOM: Oookay&hellip;</p>
+<p>Melissa asks, my HP Photosmart C5100 printer says that I need to insert a new ink cartridge (the pink) even though we already have. It won&rsquo;t let me choose black and white printing either, which it usually does when one color is out. I&rsquo;ve tried two different pink ink cartridges so I know that isn&rsquo;t the problem.</p>
+<p>RAY: Printers are probably the most-hated pieces of technology ever created, and at no time are they more hated than when they pop up the dreaded ?Ink Cartridge(s) Are Empty&rdquo; error message. Fortunately, with your model, you can override that error message without hacking into the printer. It does take a few steps though. Here&rsquo;s how to get rid of that pesky error message.</p>
+<p>Before you start this, you should bookmark this page or open it on another device. You have to reboot your computer during this process, and since you can&rsquo;t use your printer you&rsquo;ll need a way to get back to this information. A fast easy way to bookmark this page is to press Ctrl-D on your keyboard. That will start the save this page as a bookmark dialogue in almost every web browser. Now that you have that saved, you can move on.</p>
+<p>First, if the computer and the printer isn&rsquo;t turned on and plugged in, go ahead and do that now. This will sound ironic in a minute, but trust me, it&rsquo;s important.<br>
+Now, disconnect the Ethernet Cable or the USB cable from the back of the printer. (Disconnect both if you have them both plugged in for some reason.)<br>
+Restart your computer. (Make sure you&rsquo;ve already bookmarked this page before you do that so you can easily get back here after the computer restarts.)<br>
+Once the computer is back on, and with the printer still turned on, unplug the power cord from the printer.<br>
+Now, wait 30 seconds. Listen to Her Majesty, by The Beatles to kill the time. (Technically, it&rsquo;s only 23 seconds long but by the time you fire up the CD or record player or YouTube, you&rsquo;ll have burnt those extra 7 seconds.)<br>
+Put all your CDs or records back in the closet, or stop watching cat videos on YouTube.<br>
+Insert the power cord back into the printer, and turn the printer on.<br>
+Clear any error messages.<br>
+Now, you shouldn&rsquo;t have that pesky error message in your face, and you should be able to go back to printing. Until the next time.</p>
+<p>If that doesn&rsquo;t work, try repeating these steps again, but perhaps try substituting Her Majesty for one of these videos. They won&rsquo;t improve your odds, but they&rsquo;ll probably make you laugh, and you might forget about your evil printer for a little bit.</p>
+<p>Joe D. writes,</p>
+<p>Hello Ray and Tom,</p>
+<p>I also have a printer problem but not related to operation. It&rsquo;s the cost of operation. We have been using 2 Canon inkjet printers for the past 4-5 years &ndash; the entire time my kids were in college they used these printers. While the printers were very cheap to purchase, they have been very expensive to operate (granted that&rsquo;s subjective). I am not sure which costed more &ndash; the college tuition or the ink for the printers! I recently started looking for replacement printers with the goal of getting the operational price down, but there is so little information on this, it&rsquo;s hard to determine what models are cheapest to run. While I realize that all-in-one inkjets aren&rsquo;t the least expensive to operate, I really would like to find the least expensive in this category while still getting decent print quality and speed for occasional home use only. Thanks for any help you can provide.</p>
+<p>RAY: Lauren writes, Hi guys,</p>
+<p>So I&rsquo;m in the market for a new laptop. (After much wailing and gnashing of teeth over my still new-ish old one which went kaput for absolutely no reason other than that it hates me. I&rsquo;m only a teensy bit bitter.)</p>
+<p>I&rsquo;m not a gamer so I don&rsquo;t foresee needing tons of bells &amp; whistles, but I do want to stream video on things like YouTube, watch TV shows on Hulu, chat on Skype and store pictures and music. I&rsquo;m pretty sure I don&rsquo;t want a Chromebook.</p>
+<p>Can you give some pointers about:</p>
+<p>processors (does it really matter which kind?)</p>
+<p>GB Memory (is there a basic number to shoot for? Like 4? 4 sounds good&hellip;)</p>
+<p>GB Hard Drive (same as memory; basic ballpark for functionality?)</p>
+<p>Thanks! If you&rsquo;ve already covered this in a different show never mind&hellip; <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;"></p>
+<p>RAY: No Chromebook? Aw, come on, that&rsquo;s no fun.</p>
+<p>TOM: The lady has spoken Ray. No Chromebooks. I mean, I can see where she&rsquo;s coming from. Would you necessarily want your Chromebook to be your only computer?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Well, so Lauren&rsquo;s in the market for a Windows-based laptop. These can be pretty murky waters to navigate for the casual buyer. But she&rsquo;s asking the right questions.</p>
+<p>RAY: Oh yeah. First of all, she&rsquo;s not hung up on brands that really don&rsquo;t matter. So many times when I ask someone who is having problems what kind of computer they have they tell me ?HP&rdquo; or ?Dell.&rdquo; Those are just brand-names!</p>
+<p>TOM: Right. That&rsquo;s like if you go to your mechanic because you&rsquo;re having car problems and when they ask what kind of car you have you say ?Ford.&rdquo;</p>
+<p>RAY: When you&rsquo;re shopping for a car you look at things like whether it&rsquo;s manual or automatic, how many cylinders the engine has, what kind of MPG it gets.</p>
+<p>You&rsquo;ve got to do the same thing when you&rsquo;re fixing a computer, or in this case, shopping for one. You need to know what numbers matter, and what they mean.</p>
+<p>TOM: Lauren&rsquo;s email hit on several of the important ones. Why don&rsquo;t we make a quick list of things you need to know about your laptop and then we can dive into more detail on some of them.</p>
+<p>Windows or Mac (or Chromebook)*</p>
+<p>Amount of RAM (in Gigabytes)</p>
+<p>Processor</p>
+<p>Who made it?</p>
+<p>How many cores?</p>
+<p>How fast?</p>
+<p>Size of hard drive (in Gigabytes)</p>
+<p>Type of hard drive (SSD vs. SATA)</p>
+<p>32 bit or 64 bit*</p>
+<p>Screen resolution*</p>
+<p>Slots (USB/HDMI/Ethernet/Card Reader)*</p>
+<p>*(elaborate)</p>
+<p>TOM: Ray, I love your explanation of RAM versus hard drive space. Can I use it?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Thanks! So as Ray has elegantly put it, if you think of your computer like your desk at the office, then RAM is like the size of your desktop. If you have a really large desk you can work on a lot of things at once. If you have a small desk, you can maybe only work on one or two things at a time. Am I doing okay so far Ray?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Now your hard drive space is like the filing cabinet next to your desk. Stuff you&rsquo;re not working on right now goes in there. The bigger your filing cabinet, the more notes and papers and stuff you can stash away in it.</p>
+<p>To bring this back to computers: if you have a computer with a big hard drive but a small amount of RAM, that&rsquo;s like having a big filing cabinet with an itty-bitty desk. You can save lots of your old folders, but you may only be able to get one out at a time.</p>
+<p>You can fill that big hard drive up with music and video and programs and games, but you can probably only actually run one or two programs simultaneously.</p>
+<p>RAY: Even if you&rsquo;re not a power user, having a decent amount of RAM is a good idea. More RAM simply makes the computing experience better. Your operating system will run more smoothly, programs will open and close faster, and you&rsquo;re a lot less likely to run into mysterious slow-downs as your computer keeps running out of places to put things.</p>
+<p>TOM: Right. So what&rsquo;s a good amount of RAM, Ray? Lauren suggested four. Is that enough?</p>
+<p>RAY: I think you definitely want at least four. Right now if you have four gigs most things will run smoothly. Two gigs or one gig is definitely too little. If you can get six or eight, though, I&rsquo;d say go for it. That will future-proof your laptop a little bit.</p>
+<p>TOM: Newer programs and operating systems almost always want more RAM.</p>
+<p>RAY: Absolutely.</p>
+<p>TOM: Now hard drives are also measured in gigs, but instead of a few gigs they usually have hundreds of gigs, or even a terabyte.</p>
+<p>RAY: A terabyte being a thousand gigs.</p>
+<p>TOM: Bingo. Remember, this is your filing cabinet. Or, if you like downloading movies, this is your DVD shelf. The bigger your shelf is, the more movies you can store.</p>
+<p>Hard drive space is really cheap. If you get a laptop with a normal, SATA hard drive, I wouldn&rsquo;t get anything less than 500 gigabytes. It shouldn&rsquo;t cost you that much and it should be enough space to keep the average user happy for a long time.</p>
+<p>RAY: But if Lauren is really into music and movies, I might recommend getting a full terabyte.</p>
+<p>TOM: True.</p>
+<p>RAY: Also, some newer laptops come with SSD hard drives instead of or in addition to the classic SATA drive. SSD drives cost more per gig, so you&rsquo;re probably looking at getting a 50-100 gigabyte drive for the same price.</p>
+<p>TOM: That&rsquo;s not nearly as much space. What&rsquo;s the advantage of an SSD drive?</p>
+<p>RAY: Well a) they are much faster and b) they can take more of a beating. Oh and c), they&rsquo;re smaller. So your really thin laptop is likely to have one because they take up less physical space and aren&rsquo;t likely to be jostled when you carry the laptop around.</p>
+<p>TOM: But with a fifty gig hard drive, your computer will barely have space for its operating system. You&rsquo;re not going to be downloading many movies.</p>
+<p>RAY: A lot of high-end laptops now offer a small SSD drive and a larger SATA hard drive next to it. That way you get speed and size.</p>
+<p>TOM: But if you&rsquo;re looking at laptops on a budget, you&rsquo;re probably looking at standard SATA hard drives. And in that case, you want a few hundred gigabytes at least in my opinion.</p>
+<p>RAY: Definitely.</p>
+<p>TOM: OK, so let&rsquo;s talk about processors.</p>
+<p>Processors are a complicated subject. You get into things like busses and transistor counts and onboard cache, stuff that no normal human being should have to think about.</p>
+<p>But here are a few guidelines. All processors have a clock speed, which is a really big number. Bigger numbers mean faster clock speeds. Clock speed is NOT the final word on how good a processor is, but it helps when you&rsquo;re comparing two processors to each other.</p>
+<p>There are also cores. Almost all processors these days are multi-core. What that means is that they have two processors in one chip. Or four. Or eight. The more cores that are on the chip, the more processes the computer can accomplish simultaneously.</p>
+<p>Finally, the brand matters. For all intents and purposes, if you&rsquo;re buying a laptop, it should say Intel Inside. Intel still dominates the personal computer market and the fact is they still make a mean CPU.</p>
+<p>RAY: Right. So let&rsquo;s recap. When Lauren is shopping for a laptop she should consider RAM</p>
+<p>TOM: 4 gigs or more</p>
+<p>RAY: hard drive size</p>
+<p>TOM: at least 500 gigabytes for a normal hard drive</p>
+<p>RAY: and processor</p>
+<p>TOM: Intel Inside!</p>
+<p>RAY: So Lauren, I hope that helps you out.</p>
+<p>Hi guys! Loving the show!</p>
+<p>I have a question for you guys today that is more knowledge-based than needing help.<br>
+I recently was working on ordering something online from Africa. I worked on it simultaneously on my laptop and my iPhone. My laptop just kept taking so long, and my iPhone was able to make everything happen and complete all of the page refreshes the way that it was supposed to. Why is my cell phone so much better at being a computer than my laptop?</p>
+<p>Thanks! Geri</p>
+<p>And the other Geri asked,</p>
+<p>I bought a used iPhone from a friend. I have ATT go phone unlimited talk, text, web. I can access wifi from anywhere on my phone. I can text and receive plain messages.<br>
+I can&rsquo;t however send or receive texts with photos or videos. They won&rsquo;t send and they don&rsquo;t show up when I receive. The text doesn&rsquo;t even show up either. My friend has an earlier iPhone 3 and she has all capabilities.<br>
+Is there a fix? thanks.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.<br>
+Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/episode-37-more-evil-printers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3" length="40725943" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Alex asks, &#8220;What is &#8216;The Cloud?&#039;&#8221;</title>
+		<link>/2013/05/alex-asks-what-is-the-cloud/</link>
+		<comments>/2013/05/alex-asks-what-is-the-cloud/#comments</comments>
+		<pubDate>Thu, 02 May 2013 13:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[EverNote]]></category>
+		<category><![CDATA[Google Drive]]></category>
+		<category><![CDATA[Google Music]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[SpringPad]]></category>
+		<category><![CDATA[SugarShare]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[The Cloud]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7306</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" />Q: You mentioned a few weeks ago that people could back up their information to &#8220;the Cloud.&#8221; I hear that term thrown around a lot, but what does it actually mean? What is &#8220;the Cloud&#8221;? A: That&#8217;s actually a great <a href="/2013/05/alex-asks-what-is-the-cloud/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/alex-asks-what-is-the-cloud/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p96373-embed" src="http://www.prx.org/p/96373/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> You mentioned a few weeks ago that people could back up their information to &ldquo;the Cloud.&rdquo; I hear that term thrown around a lot, but what does it actually mean? What is &ldquo;the Cloud&rdquo;?</p>
+<div id="attachment_8442" style="width: 253px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/05/Cloud_2.jpg" class="gallery_colorbox"><img class=" wp-image-8442 " title="What Is The Cloud" alt="What Is The Cloud" src="//media/2013/05/Cloud_2-300x244.jpg"  width="243" height="198"></a><p class="wp-caption-text">What Is The Cloud?</p></div>
+<p><strong>A: </strong>That&rsquo;s actually a great question, Alex. The funny thing is, most of us have actually been using &ldquo;the Cloud&rdquo; for years now. Anyone who has ever used an email service like Yahoo, Hotmail, or Gmail has already used the Cloud. For a normal, non-technical user, &ldquo;the Cloud&rdquo; is just storing your data on the Internet instead of just on your home computer.</p>
+<p>However, the actual technical definition of a cloud is a little more complicated than that. You see, the danger with storing documents, media or files on any single computer is that no matter how powerful they are, computers can (and do) break. But imagine if you could store your file on three different computers. Then if one or even two broke, you&rsquo;ve still got your document. The only problem is, every time you updated your document, you would have to update it on all three computers. That&rsquo;s a pain.</p>
+<p>But now imagine that you could treat those three physical computers as one virtual computer that your file is stored on. The actual, physical computers would essentially become invisible. Take this setup and multiply it by hundreds of computers, and that&rsquo;s basically what a cloud is.</p>
+<p>Now, you may have noticed that we said &ldquo;a cloud.&rdquo; The reason is that there are actually multiple clouds. In fact, tons of different companies offer their own clouds. They may work differently from each other, but they are all similar in that they allow you to store your files on the Internet instead of your computer, and they allow you to access those files from anywhere.</p>
+<p>So how does this affect you? For most of us, cloud services are a really great way to back up documents, pictures, music or whatever to the Internet. And once it&rsquo;s out on the Internet, you can access it from other computers or devices you own. For example, we use Google Music to back up the MP3s on our computers. All we had to do is download the Google Music program, and it automatically started uploading everything we had in iTunes to the Google Music cloud. When we add a new song or playlist to iTunes on our computers, those get uploaded too, and we can then listen to them on our phones straight from the Internet.</p>
+<p>Clouds aren&rsquo;t just good for music, though. Google and Microsoft both offer ways to do word processing in the Cloud, from anywhere, without even having to install a program. Google has a web application called Google Drive (we use it for Deemable Tech and love it), and Microsoft has introduced Office 365 which you can access through your web browser as well.</p>
+<p>For Apple users, there is iCloud, which automatically synchronizes your files across all of your Apple devices.</p>
+<p>If you&rsquo;re looking to backup and share your files, Alex, you should consider using Dropbox. We&rsquo;ve mentioned it before, but Dropbox is a service that allows you to select a folder on your computer, and anything you put in that folder will be automatically uploaded to the Dropbox cloud. If you install Dropbox on another computer, it will automatically mirror the folders between the two computers. There are a lot of other excellent cloud services as well (like EverNote, SpringPad and SugarShare), and there are more out there every day.</p>
+<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/alex-asks-what-is-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 29 &#8211; The Deemable Duo Rises</title>
+		<link>/2013/02/episode-29-the-deemable-duo-rises/</link>
+		<comments>/2013/02/episode-29-the-deemable-duo-rises/#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 05:01:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[computer problems]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone broken]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6808</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/02/Batman-And-Robin-Ray-And-Tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray and Tom join forces to become The Deemable Duo!" style="float:left; margin:0 15px 15px 0;" />On this week&#8217;s episode of Deemable Tech, Ray and Tom join forces as the Deemable Duo to seek out people who need tech help on the dark streets of Twitter. Ray is The Rayzer Beam. Tom is The TOMinator or <a href="/2013/02/episode-29-the-deemable-duo-rises/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/02/episode-29-the-deemable-duo-rises/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/02/Batman-And-Robin-Ray-And-Tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray and Tom join forces to become The Deemable Duo!" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_6811" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/02/Batman-And-Robin-Ray-And-Tom.jpg" class="gallery_colorbox" rel="http://deemable.com/media/2013/02/Batman-And-Robin-Ray-And-Tom.jpg"><img class=" wp-image-6811 " alt="Ray and Tom join forces to become The Deemable Duo!" src="//media/2013/02/Batman-And-Robin-Ray-And-Tom.jpg"  width="300" height="300"></a><p class="wp-caption-text">Ray and Tom join forces to form The Deemable Duo.&nbsp;Thanks to listener <a href="http://dmbl.co/e28">Ardis for coming up with that sweet name</a>.</p></div>
+<p>On this week&rsquo;s episode of Deemable Tech, Ray and Tom join forces as the Deemable Duo to seek out people who need tech help on the dark streets of Twitter. Ray is The Rayzer Beam. Tom is The TOMinator or Atomic Tom. You decide. On the show, they answered questions about&nbsp;how to block unwanted numbers on your smart phone, what to do with old computers, whether you should toss your broken iPhone or try to fix it, and what to do if your hard drive space starts disappearing, and using your smartphone to augment your reality!</p>
+<p>All that and more, on this episode of Deemable Tech!</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 1-888-972-9868, or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h4>Links mentioned on this week&rsquo;s show:</h4>
+<ul><li><a title="calibre - E-book management" href="http://calibre-ebook.com/" target="_blank">Calibre</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.flexaspect.android.everycallcontrol&amp;hl=en">Call Control &ndash; Call Blocker by Kedlin Company</a></li>
+<li><a title="Amazon.com Kindle for PC" href="http://www.amazon.com/gp/kindle/pc/" target="_blank">Kindle for PC</a>&nbsp;&amp;&nbsp;<a href="http://www.amazon.com/gp/kindle/mac/" target="_blank">Kindle for Mac</a></li>
+<li><a href="http://www.ifixit.com/Guide/Installing+iPhone+4+Power+%26+Lock+Button/4332/1">iFixit&rsquo;s guide to installing an iPhone 4 Power and Lock button&nbsp;</a></li>
+<li><a href="http://www.ifixit.com/Teardown/iPhone-5-Teardown/10525">iFixit&rsquo;s teardown of the iPhone 5</a></li>
+<li><a href="http://www.motherboard.cz/mb/asus/P2B-F.htm">Motherboard.cz</a></li>
+<li><a href="http://www.crucial.com/upgrade/ASUS-memory/ASUS+Motherboards/P2B-F-upgrades.html">Crucial.com</a></li>
+<li><a href="http://gog.com/">Good Old Games</a></li>
+<li><a href="http://setiathome.ssl.berkeley.edu/">SETI@Home</a></li>
+<li><a href="http://folding.stanford.edu/">Folding@Home</a></li>
+<li><a href="http://www.pcworld.com/article/209079/11_uses_for_an_old_PC.html">P</a><a href="http://www.pcworld.com/article/209079/11_uses_for_an_old_PC.html">C World &ndash; 11 Uses for an Old PC</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.unveil&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnVudmVpbCJd">Google Goggles</a></li>
+<li><a href="http://www.wikitude.com/">Wikitude</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.a0soft.gphone.aCompassPlus&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5hMHNvZnQuZ3Bob25lLmFDb21wYXNzUGx1cyJd">3D Compass+</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5zdGFyZHJvaWQiXQ..">Google Sky Map</a></li>
+<li><a href="http://questvisual.com/us/">Word Lens</a></li>
+<li><a href="http://www.snapshopinc.com/">SnapShop Showroom</a></li>
+</ul><h4><strong><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-04.mp3">Episode 29 &ndash; The Deemable Duo Rises</a></strong></h4>
+<audio class="wp-audio-shortcode" id="audio-6808-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-04.mp3?_=9"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-04.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-04.mp3</a></audio><h3>What do you think Tom&rsquo;s Deemable Duo superhero name should be? Tell us in the comments below.</h3>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 29 - The Deemable Duo Rises" data-link="/2013/02/episode-29-the-deemable-duo-rises/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 29 - The Deemable Duo Rises" data-link="/2013/02/episode-29-the-deemable-duo-rises/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/episode-29-the-deemable-duo-rises/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-04.mp3" length="53282691" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Easy on the Eyes &#8211; How to Change Your Screen Resolution &#8211; Tech Tip Tuesday</title>
+		<link>/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/</link>
+		<comments>/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 21:26:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Tech Tip Tuesday]]></category>
+		<category><![CDATA[power tips]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech tips]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6707</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/DisplayProperties-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Display Properties Menu in XP" style="float:left; margin:0 15px 15px 0;" />Have you ever noticed things are bigger or smaller on other people&#8217;s computer screens even though they have the same size monitor you do? Your monitor&#8217;s screen resolution settings determines how large text and images appear on screen. Screen resolutions <a href="/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/DisplayProperties-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Display Properties Menu in XP" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Have you ever noticed things are bigger or smaller on other people&rsquo;s computer screens even though they have the same size monitor you do? Your monitor&rsquo;s screen resolution settings determines how large text and images appear on screen. Screen resolutions are measured in pixels, literally the dots that form to make letters and graphics on your screen. The more dots you have in the picture, the better the picture looks. The native resolution is the highest&nbsp;resolution your monitor can support. So, if your monitor supports up to 1920 by 1200, that is its native resolution. The native resolution is the setting that your computer is going to look the best at because it is showing the image exactly the way it was made, pixel for pixel. When you set the resolution to a lower setting, the computer has to do some complicated math to make it look like it is supposed to. Based on the setting you choose, it may have to make 2 pixels for each real pixel, 3 pixels, 4 pixels etc. When your video card has to calculate fractions of pixels to make the resolution work, the image gets blurry and uncomfortable to use.</p>
+<p>If the text and graphics on your screen is too small or too large to view comfortably or appears stretched or blurry, you can change the resolution by following these instructions for Windows XP.&nbsp;</p>
+<ol><li>Right click on an empty area of your desktop and select <strong>Properties</strong> in the context menu.</li>
+<li>The <strong>Display Properties</strong> window will open. Click on the <strong>Settings</strong> tab.</li>
+<li>Move the <strong>Screen resolution</strong> slider to change the resolution of your monitor.</li>
+<li>To test a setting, Click the <strong>Apply</strong> button. The screen will go blank for a moment and a message will appear asking if you want to keep the setting.</li>
+<li>Click the <strong>OK</strong> button to close the window and apply the setting.</li>
+</ol><p>Moving it towards Less increases the size of text and images on the display but you will see less information on screen. Moving it towards More will allow you to view more information on screen but text and images will appear smaller. Some resolutions may appear to be stretched out or blurry so you may want to try a few out. You can always go back and change it again. The display will produce an optimal image when the slider is all the way over to the More side. This is the &ldquo;native resolution&rdquo; of the monitor.</p>
+<p class="centered"><a href="http://deemable.com/media/2013/01/DisplayProperties.gif" class="gallery_colorbox"><img class="size-medium wp-image-6708 alignnone" alt="Display Properties Menu in XP" src="//media/2013/01/DisplayProperties-269x300.gif"  width="269" height="300"></a></p>
+<p class="centered">Here are links with the instructions on how to change your screen resolution in <a title="Change screen resolution - Microsoft Windows Vista" href="http://windows.microsoft.com/en-US/windows-vista/Change-screen-resolution" target="_blank">Windows Vista</a>, <a title="Change your screen resolution - Microsoft Windows 7" href="http://windows.microsoft.com/en-US/windows7/Change-your-screen-resolution" target="_blank">Windows 7</a>, <a title="Get the best display on your monitor - Microsoft Windows 8" href="http://windows.microsoft.com/en-US/windows-8/get-best-display-monitor" target="_blank">Windows 8</a>, and <a title="Mac Basics: Set your preferences" href="http://support.apple.com/kb/HT2490" target="_blank">Mac OS X 10.4 through Mountain Lion</a>. Wondering why I didn&rsquo;t include a link for instructions for iOS, Android and Chrome? It&rsquo;s simple. There aren&rsquo;t instructions for those operating systems, because you can&rsquo;t change the screen resolution in them unless you jailbreak, root, or hack them.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Easy on the Eyes - How to Change Your Screen Resolution - Tech Tip Tuesday" data-link="/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Easy on the Eyes - How to Change Your Screen Resolution - Tech Tip Tuesday" data-link="/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Behold the Power of Ctrl-F &#8211; Tech Tip Tuesday</title>
+		<link>/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/</link>
+		<comments>/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/#comments</comments>
+		<pubDate>Tue, 15 Jan 2013 18:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Tech Tip Tuesday]]></category>
+		<category><![CDATA[power tips]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech tips]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6648</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/BeholdCtrlF-150x150.png" class="attachment-thumbnail wp-post-image" alt="Behold the power of Ctrl-F!" style="float:left; margin:0 15px 15px 0;" />Today we&#8217;re starting a new regular feature on Deemable Tech called Tech Tip Tuesday. Every week, (or roughly every week) we&#8217;ll bring you a quick tip that will make your life with technology easier. Now, if you are a power <a href="/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/BeholdCtrlF-150x150.png" class="attachment-thumbnail wp-post-image" alt="Behold the power of Ctrl-F!" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/01/BeholdCtrlF.png" class="gallery_colorbox"><img class=" wp-image-6658 alignright" alt="Behold the power of Ctrl-F!" src="//media/2013/01/BeholdCtrlF-300x300.png"  width="240" height="240"></a>Today we&rsquo;re starting a new regular feature on Deemable Tech called Tech Tip Tuesday. Every week, (or roughly every week) we&rsquo;ll bring you a quick tip that will make your life with technology easier. Now, if you are a <a title="Good ol' Wikipedia: &quot;A power user is a user of a personal computer who has the ability to use advanced features of programs which are beyond the abilities of &quot;normal&quot; users, but is not necessarily capable of programming and system administration.&quot;" href="http://en.wikipedia.org/wiki/Power_user" target="_blank">power user</a>, these tips might be below your grade level. Don&rsquo;t let that stop you from at least taking a glance each week. Chances are they&rsquo;ll be a few that even you didn&rsquo;t know about, every now and then.</p>
+<p>Today&rsquo;s Tech Tip Tuesday is a very simple trick that will make your life easier, especially if you have to search through long documents or websites in your job. Have you ever found yourself scanning a website, but you can&rsquo;t seem to find the sentence that you are looking for? The next time that happens to you, press the Control button on your keyboard which is usually labeled &ldquo;Ctrl&rdquo;, then, while you are still holding that button down, press the F key. If you are in Internet Explorer, a menu like the following will appear:</p>
+<p><a href="http://deemable.com/media/2013/01/Ctrl-F.png" class="gallery_colorbox"><img class="wp-image-6650 alignnone" alt="Ctrl-F The Find Menu" src="//media/2013/01/Ctrl-F.png"  width="629" height="34"></a></p>
+<p>Conveniently, your cursor will move to the &ldquo;Find:&rdquo; field. Type a word or short phrase that you know is in the sentence that you are looking for. For example, let&rsquo;s say you were reading an article about the iPhone 5, and you wanted to find the part where the author talked about the new Lightning connector. You could press Ctrl-F and search for the word &ldquo;lightning.&rdquo;</p>
+<p><a href="http://deemable.com/media/2013/01/SearchingForLightning.png" class="gallery_colorbox"><img class=" wp-image-6651 alignnone" alt='Searching for the word "lightning" in an article.' src="//media/2013/01/SearchingForLightning.png"  width="389" height="299"></a></p>
+<p>The web browser will automatically take you to the first instance of the word, or phrase, in the article, and&nbsp;it will tell you how many times the word appears in the article. It will also highlight every instance of the word in the article so you can find them visually. You can click the Next button to take you to the next instance, or the Previous button to take you to the last instance.</p>
+<p>If you type in a word or phrase that doesn&rsquo;t appear in the article, either because the word isn&rsquo;t actually in the article or you misspelled it, the Find menu will say, &ldquo;No options found.&rdquo; Make sure that you are spelling the word correctly, or try a different word.</p>
+<p>This tip works on all current web browsers, and on most other Windows and Mac programs. On the iPhone you can do the same thing in Safari by typing the word you are looking for in the Search field at the top, then scrolling to the bottom of the suggested searches. Tap the last option under the heading labeled &ldquo;On This Page.&rdquo;</p>
+<p><a href="http://deemable.com/media/2013/01/iPhoneSearchOnPage.png" class="gallery_colorbox"><img class="wp-image-6654 alignnone" alt="Searching for text on the webpage on Safari on iPhone" src="//media/2013/01/iPhoneSearchOnPage.png"  width="320" height="240"></a></p>
+<p>Try this tip out the next time you are searching for something on a long website. It&rsquo;ll save you a lot of time.</p>
+<p><strong>Did this Tech Tip help you? Have a suggestion for a future Tech Tip Tuesday? Let us know in the comments down below!</strong></p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Behold the Power of Ctrl-F - Tech Tip Tuesday" data-link="/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Behold the Power of Ctrl-F - Tech Tip Tuesday" data-link="/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/behold-the-power-of-ctrl-f-tech-tip-tuesday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 26 &#8211; Keeping Your Kids Safe Inside Small Windows</title>
+		<link>/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/</link>
+		<comments>/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/#comments</comments>
+		<pubDate>Mon, 14 Jan 2013 05:21:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Airplay]]></category>
+		<category><![CDATA[Airplay Mirroring]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[Samsung Galaxy SIII]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6636</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/kidsLookingOutWindow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Kids Looking Out Window" style="float:left; margin:0 15px 15px 0;" />On this week&#8217;s episode, we have a new toll-free phone number (1-888-972-9868) and a bunch of questions. Questions How can I control what my kid can access on an Android tablet? What is the best option for kid safe email? <a href="/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/kidsLookingOutWindow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Kids Looking Out Window" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/01/kidsLookingOutWindow.jpg" class="gallery_colorbox"><img class="size-medium wp-image-6677 alignright" alt="Kids Looking Out Window" src="//media/2013/01/kidsLookingOutWindow-300x300.jpg"  width="300" height="300"></a>On this week&rsquo;s episode, we have a new toll-free phone number (1-888-972-9868) and a bunch of questions.</p>
+<h3>Questions</h3>
+<ul><li>How can I control what my kid can access on an Android tablet?</li>
+<li>What is the best option for kid safe email?</li>
+<li>What&rsquo;s the easiest way to share a tablet like an iPad?</li>
+<li>What is the best antivirus software money can buy?</li>
+<li>Which Macs can do Airplay Mirroring on the Apple TV?</li>
+<li>Why isn&rsquo;t my Rosetta Stone software working?</li>
+<li>What do I need to do to get my GS3 to stop talking to me?</li>
+<li>Why is every window I open only half-size?</li>
+<li>Where can I upload 20 GB of photos for free?</li>
+</ul><p>All that and more, on this episode of Deemable Tech!</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 1-888-972-9868, or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-14.mp3">Episode 26 &ndash; Keeping Your Kids Safe Inside Small Windows!</a></p>
+<audio class="wp-audio-shortcode" id="audio-6636-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-14.mp3?_=10"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-14.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-14.mp3</a></audio><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 26 - Keeping Your Kids Safe Inside Small Windows" data-link="/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 26 - Keeping Your Kids Safe Inside Small Windows" data-link="/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/episode-26-keeping-your-kids-safe-inside-small-windows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-14.mp3" length="49600888" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; wireless router</title>
+	<atom:link href="/tag/wireless-router/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Linda writes, &#8220;Help! My computer says someone is using my IP address!&#8221;</title>
+		<link>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/</link>
+		<comments>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[IP Address]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[wireless router]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8930</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/using_your_ip-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="using_your_ip" style="float:left; margin:0 15px 15px 0;" />Q:&#160;When ever I go on my computer I get a message that someone else is using my IP address. I am terrified. Is someone else pretending to be me? Please help!!!!!! A:&#160;Linda, first of all, don&#8217;t panic: if a hacker <a href="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/using_your_ip-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="using_your_ip" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q:</strong>&nbsp;When ever I go on my computer I get a message that someone else is using my IP address. I am terrified. Is someone else pretending to be me? Please help!!!!!!<span id="more-8930"></span></p>
+<p><a href="http://deemable.com/media/2014/06/using_your_ip.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8954" src="//media/2014/06/using_your_ip-300x180.jpg"  alt="using_your_ip" width="300" height="180"></a><strong>A:</strong>&nbsp;Linda, first of all, don&rsquo;t panic: if a hacker wanted to pretend to be you, they wouldn&rsquo;t steal your IP address. It?s unlikely you are being hacked. What is more likely is that you have two devices on your home network that are conflicting with each other.</p>
+<p>Your&nbsp;mysterious IP address thief is much more likely to be a misbehaving wireless printer or mobile device that is using your WiFi network than a hacker. Wireless printers are sometimes the culprit, because some of them have pre-set IP addresses. If the WiFi router hands out that preset address to another computer or device, the router will get confused about who to send data to. Of course it doesn&rsquo;t have to be a printer to blame, it could be anything that is using your Wi-Fi.</p>
+<p>Try disconnecting your&nbsp;laptop from the Wi-Fi and then reconnecting. That should cause the router to assign it a clean IP address. Actually it wouldn&rsquo;t be a bad idea to do that for every device connected to the Wi-Fi.</p>
+<p>It?s possible, though, that this problem stems from either your&nbsp;laptop or another device on the network having a static IP address set. If that?s the issue you&nbsp;will probably need a technician to come out and look at it, as that starts to get a little bit complicated.</p>
+<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Glen asks, &#8220;How do I set up a home Wi-Fi network?&#8221;</title>
+		<link>/2014/05/glen-asks-set-home-wi-fi-network/</link>
+		<comments>/2014/05/glen-asks-set-home-wi-fi-network/#comments</comments>
+		<pubDate>Thu, 22 May 2014 10:38:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apple iPad]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless router]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8813</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/05/wireless_router-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The wireless router: your pathway to the land of Wi-Fi.
+
+Credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><p class="more-link-p"><a class="more-link" href="/2014/05/glen-asks-set-home-wi-fi-network/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/05/wireless_router-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The wireless router: your pathway to the land of Wi-Fi.
+
+Credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p119220-embed" src="http://www.prx.org/p/119220/embed.js?size=small">// <![CDATA[
+
+
+<strong>Q: I just got an iPad Mini. I already have a computer connected to the internet at home, and I'm wondering what equipment I need to set up Wi-Fi to use with the iPad. I have never had wireless in my house.<span id="more-8813">
+
+<strong>A: Setting up a wireless network for your home is a fairly easy process, Glen. To get started, you'll need to purchase a device called a wireless router from your local electronics store or online. Before you do, though, there are a few things you need to know.
+
+
+[caption id="attachment_8814" align="alignright" width="300"]<a href="http://deemable.com/media/2014/05/wireless_router.jpg"><img class="size-medium wp-image-8814" src="//media/2014/05/wireless_router-300x201.jpg" alt="The wireless router: your pathway to the land of Wi-Fi. Credit: Wikimedia Commons" width="300" height="201" /> The wireless router: your pathway to the land of Wi-Fi.
+Credit: Wikimedia Commons[/caption]
+
+
+
+First of all, you'll want to make sure that the router you buy will support the right Wi-Fi standards for your needs. The most common ones you'll see these days are G, N and AC, with the speed of the connection increasing in that order. A lot of wireless devices (including your new iPad) will work with G, but we recommend going with an N router (this will be listed on the package). All routers support older standards, so don't worry that getting a new one will stop your older devices from connecting with it.
+
+At your house, you're most likely connected to the internet through a cable or phone line coming out of the wall (depending on whether you have cable internet or DSL). That line plugs into a device commonly known as a modem, which decodes the signal into something computers can understand. Another line coming from your modem is currently plugged into your computer's network card (this will be an Ethernet cable, which sort of looks like a phone cord only bigger).
+
+When you get your router, you'll need to unplug that Ethernet cable from your computer, and plug it into the router instead. Then you'll connect your computer to the router with another Ethernet cable. Now all of the internet traffic going to your computer and iPad will be routed through the router (which is why they call it... well, you get the idea).
+
+Most router manufacturers include an easy-to-follow "quick setup" manual that will guide you through setting it up. These steps will be different from router to router, but here are a few general things to keep in mind:
+
+
+<ul>
+
+	
+<li>Place your router somewhere relatively high up and free from obstruction. This will help to ensure that your Wi-Fi signal reaches as far as possible without interference. You should especially avoid placing it near large metal objects.
+
+
+
+
+
+
+
+
+
+<ul>
+
+	
+<li>Make sure you turn on wireless security on the router (you should be given the option during installation). This will require anyone wanting to use your wireless network to enter a password. You'll see a few different security protocols to choose from in the setup, including WPA, WPA2 and WEP. We recommend using WPA or WPA2, because WEP is the weakest of the three. Make sure you come up with a strong password that can't be easily guessed by your neighbors. An unsecured network will allow them to use up your bandwidth, or worse, hack into your computers.
+
+
+
+
+
+
+
+
+
+<ul>
+
+	
+<li>Your router will also have a host of other settings that you can change through its control panel, which you can access by entering a special address into your web browser. This is often something like "routerlogin.com" or a string of numbers like "192.168.0.1" - the specific address for your router, as well as the login information for that control panel, will be listed in the user manual.
+
+
+
+
+
+
+
+
+
+<ul>
+
+	
+<li>You'll have the option to give your new wireless network a name while you're setting up. Some people go with the default one that comes with the router, but feel free to name it whatever you want. We suggest "Deemable Tech Is Da Bomb," but that's just us.
+
+
+
+
+
+
+
+
+Once you've got everything ready, Glen, get out your new iPad. Open Settings, tap "Wi-Fi", and you should see your new Wi-Fi network in the list of available ones. Select it, enter your password and connect. If you can reach the internet from your iPad, congratulations! You just set up a home Wi-Fi network!
+// ]]&gt;
+// ]]&gt;</script></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Glen asks, "How do I set up a home Wi-Fi network?"' data-link="/2014/05/glen-asks-set-home-wi-fi-network/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Glen asks, "How do I set up a home Wi-Fi network?"' data-link="/2014/05/glen-asks-set-home-wi-fi-network/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/glen-asks-set-home-wi-fi-network/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Episode 12 &#8211; Fly Me 2 d Moon</title>
+		<link>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/</link>
+		<comments>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/#comments</comments>
+		<pubDate>Mon, 27 Aug 2012 17:17:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apollo 11]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[cable company]]></category>
+		<category><![CDATA[capacitive stylus]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Mr. Gorsky]]></category>
+		<category><![CDATA[Neil Armstrong]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[SMS]]></category>
+		<category><![CDATA[text lingo]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless router]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5367</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />Deemable Tech &#8211; Episode 12 &#8211; Fly Me 2 d Moon Today&#8217;s Questions: I&#8217;m just not feeling it.Every time Britt touches a touchscreen it doesn&#8217;t recognize that he&#8217;s touched it. Zombie fingers? Anybody know how to share pictures on Facebook?Tina&#8217;s <a href="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200"></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5367-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3">Deemable Tech &ndash; Episode 12 &ndash; Fly Me 2 d Moon</a></p>
+<div><strong>Today&rsquo;s Questions:</strong></div>
+<div>
+<ol><li><strong>I&rsquo;m just not feeling it.<br></strong>Every time Britt touches a touchscreen it doesn&rsquo;t recognize that he&rsquo;s touched it. Zombie fingers?</li>
+<li><strong>Anybody know how to share pictures on Facebook?<br></strong>Tina&rsquo;s Android cell phone was wiped out and now she can&rsquo;t share pictures on Facebook or download pictures from text messages.</li>
+<li><strong>For that price, does it improve your score?!<br></strong>Michelle&rsquo;s sister-in-law was told she had to buy a $350 wireless router from the cable company if she wanted to play her Playstation 2 and Xbox 360 on the Internet.</li>
+<li><strong>w@ dz dis mean? I&rsquo;m %-)!<br></strong>Maggie&rsquo;s daughter is sending text messages that look like gibberish, and she wants to know what they mean.</li>
+</ol></div>
+<h3>The News Feed:</h3>
+<ol><li>The world lost a reluctant hero, Neil Armstrong.</li>
+<li>Samsung&rsquo;s worst scenario happened; Apple won. Samsung was found guilty of&nbsp;wilful&nbsp;infringement of Apple&rsquo;s patents.</li>
+</ol><h3>Debunkable:</h3>
+<ul><li>Neil Armstrong was misquoted, or was he?</li>
+<li>Good luck Mr. Gorsky!</li>
+</ul><div>If you get an email forwarded to you and you want to know if it&rsquo;s true or fake, forward it to us at <a href="http://mailto:debunkable@deemable.com/">debunkable@deemable.com</a>.</div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://www.markpilarski.com/deal-me-in/getting-ignored-by-a-touch-screen.html">http://www.markpilarski.com/deal-me-in/getting-ignored-by-a-touch-screen.html</a></li>
+<li><a href="http://www.hq.nasa.gov/office/pao/History/alsj/a11/a11.step.html">The official NASA transcripts from the Apollo 11 mission</a>.</li>
+<li><a href="http://www.lingo2word.com/translatetxt.php">lingo2word.com/translatetxt.php</a></li>
+<li><a href="http://transl8it.com/">transl8it.com/</a></li>
+<li><a href="http://netforbeginners.about.com/od/internetglossary/tp/The-Top-Text-Message-Acronyms-of-2011.htm">Text Talk: the Top Text Message Abbreviations, 2012</a></li>
+</ul><h3>Bumper Music</h3>
+<ul><li><a href="http://soundcloud.com/mcdoop/frank-sinatra-fly-me-to-the">Frank Sinatra &ndash; Fly Me To The Moon (8-bit) by Bryan Lopez</a></li>
+<li><a title="The Clash - I Fought The Law (8-bit NES Version)" href="http://www.youtube.com/watch?v=LJO-X-p00Ss">The Clash &ndash; I Fought The Law (8-bit NES Version)</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 12 - Fly Me 2 d Moon" data-link="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 12 - Fly Me 2 d Moon" data-link="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3" length="50876466" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

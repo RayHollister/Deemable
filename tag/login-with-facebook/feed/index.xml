@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Login with Facebook</title>
+	<atom:link href="/tag/login-with-facebook/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Steve asks &#8220;Is it safe to log in with Facebook?&#8221;</title>
+		<link>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/</link>
+		<comments>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 14:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Login with Facebook]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[Timeline]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7171</guid>
+		<description><![CDATA[Steve wants to know if logging in to a website using your Facebook username and password is safe. Hosts of Deemable Tech, Ray Hollister and Tom Braun, say it all depends on whether or not it uses the service &#8220;Log <a href="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Steve wants to know if logging in to a website using your Facebook username and password is safe. Hosts of Deemable Tech, Ray Hollister and Tom Braun, say it all depends on whether or not it uses the service &ldquo;Log In with Facebook.&rdquo; Listen to this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p90747-embed" src="http://www.prx.org/p/90747/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM:<br>
+Steve asks: I&rsquo;ve noticed that a lot of websites and apps on my phone have been asking me for my Facebook login. My teenage son keeps telling me it&rsquo;s fine, but I don&rsquo;t feel comfortable giving them my Facebook password. Should I be worried about this, or is it OK?</p>
+<p>RAY: Thanks for your question, Steve. Well, Maybe&hellip;? The question is whether or not you are on a website that uses a service called &ldquo;Login with Facebook&rdquo; or if the website is actually asking for your Facebook username and password?</p>
+<p>TOM: If the website is actually using &ldquo;Login with Facebook&rdquo; it is relatively safe. Facebook saves something on your computer when you log in called a cookie, so that the website knows who you are and knows that you are signed in.</p>
+<p>Login with Facebook allows other websites and apps on your phone &ndash; or tablet &ndash; to use that same information. That way they know who you are and you can log into their website. So, for example, if you were on NPR.org, and you wanted to comment on a story, normally you would have to create a username and password just for their website to comment. OR, you could sign in with your Facebook account instead. That&rsquo;s one less username or password you have to remember!</p>
+<p>RAY: Facebook doesn&rsquo;t share your password with the website or the app, but it usually does ask for permission to do things like: see who your friends are on Facebook, look at your Timeline, or post things on your Timeline and look at your pictures, videos and messages. So, make sure to read what you are giving the website or app permission to do, and don&rsquo;t agree to anything you are uncomfortable with.</p>
+<p>Now, on the other hand, if the website is asking for Facebook username and password. It&rsquo;s a scam. Run away. If you are already signed into Facebook, you should not get a prompt to sign in to Facebook again. So, if the website redirects you to the Facebook sign in page, make sure that you are actually on Facebook&rsquo;s website before you sign in. Facebook&rsquo;s website is facebook.com. That&rsquo;s it. It&rsquo;s not facebook.com.ex3Aa.com or anything other than Facebook.com.</p>
+<p>TOM: If you&rsquo;re not sure, an easy way to check is to open a new web browser tab or window and go to Facebook.com. If Facebook loads up and you are already signed in, close the other site and don&rsquo;t go back, it&rsquo;s definitely a scam.</p>
+<p>RAY: If you are on an app on your phone or tablet, that you bought from the App Store on iOS or Google Play or Amazon App Store on Android, then chances are very slim that the app is a scam app, but the same rules apply. The app should not be asking you for your user name and profile if you are already signed into Facebook.</p>
+<p>TOM: So, again, switch over to Facebook and see if you are already logged in. If you&rsquo;re not logged into Facebook, log in directly, and relaunch the app and see if it asks you to log in again. If you are already logged into Facebook, and it asks you to log in again, then forget that app. It&rsquo;s not worth it.</p>
+<p>Just like you wouldn&rsquo;t normally hand your car keys to a stranger on the street, you shouldn&rsquo;t give your Facebook username and password away.</p>
+<p>RAY: To hear more answers to questions like Steve&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at 1-888-972-9868, or you can send us an email at questions@deemable.com.</p>
+<p>RAY: For Deemable Tech I&rsquo;m Ray Hollister,</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/210862/facebooklogin_1__medium.PNG" title="Is it safe to log in with Facebook? That depends."></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Steve asks "Is it safe to log in with Facebook?"' data-link="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Steve asks "Is it safe to log in with Facebook?"' data-link="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

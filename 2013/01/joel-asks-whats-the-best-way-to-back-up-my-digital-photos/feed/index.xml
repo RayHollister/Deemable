@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Joel asks &#8220;What&#8217;s the best way to back up my digital photos?&#8221;</title>
+	<atom:link href="/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/#comment-922</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2013 17:14:37 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7214#comment-922</guid>
+		<description><![CDATA[Good question, Hamim. By redundancy I mean you want to have your files backed up in multiple places. CrashPlan+ and Pogoplug both have services that will backup your files on an external harddrive and online. 
+
+Unfortunately, I don&#039;t know of any system that will backup your files in more than two places. Most of your files don&#039;t need to be backed up more than twice, but we do recommend that really important files be backed up in three places. For those files, I would try those gold plated DVD-Rs, and/or regular DVD-Rs.]]></description>
+		<content:encoded><![CDATA[<p>Good question, Hamim. By redundancy I mean you want to have your files backed up in multiple places. CrashPlan+ and Pogoplug both have services that will backup your files on an external harddrive and online. </p>
+<p>Unfortunately, I don&#8217;t know of any system that will backup your files in more than two places. Most of your files don&#8217;t need to be backed up more than twice, but we do recommend that really important files be backed up in three places. For those files, I would try those gold plated DVD-Rs, and/or regular DVD-Rs.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: HamimCHOWHURY</title>
+		<link>/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/#comment-921</link>
+		<dc:creator><![CDATA[HamimCHOWHURY]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2013 17:01:57 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7214#comment-921</guid>
+		<description><![CDATA[can you please explain further abt redundancy, if any text about its operation is good for me,  can you name some device has this redundancy execution.]]></description>
+		<content:encoded><![CDATA[<p>can you please explain further abt redundancy, if any text about its operation is good for me,  can you name some device has this redundancy execution.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/#comment-920</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2013 16:38:48 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7214#comment-920</guid>
+		<description><![CDATA[There are gold plated DVD-Rs that claim to last 50-100 years, but I won&#039;t believe it until I see it. 
+
+The best way to back up your digital photos is with redundancy. Have an external backup drive for emergencies. Have an online backup for the real emergencies, and then sure, try a gold plated DVD-R.]]></description>
+		<content:encoded><![CDATA[<p>There are gold plated DVD-Rs that claim to last 50-100 years, but I won&#8217;t believe it until I see it. </p>
+<p>The best way to back up your digital photos is with redundancy. Have an external backup drive for emergencies. Have an online backup for the real emergencies, and then sure, try a gold plated DVD-R.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Hamim CHOWDHURY</title>
+		<link>/2013/01/joel-asks-whats-the-best-way-to-back-up-my-digital-photos/#comment-918</link>
+		<dc:creator><![CDATA[Hamim CHOWDHURY]]></dc:creator>
+		<pubDate>Thu, 15 Aug 2013 04:44:11 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7214#comment-918</guid>
+		<description><![CDATA[dear concern 
+How do i archive my photos in a gold platted DVD -R . do you think this is more safe than HDD, ?]]></description>
+		<content:encoded><![CDATA[<p>dear concern<br />
+How do i archive my photos in a gold platted DVD -R . do you think this is more safe than HDD, ?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

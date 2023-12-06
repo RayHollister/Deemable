@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; DDoS</title>
+	<atom:link href="/tag/ddos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>&#8220;LulzSec&#8221; Hackers: Attacking the Internet</title>
+		<link>/2011/06/lulzsec-hackers-attacking-the-internet/</link>
+		<comments>/2011/06/lulzsec-hackers-attacking-the-internet/#comments</comments>
+		<pubDate>Thu, 16 Jun 2011 18:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[breach]]></category>
+		<category><![CDATA[CIA]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Lulz]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[US]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3610</guid>
+		<description><![CDATA[Apparently no one is safe from the wrath of&#160;LulzSecurity, the notorious rogue hacker group who claimed the recent high-profile attacks on&#160;Sony Pictures Website and&#160;Nintendo&#8217;s servers. Now, their targets are set on the U.S. Government after hacking into the&#160;Senate&#8217;s website and <a href="/2011/06/lulzsec-hackers-attacking-the-internet/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/lulzsec-hackers-attacking-the-internet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://8.mshcdn.com/wp-content/uploads/2011/06/lulzsec_cia.jpg" alt="" width="470" height="176"></p>
+<p>Apparently no one is safe from the wrath of&nbsp;<a title="Lulz Security" href="http://lulzsecurity.com/" target="_blank">LulzSecurity</a>, the notorious rogue hacker group who claimed the recent high-profile attacks on&nbsp;<a title="Sony" href="http://mashable.com/2011/06/02/sony-pictures-hacked/" target="_blank">Sony Pictures Website</a> and&nbsp;<a title="Nintendo" href="http://mashable.com/2011/06/06/nintendo-hacked/" target="_blank">Nintendo&rsquo;s servers</a>. Now, their targets are set on the U.S. Government after hacking into the&nbsp;<a title="Senate" href="http://mashable.com/2011/06/14/lulzsec-us-senate-attack/" target="_blank">Senate&rsquo;s website</a> and even going as far as&nbsp;<a title="CIA" href="http://www.cnn.com/2011/TECH/web/06/16/cia.website.hacker/index.html" target="_blank">taking down the CIA&rsquo;s site</a>, which was restored shortly afterward.</p>
+<p>The group is apparently motivated by hacktivist culture and fueled by the amount of amusement &ndash; or &ldquo;lulz&rdquo; &ndash; that they can generate by causing mayhem on the internet.&nbsp;To bring down the Central Intelligence Agency&rsquo;s website on Wednesday, LulzSecurity used a Distributed Denial-of-Service (DDoS) attack which uses computers to flood the targeted site with so much traffic that it causes it to go offline. It is suggested that&nbsp;LulzSec probably did not steal any sensitive information from the breach on the government websites and while this is reassuring, it doesn&rsquo;t bode well for those who were among one of the 26,000 e-mail addresses and passwords that&nbsp;<a title="Passwords and e-mail addresses" href="http://www.zdnet.com/blog/btl/26000-email-addresses-and-passwords-leaked-check-this-list-to-see-if-youre-included/50424?tag=mantle_skin;content" target="_blank">the group recently leaked.</a></p>
+<p>Mashable&nbsp;<a title="Mashable" href="http://mashable.com/2011/06/16/lulzsec-hackers-cia/" target="_blank">mentions</a>, &ldquo;One thing separates LulzSec from many other similar groups, however: Its members are actively communicating with users, and they love the attention. And with a high-profile site being attacked almost daily in the past several weeks, we&rsquo;re sure we&rsquo;ll hear more about LulzSec in future.&rdquo; LulzSec is active on the social media site&nbsp;<a title="LulzSec" href="http://twitter.com/#!/lulzsec" target="_blank">Twitter</a> and has even created a&nbsp;<a title="Hotline" href="http://www.fastcompany.com/1760226/brrring-hello-lulzsec-hacker-collective-id-like-to-bring-down-a-website-please" target="_blank">telephone hotline service</a> which invites users to request potential targets for the group to attack in the future.</p>
+<p>Although LulzSec may be amusing themselves for the time being, the CIA has surely taken notice of the group and will likely be the ones having the last laugh.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://8.mshcdn.com/wp-content/uploads/2011/06/lulzsec_cia.jpg" target="_blank">Photo</a> by&nbsp;<a title="Stan Schroeder" href="http://mashable.com/author/stan-schroeder/" target="_blank">Stan Schroeder</a> via&nbsp;<a title="Mashable" href="http://mashable.com/" target="_blank">Mashable</a></p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='"LulzSec" Hackers: Attacking the Internet' data-link="/2011/06/lulzsec-hackers-attacking-the-internet/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='"LulzSec" Hackers: Attacking the Internet' data-link="/2011/06/lulzsec-hackers-attacking-the-internet/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/lulzsec-hackers-attacking-the-internet/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

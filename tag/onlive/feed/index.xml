@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; OnLive</title>
+	<atom:link href="/tag/onlive/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 11 &#8211; Call Me (Internationally), Maybe?</title>
+		<link>/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/</link>
+		<comments>/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/#comments</comments>
+		<pubDate>Mon, 20 Aug 2012 19:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[cable]]></category>
+		<category><![CDATA[DRM]]></category>
+		<category><![CDATA[eBooks]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Gram]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[OnLive]]></category>
+		<category><![CDATA[Palm]]></category>
+		<category><![CDATA[Square]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5361</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />Deemable Tech &#8211; Episode 11 &#8211; Call Me (Internationally), Maybe The Deemable Dozen: Apple&#8217;s attorney&#8217;s are on crack?&#160; As the legal smack-down in California heads into its final stretch, District Court Judge Lucy Koh&#8217;s patience appears to be wearing thin. <a href="/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200"></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5361-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-20.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-20.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-20.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-20.mp3">Deemable Tech &ndash; Episode 11 &ndash; Call Me (Internationally), Maybe</a></p>
+<h3>The Deemable Dozen:</h3>
+<ol><li><strong>Apple&rsquo;s attorney&rsquo;s are on crack?&nbsp;</strong><br>
+As the legal smack-down in California heads into its final stretch, District Court Judge Lucy Koh&rsquo;s patience appears to be wearing thin. With Samsung having rested their case and Apple left with only a few hours to wind up theirs, they submitted a massive 75-page document detailing 22 separate witnesses that they supposedly intended to call. Judge Koh reportedly told Apple&rsquo;s attorney, ?Unless you&rsquo;re smoking crack, you know these witnesses aren&rsquo;t going to be called when you have less than four hours.? Apple&rsquo;s lawyer protested that he was not smoking crack, but agreed to pare down the list. The trial is expected to wind up this week, which will give everyone a brief reprieve before the inevitable appeal process begins.</li>
+<li><strong>Motorola-Google fires first shot at Apple, seeks ban of all major devices in US.</strong><br>
+In other tech lawsuit news, Google&rsquo;s Motorola Mobility division, which Google purchased for its extensive patent portfolio, is seeking an injunction from the US International Trade Commission against just about everything Apple makes. Motorola claims that Apple has violated patents it owns regarding email notifications, location reminders, and phones that can also play video. Siri, Apple&rsquo;s popular voice-recognition software, is also implicated in the lawsuit.</li>
+<li><strong>Apple&nbsp;rumored&nbsp;to be in talks with cable companies.<br></strong>The Wall Street Journal reports that Apple is apparently in talks with cable companies to add cable service to their set-top box. Although AppleTV has been something of a hobbiest&rsquo;s toy up until now, being able to get cable through it would definitely be a game-changer. On the other hand, after seeing what Apple did to the music and publishing industries, the cable companies probably&nbsp;aren&rsquo;t&nbsp;going to roll over easily on this one.</li>
+<li><strong>HP turns Palm into Gram.</strong><br>
+Fans of the old Palm WebOS rejoiced last week with word that HP was forming a subsidiary called Gram to manage the now fully open-source mobile platform, which they own. But don&rsquo;t get too excited guys, because HP has also created another mobility unit which will apparently work on Windows tablets. At this point HP&rsquo;s strategy appears to be: ?Yes, let&rsquo;s do something with mobile&hellip; stuff.? They are also&nbsp;rumored&nbsp;to have ?the cloud&hellip;&rdquo;</li>
+<li><strong>Square&rsquo;s flat rate.</strong><br>
+In a bid to court small businesses, mobile payment provider Square has announced that it will begin offering flat rates for companies that are processing less than $250k in transactions through the service. Square normally takes a 2.75% cut of each transaction, but are now offering smaller users the option to pay $275 a month. That sounds like a lot to me, but people don&rsquo;t offer me their credit card numbers a lot, so what do I know?</li>
+<li><strong>Facebook&rsquo;s stock fall.</strong><br>
+Facebook&rsquo;s stock took a huge hit Friday, tumbling to $19/share, half of what it was at the company&rsquo;s Initial Public Offering in May. The plunge comes a day after the expiration of a lock-down period where early investors and insiders were required to hold onto their shares. Apparently once they were free to dump them, they did. Since Facebook went public it has taken a real beating in the stock market. I wonder if Mark Zuckerberg has updated his Linked In profile recently?</li>
+<li><strong>Washington state to enable Facebook voter registration.</strong><br>
+Washington state is poised to allow citizens to register to vote through Facebook. Washington was the second state in the US to allow online voter registration. I suppose this is the next logical step. At least half my Facebook friends already seem to think that ?Liking? Obama or Romney is equivalent to voting for them.</li>
+<li><strong>iPhone SMS spoofing.</strong><br>
+?White hat hackers? (those are the good kind) have discovered an iPhone bug that allows someone to send text messages masquerading as any phone number. ?Black hat hackers? (those are the bad kind) might be able to use this technique to impersonate friends and extract personal information from iPhone users. So play it safe: when your friend starts texting you and asking for your credit card number and SSN, don&rsquo;t give it to him.</li>
+<li><strong>Adobe announces Flash for Android is dead!<br></strong>Flash is dead. Long live Flash. Adobe pulled the Flash Player from the Google Play store this week, meaning it is no longer available for download for Android devices. For nearly a decade Flash was the technology of choice for doing things like animation or streaming video on the web. Things took a turn for the worse for Adobe&rsquo;s platform after Apple spurned it by refusing to allow it on iOS. Last Christmas Adobe apparently saw the writing on the wall and announced that it would begin focusing on other technologies. If you already have Flash on your Android phone or tablet, it&rsquo;s not going away, but many websites and apps are already steering away from using Flash towards sleeker, more reliable mobile-friendly technologies such as HTML5.</li>
+<li><strong>eBay to officially ban ?intangible? items, such as including ?spells, curses, hexes, conjuring, magic, prayers, blessing services, magic potions, healing sessions?.</strong><br>
+Bad news for enterprising Hogwarts students: Ebay has updated its selling policies to ban sales of &ldquo;advice, spells, curses, hexing, conjuring, magic, prayers, blessing services, magic potions, [and] healing sessions,&rdquo; beginning in September. In related news, Magical Ebay has reportedly banned sales of ?useless muggle items such as cars, power-tools and digital wristwatches.? This just in: this may be the nerdiest news item we have ever reported.</li>
+<li><strong>Publishers fight over whether or not to sell DRM-free (Digital Rights Management) eBooks.<br></strong>E-books outsold traditional&nbsp;hard-cover&nbsp;books for the first time in the first quarter of this year. They are now officially Big Business. Tor, the world&rsquo;s largest science fiction publishing imprint announced in April that it would release all of it&rsquo;s books without any Digital Rights Management. That announcement didn&rsquo;t sit well with British publisher Hatchette UK, who this week sent out a letter to its authors gently suggesting that they are not okay with having books they sell with DRM sold DRM-free in another territory. Science fiction author, Boing-Boing editor and opponent of all things DRM Cory Doctorow lashed out at Hatchette, saying ?Hachette has balls the size of Mars if it thinks it can dictate what other publishers do with titles in territories where it has no rights.?</li>
+<li><strong>Cloud gaming service ?OnLive? has been sold.</strong><br>
+Cloud-based gaming service ?OnLive? announced Friday morning that it had laid off all 200 or so of its employees and sold all of its assets to a new owner. OnLive later issued a press release claiming that it would continue to offer all its services, that nearly half of its employees would be hired back, and that everything was ?business as usual&rsquo;. Dissolving your entire company only to re-form it hours later&nbsp;doesn&rsquo;t&nbsp;sound like ?business as usual&rsquo; to us.</li>
+</ol><div><strong>Today&rsquo;s Questions:</strong></div>
+<div>
+<ol><li>Are there any alternatives to Vonage?</li>
+<li>Why won&rsquo;t my Apple TV do Airplay with my 2010 iMac?</li>
+<li>How do I change the font size in the Inbox Column?</li>
+<li>What software should I use to convert my videos?</li>
+</ol></div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://speedtest.net/">http://speedtest.net/</a></li>
+</ul><h3>Bumper Music</h3>
+<ul><li><a href="http://www.youtube.com/watch?v=VSBefGi7F-Y">Violin Super Mario!!!!!</a></li>
+<li><a href="http://www.youtube.com/watch?v=Gg290v572Zw">Skrillex &ndash; Scary Monsters And Nice Sprites &ndash; Ferro Version (piano tutorial with sheet music)</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 11 - Call Me (Internationally), Maybe?" data-link="/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 11 - Call Me (Internationally), Maybe?" data-link="/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-20.mp3" length="51407991" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

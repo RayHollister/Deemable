@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; WJCT</title>
+	<atom:link href="/tag/wjct/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>HP Open-Sources webOS &#124; Deemable Tech Report</title>
+		<link>/2011/12/hp-open-sources-webos/</link>
+		<comments>/2011/12/hp-open-sources-webos/#comments</comments>
+		<pubDate>Fri, 23 Dec 2011 23:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Deemable Tech Report]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[89.9 FM]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[HP TouchPad]]></category>
+		<category><![CDATA[HP Veer]]></category>
+		<category><![CDATA[HP WebOS]]></category>
+		<category><![CDATA[Palm Pre]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[WJCT]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=4570</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2011/12/Veer_Pre3_TouchPad-150x150.png" class="attachment-thumbnail wp-post-image" alt="Veer Pre3 TouchPad" style="float:left; margin:0 15px 15px 0;" />HP Open-Sources webOS TRANSCRIPT: RAY HOLLISTER: Recently HP announced that they are open-sourcing the operating system that runs their phones and tablets called webOS. In a nutshell, open-sourcing means that Hewlett-Packard&#160;will be sharing the source code of webOS, the human <a href="/2011/12/hp-open-sources-webos/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/12/hp-open-sources-webos/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/12/Veer_Pre3_TouchPad-150x150.png" class="attachment-thumbnail wp-post-image" alt="Veer Pre3 TouchPad" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-4570-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3?_=1"></source><a href="http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3</a></audio><p><a title="Right click here to download the news story" href="http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">HP Open-Sources webOS</a></p>
+<p><a href="http://deemable.com/wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png" class="gallery_colorbox"><img class="alignleft wp-image-4664" title="Veer Pre3 TouchPad" src="http://deemable.com/wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png"  alt="" width="128" height="104"></a></p>
+<h4>TRANSCRIPT:</h4>
+<p>RAY HOLLISTER: Recently HP announced that they are open-sourcing the operating system that runs their phones and tablets called webOS. <span id="more-4570"></span><br>
+In a nutshell, open-sourcing means that Hewlett-Packard&nbsp;will be sharing the source code of webOS, the human readable code that the operating system is programmed with. Now this is quite different compared to companies like Apple who jealously guards the code that their iOS operating system runs on.</p>
+<p>This puts HP&rsquo;s webOS at a crossroad. This could revitalize the operating system to where you could see webOS devices everywhere, or they could just be putting it out to pasture.</p>
+<p>To give you some background story, webOS itself was wildly praised by many critics and users when it was announced by Palm at the Consumers Electronic Show in January of 2009, but the phones and tablets that it ran on were all disappointing sellers.</p>
+<p>JEFF BAKALAR: The phone is great, they just have absolutely no quality control.</p>
+<p>RAY HOLLISTER: That was Jeff Bakalar, Associate Editor and Co-Host of CNET&rsquo;s &ldquo;The 404&rdquo; on the episode just after he had received his 9th Palm Pre. All of his previous&nbsp;eight Palm Pre&rsquo;s had to be&nbsp;taken back to Sprint because they were defective. Sales of Palm&rsquo;s phones were so dismal that the company was rumored&nbsp;to be on the edge of bankruptcy when HP announced that they were purchasing Palm for 1.2 billion dollars in late April of 2010.</p>
+<p>After HP purchased Palm, they excited fans by holding an event on February 9th of 2011 announcing two new phones and a tablet device with what can only be compared with the excitement of an Apple keynote event.</p>
+<p>(&ldquo;Daft Punk Is Playing at My House&rdquo; by LCD Soundsystem&nbsp;begins playing. A crowd applauding and cheering can be heard.)</p>
+<p>TODD&nbsp;BRADLEY: Well good morning! Welcome to San Francisco.</p>
+<p>RAY HOLLISTER: However, that excitement wore off quickly as HP did not announce prices or when the devices were expected&nbsp;to launch. The HP Veer, a diminutive phone with a face only slightly larger than a credit card finally came out over three months later, and the HP Touchpad was finally released on July 1st. Both sold so poorly that only 48 days after the Touchpad was released HP canceled all webOS devices. In the same announcement they stated that they would ?explore options to optimize the value of webOS software going forward.?</p>
+<p>Four months later, HP&rsquo;s newly appointed CEO Meg Whitman finally announced that they would be open-sourcing webOS.</p>
+<p>So, unless you&rsquo;re already familiar with how open-source software works, you are probably asking, &ldquo;OK, what does that mean?&rdquo; Well, it means that HP is letting everyone take a look under the hood, and take out the parts they want, or they can take the entire system and install it on their own devices. This is the same way that Android, which is primarily made by Google, works. In fact, webOS could potentially become a serious competitor to Android, which has taken over the market share from Apple&rsquo;s iPhone.</p>
+<p>The question is, will webOS be successful as an open source platform? The main factor&nbsp;that has separated the successes from the failures has been the level of manufacturer support. If only modders, hackers and tinkerers put webOS on their phones and tablets, and hardware manufacturers like HTC, Motorola, Samsung and Sony do not adopt it, then webOS may not find success in the open-source after life.</p>
+<p>DEREK&nbsp;KESSLER: If that is to be the future of webOS, that&rsquo;s a death sentence.</p>
+<p>RAY HOLLISTER: That was Derek Kessler, Editor-in-Chief of webOSNation.com, a news site dedicated to webOS news and discussion. Derek has been following&nbsp;the news around Palm and subsequently&nbsp;webOS and HP since 2000, and despite his concern that HP still has not announced any partners in manufacturing, he still remains optimistic.</p>
+<p>DEREK&nbsp;KESSLER: I&rsquo;m very hopeful that HP and other companies latch on to this open-source webOS and actually do something with it, and they do something amazing, and make hardware and software that is actually worth putting out, and worth buying, and good for the users, and good for the companies that make it.</p>
+<p>From 89.9 WJCT, I&rsquo;m Ray Hollister</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="HP Open-Sources webOS | Deemable Tech Report" data-link="/2011/12/hp-open-sources-webos/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="HP Open-Sources webOS | Deemable Tech Report" data-link="/2011/12/hp-open-sources-webos/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/12/hp-open-sources-webos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3" length="5041215" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

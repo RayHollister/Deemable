@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Heartbleed</title>
+	<atom:link href="/tag/heartbleed/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Heartbleed, Passwords and You</title>
+		<link>/2014/04/heartbleed-passwords/</link>
+		<comments>/2014/04/heartbleed-passwords/#comments</comments>
+		<pubDate>Thu, 10 Apr 2014 16:08:06 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Heartbleed]]></category>
+		<category><![CDATA[internet security]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8707</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" />The big news in tech right now is a dangerous bug in the internet known as &#8216;Heartbleed&#8217; which could be putting your personal information at risk. Here&#8217;s what you need to know about it and what you can do. What <a href="/2014/04/heartbleed-passwords/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/heartbleed-passwords/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p116661-embed" src="http://www.prx.org/p/116661/embed.js?size=small"></script></p>
+<p><span style="line-height: 1.5em;">The big news in tech right now is a dangerous bug in the internet known as &lsquo;Heartbleed&rsquo; which could be putting your personal information at risk. Here&rsquo;s what you need to know about it and what you can do.</span><span id="more-8707"></span></p>
+<h2><a href="http://deemable.com/media/2014/04/heartbleed.png" class="gallery_colorbox"><img class="alignright  wp-image-8708" src="//media/2014/04/heartbleed.png"  alt="heartbleed" width="246" height="297"></a>What is Heartbleed?</h2>
+<p>Heartbleed&nbsp;is a &ldquo;vulnerability,&rdquo; or a hole in the elaborate security systems in place around the web. Imagine if there was one company that made over half the locks on doors in the world. Now imagine that someone discovered that all those locks could be picked easily and without anyone noticing. That frightening situation is basically what has happened on the internet.</p>
+<p>To put it simply,&nbsp;Heartbleed&nbsp;is basically a programming error that makes many secure websites less secure. When you visit a page that asks for private information, such as a password or a credit card number, that page almost always has a lock icon beside its web address. This means that the page uses SSL, the technology that secures web pages with sensitive information. A popular and widespread version of SSL is&nbsp;OpenSSL, which is used by almost 60 percent of all websites.&nbsp;OpenSSL&nbsp;is where this bug was found.</p>
+<p>On some versions of this system a small but critical error made it possible for a hacker to &ldquo;snoop&rdquo; the encrypted data being passed back and forth without being detected. Experts estimate that this problem has existed for the past two years.</p>
+<p>While some internet security threats are overblown, this one is real. World-renowned internet security expert and author Bruce&nbsp;Schneier&nbsp;recently stated that &ldquo;on a scale of 1 to 10, this is an 11.&rdquo;</p>
+<p><strong>What Can I Do About It?</strong></p>
+<p>The bad news is that there is not a lot that ordinary users can do about this. It is up to the companies that run the compromised websites to fix it. Patches are available, and IT administrators world-wide should be scrambling to implement them.</p>
+<p>For the moment, the best thing you can do is to avoid compromised websites that have not yet been fixed. How do you know if a site is compromised? You can check it by entering the address of the site at this page:&nbsp;<a href="http://filippo.io/Heartbleed/" target="_blank" data-cke-saved-href="http://filippo.io/Heartbleed/">http://filippo.io/Heartbleed/</a></p>
+<p>Major websites that are known to be SAFE and were UNAFFECTED include:</p>
+<ul><li>Twitter</li>
+<li>Amazon</li>
+<li>Microsoft (and sub-sites)</li>
+<li>AOL</li>
+<li>Paypal</li>
+<li>Most banking websites</li>
+</ul><p>Major websites that are SAFE but had been PREVIOUSLY AFFECTED include:</p>
+<ul><li>Google</li>
+<li>Gmail</li>
+<li>YouTube</li>
+<li>Facebook</li>
+<li>Yahoo!</li>
+<li>Instragram</li>
+<li>Pinterest</li>
+<li>OKCupid</li>
+<li>GoDaddy</li>
+</ul><p>Mashable&nbsp;has&nbsp;<a href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/" data-cke-saved-href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/">a long list of sites that were affected</a>&nbsp;with up-to-date information about their security status.</p>
+<p><strong>Should I Change My Passwords?</strong></p>
+<p>Yes,&nbsp;as long as the website you are changing your password on has been fixed. If you change your password on a site that is still vulnerable, hackers can simply grab your new password! At this point, however, it should be safe to change your password virtually everywhere.</p>
+<p>Your best bet to protect yourself is to&nbsp;use separate passwords for every website.</p>
+<p>We have long preached the virtues of&nbsp;<a href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords" target="_blank" data-cke-saved-href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords">password managers</a>. These are programs that can&nbsp;generate truly random passwords and remember which password goes with which website for you.&nbsp;It used to be just a good idea to use a password manager, but now you need to seriously consider using one.</p>
+<p>The password managers we recommend are&nbsp;<a href="https://lastpass.com/" target="_blank" data-cke-saved-href="https://lastpass.com/">LastPass</a>,&nbsp;<a href="https://www.dashlane.com/" target="_blank" data-cke-saved-href="https://www.dashlane.com/">DashLane&nbsp;</a>and&nbsp;<a href="http://keepass.com/" target="_blank" data-cke-saved-href="http://keepass.com/">KeePass</a>.&nbsp;LastPass&nbsp;and&nbsp;DashLane&nbsp;store your passwords in a very secure cloud so you can access them from all your computers and mobile devices.&nbsp;KeePass&nbsp;stores them on your hard drive. Use whichever feels more comfortable to you, but please use one!</p>
+<p>If you are dead set against password managers, you should still try to use different passwords for different sites. Your Amazon password should be different from your email password, which should be different from your bank password. To help you remember these passwords, consider writing them down and storing them somewhere safe at home &ndash; like, maybe in a safe!</p>
+<p><strong>What Else Can I Do?</strong></p>
+<p>Become better educated about internet security! With so much of our lives now stored online, this is a topic that affects virtually everyone. Knowing good password practices, like how to make a hard-to-guess password and that you should have separate passwords for separate websites, is critical.</p>
+<p>Check websites that you regularly visit for the&nbsp;Heartbleed&nbsp;vulnerability using the link above. If you find that one has problems, you could try emailing their IT administrators to inform them and find out what steps are being taken. In the meantime, stay off of that website. Once the hole is plugged, log in and change your password.</p>
+<p>Keep an eye on bank statements and credit card information for unusual activity.&nbsp;Heartbleed&nbsp;was discovered by security researchers. We have no proof that hackers have been using it, but the possibility exists. That means you need to take precautions to protect yourself in the digital world.</p>
+<p>If you have more questions, call us a <a href="tel:18889729868">1-888-972-9868</a> or email us at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/heartbleed-passwords/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

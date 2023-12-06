@@ -1,0 +1,1240 @@
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/business-directory-plugin.php on line 884
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/themes/magazine-basic/functions.php on line 265
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-dashboard-for-wp/gadwp.php on line 235
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-for-wordpress/vendor/composer/ClassLoader52.php on line 186
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/sharedaddy/sharing.php on line 10
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-includes/script-loader.php on line 653
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 288
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-includes/script-loader.php on line 51
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1004
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Humor</title>
+	<atom:link href="/category/humor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#78 April Fools!</title>
+		<link>/2015/04/78-april-fools/</link>
+		<comments>/2015/04/78-april-fools/#comments</comments>
+		<pubDate>Fri, 03 Apr 2015 19:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9877</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/04/AprilFoolsMashup-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="April Fools Roundup" style="float:left; margin:0 15px 15px 0;" />April Fools&#8217; Day was during this week, so no one in the tech industry &#8212; or the news media for that matter &#8212; got any work done. There was hardly any real news in the tech world, so Ray, Sean <a href="/2015/04/78-april-fools/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/04/78-april-fools/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/04/AprilFoolsMashup-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="April Fools Roundup" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter wp-image-9886 size-full" src="//media/2015/04/AprilFoolsMashup.jpg" alt="Ghosts, Goats and Dragons? It's Deemable Tech's April Fools Roundup" width="1458" height="762"></p>
+<p>April Fools&rsquo; Day was during this week, so no one in the tech industry &mdash; or the news media for that matter &mdash; got any work done. There was hardly any real news in the tech world, so Ray, Sean and Tom share their favorite April Fools Pranks from around the web. It&rsquo;s all dragons, puppies, kittens and fine, hand-crafted selfie sticks on this week&rsquo;s episode of Deemable Tech.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>If you haven&rsquo;t <a title="Subscribe to Deemable Tech" href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/ca/podcast/deemable-tech-wjct/id540595466?mt=2" target="_blank" rel="external nofollow">subscribed to Deemable Tech</a> yet, get on it! Subscribe to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">Deemable Tech&nbsp;in iTunes</a>,&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a> or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader</a>. Make sure to leave a review on iTunes and Stitcher. The more reviews posted,&nbsp;the higher Deemable Tech will&nbsp;be listed, and the more listeners will see the&nbsp;show.</p>
+<p>And make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-9877-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/04/deemabletech_2015_04_03.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/04/deemabletech_2015_04_03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/04/deemabletech_2015_04_03.mp3</a></audio><h2>This Week&rsquo;s Run Down</h2>
+<h3>April Fools Day Roundup</h3>
+<p><b>Nature.com</b> released an <a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/520042a.html">academic paper Wednesday verifying the existence of dragons</a>. The paper warns that global warming may usher in a new resurgence in the creatures population.</p>
+<p><b>RedBox</b> announced new <a href="http://www.redbox.com/petbox">PetBox rental machines</a> exclusively for our furry friends. RedBox said these new, smaller boxes will carry &ldquo;the latest movies &amp; games your pet will want to sit and stay for.&rdquo; They also created parody posters for new releases at PetBox, including &ldquo;Gone Squirrel,&rdquo; &ldquo;Pig Hero 6,&rdquo; &ldquo;Fifty Shades of Greyhound,&rdquo; and&hellip; &ldquo;Fox Catcher&rdquo;.</p>
+<p><b>Microsoft</b> released a <a href="http://lumiaconversations.microsoft.com/2015/04/01/microsoft-launches-ms-dos-mobile/">new operating system for its mobile phone division, MS-DOS</a>. According to the press release, the new operating system brings with it &ldquo;the much-loved C:\ prompt.&rdquo;&nbsp;Microsoft also released an accompanying app which includes the standard MS-DOS boot up screens and allows the user to type such legendary commands as &ldquo;format c:&rdquo;.</p>
+<p><b>Jimmy Johns</b> announced on Twitter they are launching drone delivery of subs.</p>
+<p><b>CERN</b> researchers <a href="http://home.web.cern.ch/about/updates/2015/04/cern-researchers-confirm-existence-force">confirm the existence of the Force</a>. Although researchers at the Large Hadron Collider have already detected four fundamental forces, Wednesday they announced that they have evidence to support the existence of the Force. In true academic nerd/ Star Wars Geek style, they made a ridiculous number of references to Star Wars characters, making it completely unbelievable that they had discovered a mystical, magical power that binds the universe.</p>
+<p><strong>Motorola</strong> has had big hits recently with its customizable Moto X line of Android smartphones, so what could be more natural than a hand-crafted Moto selfie-stick, available in either wood or leather? Motorola released a slickly produced video with a bearded craftsman extolling its virtues:</p>
+<p><b>Netflix</b> <a href="http://www.huffingtonpost.com/2015/04/01/netflix-binge-watching-warning_n_6981300.html">warns about the dangers of binge watching</a>.&nbsp;If you watched more than two consecutive episodes of a show, Netflix would play a 30-second PSA video about the dangers of binge watching. These videos featured some of the actors from Netflix&rsquo;s original programming like &ldquo;Orange is the New Black&rdquo; and &ldquo;House of Cards&rdquo; imploring you to stop and do your homework or take a shower.</p>
+<h3><b>Google&rsquo;s April Fools Day Pranks</b></h3>
+<p>Google has been known for going all out on April Fools Day, and this year was no exception. Here are a few of our favorite&nbsp;April Fools&rsquo; Day pranks from Google.</p>
+<p><b>Google</b> <a href="https://chrome.google.com/webstore/detail/self-browsing-chromebook/fhngcdjlcfhgpjjacopbocochchfmjfa">introduced the self-browsing <strong>Chromebook</strong></a> extension. Google introduced a fake extension for Chromebooks that surf the web for you. They promised that these self-browsing Chromebooks would do everything from automatically writing emails to your relatives, buying flowers for your significant other and penning a best-selling novel.</p>
+<p><a href="https://support.google.com/maps/answer/6178227?hl=en"><b>Google Maps</b> added PAC-MAN mode</a>. The new feature allows you to eat pac-dots and power pellets and chase down the ghosts Blinky, Pinky, Inky and Clyde on the streets of the real world. The game is going to be available on the website for a short time.</p>
+<p><b>YouTube</b> took a page from the trolls that lurk their comments section for their April Fools Day prank. It&rsquo;s been a running joke on YouTube for a few years that whenever someone asks what the background music of a video is, someone will inevitably respond with the song &ldquo;Sandstorm&rdquo; by the Finnish electronic artist Darude.&nbsp;No matter what you searched for on Wednesday, YouTube suggested &ldquo;<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/youtube-has-added-a-darude-sandstorm-button-to-all-videos-10149538.html" target="_blank">Did you mean &lsquo;Sandstorm by Darude&rsquo;?</a>&rdquo;. They didn&rsquo;t stop there, though: they also added a music icon button to their player that would just play the song over and over again when you clicked it.</p>
+<p><a href="http://bgr.com/2015/04/01/google-april-fools-day-joke-2015-roundup/">BGR did a great article with all of Google Pranks for 2015.</a></p>
+<p>Microsoft&rsquo;s Google competitor <b>Bing</b> introduced the Bing &ldquo;<a href="https://www.bing.com/explore/cutecloud">Cute Cloud</a>&rdquo; which is sort of like Google Image Search for cute animals. It was actually pretty functional, and this journalist spent a good ten minutes browsing kittens.</p>
+<p><strong>Amazon</strong> went&nbsp;retro, changing its homepage to <a href="http://www.marketwatch.com/story/amazon-goes-retro-for-april-fools-previews-the-future-with-dash-button-2015-04-01" target="_blank">Amazon.com circa 1999</a>.</p>
+<p>And finally, in &mdash; apparently &mdash; real news:</p>
+<p><strong>Amazon</strong> <a href="https://www.amazon.com/oc/dash-button/ref=br_imp_ara-1?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=desktop-hero-1&amp;pf_rd_r=0EHNS0KSGQ0AQZ1JRZ5H&amp;pf_rd_t=36701&amp;pf_rd_p=2068482462&amp;pf_rd_i=desktop&amp;utm_content=bufferc4473&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">Unveils Dash Button</a>, <a href="http://bgr.com/2015/04/01/amazon-dash-is-not-a-joke/" target="_blank">People Think It&rsquo;s an April Fools Joke</a></p>
+<p>Amazon was at great pains to point out that it announced the Amazon Dash Button on March 31st, but that still wasn&rsquo;t enough to convince some people that its newly announced product wasn&rsquo;t a hoax. The Dash Button is a small button that can be placed next to household staples like paper towels, keurigs and other things that need to be frequently restocked. Once the button is connected to your Amazon account you simply press it when you are running low and an order will be sent to Amazon to automatically restock it. Depending on who you ask, and I include in that statement the people sitting in this studio, this idea is either stupid, genius or a prank.</p>
+<h3>Got Feedback?</h3>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#78 April Fools!" data-link="/2015/04/78-april-fools/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#78 April Fools!" data-link="/2015/04/78-april-fools/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/04/78-april-fools/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/04/deemabletech_2015_04_03.mp3" length="25426190" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#59 The Adventures of Cortana and Colonel Panic</title>
+		<link>/2014/03/59-adventures-cortana-colonel-panic/</link>
+		<comments>/2014/03/59-adventures-cortana-colonel-panic/#comments</comments>
+		<pubDate>Thu, 06 Mar 2014 02:54:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[Halo]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 7]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8605</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/cortana_panic-150x150.png" class="attachment-thumbnail wp-post-image" alt="cortana_panic" style="float:left; margin:0 15px 15px 0;" />Deemable Tech is back with another fun episode! First, Ray and Tom discuss some big recent news items including a familiar face coming to Windows Phone and security problems for Apple&#8217;s iOS. Then producer Sean Birch joins them for another <a href="/2014/03/59-adventures-cortana-colonel-panic/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/59-adventures-cortana-colonel-panic/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/cortana_panic-150x150.png" class="attachment-thumbnail wp-post-image" alt="cortana_panic" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: left;">Deemable Tech is back with another fun episode! First, Ray and Tom discuss some big recent news items including a familiar face coming to Windows Phone and security problems for Apple&rsquo;s iOS. Then producer Sean Birch joins them for another round of the runaway hit trivia segment Does Not Compute! Do you know what a common cause for software glitches is? Is it Colonel Panic? Find out the answer in this week&rsquo;s episode of the Deemable Tech podcast!&nbsp;<a href="http://deemable.com/media/2014/03/cortana_panic_2.png" class="gallery_colorbox"><img class=" wp-image-8611 aligncenter" alt="Cortana and Colonel Panic" src="//media/2014/03/cortana_panic_2.png"  width="397" height="275"></a></p>
+<p>Hey, did you know that we&rsquo;ll be premiering our first hour-long public radio special at the end of March? If you&rsquo;d like to be a part of it and have your question answered on air, leave us a voicemail at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8605-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-03-03.mp3?_=2"></source><a href="http://deemable.com/audio/DeemableTech_2014-03-03.mp3">http://deemable.com/audio/DeemableTech_2014-03-03.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-03-03.mp3">#59 The Adventures of Cortana and Colonel Panic</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#59 The Adventures of Cortana and Colonel Panic" data-link="/2014/03/59-adventures-cortana-colonel-panic/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#59 The Adventures of Cortana and Colonel Panic" data-link="/2014/03/59-adventures-cortana-colonel-panic/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/59-adventures-cortana-colonel-panic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-03-03.mp3" length="26845281" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#58 Road To Predictions</title>
+		<link>/2014/01/58-road-predictions/</link>
+		<comments>/2014/01/58-road-predictions/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 02:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[predictions]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8530</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/01/deem_2014_2-150x150.png" class="attachment-thumbnail wp-post-image" alt="deem_2014_2" style="float:left; margin:0 15px 15px 0;" />Deemable Tech returns after a nice holiday break! Ray, Tom and producer Sean Birch are back behind the mics in this very first episode of 2014. And since it is the first episode of the new year, the three of <a href="/2014/01/58-road-predictions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/01/58-road-predictions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/01/deem_2014_2-150x150.png" class="attachment-thumbnail wp-post-image" alt="deem_2014_2" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2014/01/deem_2014_2.png" class="gallery_colorbox"><img class="alignright  wp-image-8538" alt="deem_2014_2" src="//media/2014/01/deem_2014_2.png"  width="244" height="206"></a>Deemable Tech returns after a nice holiday break! Ray, Tom and producer Sean Birch are back behind the mics in this very first episode of 2014. And since it is the first episode of the new year, the three of them have some predictions for what will happen in the tech world in the next 12 months (caution: some of the predictions may not be serious). What do you think will happen this year? Do you agree with our predictions?</p>
+<p>Remember, we are still prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8530-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-01-12.mp3?_=3"></source><a href="http://deemable.com/audio/DeemableTech_2014-01-12.mp3">http://deemable.com/audio/DeemableTech_2014-01-12.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-01-12.mp3">#58 Road To Predictions</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/TA4HkzjZsFo?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#58 Road To Predictions" data-link="/2014/01/58-road-predictions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#58 Road To Predictions" data-link="/2014/01/58-road-predictions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/58-road-predictions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-01-12.mp3" length="89008911" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#57 DOES NOT COMPUTE</title>
+		<link>/2013/12/57-compute/</link>
+		<comments>/2013/12/57-compute/#comments</comments>
+		<pubDate>Wed, 18 Dec 2013 15:25:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8502</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/does-not-compute-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="does not compute" style="float:left; margin:0 15px 15px 0;" />Ray and Tom are both back in the studio this week with big news. Ray and wife just had a second child! After congratulating the happy (and understandably tired) father, Tom has more tech and geek trivia questions for Ray <a href="/2013/12/57-compute/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/57-compute/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/does-not-compute-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="does not compute" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/12/does-not-compute.jpg" class="gallery_colorbox"><img class="alignright  wp-image-8492" alt="does not compute" src="//media/2013/12/does-not-compute-300x295.jpg"  width="270" height="266"></a>Ray and Tom are both back in the studio this week with big news. Ray and wife just had a second child! After congratulating the happy (and understandably tired) father, Tom has more tech and geek trivia questions for Ray and producer Sean Birch in this week&rsquo;s round of our new DOES NOT COMPUTE segment. Are you enjoying the new segment? Let us know at <a href="mailto:questions@deemable.com">questions@deemable.com</a></p>
+<p>This is our last episode before the end of the year, so all of us here at Deemable Tech wish you a happy holiday season!</p>
+<p>And remember, we are still prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8502-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3">#57 DOES NOT COMPUTE</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#57 DOES NOT COMPUTE" data-link="/2013/12/57-compute/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#57 DOES NOT COMPUTE" data-link="/2013/12/57-compute/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/57-compute/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3" length="29036700" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#55 Reviews! Reviews! Reviews!</title>
+		<link>/2013/12/55-reviews-reviews-reviews/</link>
+		<comments>/2013/12/55-reviews-reviews-reviews/#comments</comments>
+		<pubDate>Fri, 06 Dec 2013 20:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[trivia]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8464</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/episode_55_preview-150x150.png" class="attachment-thumbnail wp-post-image" alt="episode_55_preview" style="float:left; margin:0 15px 15px 0;" />This week we did things a little differently on Deemable Tech and actually didn&#8217;t answer any questions! Ray and Tom are both back in the studio following almost a month of holidays, illnesses and no shows. After catching up and <a href="/2013/12/55-reviews-reviews-reviews/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/55-reviews-reviews-reviews/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/episode_55_preview-150x150.png" class="attachment-thumbnail wp-post-image" alt="episode_55_preview" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/12/does-not-compute.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8492" alt="does not compute" src="//media/2013/12/does-not-compute-300x295.jpg"  width="300" height="295"></a>This week we did things a little differently on Deemable Tech and actually didn&rsquo;t answer any questions! Ray and Tom are both back in the studio following almost a month of holidays, illnesses and no shows. After catching up and making sure everyone is feeling better (spoilers: they are!), they&rsquo;re joined by producer Sean Birch to play a round of geeky trivia we&rsquo;re calling DOES NOT COMPUTE.</p>
+<p>Then all three review some new tech gadgets, including the bug bite itch relief instrument Therapik, the Jabra HALO2 Bluetooth headphones and the Lifeproof Fre iPad Mini case.</p>
+<p>Remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8464-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3?_=5"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3">#55 Reviews! Reviews! Reviews!</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/nS61sPcFwgc?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech. The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>TOM: Well we?re back after quite a long break. Let?s address the elephant in the room. Ray, what happened?</p>
+<p>RAY: Well, I had major surgery!</p>
+<p>TOM: Today on the show we?re changing things up a little.</p>
+<p>RAY: Right, we are going to be doing fewer questions. We?ve realized that the people who listen to our podcast and the people that listen to our radio segments on NPR are not necessarily the same people.</p>
+<p>TOM: With all due respect to any radio listeners out there, the typical podcast listener is a little more tech savvy. And we want to make this podcast more interesting for you guys. We don?t have a specific plan. Instead we?re going to try different things. And if you have suggestions for things you?d like to hear us try, let us know. Questions@deemable.com.</p>
+<p>RAY: Well, later on in the show, we have some cool tech products to review, but before we jump into that, what do we have on the docket first, Tom.</p>
+<p>TOM: We?ve come up with a segment called DOES NOT COMPUTE. I?ve compiled some quiz-show style questions about tech facts, things that the average user may not know. I?m going to ask Ray joined by our producer Sean Birch some of these questions and we?ll see how they do.</p>
+<p>Where did the word robot originate from?</p>
+<p>Ken Olsen, the founder of DEC, said in 1977, ?There?s no reason for any individual to have a ____ in their home.?</p>
+<p>What is the only sport played on the moon?</p>
+<p>In a vacuum light travels at 670 and a half million MPH. Harvard scientists recently used slowed a beam of light down to what speed?</p>
+<p>How many bytes are there in a kilobyte?</p>
+<p><strong>Reviews</strong></p>
+<p><a href="http://deemable.com/2013/08/therapik-bug-bite-itch-relief-gadget-review/">Therapik Bug Bite Itch Relief Gadget</a></p>
+<p><a href="http://deemable.com/2013/07/bluetooth-stereo-headset-review-jabra-halo2/">Jabra HALO2 Bluetooth Headhpones</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#55 Reviews! Reviews! Reviews!" data-link="/2013/12/55-reviews-reviews-reviews/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#55 Reviews! Reviews! Reviews!" data-link="/2013/12/55-reviews-reviews-reviews/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/55-reviews-reviews-reviews/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3" length="70908119" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#54 Teenage Mutant Ninja Deemable</title>
+		<link>/2013/11/54-teenage-mutant-ninja-deemable/</link>
+		<comments>/2013/11/54-teenage-mutant-ninja-deemable/#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 17:34:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[GAAM]]></category>
+		<category><![CDATA[Games Art and Music]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[TMNT]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8418</guid>
+		<description><![CDATA[This week Ray and Elizabeth were joined in the studio&#160;by Ryan Paul Thompson, the founder and president of GAAM, Games Art and Music, to talk to us about the upcoming GAAM event, Teenage Mutant Ninja GAAM, Saturday, December 7, 2013 <a href="/2013/11/54-teenage-mutant-ninja-deemable/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/11/54-teenage-mutant-ninja-deemable/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Elizabeth were joined in the studio&nbsp;by Ryan Paul Thompson, the founder and president of <a onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gaamshow.com/']);" href="http://gaamshow.com/">GAAM, Games Art and Music</a>, to talk to us about the upcoming GAAM event, <a href="http://gaam.eventbrite.com/">Teenage Mutant Ninja GAAM</a>, Saturday, December 7, 2013 starting at 6:00 PM. There&rsquo;s going to be&nbsp;video game art exhibit, video game competition, cosplay competition and free beer! Ray, Tom and Sean went to the <a href="http://deemable.com/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/">last GAAM show</a>, and it was a blast. If you love video games, you should definitely check it out. Head over to <a href="http://gaam.eventbrite.com/">gaam.eventbrite.com</a> to get your tickets.</p>
+<p style="text-align: center;"><a href="http://gaam.eventbrite.com/"><img class="aligncenter" alt="Teenage Mutant Ninja GAAM" src="//media/2013/11/TMNG.jpg" width="600" height="222"></a></p>
+<p>After the break, Ray and Elizabeth answered listeners questions about&nbsp;&nbsp;transferring an iTunes collection from a dead computer, which antivirus software is the best, and how to restore an iPhone from an older backup.</p>
+<p>And remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!&nbsp;</p>
+<audio class="wp-audio-shortcode" id="audio-8418-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3?_=6"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">#54 Teenage Mutant Ninja Deemable</a></p>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>ELIZABETH: I&rsquo;m Elizabeth Pampalone, in for Tom Braun</p>
+<p>RAY: and this is Deemable Tech. This week&rsquo;s episode is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>ELIZABETH: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: We mentioned this last week, but once Tom get&rsquo;s back, we are going to be&nbsp;working on our first, hour-long Deemable Tech radio special, and we need your help. We need some live callers to be&nbsp;on the show. So, we want you to call and leave a voicemail. We will be using them to pick our callers for the show. Make sure to leave your phone number so we can schedule a time for you to be on the show.</p>
+<p>Now, before we get to your questions, we have a guest back in the studio again, Ryan Thompson, creator and President of GAAM, Games, Art and Music is here! Welcome to the show, Ryan!</p>
+<p>You were on the show back in June before your last event and you guys have another awesome event coming up really soon.</p>
+<p>Questions for Ryan Paul Thompson</p>
+<ul><li>What is GAAM? What is the purpose of GAAM?</li>
+<li>Where did you get the idea for GAAM?</li>
+<li>Ask about the last GAAM&nbsp;event, The Legend of GAAM</li>
+<li>Tell us about Teenage Mutant Ninja GAAM</li>
+</ul><p>Ryan, thanks so much for coming in. Where can our listeners find out more about GAAM and get tickets for the event?</p>
+<p>BREAK</p>
+<p>Well, we have to take a quick break, after the break Elizabeth and I will answer a few questions from you guys about antivirus software, moving your iTunes account to a new computer.</p>
+<p>You&rsquo;re listening to Deemable Tech.</p>
+<p>OUTRO</p>
+<p><b>Name: </b>Phil</p>
+<p><b>Question:</b>&nbsp;How do I switch my iTunes account from an old computer which no longer turns on to my new computer? I&rsquo;ve downloaded iTunes onto&nbsp;the new computer but, needless to say, it doesn&rsquo;t recognize my account. The last time I changed computers with the same problem I had to start a new account on the new computer and reenter music into my library. I have all my music on my iPod but now am not able to add to it.</p>
+<p><b>Answer: </b>Before Switching computers, go into My Music (Music), Itunes, Save the iTunes Library.itl and iTunes Library.xml files to a flash drive or external drive. Install itunes&nbsp;on the new computer. Go into the same location (Music/iTunes) and replace those files with your library files from the older computer. Make sure to move your music files to the same place as they lived on the old computer. (ie Music)</p>
+<p>If it&rsquo;s too late, and you&rsquo;ve already gotten rid of your old computer, try <a href="http://www.digidna.net/diskaid">DiskAid</a> or <a href="http://www.macroplant.com/iexplorer/">iExplorer</a> to take music, movies, etc. off of your iPad, iPod, iPhone and get it into your computer.</p>
+<p><b>Name: </b>Danielle</p>
+<p>&nbsp;<b>Question: </b>Is paying for antivirus software more safer that the free versions? What are some recommendations for antivirus?</p>
+<p><b>Answer: </b>We answered this once before on our <a href="http://deemable.com/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">radio segment</a>. If you are using a Windows: XP, Vista, Win 7 use MS Security Essentials. It is FREE and works seamlessly with Windows Firewall and Windows Defender. Windows 8 has MS Security Essentials built in. It is really the best antivirus software on the market, especially for the price. Word of caution: you can only use ONE antivirus at a time. You can not have TWO running, they will cancel each other out!</p>
+<p>If you are using Mac, antivirus protection is built&nbsp;in. Check System Preferences, Security &amp; Privacy. There are some settings you might want to check out the settings there. Some of the items on General and Privacy tabs are good to go through based on what your personal preferences happen to be.</p>
+<p><b>Name:</b> Valerie</p>
+<p><b>Question:</b> Can I retrieve an iPhone backup from maybe 5 backups ago?</p>
+<p>iPhoto&nbsp;apparently failed on one of my loads from image capture, and of course I had the &ldquo;delete&nbsp;after import&rdquo; option checked. I saw some warning about iPhoto&nbsp;being full (although not an issue since) after my Macbook Pro had been working&nbsp;for awhile. I didn&rsquo;t have time to deal with it and later re-backed up my phone. When I went looking for the 3 months of photos/videos, I couldn&rsquo;t find them anywhere on my computer &mdash; it is a mess. Also my time machine (to my external hard drive) apparently hadn&rsquo;t been working during that time period either. I just can&rsquo;t imagine that the photos/video from the whole&nbsp;upload don&rsquo;t exist in some cache somewhere.</p>
+<p><b>Answer:</b> Plug in your iPhone, click the Summary button, and under Backups click Restore Backup. If you have multiple backups saved, you should have a drop down menu appear. Choose one of the options.</p>
+<p><a href="http://support.apple.com/kb/HT1766">http://support.apple.com/kb/HT1766</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/54-teenage-mutant-ninja-deemable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3" length="31698039" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Shaundra asks, &#8220;How can I clean my smartphone?&#8221;</title>
+		<link>/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/</link>
+		<comments>/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/#comments</comments>
+		<pubDate>Thu, 12 Sep 2013 10:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[cell phones]]></category>
+		<category><![CDATA[cleaning]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[smart phones]]></category>
+		<category><![CDATA[UV light]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7426</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" />Q: I was letting my 3-year-old play with my iPhone when she spit up all over it. Eww. I need to get it clean. Like, really clean, not just &#8216;dab-it-with-a-lint-free-cloth clean&#8217;. It&#8217;s a phone, you put it up to your <a href="/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/iPhonePetriDish-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Your smart phone is full of germs. How can you disinfect it?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p98645-embed" src="http://www.prx.org/p/98645/embed.js?size=small"></script></p>
+<p><b>Q:</b> I was letting my 3-year-old play with my iPhone when she spit up all over it. Eww. I need to get it clean. Like, really clean, not just &lsquo;dab-it-with-a-lint-free-cloth clean&rsquo;. It&rsquo;s a phone, you put it up to your face! And I just know it&rsquo;s crawling with germs now. How can I disinfect my iPhone?</p>
+<div id="attachment_7366" style="width: 260px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/06/iPhonePetriDish.jpg" class="gallery_colorbox"><img class=" wp-image-7366  " alt="Your smart phone is full of germs. How can you disinfect it?" src="//media/2013/06/iPhonePetriDish.jpg"  width="250" height="384"></a><p class="wp-caption-text">Your smart phone is full of germs. How can you disinfect it?</p></div>
+<p><b>A:</b> Oh, that is gross! However, even if your kid hadn&rsquo;t aimed for your iPhone, a couple of recent studies have shown that even cell phones that haven&rsquo;t been victims of 3-year-olds are &ldquo;veritable reservoirs of pathogens.&rdquo; A sample of smart phones showed abnormally high numbers of coliforms, a bacteria indicating fecal contamination. So, with that in mind you&rsquo;ll definitely want to clean your phone. A lint-free cloth and some alcohol should kill 99% of bacteria.</p>
+<p>However, certain touch-screen smart phones, including the iPhone, have an oleophobic coating on them to protect them from smudges and fingerprints. Apple specifically warns not to use any product with alcohol in it to clean the iPhone or iPad screens, because using cleaners with alcohol will wear down that coating.</p>
+<p>Now, anecdotal evidence indicates that an occasional light cleaning with alcohol doesn&rsquo;t seem to have much ill effect on an iPhone, but you use it against the manufacturer&rsquo;s recommendations and at your own risk. Be sure to test any cleaner you try before use. Dab a small amount of it on the corner of your phone&rsquo;s screen. It&rsquo;s better to damage a small piece of your screen than the entire thing.</p>
+<p>However, most phones can be cleansed with just a small amount of mild soap and a little bit of water. Make sure that the rag is just a little wet (don&rsquo;t use one that&rsquo;s so wet that it&rsquo;s dripping water). That will get rid of most germs. It won&rsquo;t kill the germs, but it will get them off your phone, which is all that really matters, right? You&rsquo;ll have a phone with hardly any germs on it. Of course, you&rsquo;ll want to consult the manual for your device before trying this at home.</p>
+<p>If you&rsquo;re truly obsessed with keeping your touch-screen germ-free, and you don&rsquo;t want to abrade or damage the finish in any way, you can always try UV light. The <a href="www.violight.com/Cellphone_p/vio700.htm">VIOLIGHT UV Cell Phone Sanitizer</a> claims that it will not only charge your cell phone, but destroy 99% of all bacteria in the process. It&rsquo;s $49.99.</p>
+<p>Or, you could just save some money and head to the beach. Good old-fashioned sunshine also produces UV rays. Normally we would tell you to keep your smart phone out of the sun, but if you want to disinfect it, try leaving it in the sunshine for a few hours. Just make sure that it doesn&rsquo;t overheat. The UV rays will kill just about anything that&rsquo;s still left on it. Plus, you can work on your tan while you wait.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Shaundra asks, "How can I clean my smartphone?"' data-link="/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Shaundra asks, "How can I clean my smartphone?"' data-link="/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/shaundra-asks-how-can-i-clean-my-smartphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>William Shakespeare&#8217;s Star Wars: Verily, A New Hope&#8230; Yes, It&#8217;s a Real Thing</title>
+		<link>/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/</link>
+		<comments>/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/#comments</comments>
+		<pubDate>Wed, 03 Jul 2013 15:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[mashup]]></category>
+		<category><![CDATA[parody]]></category>
+		<category><![CDATA[Shakespeare]]></category>
+		<category><![CDATA[Star Wars]]></category>
+		<category><![CDATA[Star Wars Shakespeare]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7462</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/07/StarWarsVerilyANewHope-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Star Wars: Verily, A New Hope" style="float:left; margin:0 15px 15px 0;" />I don&#8217;t know why, but mashups, parodies, and cross-overs are my favorite things in the world. There is something amazing about the comic books where Indiana Jones discovers the crashed Millenium Falcon and the comic book series&#160;where Doctor Who and <a href="/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/07/StarWarsVerilyANewHope-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Star Wars: Verily, A New Hope" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a title="William Shakespeare's Star Wars" href="http://www.amazon.com/gp/product/1594746370/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594746370&amp;linkCode=as2&amp;tag=deemtech-20" target="_blank"><img class="alignright size-medium wp-image-7464" alt="Star Wars: Verily, A New Hope" src="//media/2013/07/StarWarsVerilyANewHope-196x300.jpg" width="196" height="300"></a>I don&rsquo;t know why, but mashups, parodies, and cross-overs are my favorite things in the world. There is something amazing about the comic books where <a title="Indiana Jones-Star Wars crossover" href="http://io9.com/5805510/the-lost-indiana-jones+star-wars-crossover-was-really-depressing" target="_blank">Indiana Jones discovers the crashed Millenium Falcon</a> and the comic book series&nbsp;where <a title="Star Trek: The Next Generation / Doctor Who: Assimilation 2: The Complete Series (Star Trek / Doctor Who) " href="http://www.amazon.com/gp/product/1613777825/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1613777825&amp;linkCode=as2&amp;tag=deemtech-20" target="_blank">Doctor Who and Captain Picard team up to defeat the Borg and the Cybermen</a>. Of course, it goes without being said that I&rsquo;m a pretty big Weird Al Yankovic fan. And, although I&rsquo;m not much of a book nerd, I was pretty excited when I saw <a title="Pride and Prejudice and Zombies: The Deluxe Heirloom Edition (Quirk Classics)" href="http://www.amazon.com/gp/product/1594744513/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594744513&amp;linkCode=as2&amp;tag=deemtech-20" target="_blank">Pride and Prejudice and Zombies</a> sitting on the bookshelf at Target.</p>
+<p>Much to my delight, this morning I was listening to yesterday&rsquo;s episode of <a title="Tech News Today | TWiT.TV" href="http://twit.tv/tnt" target="_blank">Tech News Today</a>&nbsp;when I heard in the Randomizer&nbsp;segment that there has been bestowed&nbsp;upon us a proper&nbsp;retelling of the epic &ldquo;saga of a wise (Jedi) knight and an evil (Sith) lord, of a beautiful princess held captive and a young hero coming of age&rdquo; in Elizabethan English. Yes, <a title="William Shakespeare's Star Wars: Ian Doescher" href="http://www.amazon.com/gp/product/1594746370/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594746370&amp;linkCode=as2&amp;tag=deemtech-20" target="_blank">William Shakespeare&rsquo;s Star Wars</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=as2&amp;o=1&amp;a=1594746370" width="1" height="1" border="0">&nbsp;is a real thing. It happened. And, to make it more beautifully wonderful, there&rsquo;s a book trailer!</p>
+<p>Ever shall the Force remain with thee.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/__E20tUsM3s?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="William Shakespeare's Star Wars: Verily, A New Hope... Yes, It's a Real Thing" data-link="/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="William Shakespeare's Star Wars: Verily, A New Hope... Yes, It's a Real Thing" data-link="/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/william-shakespeares-star-wars-verily-a-new-hope-yes-its-a-real-thing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 38 &#8211; The Lightning Round</title>
+		<link>/2013/05/episode-38-the-lightning-round/</link>
+		<comments>/2013/05/episode-38-the-lightning-round/#comments</comments>
+		<pubDate>Mon, 20 May 2013 03:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[BlackBerry]]></category>
+		<category><![CDATA[DMCA]]></category>
+		<category><![CDATA[DRM]]></category>
+		<category><![CDATA[Eureka]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[Lightning Round]]></category>
+		<category><![CDATA[XBMC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7340</guid>
+		<description><![CDATA[This week on Deemable Tech, Ray and Tom have so many questions they decide to have the first ever &#8220;Deemable Tech: Lightning Round.&#8221; In the Lightning Round, Ray, Tom and guest host Elizabeth Pampalone try to answer as many questions <a href="/2013/05/episode-38-the-lightning-round/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/episode-38-the-lightning-round/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/05/LightningRound.jpg" class="gallery_colorbox"><img class="alignright  wp-image-7345" title="Page 1 of the mystic Lightning Round scoresheet, the only real evidence that the Lightning Round even happened." alt="" src="//media/2013/05/LightningRound-1024x768.jpg"  width="395" height="296"></a>This week on Deemable Tech, Ray and Tom have so many questions they decide to have the first ever &ldquo;Deemable Tech: Lightning Round.&rdquo; In the Lightning Round, Ray, Tom and guest host Elizabeth Pampalone try to answer as many questions as they can off the top of their head. Sean Birch is the judge, and whoever gets the most questions right gets the grand prize of absolutely nothing!</p>
+<p><audio class="wp-audio-shortcode" id="audio-7340-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-19.mp3?_=7"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-19.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-19.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-19.mp3">Episode 38 &ndash; The Lightning Round</a></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>RAY: This week, back in the studio once again, we have a special guest, Elizabeth Pampalone, owner of <a href="JaxComputerChic.com">JaxComputerChic.com</a>, a small business computer consulting and computer training company. Welcome back to the show Elizabeth!</p>
+<p>ELIZABETH: *vamp response*</p>
+<p>RAY: Today we are going to do something a little different. We have a backlog of older questions to get through.</p>
+<p>TOM: Why didn&rsquo;t we answer those questions?</p>
+<p>RAY: Laziness? Stupidity? A lack of organization?</p>
+<p>TOM: Yeah, that sounds about right. So what are we going to do about them?</p>
+<p>RAY: I thought we should just run through them, as fast as we can, answering them off the cuff, gameshow style. In fact, I thought we could call it.</p>
+<p>*THE LIGHTNING ROUND*</p>
+<p>TOM: Wow, what are we calling it again?</p>
+<p>RAY: *THE LIGHTNING ROUND*</p>
+<p>TOM: Awesome! But before we dive into The Lightning Round &ndash;</p>
+<p>RAY: You mean, *THE LIGHTNING ROUND*</p>
+<p>TOM: Yeah, that. Before we do that, we have a couple of ordinary questions to answer. And, Elizabeth, feel free to dive in on these at any point.</p>
+<p>ELIZABETH: OK. Looks like the first question is from a guy named Ryan.</p>
+<p>RAY: Cool, can you read it for us?</p>
+<p>ELIZABETH: Ryan writes, For some reason, I can&rsquo;t find 1channel or icefilms as add on options on my XBMCHub on my Windows 7 laptop. They are amazing on the unlocked Apple TV, and I want to put them on my laptop. Any thoughts?<br>
+TOM: *laughs*<br>
+Now I know how listeners to our show must feel when we start going on and on about things they&rsquo;ve never heard about.<br>
+Before I yell at those pesky kids to get off my lawn, does anybody know what a 1channel or an icefilm is? And what is an XBM-whatever and what does it have to do with unlocking an Apple TV? I didn&rsquo;t even know you could unlock an Apple TV.<br>
+RAY: Well, in the Apple world we call it jailbreaking. And yes, you definitely can jailbreak your Apple TV. Just like Jailbreaking an iPhone or iPad, you are simply taking off or breaking the code that keeps iOS shackled.<br>
+TOM: Why would you want to?<br>
+RAY: Well, normally your Apple TV can do two things: mirror the desktop of your Mac, iPhone or iPad, and stream media from iTunes, Hulu, Netflix, YouTube or one of the other authorized Apple TV channels, to your television. If you want to play any other kind of media through it, you&rsquo;re out of luck. But an Apple TV is actually a powerful little LINUX-based computer in its own right, and by losing it from its shackles, you can use it to stream just about anything you want to your television.<br>
+TOM: OK, what is XB-whatever?<br>
+RAY: XBMC. It used to stand for Xbox Media Center because that&rsquo;s what it started out as, but now it is a free, open source media player which can be run on a variety of devices.<br>
+TOM: Including, let me guess, a jailbroken Apple TV or a Windows 7 laptop.<br>
+RAY: You got it. The XBMC platform support third-party add-ons which allow you to do things like stream movies through it and watch ripped DVDs.<br>
+TOM: So if I jailbreak my Apple TV, I can install XBMC and watch my ripped DVDs on it?<br>
+RAY: Yep.<br>
+TOM: Cool. But Ryan didn&rsquo;t just say XBMC, did he? He said XBMCHub.<br>
+RAY: OK, so despite the fact that it was originally designed to be installed on hacked XBoxes and jailbroken Apple TV&rsquo;s, XBMC is supposed to only access legal content. But since it&rsquo;s open source, someone has created a separate version called XBMC Hub which is a little more &ndash; open &ndash; about what content you access through it.<br>
+TOM: I&rsquo;m guessing 1channel and icefilms are ways to get free content that you&rsquo;d normally have to pay for.<br>
+RAY: Well basically they are free services that host links to all kinds of TV and movies&hellip; some of which you should technically be paying for. But they don&rsquo;t actually host the content themselves, so they&rsquo;re in a legal grey area. There&rsquo;s no law that specifically says what they are doing is illegal, but that&rsquo;s never stopped a copyright lawyer before.<br>
+TOM: Riiight. So, just to recap, Ryan has jailbroken his Apple TV and installed XBMC Hub on it so he can stream free TV shows and movies to his TV. And now he wants to do the same thing on his Windows laptop, but he&rsquo;s running into problems.<br>
+RAY: I think that sums up it up.<br>
+TOM: And&hellip; we&rsquo;re not going to help him, are we?<br>
+RAY: No.<br>
+TOM: Here&rsquo;s the deal Ryan, and all our other podcast listeners. Here at Deemable Tech we have a policy of trying to stay neutral on the topic of copyright, piracy, DRM and that sort of thing.<br>
+On the one hand, it&rsquo;s your laptop, it&rsquo;s your Apple TV, you are welcome to try and do whatever you want with it. And we&rsquo;re not going to pretend that there aren&rsquo;t lots of ways to get, say, pretty much any movie or television program for free and stream it to your television.<br>
+RAY: But we&rsquo;re also not going to tell you how to do it. At least in the US, distributing copyrighted content for free without the author&rsquo;s permission is technically illegal. Do people do it all the time? Yes. Should the laws about this stuff be different? Maybe. Are movie and TV studios technological dinosaurs with their heads stuck in the sand? Probably. But right now the law is the law and we can&rsquo;t be in the position of encouraging our listeners to break it.<br>
+TOM: If you decide to stick it to the man and circumvent the official channels for this kind of stuff, well, that&rsquo;s your business. I mean, we&rsquo;re geeks, we get it. It&rsquo;s like rooting or jailbreaking your smartphone &ndash; it&rsquo;s your device, we think you should be able to do what you want with it. Fortunately, rooting and jailbreaking smartphones is legal. We&rsquo;re glad to answer questions about that on this podcast. But with other devices you&rsquo;re getting into a gray area and we can&rsquo;t help you. And as far as copyrighted content goes, well, we&rsquo;re not even going to touch that issue with a ten foot pole.<br>
+Ryan, I&rsquo;m sure with a little technical know-how, Google-fu and maybe asking some questions on the right messageboards you can get your questions answered. But it&rsquo;s up to you to face the legal or technical consequences. So you&rsquo;re on your own with this one!</p>
+<p>TOM: Fabio writes &ndash; Hi Tom and Ray,</p>
+<p>I&rsquo;m Fabio and I&rsquo;m writing you from Italy. I&rsquo;m Italian so please forgive me if I make any mistakes. Here&rsquo;s my problem: I have a desktop computer with windows 7 and sometimes while I surf the web, (I use the latest version of firefox) the screen freezes for a couple of seconds and then on the system tray this message appears: ?Display driver stopped responding and has recovered?. I tried to update the video card driver (I have an ATI Radeon 5700) but the problem continues. I hope you can help me with this because it is really annoying. I really love your show, it&rsquo;s useful and entertaining and I&rsquo;ve downloaded every podcast of the program on Itunes.</p>
+<p>Thank you in advance</p>
+<p>RAY: Awesome! Thanks for your question Fabio. That&rsquo;s a hard one. *PAUSE* Did you ever watch Eureka, Tom?</p>
+<p>TOM: Like, one time. For five minutes. And then I changed the channel.</p>
+<p>RAY: *Explain what Eureka is.*</p>
+<p>TOM: OK, did you just completely change the subject? Aren&rsquo;t we going to answer Fabio&rsquo;s question?</p>
+<p>RAY: Of course we are&hellip;</p>
+<p>TOM: So what does this have to do with Fabio&rsquo;s question?</p>
+<p>RAY: Explain how every episode of Eureka works.</p>
+<p>Here&rsquo;s the formula for a perfect Eureka episode:<br>
+They&rsquo;re having a normal day, *example*<br>
+then something wacky happens, *example*<br>
+Then, they find out that that wacky thing has gotten worse, *example*<br>
+Then they find out that the wacky thing was caused by some experiment, except the experiment wasn&rsquo;t suppose to work like that, *example*<br>
+Then, they find out that the wacky thing happened because the first experiment interacted with a second experiment *example* and the interference of the two experiments caused the wacky thing.<br>
+Then, they find out the wacky thing is going to (A) kill someone, (B) destroy the entire town, (C) kill everyone in the country, or (D) destroy the entire world, and they only have five minutes or less to fix it.<br>
+So, then they come up with some ridiculously complicated method of changing the wacky thing described with technobabble by the geeks, and the sheriff describes it with an simple analogy, and it will probably result in an amazing new achievement in science if it works.<br>
+And then, they do it. It almost always works, unless it&rsquo;s a ?very special episode? in which case the worst case scenario does happen, but even then there is a twist that makes it a good thing that it happened. *example*</p>
+<p>So that&rsquo;s how it works. And Colin Ferguson, if you&rsquo;re listening, when you guys decide to make the Eureka movie, I am totally ready to write the script.</p>
+<p>TOM: OK, Ray, while that was *vamps*, what does that have to do with Fabio&rsquo;s question?</p>
+<p>RAY: I don&rsquo;t know? What was Fabio&rsquo;s question?</p>
+<p>TOM: Remember, his display driver stopped responding? I knew it, you were just changing the subject!</p>
+<p>RAY: *Explain how PCs are like Eureka. Everything should work together well, but they sometimes don&rsquo;t and it&rsquo;s really complicated to explain why.</p>
+<p>TOM: Anyway, this one&rsquo;s pretty easy, you just</p>
+<p>Open Catalyst Control Center and switch to ATI Overdrive<br>
+Unlock and enable Overdrive<br>
+Go to Options/Profiles/Profile Manager and create a new profile called, let&rsquo;s say, STABLE.<br>
+Save the new profile. But DO NOT ACTIVATE the profile.<br>
+Now go to C:\Users\{YourUserName}\AppData\Local\ATI\ACE\Profiles folder ( I assume C: is your system drive )<br>
+Note: You should have &rdquo; show hidden files &rdquo; turned on to see the folder.<br>
+Open the .xml file named STABLE with notepad.<br>
+Change the values of the idle Core clock and Memory clock speeds below</p>
+<p>Feature name=&rdquo;CoreClockTarget_0&Prime;<br>
+Property name=&rdquo;Want_0&Prime; value=&rdquo;40000&Prime; note: previous value should be &ldquo;15700&rdquo;</p>
+<p>Feature name=&rdquo;MemoryClockTarget_0&Prime;<br>
+Property name=&rdquo;Want_0&Prime; value=&rdquo;90000&Prime; note: previous value should be &ldquo;30000&rdquo;<br>
+Save the file and close it.<br>
+Go back to CCC and activate the profile. This will make the card idle at 400 MHz core clock and 900 MHz memory clock.</p>
+<p>Boom! You&rsquo;re good. Hopefully.</p>
+<p>RAY: So&hellip; Yeah there is a possible solution, but it is very complicated and no one else in the world will get any benefit out of it. So, Fabio we are going to send you an email with a link to the information. So you can try it out for yourself, and let us know how it works out.</p>
+<p><a href="http://www.tomshardware.com/forum/276896-33-radeon-5750-display-driver-stopped-responding">http://www.tomshardware.com/forum/276896-33-radeon-5750-display-driver-stopped-responding</a></p>
+<p>RAY: OKay guys, we&rsquo;ve gotten through the regular questions, so do you know what time it is?</p>
+<p>TOM: I think it&rsquo;s time for *THE LIGHTNING ROUND*</p>
+<p>RAY: Yes!</p>
+<p>ELIZABETH: So how&rsquo;s it going to work?</p>
+<p>RAY: *explains*</p>
+<p><strong>Question 1:</strong></p>
+<p>Anonymous &ndash; I LOVE my Windows Phone. I just don&rsquo;t know why the business world doesn&rsquo;t use them more often. The OS is better than the ?cutesy? Android system that seems more teenager/unprofessional like. It has Office (word, PowerPoint, Excel), and more over Outlook ?.everything we may use in the business world. I just don&rsquo;t know why I can&rsquo;t sync my Outlook calendar at the office with my Samsung Smartphone Windows OS? I have an &ldquo;Microsoft Exchange server&rdquo; &ndash; the Phone asks for this but it always asks for a &ldquo;domain name&rdquo;? What are these and what do I type into make this work?</p>
+<p><strong>Question 2:</strong></p>
+<p dir="ltr">Hey guys,</p>
+<p dir="ltr">I have my laptop hooked up to my LCD tv via HDMI so that I can watch &nbsp;Netflix. However, recently I have noticed that if I&rsquo;m watching a show that&rsquo;s longer than 30 minutes the audio and video will suddenly stop being sent to the tv via HDMI, and instead it starts playing directly from the laptop, almost as if the HDMI itself went into sleep mode. If I move the mouse, then the HDMI audio and video goes back to the tv.</p>
+<p dir="ltr">What gives?</p>
+<p dir="ltr">Also, after trying to hook my laptop up to my tv via the VGA connection,&nbsp;now it doesn&rsquo;t recognize my tv as an LCD, but thinks its an analog CRT and won&rsquo;t allow me to set the proper resolution!</p>
+<p dir="ltr">Arrrrrrrgh!</p>
+<p>-Joel</p>
+<p><strong>Question 3:</strong></p>
+<p>Melody &ndash; I recently heard a piece where you all recommended the Find My iPhone app and was wondering about something. I keep my Location Services off unless I need them, since they seem to be a huge battery suck. Will the Find My iPhone features still work if the Location Services are off?</p>
+<p>Thank you.</p>
+<p><b>Question 4:</b></p>
+<p>Voicemail transcript: Dan this jacksonville beach florida&hellip; I&rsquo;m calling to see if you do house calls &hellip; and if you do &hellip; please call me back and let me know otherwise I guess I maybe have to call &hellip; I&rsquo;m making some call again but thank you very much I appreciate hearing from you and enjoy your programs on &hellip; on the radio thank you bye bye.</p>
+<p><b>Question 5:</b></p>
+<p>Scott &ndash; Dear Ray &amp; Tom,<br>
+I have windows internet explorer version 8 and everytime I bring it up, it gives me the error message, ?A program on your computer has corrupted your browser preferences? and then I have click on ?OK? or change my preferences. I can&rsquo;t seem to get rid of it. I have re-enabled Google as my default browser and I still get the error message. I tried picking another browser and I still get the error message.<br>
+Is there any way I can stop the error message?<br>
+Thank you.</p>
+<p><b>Question 6:</b></p>
+<p>Jennifer writes, I listened to your show this morning on WJCT about protecting the iPad &amp; iPhone. I have the Blackberry Bold 9900 &amp; Blackberry Playbook 64gb tablet. I would like a recommendation for apps to protect, lock down &amp; secure the Blackberry Bold &amp; Blackberry Playbook tablet.<br>
+Thanks for all your help!</p>
+<p><b>Question 7:</b></p>
+<p>Alan &ndash; Hi Ray/Tom,<br>
+My iphone sends my incoming mail to the trash. The messages appear briefly in the in box, then go to trash. ATT says it is a problem with my computer settings, Apple says it is a problem with Yahoo. I have cleared and reset the account information to no avail.</p>
+<p>I went online and spoke with some guy in India who said he could fix it for $50.00. I was irritated and did not take him up on it. I would rather pay you or someone local.</p>
+<p>Please advise.</p>
+<p><b>Question 8:</b></p>
+<p>Mel &ndash; Hi I am using an HP laptop with Vista. My account is with AT&amp;T (bellsouth.net) for my email. Yahoo is only my choice as my search engine. I would like to use Google as a choice. How can I do that with out messing up my email?</p>
+<p>Love your spot on NPR&rsquo;s morning edition.</p>
+<p><b>Question 9:</b></p>
+<p>Michelle &ndash; I have an LG Thrill from AT&amp;T that has been unlocked. I&rsquo;m using it on T-Mobile, but I can&rsquo;t get the data to work on it. What do I need to do to get the data working?</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech.<br>
+Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 38 - The Lightning Round" data-link="/2013/05/episode-38-the-lightning-round/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 38 - The Lightning Round" data-link="/2013/05/episode-38-the-lightning-round/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/episode-38-the-lightning-round/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-19.mp3" length="54294988" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Friday Funnies: An Honest Trailer for Star Trek</title>
+		<link>/2013/05/friday-funnies-an-honest-trailer-for-star-trek/</link>
+		<comments>/2013/05/friday-funnies-an-honest-trailer-for-star-trek/#comments</comments>
+		<pubDate>Fri, 10 May 2013 17:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[JJ Abrams]]></category>
+		<category><![CDATA[Star Trek]]></category>
+		<category><![CDATA[Star Wars]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7329</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/StarTrekHonestTrailer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Star Trek Honest Trailer" style="float:left; margin:0 15px 15px 0;" />Star Trek fans have had a lot of criticism and applause for the 2009 reboot of Star Trek by J. J. Abrams. In defense of J. J. there&#8217;s no way he could make everyone happy, so I believe he went <a href="/2013/05/friday-funnies-an-honest-trailer-for-star-trek/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/friday-funnies-an-honest-trailer-for-star-trek/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/StarTrekHonestTrailer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Star Trek Honest Trailer" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Star Trek fans have had a lot of criticism and applause for the 2009 reboot of Star Trek by J. J. Abrams. In defense of J. J. there&rsquo;s no way he could make everyone happy, so I believe he went with the most intelligent approach, make Star Trek enjoyable for the mainstream audience. In defense of the fans, WHAT THE HECK MAN? It&rsquo;s like you blew the whole Star Trek franchise out one of Gallactica&rsquo;s launch tubes! I mean, the Okuda&rsquo;s are going to have to completely rewrite the entire encyclopedia. OK, I&rsquo;ve geeked out enough. Here&rsquo;s what the movie trailer for Star Trek would have been like if it had been just a bit more honest. Enjoy the video. </p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/OTfBH-XFdSc?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><a href="http://deemable.com/media/2013/05/StarTrekHonestTrailer.jpg" class="gallery_colorbox"><img src="//media/2013/05/StarTrekHonestTrailer.jpg"  alt="Star Trek Honest Trailer" width="631" height="343" class="alignright size-full wp-image-7330"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Friday Funnies: An Honest Trailer for Star Trek" data-link="/2013/05/friday-funnies-an-honest-trailer-for-star-trek/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Friday Funnies: An Honest Trailer for Star Trek" data-link="/2013/05/friday-funnies-an-honest-trailer-for-star-trek/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/friday-funnies-an-honest-trailer-for-star-trek/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ridiculous Sherlock [VIDEO] &#8211; Friday Funnies</title>
+		<link>/2013/04/ridiculous-sherlock-video-friday-funnies/</link>
+		<comments>/2013/04/ridiculous-sherlock-video-friday-funnies/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 15:41:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[BBC]]></category>
+		<category><![CDATA[Crack Video]]></category>
+		<category><![CDATA[Sherlock]]></category>
+		<category><![CDATA[Toby Turner]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7120</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/04/RediculousSherlock-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Rediculous Sherlock" style="float:left; margin:0 15px 15px 0;" />YouTube user mah81164&#160;may have just single-handedly created one of the best arguments for the fair use provision of copyright law. Admittedly, this video may not be as funny for you&#160;if you are not a fan of Sherlock, Toby Turner and <a href="/2013/04/ridiculous-sherlock-video-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/ridiculous-sherlock-video-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/04/RediculousSherlock-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Rediculous Sherlock" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>YouTube user mah81164&nbsp;may have just single-handedly created one of the best arguments for the fair use provision of copyright law. Admittedly, this video may not be as funny for you&nbsp;if you are not a fan of <a href="http://www.pbs.org/wgbh/masterpiece/sherlock/">Sherlock</a>, <a href="http://www.youtube.com/user/TobyTurner">Toby Turner</a> and <a title="Dumb &amp; Dumber IMDB" href="http://www.imdb.com/title/tt0109686/" target="_blank">Dumb and Dumber</a>. Also, if you are not a fan of Sherlock, I disown you. If you&rsquo;re not a fan of Dumb and Dumber, well, who can blame you?</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/Zn0xgu4DVbg?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>P.S. The best part starts at 3:44. <a href="http://deemable.com/category/friday-funnies/">Click here to see more Friday Funnies.</a></p>
+<p><a href="http://deemable.com/media/2013/04/RediculousSherlock.jpg" class="gallery_colorbox"><img class="size-medium wp-image-7121 alignleft" alt="Rediculous Sherlock" src="//media/2013/04/RediculousSherlock-300x183.jpg"  width="300" height="183"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ridiculous Sherlock [VIDEO] - Friday Funnies" data-link="/2013/04/ridiculous-sherlock-video-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ridiculous Sherlock [VIDEO] - Friday Funnies" data-link="/2013/04/ridiculous-sherlock-video-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/ridiculous-sherlock-video-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Episode 35 &#8211; Ray Grows Extra Arms</title>
+		<link>/2013/04/episode-35-ray-grows-extra-arms/</link>
+		<comments>/2013/04/episode-35-ray-grows-extra-arms/#comments</comments>
+		<pubDate>Mon, 08 Apr 2013 03:52:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[IE]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[Samsung Galaxy S3]]></category>
+		<category><![CDATA[web browser]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7108</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" />Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&#8217;s episode we talk about how to keep your phone <a href="/2013/04/episode-35-ray-grows-extra-arms/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/episode-35-ray-grows-extra-arms/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/04/RaysExtraArms.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7114" alt="Rays Extra Arms" src="//media/2013/04/RaysExtraArms-300x225.jpg"  width="300" height="225"></a>Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&rsquo;s episode we talk about how to keep your phone data usage low, how to download a new browser, how to install Adobe Acrobat even if you can&rsquo;t see the installation page, and whether you should buy an bigger iPhone 4S or 5.</p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also, make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<audio class="wp-audio-shortcode" id="audio-7108-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3?_=8"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" target="_blank">Download Episode 35 &ndash; Ray Grows Extra Arms</a></p>
+<p><span id="more-7108"></span></p>
+<h3>TRANSCRIPT</h3>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">And, by audible.com &ndash; get a FREE audiobook download at <a href="http://www.audibletrial.com/Deemable">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p dir="ltr">TOM: Today on the show, we&rsquo;re going to going to talk about to keep your phone&rsquo;s data plan usage low, and</p>
+<p dir="ltr">RAY: how to figure out what browser you&rsquo;re using and what a browser even is, but first.</p>
+<p dir="ltr">One Spark, &nbsp;April 17 &ndash; 21, 2013 register to vote at beonespark.com</p>
+<p dir="ltr">The reason we are doing OneSpark is because we want to launch a full fledged public radio show. But to do that, we need money. It takes a lot of money to run a public radio show, and even more to launch one. So, hopefully, if a lot of folks vote for us, we&rsquo;ll get a bit of money from the One Spark crowd fund, but even if we don&rsquo;t hopefully a lot of people will find out about us, and we&rsquo;ll be able to help them out!</p>
+<p dir="ltr">*WALK THROUGH THE PROCESS*</p>
+<p dir="ltr">You can hear Deemable Tech on WJCT 89.9 FM in Jacksonville, FL, now you can also hear it on&nbsp;WCWP 88.1 FM in Brookville, NY! Welcome to any listeners from Brookville.</p>
+<p>&nbsp;Questions</p>
+<p dir="ltr">TOM: Michelle asks, I was wondering about ways to lower my data usage on my iPhone. I always seem to go over my limit, and then I am slapped with another monthly charge. What things can I turn ?off? or put away unless I need them, and how do I do it?</p>
+<p dir="ltr">RAY: Thanks for your question, Michelle. iPhones and Android phones can eat up a data plan like a 5 year old with an unattended candy bowl. Unless you&rsquo;re on an unlimited data plan, you have to keep an eye on what your phone is downloading and sending, or it&rsquo;ll end up taking a bite out of your wallet.</p>
+<p dir="ltr">Periodically check your cellular data usage on your iPhone by opening your Settings app, and tapping General, Usage and then Cellular Usage at the bottom. On that screen you can see how much data your phone has sent and received. Each month, at the end of your billing cycle, tap the Reset Statistics button to clear out the counters and start over.</p>
+<p dir="ltr">TOM: Well, Ray, that&rsquo;s good information about how to keep track of how much data you&rsquo;re using on an iPhone, but Michelle wanted to know how to reduce the amount of data she&rsquo;s using on an iPhone. Come on man, stay focused!</p>
+<p dir="ltr">RAY: Well, you&rsquo;re right, but the first step to any diet is keeping track of how much you&rsquo;re consuming, or so I&rsquo;ve heard. Knowing how much data you&rsquo;re using in the first place will help to stay you on track. Now, here&rsquo;s a few tips to keep your cellular data usage low. First of all, don&rsquo;t download or stream any video or audio unless you are connected to a Wi-Fi network. Those NPR, Netflix, Hulu and PBS Kids apps will devour your cellular data. I&rsquo;m not saying don&rsquo;t use them! They&rsquo;re great apps. Just make sure to use them when you are connected to a Wi-Fi network if you&rsquo;re trying to save your cellular data.</p>
+<p dir="ltr">TOM: And, if you have streaming video or music that you just have to watch or listen to over 3G or 4G, go for the Non-HD version or the lower quality version. That will save you a bunch of data, too. If you use Spotify, make your playlists Available Offline so that the next time you&rsquo;re away from home they&rsquo;ll play from your phone instead of over the Internet.</p>
+<p dir="ltr">RAY: The same thing is true for Amazon Cloud Player and the Podcast app; make sure to download your songs and new podcast episodes to your device before you leave the house. Also, and it&rsquo;s probably obvious, but make sure to only download new apps and updates when you are on a Wi-Fi network too.</p>
+<p dir="ltr">TOM: Also, try reducing the number of times that your phone downloads new email. On the iPhone, open your Settings app and tap ?Mail, Contacts, Calendars? and then, Fetch New Data. Turn off Push, and change Fetch to Manually or, at most, Hourly.</p>
+<p dir="ltr">RAY: Finally, If you see that you&rsquo;re getting close to your limit, or you just want to save your data plan for later in the month, turn your cellular data off. On the iPhone go to the General menu under Settings, tap Cellular and then tap the Cellular Data on/off switch. You&rsquo;ll still get phone calls and text messages, but you won&rsquo;t be able to browse the web and none of your apps will access the Internet either unless you are connected to a Wi-Fi network. You can also turn off Cellular data for specific built-in functions like iTunes, FaceTime, and Personal Hotspot in that same menu.</p>
+<p dir="ltr">Now Tom, we&rsquo;re talking about the iPhone here, but do you have any tips for Android users to save on their data plan?</p>
+<p dir="ltr">TOM: Well, Android phones have a lot of the same features. You can, for instance disable mobile data and only use data when you&rsquo;re on WiFi. But there&rsquo;s something even cooler that Android phones with version 4.0 or better can do. Open up your settings and go to the Data Usage menu. There is a checkbox there that says ?limit mobile data usage&rsquo;. Check that and it will put a default cap of 5 GB. You can change the cap by touching the data usage graph below that option.</p>
+<p dir="ltr">Alternatively, there is an option to have it alert you when you reach a certain amount of data. So Android gives you a lot of great options for monitoring your data usage.</p>
+<p dir="ltr">Individual Android apps also often have settings that will restrict them from using data unless you&rsquo;re on wi-fi.</p>
+<p dir="ltr">In fact, I&rsquo;d almost say that Android has more options for data saving than the iPhone does. What a surprise huh?</p>
+<p dir="ltr">RAY: Yeah, BIG surprise.</p>
+<p dir="ltr">RAY: Drew asked&nbsp;If I use Lastpass on my PC for an email account that I also have on my mobile phone can I still use that email account on my phone without Lastpass &hellip;</p>
+<p dir="ltr">In other words that long password that Lastpass generates on my PC for that email account is that the password that I would have to use on my phone even if I don&rsquo;t have Lastpass on it? Also if I uninstall Lastpass what will happen to all my passwords that were generated with Lastpass? Do I have to go in and change all my passwords to something that I can remember before I uninstall? Thanks!</p>
+<p dir="ltr">TOM: No Drew, thank you.</p>
+<p dir="ltr">LastPass is a great tool, but it does generate passwords that are difficult for humans to remember. Really, that&rsquo;s the point of LastPass, which is to generate passwords that are hard to crack. So unless you set it otherwise, LastPass generates passwords of long strings of random numbers and characters, which makes it difficult to remember them. But that&rsquo;s okay, LastPass remembers them for you. Unless you get rid of LastPass or don&rsquo;t have LastPass on your device.</p>
+<p dir="ltr">RAY: Then Drew, you have to remember those passwords yourself.</p>
+<p dir="ltr">TOM: Right, Ray. LastPass is strictly a password database. It remembers the passwords you set, and it can suggest new passwords when you need them, but it does not actually control the passwords for any site.</p>
+<p dir="ltr">So if you used LastPass to generate a password, all it does is suggest its usual string of random characters and then remember that string. If you used LastPass to generate the password for your email account, that password is the password for your email account until YOU change it. Deleting LastPass will not affect that password.</p>
+<p dir="ltr">RAY: So if you delete LastPass, that super-complicated password is STILL your email account password, AND you now have to remember it. And that seems like a bad idea.</p>
+<p dir="ltr">TOM: Bingo. I use LastPass when I have to create new accounts on the web. It generates 14 characters of gobbledygook for each individual website. There&rsquo;s no WAY I&rsquo;m going to be able to remember those passwords on my own.</p>
+<p dir="ltr">So if you plan to delete LastPass, I strongly advise that you go to your email account and change your password to something you can remember on your own. And you need to do that for every account or app you have a LastPass generated password for.</p>
+<p dir="ltr">Depending on how long you&rsquo;ve been using LastPass, that could be a lot of passwords. So Drew, I strongly recommend that you do not delete LastPass. What I mean by that is, don&rsquo;t get rid of your LastPass account. Even if you stop using it, even if you uninstall the app on your phone or the plugin on your browser, keep the password to your account handy. Because one of these days you&rsquo;re likely to need to get in there and look up a password to some obscure website which you have forgotten.</p>
+<p dir="ltr">RAY: And just to be clear, opening up the LastPass password vault, finding your stored email account and changing the password there will NOT change the password on your email account! It just changes the password LastPass remembers for your email account. Which will now be wrong.</p>
+<p dir="ltr">TOM: Right.</p>
+<p dir="ltr">RAY: No, wrong.</p>
+<p dir="ltr">TOM: No, I mean ?right&rsquo; as in, ?you are correct&rsquo;.</p>
+<p dir="ltr">RAY: Oh, right. I mean, correct.</p>
+<p dir="ltr">TOM: Another thing you can do is that LastPass allows you to export your password database. Just open up the LastPass password vault, click the down arrow by your account name and click ?export&rsquo;. It will then walk &nbsp;you through the steps to save all your LastPass stored passwords somewhere else.</p>
+<p dir="ltr">RAY: So, if Drew wants to change his email password to something he can remember so he can type it on his phone, what should he do?</p>
+<p dir="ltr">TOM: Well, the easiest way would be to access your email through your browser with the LastPass plugin running. Go to your account on your email website and change the password there to something you can remember. LastPass should automatically detect that you have changed the password and remember the new password.</p>
+<p dir="ltr">If it does not, then you need to manually go into the LastPass password vault and change your password so that it matches.</p>
+<p dir="ltr">Right, Ray?</p>
+<p dir="ltr">RAY: Correct.</p>
+<p>&nbsp;</p>
+<p dir="ltr">TOM: Christine asks, I have been having trouble getting on the Internet lately because of pop-up error messages. My friend Jeff, who usually fixes my computer, says the problem is my ?browser&rsquo; and keeps trying to get me to use something called ?Firefox&rsquo;. I&rsquo;m used to the normal way I get online. Do I really need to change?</p>
+<p dir="ltr">RAY: It would be nice if the Internet worked and looked the same for everybody, Christine!</p>
+<p dir="ltr">TOM: But that would be too easy! It&rsquo;s a little more complicated than that.</p>
+<p dir="ltr">Any program you use to view web pages is called a ?browser&rsquo;. The browser that comes pre-installed on Windows is Internet Explorer, or IE for short. It&rsquo;s the most popular browser in the world. But, there&rsquo;s a catch.</p>
+<p dir="ltr">RAY: Yep. Different versions of Windows, like Windows XP, Vista or Windows 8, come with different versions of IE. For instance, if you still have Windows XP then you may be running the version of IE that came with it, version 6.</p>
+<p dir="ltr">TOM: But Internet Explorer is now on version 10! So IE 6 is way out of date.</p>
+<p dir="ltr">RAY: If you have an old version of IE, some web pages may look wrong or not load correctly. You may see bugs or weird pop-ups like you described, Christine. You are also in danger from all kinds of malware and online attacks through loopholes that were fixed in later versions.</p>
+<p dir="ltr">TOM: To find out what version you have you need to bring up the ?About Internet Explorer&rsquo; screen. Depending on what version you are running, that will be under the Help menu, or under the menu that comes up when you click the little gear icon. They&rsquo;re both at the top of the screen.</p>
+<p dir="ltr">Then you should install the latest version available for your version of Windows. On Windows XP you can get up to Version 8, and for newer versions of Windows you can get version 10. Having the latest version of IE will likely fix many of the problems you are having. Plus, it&rsquo;s just safer.</p>
+<p dir="ltr">RAY: Okay Tom, but Christine said her her friend Jeff is trying to get her to switch to Firefox? Why should she change to Firefox?</p>
+<p dir="ltr">TOM: Ray, do you know the classic nerd joke about Internet Explorer?</p>
+<p dir="ltr">RAY: Refresh my memory.</p>
+<p dir="ltr">TOM: Internet Explorer is the best browser&hellip; for downloading another browser.</p>
+<p dir="ltr">RAY: *vamps*</p>
+<p dir="ltr">TOM: The point Christine, is that there are lots of different web browsers besides Internet Explorer. There&rsquo;s Firefox, Chrome and Opera. Those are just some of the bigger ones. There are literally dozens out there.</p>
+<p dir="ltr">Other browsers offer a lot of different features and are often faster, so techies who want more control over their internet experience almost always use something else.</p>
+<p dir="ltr">For instance, with Firefox you can download ?add-ons&rsquo; for the browser, that do cool things like block ads, let you download YouTube videos to your computer, display the weather at the top of the screen and more.</p>
+<p dir="ltr">RAY: Google&rsquo;s Chrome browser is quickly gaining popularity. Chrome is known for being really fast, which is nice. But its killer feature, is that you can synchronize all your copies of Chrome on any computer, tablet or phone. Any changes you make to one copy are automatically made to the other copies. You can also access web pages that you had open on other machines.</p>
+<p dir="ltr">TOM: I love that feature. It&rsquo;s so nice to be able to open a web page at work that I had opened earlier on my computer at home.</p>
+<p dir="ltr">It&rsquo;s also worth mentioning that most browsers other than IE conform more closely to the standards for displaying web pages, so web sites may display better on Firefox, Chrome or Safari.</p>
+<p dir="ltr">RAY: Unless you&rsquo;re visiting a lot of Microsoft sites: often those sites won&rsquo;t work correctly on anything but Internet Explorer.</p>
+<p><b id="internal-source-marker_0.20903730113059282">TOM: But the good news is that you can have two browsers at once, and switch back and forth between them anytime you like. So there&rsquo;s no harm in downloading Firefox and giving it a try. It will get your friend Jeff off your back, and hey, you might even like it!</b></p>
+<p><b id="internal-source-marker_0.5217118344735354">&mdash;&ndash;</b></p>
+<p dir="ltr">Lynn asked, I typed this once before but not sure if it went through. I have an Asus laptop and have check on explore 8 and chrome but do not find java or it&rsquo;s owner under either. I have Kaspersky and it uses Javascript. Could it be it never got installed? The laptop is about 2 yrs old, but I don&rsquo;t use it much.</p>
+<p>&mdash;&ndash;</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Also, make sure to come out to One Spark April 17-21, and make sure to come by and visit Deemable Tech&rsquo;s booth at Ignite Adecco on Bay and Main Street, and make sure to vote for Deemable Tech we&rsquo;re number 253. If you haven&rsquo;t already registered to vote, go to beonespark.com and register now to vote.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
+<p dir="ltr">Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/episode-35-ray-grows-extra-arms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" length="53291050" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>April Fools&#8217; Internet Round Up 2013</title>
+		<link>/2013/04/april-fools-internet-round-up-2013/</link>
+		<comments>/2013/04/april-fools-internet-round-up-2013/#comments</comments>
+		<pubDate>Mon, 01 Apr 2013 15:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[April Fools' Day]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Maps]]></category>
+		<category><![CDATA[Sprint]]></category>
+		<category><![CDATA[ThinkGeek]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7081</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/04/DeemableTechTatts-e1364831711881-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Tattoos" style="float:left; margin:0 15px 15px 0;" />The Internet loves April Fools&#8217; Day. We didn&#8217;t pull any pranks this year; we&#8217;re too mature for all of those shenanigans. Also, we were too busy getting our new Deemable Tech tattoos.&#160;However, if you enjoy all&#160;that tom-foolery, here&#8217;s a break <a href="/2013/04/april-fools-internet-round-up-2013/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/april-fools-internet-round-up-2013/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/04/DeemableTechTatts-e1364831711881-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Tattoos" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_7083" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/04/DeemableTechTatts.jpg" class="gallery_colorbox"><img class="size-medium wp-image-7083 " alt="Deemable Tech Tattoos" src="//media/2013/04/DeemableTechTatts-300x200.jpg"  width="300" height="200"></a><p class="wp-caption-text">What do you think? I think the artist did a great job. Sean wanted his on the right because he&rsquo;s left-handed.</p></div>
+<p>The Internet loves April Fools&rsquo; Day. We didn&rsquo;t pull any pranks this year; we&rsquo;re <a href="http://deemable.com/2013/03/episode-eh-its-easter-go-read-a-book/">too mature for all of those shenanigans</a>. Also, we were too busy getting our new Deemable Tech tattoos.&nbsp;However, if you enjoy all&nbsp;that tom-foolery, here&rsquo;s a break down of the best April Fools&rsquo; Day pranks for 2013. We&rsquo;ll keep it updated throughout the day.</p>
+<p>Google has built a reputation for almost every product at Google putting out several April Fools&rsquo; pranks each year. Starting with the one that made the front page, here are Google&rsquo;s pranks for the year.</p>
+<ul><li><span id="hpplink"><span style="color: #ff0000;">New!</span> What&rsquo;s that smell? Find out with <a href="http://www.google.com/landing/nose">Google Nose</a>&nbsp;</span>
+<ul><li><span id="hpplink"><em>Smells like a winner. </em></span></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=H542nLTTbu0">YouTube&rsquo;s ready to select a winner</a>.
+<ul><li><em>And they&rsquo;re closing, YouTube?! God, Please No!! What am I supposed to do when I am supposed&nbsp;to be working? They have Facebook blocked at work!</em></li>
+</ul></li>
+<li><a href="http://gmailblog.blogspot.com/2013/03/introducing-gmail-blue.html">Gmail Blue</a><em></em>
+<ul><li><em>For those days you miss WordPerfect 5.1 on DOS. (Wait, does anyone have days like that?)</em></li>
+</ul></li>
+<li>Google Maps&nbsp;finds pirate, William ?Captain? Kidd&rsquo;s treasure&nbsp;map and adds <a href="http://google-latlong.blogspot.com/2013/03/find-treasure-with-google-maps.html">Treasure Mode</a>
+<ul><li><em>It looks like he didn&rsquo;t bury any treasure in Jacksonville.</em></li>
+</ul></li>
+<li><a href="https://plus.google.com/100549881469536411122/posts/6cbXigttnUL">Google+ adds emoticons to your pictures.</a>
+<ul><li><em>Because apparently seeing your face isn&rsquo;t enough to know how you feel, because &ldquo;when it comes to expressing yourself, nothing beats the richness and elegance of a few properly placed colons, parentheses, letters and hyphens.&rdquo;</em></li>
+</ul></li>
+</ul><p>Another site that has become famous for their hilarious April Fools&rsquo; hijinks is the specialty online retailer <a href="http://www.thinkgeek.com/">ThinkGeek</a>. Many of <a href="http://www.thinkgeek.com/stuff/looflirpa/">their past April Fools&rsquo;&nbsp;jokes</a>&nbsp;have been so genius&nbsp;that they have gone on to become real products. Here&rsquo;s a selection of this year&rsquo;s pranks.</p>
+<ul><li><a href="http://www.thinkgeek.com/product/f486/?pfm=AprilFools_homepage_Featured_4_f486">The Eye of Sauron Desk Lamp</a>
+<ul><li><em>Don&rsquo;t take off your wedding ring and leave it on the night stand next to this lamp.</em></li>
+</ul></li>
+<li><a href="http://www.thinkgeek.com/product/f487/?pfm=AprilFools_homepage_Featured_5_f487">Play-Doh 3D Printer</a>
+<ul><li><em>Why do only thermoplastics and metals get to have all the 3D printing fun?</em></li>
+</ul></li>
+<li><a href="http://www.thinkgeek.com/product/f48a/">Bane Mask Walkie Talkies</a>
+<ul><li><em>You will buy these, then when it is done and Gotham is ashes, then you have my permission to die.</em></li>
+</ul></li>
+<li><a href="http://www.thinkgeek.com/product/f489/">Death Star Trench Toss</a>
+<ul><li><em>Practice taking advantage of the universe&rsquo;s worst design flaw ever made.</em></li>
+</ul></li>
+<li><a href="http://www.thinkgeek.com/product/f483/">Batman Family Car Decal Set</a>
+<ul><li><em>I hate those stupid family car decals.</em></li>
+</ul></li>
+<li><a href="http://www.thinkgeek.com/product/f488/">Creeper Body Pillow</a>
+<ul><li><em>Ah, Creepers, what would Minecraft be without them? More fun. that&rsquo;s what it would be. More. Fun. Kill them with a <a href="http://www.thinkgeek.com/product/ea12/">Minecraft&nbsp;Foam Sword, also from ThinkGeek</a>.</em></li>
+</ul></li>
+</ul><p>Other sites:</p>
+<p>Ready to learn how to fly in a wingsuit?&nbsp;Why not learn from an expert that was made that way? For $50 you can take <a href="http://www.zozi.com/experiences/5068">wingsuit lessons from a flying squirrel</a>!</p>
+<p><a href="http://blog.twitter.com/2013/03/annncng-twttr.html">For $4 dollars a month, you can use Twitter premium</a>. &ndash; <em>Tme&nbsp;2 drp&nbsp;d vwls. Twttr&nbsp;s nw chrgng&nbsp;4 vwls.</em></p>
+<p>Sprint launches <a href="http://now.sprint.com/specs/">Sprint Specs</a>.&nbsp; &ndash; <em>Never look rude again when you&rsquo;re completely ignoring someone.</em></p>
+<p><strong>&nbsp;Update 1:03:45 PM EDT</strong></p>
+<p><a href="http://youtu.be/5byDhm-E-YE">The White House has gotten into the act. </a>&ndash; <em>You might not agree with his policies, but <a href="http://www.youtube.com/watch?v=cyy9h6R6-Ok">Kid President sure can get the world to dance</a>. </em></p>
+<p><a href="http://www.youtube.com/watch?v=oYXcTAIdV08">Pokester</a> &ndash; <em>It&rsquo;s time for a social network that only lets you do one thing, poke someone. (Thanks, reader&nbsp;Joey for the heads up.)</em></p>
+<p>Search for &ldquo;Google&rdquo; on <a href="http://bing.com/">Bing</a>. Try not to get confused.</p>
+<p><a href="http://imgur.com/blog/2013/04/01/upload-via-snail-mail/">Upload images to Imgur by mail</a>!</p>
+<p><strong>Update 1:37:32 PM EDT</strong></p>
+<p><a href="http://www.virgin.com/richard-branson/blog/virgin-atlantic-launches-worlds-first-ever-glass-bottomed-plane">Virgin launces glass-bottomed plane.</a>&nbsp;&ndash; <em>As if air&nbsp;travel isn&rsquo;t scary enough.</em></p>
+<p><a href="http://blog.wolframalpha.com/2013/04/01/introducing-the-wolframalpha-handwritten-knowledge-engine/">Hand written search results from Wolfram Alpha.</a> &ndash; <em>Basically, it&rsquo;s a bunch of nerds being forced to do your homework.</em></p>
+<p><a href="http://scopemouthwash.com/bacon/">Scope Bacon</a> &ndash; <em>We&rsquo;re actually still not sure if this is a hoax or not. We are hoping that it is. We are really hoping that it is.</em></p>
+<p><a href="http://www.kayak.com/dates">Kayak adds Dates.</a> &ndash; <em>Compare hundreds of dating sites at once!</em></p>
+<p>Toshiba launches the <a href="http://us.toshiba.com/tubetop/">Toshiba TubeTop</a>, the world&rsquo;s first inflatable laptop. &ndash; <em>How many times have I wanted to surf the web while I was swimming in the pool? (That&rsquo;s not a joke. I can think of at least 5 times off the top of my head!)</em></p>
+<p><a href="http://digg.com/">Digg</a>&nbsp;+ <a href="http://en.wikipedia.org/wiki/Konami_Code">Konami code</a>&nbsp;+ <a href="http://en.wikipedia.org/wiki/Rickrolling">Rick Astley</a> = hilarious. &ndash; <em>Just go try it.</em></p>
+<p><strong>Update&nbsp;2:54:11 PM&nbsp;EDT</strong></p>
+<p>iFixit finds the least repairable tech product on the market: <a href="http://www.ifixit.com/Teardown/Orange+Teardown/13470/">the Orange</a>. After a complete teardown, they find it cannot be put back together at all. <a href="http://www.orange.com/en/home">Orange mobile</a> has not responded.</p>
+<p>Nokia changes how you do TV dinners with a <a href="http://conversations.nokia.com/2013/04/01/nokia-turns-up-the-heat-with-its-first-microwave/">smart microwave</a>.</p>
+<p><a href="http://www.shophex.com/blog/news/apple-newton-cross-body-bag-from-hex-makes-beaming-and-faxing-documents-a-breeze/">HEX announces new cases for the Apple Newton.</a></p>
+<p>Funny Or Die announces the <a href="http://www.funnyordie.com/videos/b668767cf6/darkwing-duck-the-movie-kickstarter-project">Darkwing Duck</a>, <a href="http://www.funnyordie.com/videos/314ecd2314/the-wings-serenity-movie-project">Wings</a>, <a href="http://www.funnyordie.com/videos/edd4c4228d/sliders-the-movie">Sliders</a>, <a href="http://www.funnyordie.com/videos/bc3ee45025/the-family-matters-movie">Family Matters</a> and <a href="http://www.funnyordie.com/videos/bd06aebe56/baby-sinclair-from-the-dinosaurs-one-man-show">Baby Sinclair from Dinosaurs</a> Kickstarter movie projects.</p>
+<p>Two of our favorite news sources, NPR and WJCT, pulled off their own April Fools Pranks. NPR&rsquo;s Morning Edition aired this story, <a href="http://www.npr.org/2013/04/01/175886251/hootie-and-the-time-travelers-love-the-90s">Hootie And The Time Traveler Love The 90s</a>, and WJCT 89.9 FM aired <a href="http://news.wjct.org/post/amusement-park-proposed-shipyards-property">Amusement Park Proposed For Shipyards Property</a>.</p>
+<p><strong>&nbsp;Have you found some that we haven&rsquo;t seen yet? Let us know in the comments down below.</strong></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="April Fools' Internet Round Up 2013" data-link="/2013/04/april-fools-internet-round-up-2013/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="April Fools' Internet Round Up 2013" data-link="/2013/04/april-fools-internet-round-up-2013/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/april-fools-internet-round-up-2013/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Episode &#8211; Eh, it&#8217;s Easter. Go read a book.</title>
+		<link>/2013/03/episode-eh-its-easter-go-read-a-book/</link>
+		<comments>/2013/03/episode-eh-its-easter-go-read-a-book/#comments</comments>
+		<pubDate>Sat, 30 Mar 2013 21:30:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Audible Trial]]></category>
+		<category><![CDATA[bloopers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7057</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/EasterBunnyReadsABook-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Easter Bunny Reads A Book, So Should You" style="float:left; margin:0 15px 15px 0;" />It&#8217;s Easter weekend, so we decided to do a short episode. It might be the shortest episode since our Labor Day episode. This is definitely not an episode you want to skip though. Make sure to subscribe to the show <a href="/2013/03/episode-eh-its-easter-go-read-a-book/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/episode-eh-its-easter-go-read-a-book/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/EasterBunnyReadsABook-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Easter Bunny Reads A Book, So Should You" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright size-medium wp-image-7076" alt="The Easter Bunny Reads A Book, So Should You" src="//media/2013/03/EasterBunnyReadsABook-300x300.jpg" width="300" height="300"></p>
+<p>It&rsquo;s Easter weekend, so we decided to do a short episode. It might be the shortest episode since our <a href="http://deemable.com/2012/09/deemable-tech-episode-nope-no-episode-today-happy-labor-day/">Labor Day episode.</a> This is definitely not an episode you want to skip though.</p>
+<p>Make sure to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or <a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also, make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<audio class="wp-audio-shortcode" id="audio-7057-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-03-31.mp3?_=9"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-03-31.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-03-31.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-03-31.mp3" target="_blank">Download Episode &ndash; Eh, it&rsquo;s Easter. Go read a book.</a></p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 1-888-972-9868, or send us an email to questions at deemable dot com. We&rsquo;ll answer them on the show.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode - Eh, it's Easter. Go read a book." data-link="/2013/03/episode-eh-its-easter-go-read-a-book/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode - Eh, it's Easter. Go read a book." data-link="/2013/03/episode-eh-its-easter-go-read-a-book/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/episode-eh-its-easter-go-read-a-book/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-03-31.mp3" length="5650808" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 31 &#8211; Deemable Tech Live at Bold Bean Coffee Roasters</title>
+		<link>/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/</link>
+		<comments>/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 17:24:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[email forwards]]></category>
+		<category><![CDATA[Facebook forwards]]></category>
+		<category><![CDATA[Facebook legends]]></category>
+		<category><![CDATA[Galaxy SIII]]></category>
+		<category><![CDATA[IMEI]]></category>
+		<category><![CDATA[IMEI Number]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Nokia PC Suite]]></category>
+		<category><![CDATA[Samsung]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6873</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/02/DeemableTechLiveAtBoldBean-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Live at Bold Bean Coffee Roasters" style="float:left; margin:0 15px 15px 0;" />This week, Ray, Tom and Sean did things a little different. They packed up all the equipment they could find, and took the show on the road to Bold Bean Coffee Roasters! Apparently, Ray was so nervous, he changed the <a href="/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/02/DeemableTechLiveAtBoldBean-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Live at Bold Bean Coffee Roasters" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/02/DeemableTechLiveAtBoldBean.jpg" class="gallery_colorbox"><img class="alignright  wp-image-6868" alt="Deemable Tech Live at Bold Bean Coffee Roasters" src="//media/2013/02/DeemableTechLiveAtBoldBean.jpg"  width="250" height="250"></a>This week, Ray, Tom and Sean did things a little different. They packed up all the equipment they could find, and took the show on the road to Bold Bean Coffee Roasters! Apparently, Ray was so nervous, he changed the Deemable Tech&nbsp;tagline to &ldquo;Tech help worth talking to!&rdquo; But, it wasn&rsquo;t long and they had the crowd warmed up, and everybody had a great time. If you weren&rsquo;t able to make it, take a listen to the podcast.</p>
+<h3>Links mentioned in this episode</h3>
+<ul><li><a href="http://Snopes.com/">Snopes.com</a></li>
+<li><a href="http://UrbanLegends.About.com/">UrbanLegends.About.com</a></li>
+<li><a href="http://www.missingkids.com/missingkids/servlet/AmberServlet">National Center for Missing &amp; Exploited Children&nbsp;&ndash; Active Amber Alerts</a></li>
+<li><a href="http://www.nokia.com/global/support/nokia-pc-suite/">Nokia PC Suite</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.zomut.watchdoglite">Watchdog Task Manager Lite</a></li>
+<li><a href="http://sleep.motionx.com/">MotionX Sleep</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusDock">Alarm Clock Plus</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.picadelic.fxguru">FxGuru: Movie FX Director</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/apps-gone-free-best-daily/id470693788?mt=8" target="_blank" rel="external nofollow">Apps Gone Free</a></li>
+<li><a href="http://appgratis.com/">AppGratis</a></li>
+</ul><p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<audio class="wp-audio-shortcode" id="audio-6873-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-18.mp3?_=10"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-18.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-18.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-18.mp3" target="_blank">Download Episode 31 &ndash; Deemable Tech Live at Bold Bean Coffee Roasters</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 31 - Deemable Tech Live at Bold Bean Coffee Roasters" data-link="/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 31 - Deemable Tech Live at Bold Bean Coffee Roasters" data-link="/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/episode-31-deemable-tech-live-at-bold-bean-coffee-roasters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-18.mp3" length="60925492" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Bob Dylan, Neil Young and The Doors play their favorite TV theme songs, sorta. [VIDEOS] Friday Funnies</title>
+		<link>/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/</link>
+		<comments>/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/#comments</comments>
+		<pubDate>Fri, 18 Jan 2013 14:05:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Bob Dylan]]></category>
+		<category><![CDATA[Charles In Charge]]></category>
+		<category><![CDATA[Fresh Prince of Bel Air]]></category>
+		<category><![CDATA[Jimmy Fallon]]></category>
+		<category><![CDATA[Neil Young]]></category>
+		<category><![CDATA[Parody covers]]></category>
+		<category><![CDATA[Reading Rainbow]]></category>
+		<category><![CDATA[The Doors]]></category>
+		<category><![CDATA[TV Theme Songs]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6593</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/JimmyFallon-150x150.png" class="attachment-thumbnail wp-post-image" alt="Jimmy Fallon Performs TV Theme Songs as Bob Dylan, Neil Young and Jim Morrison" style="float:left; margin:0 15px 15px 0;" />If you had your own late night talk show would you would dress up as famous musicians and perform covers of classic TV theme songs? Jimmy Fallon does, and it&#8217;s hilarious. Watch this&#8230; &#160; &#160;<p class="more-link-p"><a class="more-link" href="/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/JimmyFallon-150x150.png" class="attachment-thumbnail wp-post-image" alt="Jimmy Fallon Performs TV Theme Songs as Bob Dylan, Neil Young and Jim Morrison" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/01/JimmyFallon.png" class="gallery_colorbox"><img class="alignleft  wp-image-6671" alt="Jimmy Fallon Performs TV Theme Songs as Bob Dylan, Neil Young and Jim Morrison" src="//media/2013/01/JimmyFallon-300x300.png"  width="150" height="150"></a>If you had your own late night talk show would you would dress up as famous musicians and perform covers of classic TV theme songs? Jimmy Fallon does, and it&rsquo;s hilarious. Watch this&hellip;</p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/4X-ikxX3fqI?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span><br>
+&nbsp;<br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/FR91p97Mj9Y?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span><br>
+&nbsp;<br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/eBRYsAfchkY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Bob Dylan, Neil Young and The Doors play their favorite TV theme songs, sorta. [VIDEOS] Friday Funnies" data-link="/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Bob Dylan, Neil Young and The Doors play their favorite TV theme songs, sorta. [VIDEOS] Friday Funnies" data-link="/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/bob-dylan-neil-young-and-the-doors-play-their-favorite-tv-theme-songs-sorta-videos-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Schadenfreude [VIDEO] Friday Funnies</title>
+		<link>/2013/01/schadenfreude-video-friday-funnies/</link>
+		<comments>/2013/01/schadenfreude-video-friday-funnies/#comments</comments>
+		<pubDate>Fri, 04 Jan 2013 14:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Fail Videos]]></category>
+		<category><![CDATA[Shadenfruede]]></category>
+		<category><![CDATA[Viral Video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6563</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/FallingThroughTheRoof-150x150.png" class="attachment-thumbnail wp-post-image" alt="Falling Through The Roof" style="float:left; margin:0 15px 15px 0;" />Schadenfreude: pleasure derived from the misfortune of others. Whether we&#8217;d like to admit it or not, it is sometimes really funny to watch someone else get hurt, especially if they were in the middle of doing something remarkably stupid. Whether <a href="/2013/01/schadenfreude-video-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/schadenfreude-video-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/FallingThroughTheRoof-150x150.png" class="attachment-thumbnail wp-post-image" alt="Falling Through The Roof" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Schadenfreude: pleasure derived from the misfortune of others. Whether we&rsquo;d like to admit it or not, it is sometimes really funny to watch someone else get hurt, especially if they were in the middle of doing something remarkably stupid. Whether it was called slapstick or physical comedy, Schadenfreude has been a part of humor since the dawn of humanity. Comedians are great at faking it, but the funniest&nbsp;Schadenfreude&nbsp;has always been watching real people make really dumb decisions. In the old days, the only place you could watch videos like this were on America&rsquo;s Funniest Home Videos. Nowadays, anyone with a smart phone can upload your humiliation to YouTube within seconds, and let the whole world laugh at you. On the Internet, we don&rsquo;t call them&nbsp;Schadenfreude&nbsp;; we just call them fail videos. Here&rsquo;s a few examples of the funniest fails of 2012. Caution, contains some strong language, and plenty of painful falls.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/Gng3sPiJdzA?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/HvuEFafFhBA?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/orGsYH9YViQ?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Schadenfreude [VIDEO] Friday Funnies" data-link="/2013/01/schadenfreude-video-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Schadenfreude [VIDEO] Friday Funnies" data-link="/2013/01/schadenfreude-video-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/schadenfreude-video-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Are You Doing New Years Eve? &#8211; [VIDEO] Friday Funnies</title>
+		<link>/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/</link>
+		<comments>/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/#comments</comments>
+		<pubDate>Fri, 28 Dec 2012 22:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Joseph Gordon-Levitt]]></category>
+		<category><![CDATA[New Years]]></category>
+		<category><![CDATA[New Years Eve]]></category>
+		<category><![CDATA[Zooey Deschanel]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6532</guid>
+		<description><![CDATA[<img width="150" height="101" src="/media/2012/12/whatAreYouDoingNewYearsEve-e1356734012409-150x101.png" class="attachment-thumbnail wp-post-image" alt="What Are You Doing New Year&#039;s Eve?" style="float:left; margin:0 15px 15px 0;" />Haven&#8217;t you ever wished that Tom and Summer from (500) Days of Summer&#160;would sit down and&#160;sing&#160;a duet of &#8220;What Are You Doing New Year&#8217;s Eve&#8221; while playing guitar and the ukulele? If that&#8217;s you, here&#8217;s Joseph Gordon-Levitt and Zooey&#160;Deschanel signing <a href="/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="101" src="/media/2012/12/whatAreYouDoingNewYearsEve-e1356734012409-150x101.png" class="attachment-thumbnail wp-post-image" alt="What Are You Doing New Year&#039;s Eve?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/12/whatAreYouDoingNewYearsEve.png" class="gallery_colorbox"><img class="alignright size-thumbnail wp-image-6537" alt="What Are You Doing New Year's Eve?" src="//media/2012/12/whatAreYouDoingNewYearsEve-e1356734012409-150x101.png"  width="150" height="101"></a>Haven&rsquo;t you ever wished that Tom and Summer from <a title="(500) Days of Summer" href="http://en.wikipedia.org/wiki/(500)_Days_of_Summer" target="_blank">(500) Days of Summer</a>&nbsp;would sit down and&nbsp;sing&nbsp;a duet of &ldquo;What Are You Doing New Year&rsquo;s Eve&rdquo; while playing guitar and the ukulele? If that&rsquo;s you, here&rsquo;s Joseph Gordon-Levitt and Zooey&nbsp;Deschanel signing one of the lesser known holiday songs. Happy New Year from Deemable Tech!</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/aSq1cez_flQ?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="What Are You Doing New Years Eve? - [VIDEO] Friday Funnies" data-link="/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="What Are You Doing New Years Eve? - [VIDEO] Friday Funnies" data-link="/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/what-are-you-doing-new-years-eve-videos-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s not the end of the World! It&#8217;s just Achmed the Dead Terrorist and Walter offending everyone for Christmas &#8211; [VIDEO] Friday Funnies</title>
+		<link>/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/</link>
+		<comments>/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/#comments</comments>
+		<pubDate>Fri, 21 Dec 2012 14:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Achmed the Dead Terrorist]]></category>
+		<category><![CDATA[Bubba J]]></category>
+		<category><![CDATA[Chanuka]]></category>
+		<category><![CDATA[Chanukah]]></category>
+		<category><![CDATA[Chanukkah]]></category>
+		<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Hanukkah]]></category>
+		<category><![CDATA[Jeff Dunham]]></category>
+		<category><![CDATA[Peanut]]></category>
+		<category><![CDATA[Puppets]]></category>
+		<category><![CDATA[ventriloquist]]></category>
+		<category><![CDATA[Walter]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6451</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/AchmedAndJeffDunham-150x150.png" class="attachment-thumbnail wp-post-image" alt="Achmed The Dead Terrorist and Jeff Dunham" style="float:left; margin:0 15px 15px 0;" />Jeff Dunham proved that the weird kid who plays with dolls could end up being successful, or at least hilariously funny. Here&#8217;s a couple of clips from his recent Christmas special with his friends Walter and Achmed the Dead Terrorist. <a href="/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/AchmedAndJeffDunham-150x150.png" class="attachment-thumbnail wp-post-image" alt="Achmed The Dead Terrorist and Jeff Dunham" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div><a href="http://deemable.com/media/2012/12/AchmedAndJeffDunham.png" class="gallery_colorbox"><img class="wp-image-6452 alignright" title="Achmed The Dead Terrorist and Jeff Dunham" src="//media/2012/12/AchmedAndJeffDunham-150x150.png"  alt="" width="150" height="150"></a>Jeff Dunham proved that the weird kid who plays with dolls could end up being successful, or at least hilariously funny. Here&rsquo;s a couple of clips from his recent Christmas special with his friends Walter and Achmed the Dead Terrorist. If these videos don&rsquo;t offend you, they&rsquo;ll probably offend someone you know.</div>
+<p><a href="http://www.youtube.com/watch?v=3L8fIrWnXRA">Achmed is Santa&nbsp;&ndash; Jeff Dunham</a><br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/3L8fIrWnXRA?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></p>
+<p><a href="http://www.youtube.com/watch?v=WCDlqyCJLh4">Jeff Dunham&rsquo;s Very Special Christsmas Special &ndash; Walter</a><br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/WCDlqyCJLh4?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="It's not the end of the World! It's just Achmed the Dead Terrorist and Walter offending everyone for Christmas - [VIDEO] Friday Funnies" data-link="/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="It's not the end of the World! It's just Achmed the Dead Terrorist and Walter offending everyone for Christmas - [VIDEO] Friday Funnies" data-link="/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/achmed-the-dead-terrorist-and-walter-offend-everyone-for-christmas-video-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Making last minute Mayan apocalypse plans? Here are the best places to go!</title>
+		<link>/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/</link>
+		<comments>/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/#comments</comments>
+		<pubDate>Wed, 19 Dec 2012 22:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[12/21]]></category>
+		<category><![CDATA[12/21/2012]]></category>
+		<category><![CDATA[apocalypse]]></category>
+		<category><![CDATA[Bomb shelters]]></category>
+		<category><![CDATA[December 21]]></category>
+		<category><![CDATA[December 21 2012]]></category>
+		<category><![CDATA[end of the world]]></category>
+		<category><![CDATA[Mayan Apocalypse]]></category>
+		<category><![CDATA[Mayan calendar]]></category>
+		<category><![CDATA[survival shelters]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6502</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/SurvivalShelter3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="See how spacious the Survival Shelter is? Sure, they look comfy now. Let&#039;s close the hatch,  and leave them in there for a few months! :-)" style="float:left; margin:0 15px 15px 0;" />Well, supposedly it&#8217;s all over this Friday. The end of the world is nigh!&#160;No, we&#8217;re not talking about the end of the world that was supposed to come on May 21, 2011. Nor are we talking about the end of <a href="/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/SurvivalShelter3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="See how spacious the Survival Shelter is? Sure, they look comfy now. Let&#039;s close the hatch,  and leave them in there for a few months! :-)" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6507" data-orig-file="/media/2012/12/SurvivalShelter3.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;DSC-W560&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;2123726064&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.7&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.0666666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Atlas Survival Shelter" data-image-description="" data-medium-file="/media/2012/12/SurvivalShelter3-300x225.jpg" data-large-file="/media/2012/12/SurvivalShelter3.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Well, supposedly it&rsquo;s all over this Friday. The end of the world is nigh!&nbsp;No, we&rsquo;re not talking about the end of the world that was supposed to come on <a title="Apocalypse Weekend: Harold Camping Says the World Ends Saturday. He's Said that Before" href="http://www.time.com/time/nation/article/0,8599,2072748,00.html" target="_blank">May 21, 2011</a>. Nor are we talking about <a title="Harold Camping Calls May 21 An 'Invisible Judgment Day,' Says October 21 Is Real End-Of-World Date " href="http://www.huffingtonpost.com/2011/05/23/harold-camping-says-october-21-real-end-of-world_n_865978.html" target="_blank">the end of the world that was supposed to come on October 21, 2011</a>. We&rsquo;re not even talking about the one that was supposed to happen in <a title="Camping Misses End of World" href="http://www.christianitytoday.com/ct/1994/october24/4tc084.html" target="_blank">September of 1994</a>. This is the <em>Mayan</em>&nbsp;Apocalypse. The one that everyone decided is going to happen because the Mayans ran out of room on their calendar, and the last date they were able to put on it was December 21, 2012. It&rsquo;s the equivalent of the <a title="Y2K bug fails to bite | BBC NEWS" href="http://news.bbc.co.uk/2/hi/science/nature/585013.stm" target="_blank">Y2K bug</a> of the 5th century.</p>
+<p>If you believe that tomorrow is going to be&nbsp;the end of the world, and you haven&rsquo;t made plans yet, you, dear reader,&nbsp;are the textbook definition of a procrastinator. In fact, if we have dictionaries after the apocalypse, your picture will be next to the word. (We&rsquo;ll get your picture from you after it&rsquo;s over.) That being said, if you still have time, there are some great options to ride it out. Here are two of our favorites. Check out the link to the New York Daily News at the bottom the full photo gallery slide show, and click the photos below for a larger view.</p>
+<h4><a title="Atlas Survival Shelters-Underground Shelters-Bomb Shelters" href="http://www.atlassurvivalshelters.com/">Atlas Survival Shelters</a></h4>
+<p>These bomb shelters are made&nbsp;from 10 foot diameter galvanized corrugated pipe. They come in 25 foot long and 50 foot long models. They&rsquo;ve been featured on National Geographic&rsquo;s Doomsday Preppers, and they even have a survival camp for customers to learn how to survive an apocalypse. That would have been good information to&nbsp;know,&nbsp;if you had prepared ahead. Since you didn&rsquo;t, and you waited until the last minute, you&rsquo;ll just have to wing it.</p>
+
+<a href="/media/2012/12/SurvivalShelter1.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/SurvivalShelter1-150x150.jpg"  class="attachment-thumbnail" alt="Just find a hole and dig!" data-attachment-id="6505" data-orig-file="/media/2012/12/SurvivalShelter1.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta='{"aperture":"8","credit":"","camera":"DSC-W650","caption":"","created_timestamp":"1340199962","copyright":"","focal_length":"4.5","iso":"80","shutter_speed":"0.008","title":""}' data-image-title="Atlas Survival Shelter Exterior" data-image-description="" data-medium-file="/media/2012/12/SurvivalShelter1-300x225.jpg" data-large-file="/media/2012/12/SurvivalShelter1.jpg"></a>
+<a href="/media/2012/12/SurvivalShelter2.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/SurvivalShelter2-150x150.jpg"  class="attachment-thumbnail" alt="They might not look like much on the outside, but look how comfy they are inside!" data-attachment-id="6506" data-orig-file="/media/2012/12/SurvivalShelter2.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta='{"aperture":"2.7","credit":"","camera":"DSC-W560","caption":"","created_timestamp":"2127521602","copyright":"","focal_length":"4.7","iso":"400","shutter_speed":"0.0333333333333","title":""}' data-image-title="Atlas Survival Shelter Interior" data-image-description="" data-medium-file="/media/2012/12/SurvivalShelter2-300x225.jpg" data-large-file="/media/2012/12/SurvivalShelter2.jpg"></a>
+<a href="/media/2012/12/SurvivalShelter3.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/SurvivalShelter3-150x150.jpg"  class="attachment-thumbnail" alt="See how spacious the Survival Shelter is? Sure, they look comfy now. Let's close the hatch,  and leave them in there for a few months! :-)" data-attachment-id="6507" data-orig-file="/media/2012/12/SurvivalShelter3.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta='{"aperture":"2.7","credit":"","camera":"DSC-W560","caption":"","created_timestamp":"2123726064","copyright":"","focal_length":"4.7","iso":"400","shutter_speed":"0.0666666666667","title":""}' data-image-title="Atlas Survival Shelter" data-image-description="" data-medium-file="/media/2012/12/SurvivalShelter3-300x225.jpg" data-large-file="/media/2012/12/SurvivalShelter3.jpg"></a>
+
+<h4><a title="Luxury Survival Condo" href="http://www.survivalcondo.com/" target="_blank">Luxury Survival Condos</a></h4>
+<p>If you have between $1.5 and 3 million sitting around, why not spend it on making your life a little more comfortable for the next few years? What else are you gonna spend it on? A Maserati? If the apocalypse does come, you won&rsquo;t have anywhere to drive it! Built deep in the heart of one of two nuclear missile silos in the heartland of America with spacious floor plans, jacuzzi bath tubs, big screen LED TVs&nbsp;in every room, and lethal and non-lethal defenses, you won&rsquo;t even notice that the world is crumbling all around you while you sleep, relax and live in the lap of luxury.&nbsp;When you&rsquo;re not enjoying your generous personal living space, you can join the community at the movie theater, game arcade, and lounge.&nbsp;And if&nbsp;you&rsquo;re starting to feel a bit of cabin fever, you can relax in the indoor pool and spa, stretch your muscles in the exercise facility and on rock climbing wall, or try out your green thumb&nbsp;in hydroponic food farm. Luxury Survival Condo will even take care of your transportation to the condo in the event of an emergency! So, the question isn&rsquo;t why would you buy a Luxury Survival Condo, but why wouldn&rsquo;t you?</p>
+
+<a href="/media/2012/12/LuxurySurvivalCondo1.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/LuxurySurvivalCondo1-150x150.jpg"  class="attachment-thumbnail" alt="Luxury underground living at it's finest." data-attachment-id="6509" data-orig-file="/media/2012/12/LuxurySurvivalCondo1.jpg" data-orig-size="630,671" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="Luxury Survival Condo Cutaway" data-image-description="" data-medium-file="/media/2012/12/LuxurySurvivalCondo1-281x300.jpg" data-large-file="/media/2012/12/LuxurySurvivalCondo1.jpg"></a>
+<a href="/media/2012/12/luxurySurvivalCondo3.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/luxurySurvivalCondo3-150x150.jpg"  class="attachment-thumbnail" alt="Luxury underground living at it's finest. So spacious and luxurious, you won't even care that the world above you is destroyed and everyone you knew is dead." data-attachment-id="6511" data-orig-file="/media/2012/12/luxurySurvivalCondo3.jpg" data-orig-size="610,335" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="luxury Survival Condo Floorplans" data-image-description="" data-medium-file="/media/2012/12/luxurySurvivalCondo3-300x164.jpg" data-large-file="/media/2012/12/luxurySurvivalCondo3.jpg"></a>
+<a href="/media/2012/12/LuxurySurvivalCondo2.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2012/12/LuxurySurvivalCondo2-150x150.jpg"  class="attachment-thumbnail" alt="Luxury underground living at it's finest. Now with ample parking." data-attachment-id="6510" data-orig-file="/media/2012/12/LuxurySurvivalCondo2.jpg" data-orig-size="500,400" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="Luxury Survival Condo Above ground and cutaway" data-image-description="" data-medium-file="/media/2012/12/LuxurySurvivalCondo2-300x240.jpg" data-large-file="/media/2012/12/LuxurySurvivalCondo2.jpg"></a>
+
+<p>What are your plans for the Mayan Apocalypse? Tell us, how are you preparing to survive the oncoming onerous onslaught, or how you are planning on celebrating the ceaseless stupidity? Leave a comment down below.</p>
+<p>via <a href="http://www.nydailynews.com/news/best-places-ride-mayan-apocalypse-gallery-1.1222236">New York Daily News</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Making last minute Mayan apocalypse plans? Here are the best places to go!" data-link="/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Making last minute Mayan apocalypse plans? Here are the best places to go!" data-link="/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/making-last-minute-mayan-apocalypse-plans-here-are-the-best-places-to-go/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Peanut and Bubba J Offend Everyone For Christmas &#8211; [VIDEO] Friday Funnies</title>
+		<link>/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/</link>
+		<comments>/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/#comments</comments>
+		<pubDate>Fri, 14 Dec 2012 14:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bubba J]]></category>
+		<category><![CDATA[Chanuka]]></category>
+		<category><![CDATA[Chanukah]]></category>
+		<category><![CDATA[Chanukkah]]></category>
+		<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Hanukkah]]></category>
+		<category><![CDATA[Jeff Dunham]]></category>
+		<category><![CDATA[Peanut]]></category>
+		<category><![CDATA[ventriloquist]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6447</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/PeanutJeffDunhamAndGuitarGuy-150x150.png" class="attachment-thumbnail wp-post-image" alt="Peanut, Jeff Dunham and Guitar Guy" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6449" data-orig-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy.png" data-orig-size="347,347" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Peanut, Jeff Dunham and Guitar Guy" data-image-description="" data-medium-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy-300x300.png" data-large-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy.png" />Jeff Dunham proved that the weird kid who plays with dolls could end up being successful, or at least hilariously funny. Here&#8217;s a couple of clips from his recent Christmas special with his friends Peanut and Bubba J. If these <a href="/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/PeanutJeffDunhamAndGuitarGuy-150x150.png" class="attachment-thumbnail wp-post-image" alt="Peanut, Jeff Dunham and Guitar Guy" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6449" data-orig-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy.png" data-orig-size="347,347" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Peanut, Jeff Dunham and Guitar Guy" data-image-description="" data-medium-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy-300x300.png" data-large-file="/media/2012/12/PeanutJeffDunhamAndGuitarGuy.png" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div><a href="http://deemable.com/media/2012/12/PeanutJeffDunhamAndGuitarGuy.png" class="gallery_colorbox"><img class="alignright size-thumbnail wp-image-6449" title="Peanut, Jeff Dunham and Guitar Guy" src="//media/2012/12/PeanutJeffDunhamAndGuitarGuy-150x150.png"  alt="" width="150" height="150"></a>Jeff Dunham proved that the weird kid who plays with dolls could end up being successful, or at least hilariously funny. Here&rsquo;s a couple of clips from his recent Christmas special with his friends Peanut and Bubba J. If these videos don&rsquo;t offend you, they&rsquo;ll probably offend someone you know.</div>
+<p><a href="http://www.youtube.com/watch?v=ifK-k8Ii8Xw">Peanut&rsquo;s &lsquo;Twas the Night Before Christmas &ndash; Jeff Dunham&rsquo;</a><br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/ifK-k8Ii8Xw?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></p>
+<p><a href="http://www.youtube.com/watch?v=BaDG4VD7S8A">Christmas with Bubba J &ndash; Jeff Dunham</a><br><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/BaDG4VD7S8A?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Peanut and Bubba J Offend Everyone For Christmas - [VIDEO] Friday Funnies" data-link="/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Peanut and Bubba J Offend Everyone For Christmas - [VIDEO] Friday Funnies" data-link="/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/peanut-and-bubba-j-offend-everyone-for-christmas-video-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sexy Dictators [VIDEO] &#8211; Friday Funnies</title>
+		<link>/2012/11/sexy-dictators-friday-funnies/</link>
+		<comments>/2012/11/sexy-dictators-friday-funnies/#comments</comments>
+		<pubDate>Fri, 30 Nov 2012 14:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Kim Jung Un]]></category>
+		<category><![CDATA[Sexiest Man Alive]]></category>
+		<category><![CDATA[SourceFed]]></category>
+		<category><![CDATA[The Onion]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6218</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/ImportantEnglishWordsForChineseJournalists-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Important English Words for Chinese Journalists" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6373" data-orig-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797.jpg" data-orig-size="918,520" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;fxhlb&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Microsoft Word - Document1&quot;}" data-image-title="Important English Words for Chinese Journalists" data-image-description="" data-medium-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797-300x169.jpg" data-large-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797.jpg" />parody = ???? satire&#160;= ?? spoof = ?? Assuming that Google translated these words correctly into Chinese, if you are a journalist in China, you should know the meaning of these words. Sometimes important details get lost in translation. Sometimes, <a href="/2012/11/sexy-dictators-friday-funnies/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/sexy-dictators-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/ImportantEnglishWordsForChineseJournalists-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Important English Words for Chinese Journalists" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6373" data-orig-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797.jpg" data-orig-size="918,520" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;fxhlb&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Microsoft Word - Document1&quot;}" data-image-title="Important English Words for Chinese Journalists" data-image-description="" data-medium-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797-300x169.jpg" data-large-file="/media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/11/ImportantEnglishWordsForChineseJournalists.jpg" class="gallery_colorbox"><img class="size-medium wp-image-6373 alignright" title="Important English Words for Chinese Journalists" src="//media/2012/11/ImportantEnglishWordsForChineseJournalists-e1354286148797-300x169.jpg"  alt="" width="300" height="169"></a>parody = ????<br>
+satire&nbsp;= ??<br>
+spoof = ??</p>
+<p>Assuming that <a title="Google Translate" href="http://translate.google.com/" target="_blank">Google</a> translated these words correctly into Chinese, if you are a journalist in China, you should know the meaning of these words. Sometimes important details get lost in translation. Sometimes, different cultures just don&rsquo;t understand each others humor. Apparently, that&rsquo;s what happened to a Chinese newspaper when <a title="Kim Jong-Un Named The Onion's Sexiest Man Alive For 2012 [The Onion]" href="http://www.theonion.com/articles/kim-jongun-named-the-onions-sexiest-man-alive-for,30379/" target="_blank">the satirical news website, The Onion, named the supreme leader of North Korea, Kim Jung-un, as their 2012&nbsp;Sexiest Man Alive</a>.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/OUXRlOY-zB8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Sexy Dictators [VIDEO] - Friday Funnies" data-link="/2012/11/sexy-dictators-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Sexy Dictators [VIDEO] - Friday Funnies" data-link="/2012/11/sexy-dictators-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/sexy-dictators-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>The Earliest Black Friday Ever [VIDEO] &#8211; Friday Funnies</title>
+		<link>/2012/11/friday-funnies-the-earliest-black-friday-ever/</link>
+		<comments>/2012/11/friday-funnies-the-earliest-black-friday-ever/#comments</comments>
+		<pubDate>Fri, 23 Nov 2012 15:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Black Friday]]></category>
+		<category><![CDATA[Funny or Die]]></category>
+		<category><![CDATA[Teri Hatcher]]></category>
+		<category><![CDATA[Thanksgiving]]></category>
+		<category><![CDATA[Tom Arnold]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6194</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/TeriHatcherBlackFridayThanksgiving-150x150.png" class="attachment-thumbnail wp-post-image" alt="Teri Hatcher&#039;s Black Friday Thanksgiving" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6195" data-orig-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving.png" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Teri Hatcher&#8217;s Black Friday Thanksgiving" data-image-description="" data-medium-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving-300x168.png" data-large-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving.png" />Well, Black Friday is coming early this year, but Rebecca Tyler (Teri Hatcher) isn&#8217;t going to let that stop her from getting her family the best doorbuster deals this holiday season. She&#8217;s a little fired up about it, too. After <a href="/2012/11/friday-funnies-the-earliest-black-friday-ever/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/friday-funnies-the-earliest-black-friday-ever/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/TeriHatcherBlackFridayThanksgiving-150x150.png" class="attachment-thumbnail wp-post-image" alt="Teri Hatcher&#039;s Black Friday Thanksgiving" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6195" data-orig-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving.png" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Teri Hatcher&#8217;s Black Friday Thanksgiving" data-image-description="" data-medium-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving-300x168.png" data-large-file="/media/2012/11/TeriHatcherBlackFridayThanksgiving.png" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Well, Black Friday is coming early this year, but Rebecca Tyler (Teri Hatcher) isn&rsquo;t going to let that stop her from getting her family the best doorbuster deals this holiday season. She&rsquo;s a little fired up about it, too. <strong>After the video, tell us in the comments below, did you go out shopping on Thanksgiving? What did you get?</strong></p>
+<p><iframe src="http://www.funnyordie.com/embed/bc2ea57608" width="640" height="400" frameborder="0"></iframe>
+</p><div style="text-align:left;font-size:x-small;margin-top:0;width:640px;"><a href="http://www.funnyordie.com/videos/bc2ea57608/black-friday-thanksgiving" title="from Teri Hatcher, Tom Arnold, Erin Gibson, Funny Or Die, kevinstewart, and BoTown Sound">Black Friday Thanksgiving</a> from <a href="http://www.funnyordie.com/teri_hatcher">Teri Hatcher</a>      <iframe src="http://www.facebook.com/plugins/like.php?app_id=138711277798&amp;href=http%3A%2F%2Fwww.funnyordie.com%2Fvideos%2Fbc2ea57608%2Fblack-friday-thanksgiving&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px; vertical-align:middle;" allowtransparency="true"></iframe>
+</div>
+<p><a href="http://deemable.com/media/2012/11/TeriHatcherBlackFridayThanksgiving.png" class="gallery_colorbox"><img src="//media/2012/11/TeriHatcherBlackFridayThanksgiving-300x168.png"  alt="" title="Teri Hatcher's Black Friday Thanksgiving" width="300" height="168" class="alignright size-medium wp-image-6195"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Earliest Black Friday Ever [VIDEO] - Friday Funnies" data-link="/2012/11/friday-funnies-the-earliest-black-friday-ever/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Earliest Black Friday Ever [VIDEO] - Friday Funnies" data-link="/2012/11/friday-funnies-the-earliest-black-friday-ever/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/friday-funnies-the-earliest-black-friday-ever/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Episode 21 &#8211; Happy Early Black Friday!&#8230;and something about turkey.</title>
+		<link>/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/</link>
+		<comments>/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/#comments</comments>
+		<pubDate>Mon, 19 Nov 2012 18:52:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Abbyy Business Card Reader]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Black Friday]]></category>
+		<category><![CDATA[Carbonite]]></category>
+		<category><![CDATA[CrashPlan]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhone passcode]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[Neat Desk Scanner]]></category>
+		<category><![CDATA[Nook]]></category>
+		<category><![CDATA[passcode]]></category>
+		<category><![CDATA[Yolu Card]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6034</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/HappyHolidays-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Happy Soul Crushing Holidays!" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6041" data-orig-file="/media/2012/11/HappyHolidays.jpg" data-orig-size="522,329" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Happy Soul Crushing Holidays!" data-image-description="" data-medium-file="/media/2012/11/HappyHolidays-300x189.jpg" data-large-file="/media/2012/11/HappyHolidays.jpg" />Deemable Tech &#8211; Episode 21 &#8211; Happy Early Black Friday!&#8230;and something about turkey. On today&#8217;s episode Ray gets a little confused about which holiday is coming up this week, you&#8217;ll find out where to get the best deals for Black <a href="/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/HappyHolidays-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Happy Soul Crushing Holidays!" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6041" data-orig-file="/media/2012/11/HappyHolidays.jpg" data-orig-size="522,329" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Happy Soul Crushing Holidays!" data-image-description="" data-medium-file="/media/2012/11/HappyHolidays-300x189.jpg" data-large-file="/media/2012/11/HappyHolidays.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/11/HappyHolidays.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-6041" title="Happy Soul Crushing Holidays!" src="//media/2012/11/HappyHolidays-300x189.jpg"  alt="" width="300" height="189"></a><audio class="wp-audio-shortcode" id="audio-6034-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-19.mp3?_=11"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-19.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-19.mp3</a></audio></p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-19.mp3">Deemable Tech &ndash; Episode 21 &ndash; Happy Early Black Friday!&hellip;and something about turkey.</a></p>
+<p>On today&rsquo;s episode Ray gets a little confused about which holiday is coming up this week, you&rsquo;ll find out where to get the best deals for Black Friday, which deals you shouldn&rsquo;t waste your time on, and whether the cashiers are trying to sneak off with your cash back.&nbsp;You&rsquo;ll also find out what the difference is between a Nook and a Kindle, how to scan business cards into your cell phone, and how to save your files from the dust bunnies.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="itpc://feeds.feedburner.com/DeemableTech" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="" width="160" height="59"></a></p>
+<p>Make sure to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="pcast://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Is the Nook worth getting at $39? What&rsquo;s the difference between the Nook and the Kindle?</li>
+<li>How can I save my important files that I don&rsquo;t need to keep on my computer? How can I archive files in a way that I don&rsquo;t lose them over the years? What&rsquo;s the best way to backup my computer so I don&rsquo;t lose my data?</li>
+<li>Which is safer, wireless or wired Internet?</li>
+<li>Is there a good, cheap business card scanner app or gadget that actually works?</li>
+<li>What do I do if I&rsquo;ve forgotten the passcode on my iPhone?&nbsp;Is there a way to unlock an iPhone that I forgot the passcode?</li>
+<li>What&rsquo;s the best way to transfer a large file?</li>
+</ul><h3>Debunkable</h3>
+<ul><li>Are cashiers sneaking off with your cash back?</li>
+</ul><div>Had a friend forwarded you something from the Internet that seemed to good to be true? Gotten a crazy chain email from Aunt Thelma? Send it our way and we&rsquo;ll take a look at it. Our email address is&nbsp;<a href="mailto:debunkable@deemable.com">debunkable@deemable.com</a>.</div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://blackfriday.com/">BlackFriday.com</a></li>
+<li><a href="http://www.barnesandnoble.com/u/compare-nook-vs-kindle/379003172/">A hilariously biased comparison of the Kindle and the Nook on bn.com</a></li>
+<li><a href="http://www.amazon.com/dp/B007HCCNJU">The Amazon Kindle</a></li>
+<li><a title="Online Data Backup - Offsite, Onsite &amp; Cloud" href="http://www.crashplan.com/">CrashPlan</a></li>
+<li><a title="Carbonite Online Backup Software" href="http://www.carbonite.com/">Carbonite</a></li>
+<li><a href="http://lifehacker.com/5405775/youre-backing-up-your-data-the-wrong-way">Lifehacker &ndash; You&rsquo;re Backing Up Your Data The Wrong Way</a></li>
+<li><a href="http://store.neat.com/NeatDesk-PC.html">Neat Desk Scanner, Neat Desk Organizer $399.95&nbsp;</a></li>
+<li><a href="http://sites.dymo.com/Solutions/Pages/Seg_cat_lndg.aspx?cat=CardScanCMS(DYMO)&amp;locale=enUS">Dymo CardScan Personal $159.99 </a></li>
+<li>Abbyy&rsquo;s Business Card Reader available for&nbsp;<a href="https://market.android.com/details?id=com.abbyy.mobile.bcr">Android</a> (9.99) and <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://itunes.apple.com/us/app/abbyy-business-card-reader/id347345474" target="_blank" rel="external nofollow">iPhone</a> (4.99).</li>
+<li>Yolu Card on&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ycard&amp;hl=en">Android</a>, <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/yolu-card-reader-business/id534966036?mt=8" target="_blank" rel="external nofollow">iPhone</a> and <a href="http://www.windowsphoneapplist.com/en/Yolu_Card_Reader-a125063.html">Windows Phone 7</a>&nbsp;(Free)</li>
+<li><a title="Lifehacker - What to Do If You've Forgotten Your iPhone's Passcode" href="http://lifehacker.com/5852948/what-to-do-if-youve-forgotten-your-iphones-passcode">Lifehacker &ndash; What to Do If You&rsquo;ve Forgotten Your iPhone&rsquo;s Passcode</a></li>
+</ul><h3>Black Friday Deal Breakdown<a title="Disclaimer" href="#disclaimer">*</a>:</h3>
+<p>Walmart: Opens Thursday at 10pm</p>
+<p>1 Hour Guaranteed in stock:</p>
+<p>iPad 2 16GB $399 with $75 Walmart gift card guaranteed in stock until 11pm Thursday.</p>
+<p>Best Buy: Opens Friday at 12am<br>
+Toshiba 40&Prime; 1080P 60Hz refresh rate LCD HDTV $179.99 (reg $419.99)</p>
+<p>Sears: Opens Thursday at 8pm<br>
+Nook Simple Touch $39.99 (Reg $99.99)</p>
+<p>Target: Opens Thursday at 9pm</p>
+<p>Nook Simple Touch $49.00<br>
+Nook Color $99.00 (normally $139.99)</p>
+<h4>External Hard Drives</h4>
+<ul><li>Walmart- Toshiba 1 TB portable hard drive for $59</li>
+<li>Staples- Seagate 2 TB $79.99</li>
+<li>Best Buy- Seagate Back-up Plus 3 TB with USB 3.0 $99.99</li>
+</ul><h4>SD Cards</h4>
+<p>8 GB SD cards</p>
+<ul><li>Walmart for $4.97</li>
+<li>Staples for $4.99</li>
+<li>Radio Shack for $5.99</li>
+</ul><p>16 GB SD cards</p>
+<ul><li>Walmart for $7.88</li>
+<li>Radio Shack and Staples for $7.99</li>
+<li>Office Depot and Office Max for $8.99</li>
+</ul><h4>USB Flash Drives</h4>
+<p>16 GB USB flash drive</p>
+<ul><li>Best Buy for $5.99</li>
+<li>Staples for $6.00</li>
+<li>Walmart for $6.97</li>
+</ul><p>32 GB USB flash drive</p>
+<ul><li>Office Max for $9.99</li>
+<li>Radio Shack for $9.99</li>
+<li>Best Buy for $12.99</li>
+</ul><p>64 GB USB flash drive</p>
+<ul><li>Office Max $24.99</li>
+<li>Best Buy for $27.99</li>
+<li>Office Depot $29.99</li>
+</ul><p><a name="disclaimer"></a>*Disclaimer: The prices listed here are in no way controlled by Deemable Tech or any of its employees. The prices are subject to change at the discretion of the respective companies. Deemable Tech has no control over the prices, or if or when they change. This information is provided only as a convenience. Prices listed here can not and should not be used for price matching or advertising comparisons. These prices were gathered from the store&rsquo;s websites and from <a href="http://blackfriday.com/">BlackFriday.com</a>.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 21 - Happy Early Black Friday!...and something about turkey." data-link="/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 21 - Happy Early Black Friday!...and something about turkey." data-link="/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/episode-21-happy-early-black-friday-and-something-about-turkey/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-19.mp3" length="50576823" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>What&#8217;s 9 + 1 + 1? [VIDEO] Friday Funnies</title>
+		<link>/2012/11/friday-funnies-whats-9-1-1-video/</link>
+		<comments>/2012/11/friday-funnies-whats-9-1-1-video/#comments</comments>
+		<pubDate>Fri, 16 Nov 2012 14:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[9/11]]></category>
+		<category><![CDATA[emegency phone number]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6025</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/BoyCalls911ForHelpWithMath-e1352998324623-150x150.png" class="attachment-thumbnail wp-post-image" alt="Boy Calls 911 For Help With Math Problems" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6026" data-orig-file="/media/2012/11/BoyCalls911ForHelpWithMath.png" data-orig-size="640,390" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Boy Calls 911 For Help With Math Problems" data-image-description="" data-medium-file="/media/2012/11/BoyCalls911ForHelpWithMath-300x182.png" data-large-file="/media/2012/11/BoyCalls911ForHelpWithMath.png" />Every parent in the United States should teach their kid&#160;at some point in their childhood&#160;how to use 911 (In other countries it&#8217;s 999, 000, 110, 112, and others) to make sure that their son or daughter knows how&#160;to call for <a href="/2012/11/friday-funnies-whats-9-1-1-video/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/friday-funnies-whats-9-1-1-video/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/BoyCalls911ForHelpWithMath-e1352998324623-150x150.png" class="attachment-thumbnail wp-post-image" alt="Boy Calls 911 For Help With Math Problems" style="float:left; margin:0 15px 15px 0;" data-attachment-id="6026" data-orig-file="/media/2012/11/BoyCalls911ForHelpWithMath.png" data-orig-size="640,390" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Boy Calls 911 For Help With Math Problems" data-image-description="" data-medium-file="/media/2012/11/BoyCalls911ForHelpWithMath-300x182.png" data-large-file="/media/2012/11/BoyCalls911ForHelpWithMath.png" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Every parent in the United States should teach their kid&nbsp;at some point in their childhood&nbsp;how to use 911 (<a title="Emergency telephone number | Wikipedia" href="http://en.wikipedia.org/wiki/Emergency_telephone_number" target="_blank">In other countries it&rsquo;s 999, 000, 110, 112, and others</a>) to make sure that their son or daughter knows how&nbsp;to call for help in the case of an emergency.&nbsp; However, sometimes a parent needs to make sure&nbsp;their&nbsp;children knows the difference between what is&nbsp;an emergency worth calling the cops about, and what&rsquo;s just going to embarrass&nbsp;them when the cops show up.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/YoTIaRyGzac?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><a href="http://deemable.com/media/2012/11/BoyCalls911ForHelpWithMath.png" class="gallery_colorbox"><img class=" wp-image-6026 alignnone" title="Boy Calls 911 For Help With Math Problems" src="//media/2012/11/BoyCalls911ForHelpWithMath-300x182.png"  alt="" width="1" height="1"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="What's 9 + 1 + 1? [VIDEO] Friday Funnies" data-link="/2012/11/friday-funnies-whats-9-1-1-video/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="What's 9 + 1 + 1? [VIDEO] Friday Funnies" data-link="/2012/11/friday-funnies-whats-9-1-1-video/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/friday-funnies-whats-9-1-1-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

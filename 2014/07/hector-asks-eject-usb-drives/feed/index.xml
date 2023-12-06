@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Hector asks, &#8220;Do I have to eject USB drives?&#8221;</title>
+	<atom:link href="/2014/07/hector-asks-eject-usb-drives/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/07/hector-asks-eject-usb-drives/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Richard Becker</title>
+		<link>/2014/07/hector-asks-eject-usb-drives/#comment-2262</link>
+		<dc:creator><![CDATA[Richard Becker]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 18:47:07 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=9008#comment-2262</guid>
+		<description><![CDATA[I was unaware of the limited number of times that a flash drive can be written to and am wondering if this applies to mass flash storage units such as in my MacBook Pro, which uses flash memory instead of a hard drive. Also, I&#039;m not sure how secure delete, which normally overwrites a sector many times, works with Flash Memory. Will these multiple overwrites affect the life of the drive?
+
+Thanks,]]></description>
+		<content:encoded><![CDATA[<p>I was unaware of the limited number of times that a flash drive can be written to and am wondering if this applies to mass flash storage units such as in my MacBook Pro, which uses flash memory instead of a hard drive. Also, I&#8217;m not sure how secure delete, which normally overwrites a sector many times, works with Flash Memory. Will these multiple overwrites affect the life of the drive?</p>
+<p>Thanks,</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

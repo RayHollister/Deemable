@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Sandra asks, &#8220;Is my computer infected?&#8221;</title>
+	<atom:link href="/2014/04/sandra-asks-computer-infected/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/04/sandra-asks-computer-infected/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Kathy Clower</title>
+		<link>/2014/04/sandra-asks-computer-infected/#comment-1037</link>
+		<dc:creator><![CDATA[Kathy Clower]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2014 12:30:07 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=8684#comment-1037</guid>
+		<description><![CDATA[If I already have an antivirus program such as McAfee, can I still run these two programs?]]></description>
+		<content:encoded><![CDATA[<p>If I already have an antivirus program such as McAfee, can I still run these two programs?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: virginia</title>
+		<link>/2014/04/sandra-asks-computer-infected/#comment-1025</link>
+		<dc:creator><![CDATA[virginia]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2014 23:07:36 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=8684#comment-1025</guid>
+		<description><![CDATA[This was a wonderful  This information was so helpful for me. I have run both programs on  my computers and found I had a great deal of mal ware on them.
+Thanks so much.]]></description>
+		<content:encoded><![CDATA[<p>This was a wonderful  This information was so helpful for me. I have run both programs on  my computers and found I had a great deal of mal ware on them.<br />
+Thanks so much.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

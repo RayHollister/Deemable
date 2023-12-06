@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: What kind of cards are HP holding in its Palm?</title>
+	<atom:link href="/2011/02/what-kind-of-cards-are-hp-holding-in-its-palm/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/02/what-kind-of-cards-are-hp-holding-in-its-palm/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2011/02/what-kind-of-cards-are-hp-holding-in-its-palm/#comment-6</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2011 19:45:00 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=172#comment-6</guid>
+		<description><![CDATA[Not exactly, Cristi. Android did not have any multitasking until version 2.1 when the Nexus One was updated. Also, the type of multitasking that Android and Apple has is about as advanced as&#160;the old Palm OS had in&#160;years ago. For the most part, with the exception of a very limited amount of background services, the app is frozen when it is in the background. You can&#039;t really do two or more things at once. You can just leave what you were doing and come back to it later.
+&#160;
+&#060;a href=&quot;http://davidquintana.com/entry/mobile-multitasking&quot;&#062;David Quintana&#060;/a&#062; explained it well: &quot;On Android, apps are suspended when they are no longer visible to the user. Suspended means the app is still in memory, but it is frozen. No processing or event handling happens.&quot;
+&#160;
+Whereas a WebOS device can actually do two or more things at once. For example, in the morning, I launch 5 cards with my favorite news sites on them. While they load I play Angry Birds. Then, I open my favorite YouTube video and let it download while I read my email.]]></description>
+		<content:encoded><![CDATA[<p>Not exactly, Cristi. Android did not have any multitasking until version 2.1 when the Nexus One was updated. Also, the type of multitasking that Android and Apple has is about as advanced as&nbsp;the old Palm OS had in&nbsp;years ago. For the most part, with the exception of a very limited amount of background services, the app is frozen when it is in the background. You can&#8217;t really do two or more things at once. You can just leave what you were doing and come back to it later.<br />
+&nbsp;<br />
+&lt;a href=&#8221;http://davidquintana.com/entry/mobile-multitasking&#8221;&gt;David Quintana&lt;/a&gt; explained it well: &#8220;On Android, apps are suspended when they are no longer visible to the user. Suspended means the app is still in memory, but it is frozen. No processing or event handling happens.&#8221;<br />
+&nbsp;<br />
+Whereas a WebOS device can actually do two or more things at once. For example, in the morning, I launch 5 cards with my favorite news sites on them. While they load I play Angry Birds. Then, I open my favorite YouTube video and let it download while I read my email.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Cristi</title>
+		<link>/2011/02/what-kind-of-cards-are-hp-holding-in-its-palm/#comment-5</link>
+		<dc:creator><![CDATA[Cristi]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2011 07:21:00 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=172#comment-5</guid>
+		<description><![CDATA[&quot;HP WebOS is arguably the only mobile operating system that is currently on the market that allows you to really multitask, i.e. run two or more programs at the same time&quot; 
+
+I had to check the date to ensure that the article wasn&#039;t written before Android&#039;s launch. Android had multitasking from the launch I thought.]]></description>
+		<content:encoded><![CDATA[<p>&#8220;HP WebOS is arguably the only mobile operating system that is currently on the market that allows you to really multitask, i.e. run two or more programs at the same time&#8221; </p>
+<p>I had to check the date to ensure that the article wasn&#8217;t written before Android&#8217;s launch. Android had multitasking from the launch I thought.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tweets that mention What kind of cards are HP holding in their Palm? &#124; Deemable -- Topsy.com</title>
+		<link>/2011/02/what-kind-of-cards-are-hp-holding-in-its-palm/#comment-4</link>
+		<dc:creator><![CDATA[Tweets that mention What kind of cards are HP holding in their Palm? &#124; Deemable -- Topsy.com]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2011 18:28:40 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=172#comment-4</guid>
+		<description><![CDATA[[...] This post was mentioned on Twitter by Ray Hollister, deemable. deemable said: What kind of cards are @HP holding in their @Palm? &#124; Deemable http://t.co/BOiDFi6 via @Deemable [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] This post was mentioned on Twitter by Ray Hollister, deemable. deemable said: What kind of cards are @HP holding in their @Palm? | Deemable <a href="http://t.co/BOiDFi6" rel="nofollow">http://t.co/BOiDFi6</a> via @Deemable [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

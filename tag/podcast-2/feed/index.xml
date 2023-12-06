@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; podcast</title>
+	<atom:link href="/tag/podcast-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#106 It&#8217;s So Hard To Say Goodbye&#8230; For Now</title>
+		<link>/2016/05/106-its-so-haroodbye-for-now/</link>
+		<comments>/2016/05/106-its-so-haroodbye-for-now/#comments</comments>
+		<pubDate>Tue, 24 May 2016 16:18:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10579</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/dt_explosion-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_explosion" style="float:left; margin:0 15px 15px 0;" />This week Ray, Tom and Sean talk about quantum computers, Google&#8217;s new messaging apps, and the possibility of an all-glass iPhone. Plus the guys share some sad news. A special message from Ray, Tom and Sean If you&#8217;re an avid <a href="/2016/05/106-its-so-haroodbye-for-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/106-its-so-haroodbye-for-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/dt_explosion-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_explosion" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray, Tom and Sean talk about quantum computers, Google&rsquo;s new messaging apps, and the possibility of an all-glass iPhone. Plus the guys share some sad news.</p>
+<p><a href="http://deemable.com/media/2016/05/dt_explosion.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-10585 size-full" src="//media/2016/05/dt_explosion.jpg"  alt="dt_explosion" width="960" height="720"></a></p>
+<p><span id="more-10579"></span></p>
+<h3>A special message from Ray, Tom and Sean</h3>
+<p>If you&rsquo;re an avid listener to Deemable Tech, it will probably come as no surprise that we&rsquo;ve been having some difficulty putting out shows for the past few months. The three of us have gone through some major changes in our careers and lives over the past year, and those have taken away a lot of the time we&rsquo;ve had to devote to bringing you this show every week.</p>
+<p>So, after months of not recording an episode, we&rsquo;ve made the tough decision to end the Deemable Tech podcast. For now, at least.</p>
+<p>We&rsquo;ve come to the realization that it is just not sustainable. We can&rsquo;t keep producing the show to the level that we did before, and it was unfair of us to leave you in the dark about it.</p>
+<p>We may relaunch the show down the road, if we are able to.&nbsp;If&nbsp;you are interested in finding out when we or if we do, sign up for our newsletter on the right side of this page.&nbsp;You&rsquo;ll be the first to know.</p>
+<p>We won&rsquo;t be gone completely, though. You can still catch us answering your tech questions every week on Ask Deemable Tech, so be sure to subscribe to that podcast or listen live Thursdays on 89.9 FM WJCT.</p>
+<p>If you have any farewell messages for us, leave us a voicemail at 1-888-972-9868 or send an email to feedback at deemable dot com.</p>
+<p>We&rsquo;ve truly appreciated you listening to (and sometimes even enjoying) our shenanigans for the past four years. It&rsquo;s been a blast.</p>
+<p>Now let&rsquo;s take this baby for one last ride!</p>
+<p><img class="aligncenter" src="http://i.giphy.com/mWmip2ArAPHJC.gif" alt=""></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10579-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>Google releases Science Journal app</h3>
+<p>For those of you who loved doing science projects as a kid, Google recently released a new app that you&rsquo;ll love.</p>
+<p>The app, Science Journal, uses the sensors in your phone to measure and record data in real time, including movement, light and sound.</p>
+<p><span style="letter-spacing: 0.05em; line-height: 1.6875;"><a href="https://makingscience.withgoogle.com/science-journal" target="_blank">As Google says on the Science Journal site</a>, &ldquo;See something you want to measure? How much light is in my room compared to outside? How loud is the dog&rsquo;s bark compared to my cough? Record your observations in real-time at the press of a button. Explore your environment or measure things you&rsquo;ve built yourself.&rdquo;</span></p>
+<p>Among other features, Science Journal lets you record measurements as charts and graphs, and record a voice memo as you&rsquo;re doing your experiment so you can give extra details about it.</p>
+<p>Google has also partnered with the Exploratorium in San Francisco to sell special little kits with materials like sensors your phone doesn&rsquo;t have to let you measure other stuff.</p>
+<p>Science Journal is currently only available for Android.</p>
+<h3>It&rsquo;s all about the qubits, baby</h3>
+<p>Verge is reporting that IBM has made <a href="http://www.theverge.com/2016/5/4/11589656/ibm-quantum-computing-cloud" target="_blank">a working quantum computer that anyone in the world can play with</a>.</p>
+<p>What does that mean? Glad you asked! Basically, as anyone who has watched any movie from the 90s that involved computers can tell you, computers work by translating ones and zeros into machine understandable language and then translating that into human language and user interfaces. Quantum computers use ones, zeros and both at the same time.</p>
+<p>Now the question is, what to do with that. We&rsquo;ve built an entire industry out of a binary system, and now that we have the capability to expand it to a trinary or &ldquo;ternary&rdquo; system, the question is how to use it. So, IBM has opened it to the public for research and experimentation because basically the only people who understand what we just said are scientists.</p>
+<h3>Google says hello to Allo and Duo</h3>
+<p>One area where Google has long lagged behind competitors like Apple and Facebook has been in messaging. Rather than having a single, unified messaging app, Google has introduced numerous messaging systems like Gchat, Google Hangouts, and the default Android text-messaging app.</p>
+<p>This week at Google&rsquo;s I/O event, the company announced <a href="http://arstechnica.com/gadgets/2016/05/googles-allo-and-duo-are-2-communication-apps-based-on-your-phone-number/" target="_blank">two new messaging apps, Allo and Duo</a>. Allo is for text messaging, and includes Google bot technology which offers up auto-responses to messages based on things you usually type.</p>
+<p>Duo, meanwhile, is a 1-on-1 video chat app. It is optimized to work even in low-bandwidth situations.</p>
+<p>Both apps support end-to-end encryption, however, controversially, it will not be enabled be default. Some think this might be because it would impede their ability to offer features like the auto response bot.</p>
+<h3>All-glass iPhone?</h3>
+<p>We couldn&rsquo;t do a final episode of the podcast without Ray talking about iPhones, could we?</p>
+<p>Forbes is reporting that the <a href="http://www.forbes.com/sites/ewanspence/2016/05/20/apple-news-digest-iphone-7-leak-ios-9-3-2-broken/#6d348b86407d" target="_blank">iPhone 8 could lose the unibody aluminium case for an all glass one</a>. No, you didn&rsquo;t read that incorrectly, the next iPhone is the presumptively going to be coined the &ldquo;7&rdquo;, but this rumor is about the iPhone 8.</p>
+<p>The glass case is expected to wrap around the entire device and have no bezel as a result.</p>
+<p>And apparently the entire front of the phone will be screen. The front facing camera, touch ID sensor, speaker and proximity sensor will somehow all be behind the screen.</p>
+<h3>Android apps coming to Chromebooks</h3>
+<p>The Google Play Store is coming to Chromebooks. Along with every single Android app!</p>
+<p><a href="http://arstechnica.com/gadgets/2016/05/if-you-want-to-run-android-apps-on-chromebooks-youll-need-a-newer-model/" target="_blank">As Ars Technica puts it</a>, everything &ldquo;from Microsoft Word to Hearthstone to Firefox will be able to run on Chrome OS without noticeable performance penalties.&rdquo;</p>
+<p>That&rsquo;s the pretty great stuff. Here&rsquo;s the asterisk: Google has released a compatibility list for this amazing new feature and it basically excludes any Chromebook older than two years old. This even includes Google&rsquo;s souped-up and overpriced Pixel Chromebook.</p>
+<p><em>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</em></p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#106 It's So Hard To Say Goodbye... For Now" data-link="/2016/05/106-its-so-haroodbye-for-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#106 It's So Hard To Say Goodbye... For Now" data-link="/2016/05/106-its-so-haroodbye-for-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/106-its-so-haroodbye-for-now/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3" length="33498125" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#91 The Episode Where We Phone It In</title>
+		<link>/2015/07/91-the-episode-where-we-phone-it-in/</link>
+		<comments>/2015/07/91-the-episode-where-we-phone-it-in/#comments</comments>
+		<pubDate>Fri, 10 Jul 2015 19:23:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Reddit]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10137</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/phone_off_hook-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Dave Bugdale / Flickr" style="float:left; margin:0 15px 15px 0;" />On this episode of Deemable Tech, Ray and Sean call up Tom at home to let him know why they can&#8217;t do a podcast this week. If you&#8217;re listening to Deemable Tech on our website, would you subscribe to the <a href="/2015/07/91-the-episode-where-we-phone-it-in/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/91-the-episode-where-we-phone-it-in/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/phone_off_hook-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Dave Bugdale / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_10138" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/07/phone_off_hook.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10138" src="//media/2015/07/phone_off_hook-300x200.jpg"  alt="Image credit: Dave Bugdale / Flickr" width="300" height="200"></a><p class="wp-caption-text">Image credit: Dave Bugdale / Flickr</p></div>
+<p>On this episode of Deemable Tech, Ray and Sean call up Tom at home to let him know why they can&rsquo;t do a podcast this week.</p>
+<p>If you&rsquo;re listening to Deemable Tech on our website, would you subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>? And, while you&rsquo;re there, would you leave a review and say a few nice things about us? The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<audio class="wp-audio-shortcode" id="audio-10137-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-10.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-10.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-10.mp3</a></audio><p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<p><em>Photo Credit: &ldquo;<a href="https://www.flickr.com/photos/davedugdale/5104920233" target="_blank">Telephone Pick Up &ndash; Off the Hook</a>&rdquo;&nbsp;by&nbsp;<a class="owner-name truncate" title="Go to Dave Dugdale's photostream" href="https://www.flickr.com/photos/davedugdale/" target="_blank" data-track="attributionNameClick" data-rapid_p="35">Dave Dugdale</a>&nbsp;is used under <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#91 The Episode Where We Phone It In" data-link="/2015/07/91-the-episode-where-we-phone-it-in/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#91 The Episode Where We Phone It In" data-link="/2015/07/91-the-episode-where-we-phone-it-in/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/91-the-episode-where-we-phone-it-in/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-10.mp3" length="6422666" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#87 The Episode Where We Don&#8217;t Talk About Soylent Because There&#8217;s Too Much News</title>
+		<link>/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/</link>
+		<comments>/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/#comments</comments>
+		<pubDate>Sat, 13 Jun 2015 18:55:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Music]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Comcast]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Oculus]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10090</guid>
+		<description><![CDATA[This week, Ray, Tom and Sean look at some of the news coming out of&#160;Apple&#8217;s annual&#160;Wordwide Developers Conference (WWDC), including the unveiling of the latest version of the iOS mobile operating system and the new music streaming app Apple Music. <a href="/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week, Ray, Tom and Sean look at some of the news coming out of&nbsp;Apple&rsquo;s annual&nbsp;Wordwide Developers Conference (WWDC), including the unveiling of the latest version of the iOS mobile operating system and the new music streaming app Apple Music. That and much more on this week&rsquo;s Deemable Tech!</p>
+<p>If you&rsquo;re listening to Deemable Tech on our website, would you subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>? And, while you&rsquo;re there, would you leave a review and say a few nice things about us? The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<audio class="wp-audio-shortcode" id="audio-10090-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-12_3.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-12_3.mp3">http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-12_3.mp3</a></audio><h1>THIS WEEK&rsquo;S RUN DOWN</h1>
+<h3>Apple WWDC&nbsp;2015</h3>
+<p>This week Apple&nbsp;held their annual conference to showcase its new software to developers.&nbsp;Since there was so much to talk about, we are just going to focus on the stuff we found really interesting.&nbsp;For full coverage of the announcements made at WWDC 2015, check out <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.imore.com%2Feverything-you-need-know-about-wwdc-2015-keynote&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGbADMk3MLOvEUxDrItCFevv1crbQ" target="_blank">iMore&rsquo;s article about everything you need to know about they keynote</a>.</p>
+<h4>iOS 9 to offer ad blocking</h4>
+<p>Apple unveiled the latest version of its mobile operating system this week, and with it comes a host of new features.&nbsp;iOS 9 is going to have ad blocking for the first time ever. Specifically, Safari is going to allow extensions that include the ability to block ads. Publishers that depend on ad revenue to stay in business are super excited about this announcement.</p>
+<h4>Six-digit passcodes</h4>
+<p>In an effort to make their devices harder to break into, Apple revealed that newer iPhones and iPads that have TouchID and are running iOS 9 will be <a href="http://arstechnica.com/apple/2015/06/apple-to-require-6-digit-passcodes-on-newer-iphones-ipads-under-ios-9/" target="_blank">required to upgrade from a four-digit passcode to a six-digit one</a>. Passcodes will remain optional, but if you choose to use one you will have to change it to at least six alphanumeric digits.</p>
+<p>Another safeguard they introduced: after 10 failed attempts to enter your passcode, your device will erase itself.</p>
+<h4>iOS 9 brings multitasking to iPads</h4>
+<p>iOS 9 will also introduce a <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.theverge.com%2F2015%2F6%2F8%2F8737639%2Fapple-ipad-split-screen-multitasking-wwdc-2015&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGzgPEvtseUymuKYbkwyKGbw5huFg" target="_blank">long-expected feature for iPads: multitasking</a>. This comes in the form of three features, actually, called SlideOver, Splitview and picture-in-picture.</p>
+<p>SlideOver will let you quickly slide in another app from a menu on the right side of the screen. For example, you could be using Safari to read restaurant reviews and then slide in Messages to message your friend. Other apps they showed taking advantage of this feature were the Calendar app and Notes.</p>
+<p>There will also be a more traditional Split View mode where you can have your screen equally divided up between two apps running simultaneously and independent of each other.</p>
+<p>There will also be a picture-in-picture mode that will let you have a small video player on top of other apps. Yes, Apple has finally added a feature all of our TVs had in 1993.</p>
+<p>Not all of these features will be available on all devices. The Split View mode will only work on the iPad Air 2. SlideOver and picture-in-picture will be available on late 2013 or newer iPad Airs as well as all iPad Minis.</p>
+<h4>iOS 9 brings battery life, performance boost</h4>
+<p>Apple says that<a href="http://www.imore.com/ios-9s-performance-boosts-focus-efficiency-and-battery-life" target="_blank"> iOS 9 is all about making the existing hardware run better</a>. They said that they have seen an extra hour of battery life on the iPhone 6, and iOS 9 has a new lower power mode that can save iPhones an additional 3 hours of battery life.</p>
+<h4>Apple News</h4>
+<p>Apple News is Apple&rsquo;s latest attempt to disrupt a dying industry. This new app will be built into iOS 9, but fortunately it will replace the utterly useless hunk of trash app that was Newsstand. Instead of being what was essentially a folder for news and magazine apps, Apple News is going to be a a news curator app. You&rsquo;ll be able to read Sport Illustrated, the New York Times, Wired and tons of other top tier media and some not so top tier media like local newspapers, TV and radio stations.</p>
+<p>According to Apple, the new app learns what you like and suggests similar content. We&rsquo;ll believe that when I see it. The promise of learning content has always been higher than the actual end product.</p>
+<p>Apple News can include a lot of interactive features like charts, graphs, videos, and photos. So, it&rsquo;s basically just like Flipboard, except it&rsquo;s built into your iPhone. So, it&rsquo;s going to destroy Flipboard.</p>
+<h4>Apple Swift programming language will be open-sourced</h4>
+<p><a href="http://www.imore.com/swift-2-programming-language-will-become-open-source-project-apple">Apple Swift programming language is going to be open-sourced</a>. For the first time ever, developers will be able to create apps for iOS and OS X on a computer that isn&rsquo;t a Mac OS X. Don&rsquo;t get too excited Windows Developers, it only runs on Linux.</p>
+<h4>Apple Music</h4>
+<p>Apple&rsquo;s &ldquo;one more thing&rdquo; this year was Apple Music. Apple basically took Beats Music, Ping (you guys remember Ping, right?) and the new MySpace (you guys remember MySpace, right?) and stuck them in a Blendtec blender and poured out what was left and called it Apple Music. With Apple Music, you can listen for free to a 24 hour online radio stream called Beats 1, or you can listen to streaming music on-demand for $9.99 for a single membership or $14.99 for a family of up to six. They&rsquo;ll give you a free, three?month trial membership to get you hooked too.</p>
+<p>So, yeah, Apple created a Spotify killer. Built into the iPhone and you&rsquo;ll be able to get it on Android too. That&rsquo;s fine, but apparently Apple thinks that you don&rsquo;t have enough social media accounts in your life, and you need one dedicated to communicating with your favorite artists with. You know, just like they thought when they came out with Ping. And it flopped. And, just like Justin Timberlake and the gang thought when they bought MySpace from News Corp and relaunched it as a social media site for musicians, and it? well we don&rsquo;t know what happened to it because we&rsquo;ve never been back for more than enough time to download our pictures and videos. But we&rsquo;ve heard it&rsquo;s a barren wasteland.</p>
+<p>On Apple Music, you&rsquo;ll be able to get exclusive content like behind-the-scenes videos, intimate conversations with the artists and musicians can post blogs and updates on Apple Music. You know, just like they can do on Facebook, Twitter, Instagram, Pinterest, Tumblr, and their own website.</p>
+<h3>Oculus Rift reveals&nbsp;consumer version of virtual reality headset</h3>
+<p>Oculus Rift held a major live event this week, <a href="http://www.anandtech.com/show/9374/oculus-rift-controllers-vr-games-and-software-features-announced">officially unveiling the consumer version of their long-awaited, greatly hyped VR headset</a>. Purportedly light and comfortable, the headset slips on like a baseball cap, is easily adjustable, and allows users to substitute their own headphones for the pair that comes with it. The screen is actually a pair of small, high-res LED screens set right in front of the user?s eyes.</p>
+<p>Two controllers were announced. The one that it will ship with? The Xbox One wireless controller. Yep. A slightly more revolutionary controller called the Oculus Touch was also announced: this is a pair of thumbsticks with motion tracking and haptic feedback which the user holds in each hand. The Touch will release in 2016 but is not expected to be available when the Oculus Rift first launches.</p>
+<p>Speaking of launching, you are probably wondering when exactly the Rift will launch and how much it will cost. That was one thing the press conference did not shed any light on. The company still says that it is targeting 2016 and there are rumors of a price point around $400.</p>
+<h3>Comcast takes away woman&rsquo;s email address, gives it to new customer with the same name</h3>
+<p>Cable internet provider Comcast is infamous for their poor customer service, and this next story is not going to help their reputation any. <a href="http://www.firstcoastnews.com/story/news/local/consumer/on-your-side/2015/06/10/put-it-back-the-way-it-was-thats-what-i-want/71031836/">Ken Amaro of First Coast News reports</a> that Comcast took thirteen year veteran customer Kathleen Cox?s email address away and gave it to another customer with the same name who had just signed up in Michigan. Kathleen had used her Comcast email address as her primary email account and when it was taken away lost access to all her emails. She said that it wasn?t until local news took up the story that Comcast finally returned the address to her. No word on whether she got her old emails back as well.</p>
+<h3>Google Chrome will start pausing auto-playing Flash videos</h3>
+<p>Google says that their next version of Chrome will roll out a feature <a href="http://gizmodo.com/future-versions-of-chrome-will-kill-flash-in-the-name-1709212263">that &ldquo;intelligently pauses&rdquo; Flash content that isn?t central to the web page</a>. This is in the interest of memory and battery life for laptops. By some estimates, disabling Flash while using Chrome on your laptop could give you 10-20% more battery life.</p>
+<h3>PornHub crowdfunding sex tape shot in space</h3>
+<p>Major porn site PornHub has launched <a href="http://gizmodo.com/pornhub-wants-your-money-to-make-a-porno-in-space-1710530225?utm_campaign=socialflow_gizmodo_facebook&amp;utm_source=gizmodo_facebook&amp;utm_medium=socialflow" target="_blank">a crowdfunding campaign on IndieGogo to raise money to shoot a sex tape in space</a>. The campaign is looking for $3.4 million in funding which takes into account chartering the flight, insurance, crew, equipment, as well as backer perks. PornHub has not specified who exactly they plan to fly with or the exact date they plan to film on. They do, however, have the actors picked out.</p>
+<h3>Facebook payments</h3>
+<p>And here&rsquo;s a story we apparently overlooked back in March that recently came to our attention. You can send your friends on Facebook money through Facebook messenger. If you have a debit card on file with Facebook (perhaps you have bought an ad or a dumb game), when you message someone on the Facebook messenger either the app or on the desktop website, you&rsquo;ll see a dollar sign with a circle around it. Click that button and you can send your friends money. Right now it doesn&rsquo;t cost anything to send or receive money via Facebook Messenger. Fortunately, you can set a PIN code for payments so that when you accidently leave your Facebook profile logged in and your friend or girlfriend &ldquo;hacks&rdquo; you, he or she won&rsquo;t be able to transfer all of your money to a new account.</p>
+<h3>Reddit bans FatPeople Hate subreddit, throws angry redditors into an uproar</h3>
+<p>Reddit, which bills itself as ?the front page of the internet?, and is of course where post the news stories we are working on for this podcast, <a href="http://www.vox.com/2015/6/11/8767035/fatpeoplehate-reddit-ban">saw some major drama this week</a>. Reddit has long had a policy of allowing people to create subreddits around virtually any topic they want, even when those topics are awful. There are subreddits devoted to racism, bigotry, and all kinds of vile stuff. Reddit generally leaves them alone, unless they start crossing certain lines.</p>
+<p>This week, apparently, lines were crossed. Reddit banned five subreddits, the largest of which was one called FatPeopleHate, which boasted over 150,000 subscribers. At the risk of editorializing, FatPeopleHate was actually even worse than it sounded, as redditors there had linked to the Twitter feeds, YouTube channels and personal information of real people, allowing other redditors to pour abuse, bile and mockery on them. FatPeopleHate had also become very popular and was regularly voting threads to the top of reddit?s /r/all, the ?front page? of the internet?s front page.</p>
+<p>Reddit said that FatPeopleHate and the other four subreddits had crossed the line by getting involved in harassment instead of just being about ideas. This did not go down well with a very vocal part of reddit?s userbase, who begin creating a flood of alternate subreddits like FatPeopleHate2 and FatterPeopleHate and filling up unrelated subreddits with angry posts about reddit CEO Ellen Pao.</p>
+<p>This is not the first time reddit has had problems moderating its own users. There was similar outrage when it tried to crackdown on users posting images from the nude celebrity leaks last year and before that when it attempted to purge subreddits dedicated to ?creepshots?, where men shared sexualized pictures taken of women without their consent.</p>
+<p>The problem for reddit is that it doesn?t even require an email address to sign up for the service, and creating a new subreddit is the work of a moment, thus creating a situation that is very difficult to moderate.</p>
+<p>&mdash;</p>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#87 The Episode Where We Don't Talk About Soylent Because There's Too Much News" data-link="/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#87 The Episode Where We Don't Talk About Soylent Because There's Too Much News" data-link="/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/06/87-the-episode-where-we-dont-talk-about-soylent-because-theres-too-much-news/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/06/DeemableTech_2015-06-12_3.mp3" length="45129023" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#77 The Title Of This Episode Is A GIF</title>
+		<link>/2015/03/77-the-title-of-this-episode-is-a-gif/</link>
+		<comments>/2015/03/77-the-title-of-this-episode-is-a-gif/#comments</comments>
+		<pubDate>Sat, 28 Mar 2015 20:06:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cogito]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[Facial Recognition Software]]></category>
+		<category><![CDATA[GIFs]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[RadioShack]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<category><![CDATA[Target]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[TigerDirect]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9865</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/03/chair_spin_still-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="chair_spin_still" style="float:left; margin:0 15px 15px 0;" />This week the guys geek out over Tesla adding an autopilot feature to their electric cars, mourn the death of TigerDirect retail stores, and wonder if they can follow in Google&#8217;s footsteps and communicate purely through GIFs. Plus, Ray shares <a href="/2015/03/77-the-title-of-this-episode-is-a-gif/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/03/77-the-title-of-this-episode-is-a-gif/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/03/chair_spin_still-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="chair_spin_still" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div style="width: 409px" class="wp-caption aligncenter"><img class="" src="http://i.imgur.com/u43u8TL.gif" alt="The Deemable Tech guys spinning in their chairs." width="399" height="366"><p class="wp-caption-text">If Google can do it, we can too! The title of this episode is this GIF.</p></div>
+<p>This week the guys geek out over Tesla adding an autopilot feature to their electric cars, mourn the death of TigerDirect retail stores, and wonder if they can follow in Google&rsquo;s footsteps and communicate purely through GIFs. Plus, Ray shares his thoughts on the Cogito smartwatch.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>If you haven&rsquo;t <a title="Subscribe to Deemable Tech" href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/ca/podcast/deemable-tech-wjct/id540595466?mt=2" target="_blank" rel="external nofollow">subscribed to Deemable Tech</a> yet, get on it! Subscribe to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">Deemable Tech&nbsp;in iTunes</a>,&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a> or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader</a>. Make sure to leave us a review in iTunes and Stitcher. The more reviews we have the higher we&rsquo;ll be listed, and the more listeners will see our show.</p>
+<p>And make sure to&nbsp;share us on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there.</p>
+<audio class="wp-audio-shortcode" id="audio-9865-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/03/deemabletech_2015_03_27.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/03/deemabletech_2015_03_27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/03/deemabletech_2015_03_27.mp3</a></audio><h2>This Week&rsquo;s Run Down</h2>
+<h3>Tesla Announces Software Update for Cars Which Adds &ldquo;Autopilot&rdquo; Feature</h3>
+<p>Tesla CEO Elon Musk held a press conference this week at which he announced that late model <a href="http://www.informationweek.com/it-life/tesla-model-s-autopilot-coming-soon-elon-musk-claims-/d/d-id/1319564" target="_blank">Teslas will be getting a software update that will give them a new feature called &lsquo;autopilot</a>.&rsquo; The autopilot feature will bring ordinary Tesla electric cars that much closer to being self-driving, enabling them to stay in their lane on a well-marked highway without driver intervention. Musk claimed that the autopilot technology would enable to a driver to make it from San Francisco to Seattle without steering.</p>
+<p>Musk also announced a feature called Range Assurance which will alert Tesla drivers when the charge in their car is getting too low to make it to the nearest charging station.</p>
+<h3>$10 Million Target Credit Card Data Breach Settlement Gets Preliminary Approval</h3>
+<p>You probably remember the massive data breach that hit Target during the 2013 holiday season where tens of millions of credit cards were stolen right out of their systems. A class action lawsuit was filed and now Target is preparing to settle? for $10 million dollars.</p>
+<p>If that amount seems low to you, it is because Target is not going to do the usual thing and send five dollars to every customer whose card number was stolen. Instead, card holders can only be reimbursed if they can show that they were actually hurt by the data breach. They need to have had fraudulent charges placed on their card that they were not reimbursed for, that negatively affected their credit score, or show that they spent a lot of time and money resolving the problem, or that it harmed them in some other way.</p>
+<p>The proposed settlement is only preliminary, and members of the class action suit have until November 10th to object.</p>
+<h3>RadioShack Puts Customer Data Up for Sale in Bankruptcy Auction</h3>
+<p>RadioShack is on the auction block this week as its creditors attempt to sell the company?s assets &ndash; this apparently includes <a href="http://www.pcworld.com/article/2901028/radioshack-puts-customers-personal-data-up-for-sale-in-bankruptcy-auction.html" target="_blank">a large chunk of customer data, including 65 million customer names and physical addresses and 13 million email addresses</a>. Consumer advocates are concerned, and Texas Attorney General Ken Paxton claims it may be illegal under state law. Texas does not allow companies to violate their own privacy policies and signage in RadioShack promises that they will not sell their private mailing list.</p>
+<p>AT&amp;T is also opposing the sale of data because they say RadioShack is not entitled to personal information it collects from wireless sales. AT&amp;T wants the data destroyed to keep it from falling into competitors hands.</p>
+<p>A bankruptcy court still has to approve the deal.</p>
+<h3>TigerDirect Closing Retail Stores</h3>
+<p>Speaking of defunct electronic stores, remember Circuit City&hellip; CompUSA&hellip; Ultimate Electronics? Well, TigerDirect bought them in the late aughts. Well, now <a href="http://jacksonville.com/business/2015-03-24/story/2-tigerdirect-electronics-stores-jacksonville-close" target="_blank">TigerDirect is joining them</a> in the electronic retail store afterlife. <a href="http://www.foxbusiness.com/markets/2015/03/03/brothers-guilty-fraud-at-systemax-computer-company-sent-to-federal-prison-by/" target="_blank">Two of the former executives for TigerDirect were recently sentenced to 60 and 80 months in jail</a> for a kickback scheme that cost the company $27 million. Apparently that hurt the company enough that the company decided to close all by two retail stores.</p>
+<p>It makes me sad because TigerDirect was a &ldquo;dot com boom&rdquo; success story. They actually started as a catalog company, but transitioned into internet sales early. When all of the retail computer stores started dying, TigerDirect was holding strong, and they bought up the stores and their IP and entered the retail market. They did a fantastic job of turning stores like CompUSA and Circuit City, which were known for fancy displays and overpriced electronics, into stores with smart employees, simple displays and prices that competed with the Internet.</p>
+<p>TigerDirect is going to continue selling computers, electronics and computer components on its website.</p>
+<p>No word yet if NewEgg is planning on buying its stores, but that would be the perfect irony.</p>
+<h3>Facial Recognition Software Leads To Arrest of Jacksonville Man Who Faked His Own Death</h3>
+<p>Another thing the internet has ruined: <a href="http://arstechnica.com/tech-policy/2015/03/florida-man-initially-thought-dead-arrested-after-facial-recognition-match/" target="_blank">faking your own death</a>. <a href="http://jacksonville.com/news/metro/2015-03-23/story/facial-recognition-software-led-feds-jacksonville-businessman-once" target="_blank">Jacksonville businessman Jose Lantigua had been reported dead in Venezuela two years ago</a>. But when he attempted to apply for a new passport under his new, false identity <a href="http://jacksonville.com/news/metro/2015-03-23/story/facial-recognition-software-led-feds-jacksonville-businessman-once" target="_blank">the US State Department used facial recognition software to match him</a> to his original identity in their database. Federal agents then set up a sting operation and caught him wearing a brown toupee and ?a poorly dyed beard.?</p>
+<p>Lantigua is wanted on numerous counts of insurance fraud, since his family attempted to collect on his life insurance policy after his death. The insurance company has long viewed this with suspicion.</p>
+<h3>Google Responds to Reporter with GIF Instead of &ldquo;No Comment&rdquo;</h3>
+<p>This week, Daily Dot writer Richard Lewis published a story about <a href="http://www.dailydot.com/esports/youtube-google-esports-livestreaming/" target="_blank">YouTube reportedly planning to relaunch its livestreaming platform with a focus on computer gaming and esports</a>. This is similar to Twitch, which Google tried to buy last year before it ended up being purchased by Amazon.</p>
+<p>Lewis reached out to Google for a comment on the reports, and they apparently responded with something only Google could get away with. Instead of the usual &ldquo;no comment,&rdquo; the representative sent Lewis this animated GIF of a little girl shrugging. No text, just the GIF.</p>
+<p><img class="aligncenter" src="http://replygif.net/i/855.gif" alt="An animated GIF of a girl shrugging her shoulders." width="500" height="228"></p>
+<p>Lewis at first assumed that this was a joke, and said that he received a &ldquo;no comment&rdquo; response from Google in his story. The same representative sent another message saying that the GIF was, in fact, their official response.</p>
+<h2>Reviews</h2>
+<p>Ray shares his thoughts on the <a href="http://cogitowatch.com/" target="_blank">Cogito swartwatch</a> this week.</p>
+<p>&mdash;-</p>
+<p>If you have a comment, contact us at feedback at deemable.com or leave us a voicemail at 1-888-972-9868.</p>
+<p>Help us decide what stories we talk about on the show, go to our subreddit page and submit a story. Or vote other stories up or down. <a title="Deemable Tech on Reddit" href="http://reddit.com/r/Deemable" target="_blank">reddit.com/r/Deemable</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#77 The Title Of This Episode Is A GIF" data-link="/2015/03/77-the-title-of-this-episode-is-a-gif/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#77 The Title Of This Episode Is A GIF" data-link="/2015/03/77-the-title-of-this-episode-is-a-gif/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/77-the-title-of-this-episode-is-a-gif/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/03/deemabletech_2015_03_27.mp3" length="45516833" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#68 Sean Wears Two Neckties</title>
+		<link>/2015/01/68-sean-wears-two-neckties/</link>
+		<comments>/2015/01/68-sean-wears-two-neckties/#comments</comments>
+		<pubDate>Tue, 20 Jan 2015 12:26:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[App reviews]]></category>
+		<category><![CDATA[Back To The Future]]></category>
+		<category><![CDATA[Cogi]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[Graze]]></category>
+		<category><![CDATA[LoopPay]]></category>
+		<category><![CDATA[Nerd Block]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Subscription Boxes]]></category>
+		<category><![CDATA[Tunity]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9536</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/01/bttf2_neckties-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Now that it&#039;s 2015, everybody&#039;s wearing multiple neckties! Image credit: Universal Pictures" style="float:left; margin:0 15px 15px 0;" />In this episode of the Deemable Tech podcast, Ray, Tom and producer Sean are back for more tech chatter. First, they help a listener looking for a good way to organize and filter her email inbox. Then it&#8217;s time for <a href="/2015/01/68-sean-wears-two-neckties/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/01/68-sean-wears-two-neckties/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/01/bttf2_neckties-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Now that it&#039;s 2015, everybody&#039;s wearing multiple neckties! Image credit: Universal Pictures" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9539" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/01/bttf2_neckties.jpg" class="gallery_colorbox"><img class="wp-image-9539 size-medium" src="//media/2015/01/bttf2_neckties-300x225.jpg"  alt="Now that it's 2015, everybody's wearing multiple neckties! Image credit: Universal Pictures" width="300" height="225"></a><p class="wp-caption-text">Back to the Future Part II got it right! Now that it&rsquo;s 2015, everybody&rsquo;s wearing multiple neckties. Image credit: Universal Pictures</p></div>
+<p>In this episode of the Deemable Tech podcast, Ray, Tom and producer Sean are back for more tech chatter. First, they help a listener looking for a good way to organize and filter her email inbox.<span id="more-9536"></span></p>
+<p>Then it&rsquo;s time for a few reviews! Sean continues his series of subscription box reviews with the healthy snacking service <a href="https://www.graze.com/" target="_blank">Graze</a> and the &ldquo;Comic Con in a box&rdquo; fun of <a href="https://nerdblock.com/" target="_blank">Nerd Block</a>. Ray reviews the <a href="http://www.looppay.com/" target="_blank">LoopPay</a> mobile wallet and smartphone accessory, as well as <a href="http://www.tunityapp.com/" target="_blank">Tunity</a>, an app that allows you stream audio from a muted TV on your device. And Tom shares his experience with the voice recorder and note-taking app <a href="https://cogi.com/" target="_blank">Cogi</a>.</p>
+<p>If you haven&rsquo;t already done so, please leave a review of the Deemable Tech podcast in iTunes. As more of you review the show, the higher it&rsquo;s listed in iTunes, allowing new listeners to more easily discover us. And don&rsquo;t forget to sign up for our newsletter where we deliver these podcast episodes and our radio segments straight to your inbox each week.</p>
+<audio class="wp-audio-shortcode" id="audio-9536-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2015-01-19.mp3?_=5"></source><a href="http://deemable.com/audio/DeemableTech_2015-01-19.mp3">http://deemable.com/audio/DeemableTech_2015-01-19.mp3</a></audio><p><strong>Download:</strong> <a href="http://deemable.com/audio/DeemableTech_2015-01-19.mp3">#68 Sean Wears Two Neckties</a></p>
+<p><span style="text-decoration: underline;"><strong>Links mentioned in this episode</strong></span></p>
+<ul><li><a href="https://unroll.me/" target="_blank">Unroll.me</a></li>
+<li><a href="https://mailstrom.co/" target="_blank">Mailstrom</a></li>
+<li><a href="https://www.graze.com/" target="_blank">Graze</a></li>
+<li><a href="https://nerdblock.com/" target="_blank">Nerd Block</a></li>
+<li><a href="http://www.looppay.com/" target="_blank">LoopPay</a></li>
+<li><a href="http://www.tunityapp.com/" target="_blank">Tunity</a></li>
+<li><a href="https://cogi.com/" target="_blank">Cogi</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#68 Sean Wears Two Neckties" data-link="/2015/01/68-sean-wears-two-neckties/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#68 Sean Wears Two Neckties" data-link="/2015/01/68-sean-wears-two-neckties/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/68-sean-wears-two-neckties/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2015-01-19.mp3" length="54515101" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#67 Cordless Phones Stump Us</title>
+		<link>/2014/11/67-cordless-phones-stump-us/</link>
+		<comments>/2014/11/67-cordless-phones-stump-us/#comments</comments>
+		<pubDate>Tue, 18 Nov 2014 19:33:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Cordless Phones]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9375</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/11/cordless_phone_question-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Original image credit: darranl / Flickr" style="float:left; margin:0 15px 15px 0;" />In this episode of the Deemable Tech podcast, Ray, Tom and producer Sean answer more of your burning tech questions. The guys take on a mysterious beeping cordless phone, discuss giving permissions to the Facebook app, and help a listener <a href="/2014/11/67-cordless-phones-stump-us/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/11/67-cordless-phones-stump-us/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/11/cordless_phone_question-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Original image credit: darranl / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9386" style="width: 278px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/11/cordless_phone_question.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9386" src="//media/2014/11/cordless_phone_question-268x300.jpg"  alt="Original image credit: darranl / Flickr" width="268" height="300"></a><p class="wp-caption-text">Original image credit: darranl / Flickr</p></div>
+<p>In this episode of the Deemable Tech podcast, Ray, Tom and producer Sean answer more of your burning tech questions. The guys take on a mysterious beeping cordless phone, discuss giving permissions to the Facebook app, and help a listener with a broken webcam.<span id="more-9375"></span></p>
+<p>Then it&rsquo;s time for everyone&rsquo;s favorite podcast game, DOES NOT COMPUTE! Tom quizzes Ray and Sean about obscure facts in this game where it&rsquo;s more about the conversation than the answers and the points don&rsquo;t matter. How did you do on all of these questions? Send us an email to <a href="mailto:feedback@deemable.com">feedback@deemable.com</a>&nbsp;and let us know.</p>
+<p>And, if you haven&rsquo;t already done so, please leave a review of the Deemable Tech podcast in iTunes. As more of you review the show, the higher it&rsquo;s listed in iTunes, allowing new listeners to more easily discover us. And don&rsquo;t forget to sign up for our newsletter where we deliver these podcast episodes and our radio segments straight to your inbox each week.</p>
+<audio class="wp-audio-shortcode" id="audio-9375-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-11-17.mp3?_=6"></source><a href="http://deemable.com/audio/DeemableTech_2014-11-17.mp3">http://deemable.com/audio/DeemableTech_2014-11-17.mp3</a></audio><p><strong>Download:&nbsp;</strong><a href="http://deemable.com/audio/DeemableTech_2014-11-17.mp3">#67 Cordless Phones Stump Us</a></p>
+<p><strong><span style="text-decoration: underline;">Links Mentioned in this Episode</span></strong></p>
+<ul><li><a href="http://shop.panasonic.com/ecom/support/contact-us">Panasonic Product Support</a></li>
+<li>Panasonic Tech Support Line: 1-800-221-7262</li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#67 Cordless Phones Stump Us" data-link="/2014/11/67-cordless-phones-stump-us/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#67 Cordless Phones Stump Us" data-link="/2014/11/67-cordless-phones-stump-us/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/11/67-cordless-phones-stump-us/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-11-17.mp3" length="40137812" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#66 Ixnay on the Apple Pay</title>
+		<link>/2014/10/66-ixnay-apple-pay/</link>
+		<comments>/2014/10/66-ixnay-apple-pay/#comments</comments>
+		<pubDate>Wed, 29 Oct 2014 19:46:51 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple Pay]]></category>
+		<category><![CDATA[Dollar Shave Club]]></category>
+		<category><![CDATA[HDTVs]]></category>
+		<category><![CDATA[Moto X]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Subscription Boxes]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9339</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/apple_pay-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Apple" style="float:left; margin:0 15px 15px 0;" />Ray, Tom and producer Sean are back in this episode of the Deemable Tech podcast. The guys answer several of your questions about TVs, including how to present slideshows from your computer on your HDTV, using your TV as a <a href="/2014/10/66-ixnay-apple-pay/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/66-ixnay-apple-pay/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/apple_pay-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Apple" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9340" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/apple_pay.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9340" src="//media/2014/10/apple_pay-300x172.jpg"  alt="Image credit: Apple" width="300" height="172"></a><p class="wp-caption-text">Image credit: Apple</p></div>
+<p>Ray, Tom and producer Sean are back in this episode of the Deemable Tech podcast. The guys answer several of your questions about TVs, including how to present slideshows from your computer on your HDTV, using your TV as a hub for all of your devices, and recording shows off of your broadcast antennae.<span id="more-9339"></span></p>
+<p>Then it&rsquo;s time for a couple of reviews! Sean continues his subscription box series with a review of <strong><a href="http://www.dollarshaveclub.com/" target="_blank">Dollar Shave Club</a></strong>, while Tom takes a look at the new Moto X Android smartphone.</p>
+<p>If all of that wasn&rsquo;t enough, the guys also discuss some of the biggest tech news of the week, including reports that CVS and Rite Aid are pulling support for Apple Pay by removing NFC payments all together from their stores.</p>
+<audio class="wp-audio-shortcode" id="audio-9339-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-10-27.mp3?_=7"></source><a href="http://deemable.com/audio/DeemableTech_2014-10-27.mp3">http://deemable.com/audio/DeemableTech_2014-10-27.mp3</a></audio><p><strong>Download: </strong><a href="http://deemable.com/audio/DeemableTech_2014-10-27.mp3">#66 Ixnay on the Apple Pay</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#66 Ixnay on the Apple Pay" data-link="/2014/10/66-ixnay-apple-pay/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#66 Ixnay on the Apple Pay" data-link="/2014/10/66-ixnay-apple-pay/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/66-ixnay-apple-pay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-10-27.mp3" length="57438758" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#65 Shootin&#8217; from the Hip</title>
+		<link>/2014/08/65-shootin-hip/</link>
+		<comments>/2014/08/65-shootin-hip/#comments</comments>
+		<pubDate>Fri, 29 Aug 2014 01:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[Windows 7]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9144</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_crew-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_crew" style="float:left; margin:0 15px 15px 0;" />On this edition of the Deemable Tech podcast, Ray and Tom have off-the-cuff answers for&#160;your questions about Windows 7 service packs, spam and our very own Deemable Tech app. The guys also share their thoughts on the ALS Ice Bucket <a href="/2014/08/65-shootin-hip/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/65-shootin-hip/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_crew-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_crew" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9152" style="width: 498px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2014/08/dt_crew.jpg" class="gallery_colorbox"><img class="wp-image-9152" src="//media/2014/08/dt_crew-1024x642.jpg"  alt="dt_crew" width="488" height="306"></a><p class="wp-caption-text">Image credit: Stephen Jones / WJCT</p></div>
+<p>On this edition of the Deemable Tech podcast, Ray and Tom have off-the-cuff answers for&nbsp;your questions about Windows 7 service packs, spam and our very own Deemable Tech app. The guys also share their thoughts on the ALS Ice Bucket Challenge currently making waves on social media, and discuss other recent tech news. Plus, Sean stops by with a preview of a new occasional series of reviews.<span id="more-9144"></span></p>
+<audio class="wp-audio-shortcode" id="audio-9144-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-08-25.mp3?_=8"></source><a href="http://deemable.com/audio/DeemableTech_2014-08-25.mp3">http://deemable.com/audio/DeemableTech_2014-08-25.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-08-25.mp3">#65 Shootin&rsquo; from the Hip</a></p>
+<p>We&rsquo;re currently working on our next&nbsp;hour-long public radio special, and we want you to be a part of it! Call us with your tech questions at 1-888-972-9868, or send an email to <a href="mailto:questions@deemable.com">questions@deemable.com</a>. And if you&rsquo;ve seen a story on social media that just seems too crazy to be true, send it to <a href="mailto:debunkable@deemable.com">debunkable@deemable.com</a> and we&rsquo;ll uncover the truth.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#65 Shootin' from the Hip" data-link="/2014/08/65-shootin-hip/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#65 Shootin' from the Hip" data-link="/2014/08/65-shootin-hip/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/65-shootin-hip/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-08-25.mp3" length="46046194" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#64 Bacn and Potato Salad</title>
+		<link>/2014/08/64-bacn-potato-salad/</link>
+		<comments>/2014/08/64-bacn-potato-salad/#comments</comments>
+		<pubDate>Wed, 06 Aug 2014 18:33:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[bacn]]></category>
+		<category><![CDATA[DAW]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[flash memory]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Kickstarter]]></category>
+		<category><![CDATA[OkCupid]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spam email]]></category>
+		<category><![CDATA[Video editing]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Yelp]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9089</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/potato_salad_kickstarter-150x150.png" class="attachment-thumbnail wp-post-image" alt="potato_salad_kickstarter" style="float:left; margin:0 15px 15px 0;" />On this episode of the Deemable Tech podcast, Ray and Tom answer more of your questions about unwanted emails, transferring your copy of Windows to a friend and more. The guys are also&#160;once again joined by producer Sean Birch to <a href="/2014/08/64-bacn-potato-salad/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/64-bacn-potato-salad/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/potato_salad_kickstarter-150x150.png" class="attachment-thumbnail wp-post-image" alt="potato_salad_kickstarter" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this episode of the Deemable Tech podcast, Ray and Tom answer more of your questions about unwanted emails, transferring your copy of Windows to a friend and more.</p>
+<p>The guys are also&nbsp;once again joined by producer Sean Birch to discuss some interesting news from the tech world, including the Kickstarter project that raised almost $60,000 to make a batch of potato salad, and a hotel that threatened to fine customers who left negative Yelp reviews.<span id="more-9089"></span><a href="http://deemable.com/media/2014/08/potato_salad_kickstarter.png" class="gallery_colorbox"><img class="aligncenter wp-image-9090" src="//media/2014/08/potato_salad_kickstarter.png"  alt="potato_salad_kickstarter" width="500" height="376"></a></p>
+<audio class="wp-audio-shortcode" id="audio-9089-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-08-05.mp3?_=9"></source><a href="http://deemable.com/audio/DeemableTech_2014-08-05.mp3">http://deemable.com/audio/DeemableTech_2014-08-05.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-08-05.mp3">#64 Bacn and Potato Salad</a></p>
+<p><span style="text-decoration: underline;"><strong>Links mentioned in this episode:</strong></span></p>
+<p><a href="http://lifehacker.com/5713914/how-to-wipe-out-spam-email-in-your-inbox">Lifehacker: How to Wipe Spam Email in Your Inbox</a></p>
+<p><a href="http://support.apple.com/kb/HT1414">Use iTunes to Your iOS Device to Factor Settings</a></p>
+<p><a href="http://support.apple.com/kb/HT1808">Restoring Your iOS Device Using Recovery Mode</a></p>
+<p><a href="https://www.kickstarter.com/blog/potato-salad-by-the-numbers?ref=HappeningNewsletterAug0514">Potato Salad Kickstarter &ndash; By the Numbers</a></p>
+<p><a href="http://arstechnica.com/tech-policy/2014/08/amid-backlash-hotel-rescinds-500-fines-for-negative-online-reviews/">Hotel Adds Negative Online Review Fine Clause to Terms of Service</a></p>
+<p><a href="http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/">Facebook Mood Experiment</a></p>
+<p><a href="http://blog.okcupid.com/index.php/we-experiment-on-human-beings/">OkCupid Experiment</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/64-bacn-potato-salad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-08-05.mp3" length="64214236" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#63 Spaceteam!</title>
+		<link>/2014/07/63-spaceteam/</link>
+		<comments>/2014/07/63-spaceteam/#comments</comments>
+		<pubDate>Wed, 16 Jul 2014 20:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mobile Games]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[RAID]]></category>
+		<category><![CDATA[Spaceteam]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9030</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/spaceteam_group-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="In-app screenshots from Spaceteam!
+
+Image credits: Sleeping Beast Games" style="float:left; margin:0 15px 15px 0;" />On this episode of the Deemable Tech podcast, Tom and Ray answer your questions about downloading pictures off of iPhones, donating old computers and setting up RAID systems with your hard drives. Then the guys are joined by producer Sean <a href="/2014/07/63-spaceteam/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/63-spaceteam/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/spaceteam_group-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="In-app screenshots from Spaceteam!
+
+Image credits: Sleeping Beast Games" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this episode of the Deemable Tech podcast, Tom and Ray answer your questions about downloading pictures off of iPhones, donating old computers and setting up RAID systems with your hard drives.</p>
+<p>Then the guys are joined by producer Sean Birch to attempt the impossible: playing a mobile game on a podcast! The three of them suit up to test out the party game <a href="http://www.sleepingbeastgames.com/spaceteam/">Spaceteam</a>. If you like technobabble and yelling, you&rsquo;ll enjoy this episode!<span id="more-9030"></span></p>
+<div id="attachment_9042" style="width: 669px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2014/07/spaceteam_group.jpg" class="gallery_colorbox"><img class="wp-image-9042 size-large" src="//media/2014/07/spaceteam_group-1024x561.jpg"  alt="In-app screenshots from Spaceteam! Image credits: Sleeping Beast Games" width="659" height="361"></a><p class="wp-caption-text">In-app screenshots from Spaceteam!<br> Image credits: Sleeping Beast Games</p></div>
+<audio class="wp-audio-shortcode" id="audio-9030-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-07-15.mp3?_=10"></source><a href="http://deemable.com/audio/DeemableTech_2014-07-15.mp3">http://deemable.com/audio/DeemableTech_2014-07-15.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-07-15.mp3">#63 Spaceteam!</a></p>
+<p><span style="text-decoration: underline;"><strong>Links mentioned in this episode:</strong></span></p>
+<ul><li><a href="http://support.apple.com/kb/HT1342">Using Your Mac&rsquo;s Activity Monitor</a></li>
+<li><a href="http://www.thexlab.com/faqs/sbbod.html">What To Do When You See The &ldquo;Spinning Beach Ball Of Death&rdquo;</a></li>
+<li><a href="http://support.apple.com/kb/ht5189">What To Do Before You Sell Or Give Way Your Mac</a></li>
+<li><a href="http://www.pcworld.com/article/132877/RAID.html">How To Set Up RAID On Your PC</a></li>
+<li><a href="http://www.howtogeek.com/howto/36504/how-to-create-a-software-raid-array-in-windows-7/">Creating A Software RAID Array In Windows 7</a></li>
+<li><a href="http://www.sleepingbeastgames.com/spaceteam/">Spaceteam</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#63 Spaceteam!" data-link="/2014/07/63-spaceteam/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#63 Spaceteam!" data-link="/2014/07/63-spaceteam/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/63-spaceteam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-07-15.mp3" length="35317983" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Karen asks, &#8220;How do I start a podcast?&#8221;</title>
+		<link>/2014/06/karen-asks-start-podcast/</link>
+		<comments>/2014/06/karen-asks-start-podcast/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8937</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/WhatIsAPodcast-150x150.png" class="attachment-thumbnail wp-post-image" alt="What Is A Podcast?" style="float:left; margin:0 15px 15px 0;" />Q:&#160;I&#8217;m a writer and working on a new blog, where I&#8217;ll post a new article every week. A friend suggested that I do a weekly podcast, too. How do I do that? What kind of equipment do I need, and <a href="/2014/06/karen-asks-start-podcast/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/karen-asks-start-podcast/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/WhatIsAPodcast-150x150.png" class="attachment-thumbnail wp-post-image" alt="What Is A Podcast?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><b>Q:&nbsp;</b>I&rsquo;m a writer and working on a new blog, where I&rsquo;ll post a new article every week. A friend suggested that I do a weekly podcast, too. How do I do that? What kind of equipment do I need, and how do I market my podcast?</p>
+<p>I&rsquo;m not very good at tech terms, so when I looked up this question on the web it just confused me. Is there someone who can walk me through the process and give me a better understanding about podcasts, and blogging in general? I have a &ldquo;computer guy&rdquo; but he doesn&rsquo;t know anything about podcasts.<span id="more-8937"></span></p>
+<p><a href="http://deemable.com/media/2012/11/WhatIsAPodcast.png" class="gallery_colorbox"><img class="alignright wp-image-6298" src="//media/2012/11/WhatIsAPodcast.png"  alt="What Is A Podcast?" width="280" height="280"></a><strong>A:</strong>&nbsp;Great question, Karen. Here at Deemable Tech we are actually able to record in a professional studio, but that&rsquo;s not an option for most people. However, you can still record a great podcast right in your own home.</p>
+<p>At the bare minimum, you need a computer and a good microphone. If you have nothing but that, you can start recording a podcast. It doesn&rsquo;t matter if it&rsquo;s a Windows or a Mac, both have plenty of software available to do the job. Macs, however,&nbsp;come with the software you need built-in. And, those software programs are a bit easier to use that their PC counterparts.</p>
+<p>The kind of microphone you should get&nbsp;depends a lot on your budget, and the amount of time you want to invest in learning about sound production. On the simple end of things, you can get a microphone that plugs into the USB port of your computer for anywhere from 50 to 200 hundred dollars. Most of the major microphone manufacturers make a USB model.</p>
+<p>The Audio-Technica AT2020 is one we like, and we&rsquo;ve always had a soft-spot for&nbsp;the Blue Microphone Yeti.</p>
+<p>Once you have a good mic, the next step is&nbsp;to record your&nbsp;podcast. You&rsquo;ll&nbsp;need some software to do that. As&nbsp;we&nbsp;mentioned before, on the Mac there is a built-in program to do the job &ndash; it?s called GarageBand. You can also download a free program called Audacity for Windows <em>or</em> Mac. It&nbsp;does a great job recording, and it is pretty easy to use it to edit your recordings.</p>
+<p>Once you have your podcast recorded, you are ready to take the big step of putting it out on the internet.</p>
+<p>Now, here&rsquo;s where it can get nerdy. You&rsquo;ll need to either setup a website that can host an RSS feed, or you&rsquo;ll have to use a service to publish your podcast for you. If your blog is a WordPress site, you can just create a new category named podcast, and then you&rsquo;ll publish all of your podcast episodes in the podcast category. WordPress creates an RSS feed for you, which is the technical term for what a podcast really is. If that sounds too complicated for you, there are services that will set it up for you. One good one is called BuzzSprout. You have to pay for BuzzSprout in addition to your website hosting, but it gets the job done, and it&rsquo;s really easy to set up.</p>
+<p>Once you get it published, then you need to advertise it. The best way to advertise it is to get it listed in podcast directories, like the big one,&nbsp;iTunes. It doesn&rsquo;t cost anything to be listed in iTunes, but you practically <em>have</em> to be listedthere if you are ever going to be heard. More people listen to podcasts listed on iTunes than anywhere else. But there are other great podcast services like Stitcher and Slacker Radio as well. List your podcast in as many places as possible.</p>
+<p>Hopefully that will get you pointed in the right direction, Karen.&nbsp;Another great resource to getting a podcast started is, ironically, a podcast.&nbsp;Download the Podcast app for iPhone or iPod or just open iTunes and search for Podcasting for Dummies. This is the companion podcast for the book Podcasting for Dummies. There&rsquo;s a lot of great information in the podcast, and it&rsquo;s completely free.</p>
+<p>Check that out and you&rsquo;ll be on your way to internet stardom in no time.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Karen asks, "How do I start a podcast?"' data-link="/2014/06/karen-asks-start-podcast/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Karen asks, "How do I start a podcast?"' data-link="/2014/06/karen-asks-start-podcast/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/karen-asks-start-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>#62 This Is How Deemable Tech Does It</title>
+		<link>/2014/05/62-deemable-tech/</link>
+		<comments>/2014/05/62-deemable-tech/#comments</comments>
+		<pubDate>Thu, 29 May 2014 18:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8835</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/DeemableTechAppIconHiRes-e1375846764896-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech" style="float:left; margin:0 15px 15px 0;" />In this episode of the Deemable Tech podcast, Ray and Tom answer your questions about controlling your Apple TV with your Mac, keeping your emails up-to-date across multiple devices, managing your iTunes music library and more! If you&#8217;re looking to <a href="/2014/05/62-deemable-tech/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/05/62-deemable-tech/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/DeemableTechAppIconHiRes-e1375846764896-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/08/DeemableTechAppIconHiRes-e1375846764896.jpg" class="gallery_colorbox"><img class="alignright wp-image-7824" src="//media/2013/08/DeemableTechAppIconHiRes-e1375846764896-300x300.jpg"  alt="Deemable Tech" width="200" height="200"></a>In this episode of the Deemable Tech podcast, Ray and Tom answer your questions about controlling your Apple TV with your Mac, keeping your emails up-to-date across multiple devices, managing your iTunes music library and more!<span id="more-8835"></span></p>
+<p>If you&rsquo;re looking to buy a new laptop, the guys also take a little time to discuss a few of the best laptops according to&nbsp;<a href="http://www.laptopmag.com/best-laptops.aspx"><em>Laptop Magazine</em></a> and&nbsp;<a href="http://www.pcmag.com/article2/0,2817,2369981,00.asp"><em>PC Magazine</em></a>.</p>
+<p>We&rsquo;re currently working on our second hour-long public radio special, and we want you to be a part of it! Leave us a voicemail with your tech question at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<p><audio class="wp-audio-shortcode" id="audio-8835-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-05-27.mp3?_=11"></source><a href="http://deemable.com/audio/DeemableTech_2014-05-27.mp3">http://deemable.com/audio/DeemableTech_2014-05-27.mp3</a></audio><br><a href="http://deemable.com/audio/DeemableTech_2014-05-27.mp3">#62 This Is How Deemable Tech Does It</a></p>
+<p><strong>Links mentioned in this episode:</strong></p>
+<ul><li><a href="http://www.laptopmag.com/best-laptops.aspx"><em>Laptop Magazine&rsquo;s</em> Best Laptop Guide</a></li>
+<li><a href="http://www.pcmag.com/article2/0,2817,2369981,00.asp"><em>PC Magazine&rsquo;s</em> Laptop Guide</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#62 This Is How Deemable Tech Does It" data-link="/2014/05/62-deemable-tech/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#62 This Is How Deemable Tech Does It" data-link="/2014/05/62-deemable-tech/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/62-deemable-tech/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-05-27.mp3" length="18189101" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#61 An Explosion of Tech Questions</title>
+		<link>/2014/05/61-explosion-tech-questions/</link>
+		<comments>/2014/05/61-explosion-tech-questions/#comments</comments>
+		<pubDate>Thu, 15 May 2014 20:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Adobe Photoshop]]></category>
+		<category><![CDATA[Android Apps]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Audible]]></category>
+		<category><![CDATA[Downloadable]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[MAC Address]]></category>
+		<category><![CDATA[Microsoft Security Essentials]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Windows DVD Maker]]></category>
+		<category><![CDATA[Windows XP]]></category>
+		<category><![CDATA[XBMC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8801</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/05/weather_doge-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="weather_doge" style="float:left; margin:0 15px 15px 0;" />This week on the Deemable Tech podcast, Ray and Tom answer a ginormous number of your questions about everything from Gmail message threads to iPhone apps that won&#8217;t update. Then the guys take a few minutes to discuss some of <a href="/2014/05/61-explosion-tech-questions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/05/61-explosion-tech-questions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/05/weather_doge-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="weather_doge" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week on the Deemable Tech podcast, Ray and Tom answer a ginormous number of your questions about everything from Gmail message threads to iPhone apps that won&rsquo;t update.</p>
+<p>Then the guys take a few minutes to discuss some of their favorite iOS&nbsp;and Android apps at the moment in our Downloadable segment &ndash; including Tom&rsquo;s current favorite, Doge Weather. Much tech advice. So wow.<span id="more-8801"></span></p>
+<p><a href="http://deemable.com/media/2014/05/weather_doge.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-8802" src="//media/2014/05/weather_doge-576x1024.jpg"  alt="weather_doge" width="394" height="700"></a></p>
+<audio class="wp-audio-shortcode" id="audio-8801-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-05-13.mp3?_=12"></source><a href="http://deemable.com/audio/DeemableTech_2014-05-13.mp3">http://deemable.com/audio/DeemableTech_2014-05-13.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-05-13.mp3">#61 An Explosion of Tech Questions</a></p>
+<p>&nbsp;</p>
+<p><strong>Links mentioned in this episode:</strong></p>
+<ul><li><a href="http://www.avast.com/">Avast! Antivirus</a></li>
+<li><a href="http://www.avg.com/">AVG Antivirus</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/apps-gone-free-best-daily/id470693788?mt=8" target="_blank" rel="external nofollow">Apps Gone Free</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Google Keep</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.launcher">Google Now Launcher</a></li>
+<li>Weather Doge &ndash; <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/doge-weather/id808357406?mt=8" target="_blank" rel="external nofollow">iOS</a> &ndash; <a href="https://play.google.com/store/apps/details?id=com.versobit.weatherdoge">Android</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/magnifier-flash-magnifier/id508627598?mt=8" target="_blank" rel="external nofollow">Magnifier Flash</a></li>
+<li><a href="http://www.baby-connect.com/">Baby Connect</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/moon-current-moon-phase/id660036257?mt=8" target="_blank" rel="external nofollow">MOON &ndash; Current Moon Phase</a></li>
+</ul><hr><p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/61-explosion-tech-questions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-05-13.mp3" length="54198001" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#60 Eye on iOn</title>
+		<link>/2014/04/60-eye-ion/</link>
+		<comments>/2014/04/60-eye-ion/#comments</comments>
+		<pubDate>Mon, 14 Apr 2014 18:27:39 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Avast]]></category>
+		<category><![CDATA[Data Recovery]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[iOn Switching]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[VPN]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8732</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/NoTouchRequired-300x300-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: iOn Switching" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom answer your questions about VPNs (virtual private networks), recovering data from a crashed hard drive, and how you can use Avast! Anti-virus to protect your computer. The guys are then joined by Landon Metcalf from <a href="/2014/04/60-eye-ion/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/60-eye-ion/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/NoTouchRequired-300x300-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: iOn Switching" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8730" style="width: 253px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/04/NoTouchRequired-300x300.jpg" class="gallery_colorbox"><img class=" wp-image-8730  " alt="Image Credit: iOn Switching" src="//media/2014/04/NoTouchRequired-300x300.jpg"  width="243" height="243"></a><p class="wp-caption-text">Image Credit: iOn Switching</p></div>
+<p>This week Ray and Tom answer your questions about VPNs (virtual private networks), recovering data from a crashed hard drive, and how you can use <a href="http://www.avast.com/">Avast! Anti-virus</a> to protect your computer.</p>
+<p>The guys are then joined by Landon Metcalf from <a href="http://ionswitching.com/">iOn Switching</a>, a tech company based here in Jacksonville, FL. They have a fascinating new invention that lets you control your lights and other electrical devices with a wave of your hand or with your smart phone. They&rsquo;re in the middle of a <a href="https://www.kickstarter.com/projects/29929586/ion-like-magic-capacitive-control-for-your-home">Kickstarter campaign</a> right now to bring this product to market. Check out the video below to see them demonstrate it in our studio.</p>
+<p>Then producer Sean Birch joins Ray, Tom and Landon for another round of trivia questions and geeky discussion in this week&rsquo;s Does Not Compute segment.</p>
+<audio class="wp-audio-shortcode" id="audio-8732-13" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-04-07.mp3?_=13"></source><a href="http://deemable.com/audio/DeemableTech_2014-04-07.mp3">http://deemable.com/audio/DeemableTech_2014-04-07.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-04-07.mp3">#60 Eye On iOn</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/qJRaU5eznmE?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#60 Eye on iOn" data-link="/2014/04/60-eye-ion/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#60 Eye on iOn" data-link="/2014/04/60-eye-ion/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/60-eye-ion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-04-07.mp3" length="52978791" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Deemable Tech March 2014 Radio Special</title>
+		<link>/2014/03/deemable-tech-march-2014-radio-special/</link>
+		<comments>/2014/03/deemable-tech-march-2014-radio-special/#comments</comments>
+		<pubDate>Sun, 30 Mar 2014 17:39:18 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Specials]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Facebook legends]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Nagware]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[Windows XP]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8670</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" />In this first of four hour-long public radio specials for 2014, Ray and Tom&#160;hear from listeners experiencing problems with their Kindles, wondering how they can have safe and secure passwords, looking for advice on what kind of tablet they should <a href="/2014/03/deemable-tech-march-2014-radio-special/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/deemable-tech-march-2014-radio-special/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8753" style="width: 304px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/03/dt_ray_tom.jpg" class="gallery_colorbox"><img class=" wp-image-8753  " alt="Image credit: Stephen Jones / WJCT" src="//media/2014/03/dt_ray_tom.jpg"  width="294" height="230"></a><p class="wp-caption-text">Image credit: Stephen Jones / WJCT</p></div>
+<p>In this first of four hour-long public radio specials for 2014, Ray and Tom&nbsp;hear from listeners experiencing problems with their Kindles, <a title="Gary asks, ?How can I have secure, easy-to-remember passwords??" href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/">wondering how they can have safe and secure passwords</a>, looking for advice on what kind of tablet they should purchase and more.</p>
+<div>
+<p>The guys also have <a title="Support for Windows XP is Ending Soon" href="http://deemable.com/2014/03/support-windows-xp-ending-soon/">important (and timely) news regarding Windows XP</a>, share some tips on how to buy a laptop, debunk a few Facebook myths and talk about some great travel-related apps.</p>
+<p><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">March 2014 Radio Special</a></p>
+<audio class="wp-audio-shortcode" id="audio-8670-14" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3?_=14"></source><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3</a></audio></div>
+<p>Links mentioned in the show:</p>
+<ul><li><a href="http://blog.laptopmag.com/laptop-buying-guide">Laptop Magazine &ndash;&nbsp;Laptop Buying Guide</a></li>
+<li><a href="http://www.snopes.com/computer/facebook/noreligion.asp">Snopes.com &ndash; Facebook Blocking Religious Posts</a></li>
+<li><a href="http://www.avast.com/">Avast! Anti-Virus</a></li>
+<li><a href="http://pcdecrapifier.com/">PC Decrapifier</a></li>
+<li><a href="http://www.revouninstaller.com/">Revo Uninstaller</a></li>
+<li><a href="http://www.bleepingcomputer.com/download/adwcleaner/">AdwCleaner</a></li>
+<li><a href="http://windows.microsoft.com/en-us/windows/end-support-help">Microsoft &ndash; End of Windows XP Support Guide</a></li>
+<li><a href="https://www.glympse.com/">Glympse</a></li>
+<li><a href="http://milebug.com/">MileBug</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/checkit-speedometer-speed/id662156507?mt=8" target="_blank" rel="external nofollow">CheckIt Speedometer</a></li>
+<li><a href="https://www.duolingo.com/">Duolingo</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/deemable-tech-march-2014-radio-special/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3" length="48829064" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#59 The Adventures of Cortana and Colonel Panic</title>
+		<link>/2014/03/59-adventures-cortana-colonel-panic/</link>
+		<comments>/2014/03/59-adventures-cortana-colonel-panic/#comments</comments>
+		<pubDate>Thu, 06 Mar 2014 02:54:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[Halo]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 7]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8605</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/cortana_panic-150x150.png" class="attachment-thumbnail wp-post-image" alt="cortana_panic" style="float:left; margin:0 15px 15px 0;" />Deemable Tech is back with another fun episode! First, Ray and Tom discuss some big recent news items including a familiar face coming to Windows Phone and security problems for Apple&#8217;s iOS. Then producer Sean Birch joins them for another <a href="/2014/03/59-adventures-cortana-colonel-panic/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/59-adventures-cortana-colonel-panic/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/cortana_panic-150x150.png" class="attachment-thumbnail wp-post-image" alt="cortana_panic" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: left;">Deemable Tech is back with another fun episode! First, Ray and Tom discuss some big recent news items including a familiar face coming to Windows Phone and security problems for Apple&rsquo;s iOS. Then producer Sean Birch joins them for another round of the runaway hit trivia segment Does Not Compute! Do you know what a common cause for software glitches is? Is it Colonel Panic? Find out the answer in this week&rsquo;s episode of the Deemable Tech podcast!&nbsp;<a href="http://deemable.com/media/2014/03/cortana_panic_2.png" class="gallery_colorbox"><img class=" wp-image-8611 aligncenter" alt="Cortana and Colonel Panic" src="//media/2014/03/cortana_panic_2.png"  width="397" height="275"></a></p>
+<p>Hey, did you know that we&rsquo;ll be premiering our first hour-long public radio special at the end of March? If you&rsquo;d like to be a part of it and have your question answered on air, leave us a voicemail at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8605-15" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-03-03.mp3?_=15"></source><a href="http://deemable.com/audio/DeemableTech_2014-03-03.mp3">http://deemable.com/audio/DeemableTech_2014-03-03.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-03-03.mp3">#59 The Adventures of Cortana and Colonel Panic</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#59 The Adventures of Cortana and Colonel Panic" data-link="/2014/03/59-adventures-cortana-colonel-panic/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#59 The Adventures of Cortana and Colonel Panic" data-link="/2014/03/59-adventures-cortana-colonel-panic/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/59-adventures-cortana-colonel-panic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-03-03.mp3" length="26845281" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#58 Road To Predictions</title>
+		<link>/2014/01/58-road-predictions/</link>
+		<comments>/2014/01/58-road-predictions/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 02:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[predictions]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8530</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/01/deem_2014_2-150x150.png" class="attachment-thumbnail wp-post-image" alt="deem_2014_2" style="float:left; margin:0 15px 15px 0;" />Deemable Tech returns after a nice holiday break! Ray, Tom and producer Sean Birch are back behind the mics in this very first episode of 2014. And since it is the first episode of the new year, the three of <a href="/2014/01/58-road-predictions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/01/58-road-predictions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/01/deem_2014_2-150x150.png" class="attachment-thumbnail wp-post-image" alt="deem_2014_2" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2014/01/deem_2014_2.png" class="gallery_colorbox"><img class="alignright  wp-image-8538" alt="deem_2014_2" src="//media/2014/01/deem_2014_2.png"  width="244" height="206"></a>Deemable Tech returns after a nice holiday break! Ray, Tom and producer Sean Birch are back behind the mics in this very first episode of 2014. And since it is the first episode of the new year, the three of them have some predictions for what will happen in the tech world in the next 12 months (caution: some of the predictions may not be serious). What do you think will happen this year? Do you agree with our predictions?</p>
+<p>Remember, we are still prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8530-16" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-01-12.mp3?_=16"></source><a href="http://deemable.com/audio/DeemableTech_2014-01-12.mp3">http://deemable.com/audio/DeemableTech_2014-01-12.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-01-12.mp3">#58 Road To Predictions</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/TA4HkzjZsFo?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#58 Road To Predictions" data-link="/2014/01/58-road-predictions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#58 Road To Predictions" data-link="/2014/01/58-road-predictions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/58-road-predictions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-01-12.mp3" length="89008911" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#57 DOES NOT COMPUTE</title>
+		<link>/2013/12/57-compute/</link>
+		<comments>/2013/12/57-compute/#comments</comments>
+		<pubDate>Wed, 18 Dec 2013 15:25:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8502</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/does-not-compute-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="does not compute" style="float:left; margin:0 15px 15px 0;" />Ray and Tom are both back in the studio this week with big news. Ray and wife just had a second child! After congratulating the happy (and understandably tired) father, Tom has more tech and geek trivia questions for Ray <a href="/2013/12/57-compute/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/57-compute/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/does-not-compute-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="does not compute" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/12/does-not-compute.jpg" class="gallery_colorbox"><img class="alignright  wp-image-8492" alt="does not compute" src="//media/2013/12/does-not-compute-300x295.jpg"  width="270" height="266"></a>Ray and Tom are both back in the studio this week with big news. Ray and wife just had a second child! After congratulating the happy (and understandably tired) father, Tom has more tech and geek trivia questions for Ray and producer Sean Birch in this week&rsquo;s round of our new DOES NOT COMPUTE segment. Are you enjoying the new segment? Let us know at <a href="mailto:questions@deemable.com">questions@deemable.com</a></p>
+<p>This is our last episode before the end of the year, so all of us here at Deemable Tech wish you a happy holiday season!</p>
+<p>And remember, we are still prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8502-17" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3?_=17"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3">#57 DOES NOT COMPUTE</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#57 DOES NOT COMPUTE" data-link="/2013/12/57-compute/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#57 DOES NOT COMPUTE" data-link="/2013/12/57-compute/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/57-compute/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-14.mp3" length="29036700" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#56 Deemable Tech Meets Marie &#8220;Hot Lips&#8221; Curie</title>
+		<link>/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/</link>
+		<comments>/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/#comments</comments>
+		<pubDate>Wed, 11 Dec 2013 15:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8480</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/Pierre_and_Marie_Curie-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Pierre_and_Marie_Curie" style="float:left; margin:0 15px 15px 0;" />This week Tom and guest co-host Jax Computer Chic&#8217;s Elizabeth Pampalone are joined by producer Sean Birch to congratulate Ray on his new child! Then they discuss what you can do if you&#8217;re being bullied on Facebook, play a round <a href="/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/Pierre_and_Marie_Curie-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Pierre_and_Marie_Curie" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/12/does-not-compute.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8492" alt="does not compute" src="//media/2013/12/does-not-compute-300x295.jpg"  width="300" height="295"></a>This week Tom and guest co-host <a href="http://elizabethpampalone.com/">Jax Computer Chic&rsquo;s Elizabeth Pampalone</a> are joined by producer Sean Birch to congratulate Ray on his new child! Then they discuss what you can do if you&rsquo;re being bullied on Facebook, play a round of our new tech and geek trivia segment &ldquo;DOES NOT COMPUTE&rdquo; and answer a question about saving photos from your iPhone. Are all of your photos being saved to your iCloud? Find out how you can make sure they are.</p>
+<p>Remember, we are also prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8480-18" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-08.mp3?_=18"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-08.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-08.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-08.mp3">#56 Deemable Tech Meets Marie &ldquo;Hot Lips&rdquo; Curie</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/tb_krKO4A1I?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>TRANSCRIPT</p>
+<p>TOM: From WJCT studios in Jacksonville, Florida, I&rsquo;m Tom Braun, in for Ray Hollister,</p>
+<p>ELIZABETH: I&rsquo;m Elizabeth Pampalone, in for Tom Braun</p>
+<p>TOM: and this is Deemable Tech. This week&rsquo;s episode is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>ELIZABETH: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>TOM: Well, as you can tell, Ray is not here again this week. Thankfully this time it&rsquo;s not because he&rsquo;s having an appendectomy like a few weeks ago. This time it&rsquo;s actually because of something great: Ray and his wife just had their second child!</p>
+<p>So congratulations to Ray! He&rsquo;ll be back soon. And thank you Elizabeth for stepping in to help us out this week.</p>
+<p>ELIZABETH: Happy to be here!</p>
+<p>TOM: And also back again this week is our producer Sean Birch.</p>
+<p>SEAN: Hello there!</p>
+<p>TOM: And as we said on last week&rsquo;s show, we&rsquo;re changing things up a little bit here on the podcast. We realized that the people who listen to this and the people who listen to our segments on public radio aren&rsquo;t necessarily the same.</p>
+<p>We don&rsquo;t have a specific plan just yet, but we do know that we won&rsquo;t be spending as much time answering questions on the podcast. We&rsquo;re still going to answer them, it just won&rsquo;t be as many. Instead we&rsquo;re going to try different things. And if you have suggestions for things you?d like to hear us try, let us know. Questions@deemable.com.</p>
+<p>Before we dive into questions and other stuff, I got a call from a friend today with an interesting problem. Interesting to me, anyway, not so good for her.</p>
+<p>She followed a page that had posted a story about a cat who had gotten lost and finally come home to its owners after six months. And she had posted a comment along the lines of &ldquo;I don&rsquo;t think it&rsquo;s right to let cats outside.&rdquo; Now that&rsquo;s a statement that you can agree or disagree with, but she posted it in a really non-confrontational way. Just a statement of opinion.</p>
+<p>But some people who she didn&rsquo;t know who were not Facebook friends of hers started replying to this comment and saying really mean things. They were calling her names, saying she should be neutered, that she shouldn&rsquo;t be allowed out of the house, etc. And she was getting notifications about these comments. So she called me in a real tizzy wanting to make the notifications stop.</p>
+<p>Basically, this is Facebook bullying. What are some steps my friend could take to stop it?</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='#56 Deemable Tech Meets Marie "Hot Lips" Curie' data-link="/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='#56 Deemable Tech Meets Marie "Hot Lips" Curie' data-link="/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/56-deemable-tech-meets-marie-hot-lips-curie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-08.mp3" length="29575426" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#55 Reviews! Reviews! Reviews!</title>
+		<link>/2013/12/55-reviews-reviews-reviews/</link>
+		<comments>/2013/12/55-reviews-reviews-reviews/#comments</comments>
+		<pubDate>Fri, 06 Dec 2013 20:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[trivia]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8464</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/episode_55_preview-150x150.png" class="attachment-thumbnail wp-post-image" alt="episode_55_preview" style="float:left; margin:0 15px 15px 0;" />This week we did things a little differently on Deemable Tech and actually didn&#8217;t answer any questions! Ray and Tom are both back in the studio following almost a month of holidays, illnesses and no shows. After catching up and <a href="/2013/12/55-reviews-reviews-reviews/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/55-reviews-reviews-reviews/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/episode_55_preview-150x150.png" class="attachment-thumbnail wp-post-image" alt="episode_55_preview" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/12/does-not-compute.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8492" alt="does not compute" src="//media/2013/12/does-not-compute-300x295.jpg"  width="300" height="295"></a>This week we did things a little differently on Deemable Tech and actually didn&rsquo;t answer any questions! Ray and Tom are both back in the studio following almost a month of holidays, illnesses and no shows. After catching up and making sure everyone is feeling better (spoilers: they are!), they&rsquo;re joined by producer Sean Birch to play a round of geeky trivia we&rsquo;re calling DOES NOT COMPUTE.</p>
+<p>Then all three review some new tech gadgets, including the bug bite itch relief instrument Therapik, the Jabra HALO2 Bluetooth headphones and the Lifeproof Fre iPad Mini case.</p>
+<p>Remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!</p>
+<audio class="wp-audio-shortcode" id="audio-8464-19" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3?_=19"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3">#55 Reviews! Reviews! Reviews!</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/nS61sPcFwgc?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech. The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>TOM: Well we?re back after quite a long break. Let?s address the elephant in the room. Ray, what happened?</p>
+<p>RAY: Well, I had major surgery!</p>
+<p>TOM: Today on the show we?re changing things up a little.</p>
+<p>RAY: Right, we are going to be doing fewer questions. We?ve realized that the people who listen to our podcast and the people that listen to our radio segments on NPR are not necessarily the same people.</p>
+<p>TOM: With all due respect to any radio listeners out there, the typical podcast listener is a little more tech savvy. And we want to make this podcast more interesting for you guys. We don?t have a specific plan. Instead we?re going to try different things. And if you have suggestions for things you?d like to hear us try, let us know. Questions@deemable.com.</p>
+<p>RAY: Well, later on in the show, we have some cool tech products to review, but before we jump into that, what do we have on the docket first, Tom.</p>
+<p>TOM: We?ve come up with a segment called DOES NOT COMPUTE. I?ve compiled some quiz-show style questions about tech facts, things that the average user may not know. I?m going to ask Ray joined by our producer Sean Birch some of these questions and we?ll see how they do.</p>
+<p>Where did the word robot originate from?</p>
+<p>Ken Olsen, the founder of DEC, said in 1977, ?There?s no reason for any individual to have a ____ in their home.?</p>
+<p>What is the only sport played on the moon?</p>
+<p>In a vacuum light travels at 670 and a half million MPH. Harvard scientists recently used slowed a beam of light down to what speed?</p>
+<p>How many bytes are there in a kilobyte?</p>
+<p><strong>Reviews</strong></p>
+<p><a href="http://deemable.com/2013/08/therapik-bug-bite-itch-relief-gadget-review/">Therapik Bug Bite Itch Relief Gadget</a></p>
+<p><a href="http://deemable.com/2013/07/bluetooth-stereo-headset-review-jabra-halo2/">Jabra HALO2 Bluetooth Headhpones</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#55 Reviews! Reviews! Reviews!" data-link="/2013/12/55-reviews-reviews-reviews/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#55 Reviews! Reviews! Reviews!" data-link="/2013/12/55-reviews-reviews-reviews/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/55-reviews-reviews-reviews/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-12-01.mp3" length="70908119" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#45 Deemable Tech and The Podsters</title>
+		<link>/2013/08/deemable-tech-and-the-podsters/</link>
+		<comments>/2013/08/deemable-tech-and-the-podsters/#comments</comments>
+		<pubDate>Mon, 05 Aug 2013 03:51:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[email attachments]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Nike+ FuelBand]]></category>
+		<category><![CDATA[outlook]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[printing contacts]]></category>
+		<category><![CDATA[problems with add ons]]></category>
+		<category><![CDATA[The Green Light Show]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7796</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/DJShottGreenLightShow-150x150.png" class="attachment-thumbnail wp-post-image" alt="DJ Shott Green Light Show" style="float:left; margin:0 15px 15px 0;" />On this episode of Deemable Tech, Ray and Tom finally get a question they&#8217;re not qualified to answer: How do you make a podcast?! Sound ridiculous? Most podcasts are not recorded in an amazing studio like WJCT&#8217;s, and most podcasts <a href="/2013/08/deemable-tech-and-the-podsters/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/08/deemable-tech-and-the-podsters/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/DJShottGreenLightShow-150x150.png" class="attachment-thumbnail wp-post-image" alt="DJ Shott Green Light Show" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/08/DJShottGreenLightShow.png" class="gallery_colorbox"><img class="alignright size-medium wp-image-7803" alt="DJ Shott Green Light Show" src="//media/2013/08/DJShottGreenLightShow-300x165.png"  width="300" height="165"></a></p>
+<p dir="ltr">On this episode of Deemable Tech, Ray and Tom finally get a question they&rsquo;re not qualified to answer: How do you make a podcast?! Sound ridiculous? Most podcasts are not recorded in an amazing studio like WJCT&rsquo;s, and most podcasts do not have incredible producers like Sean Birch. In other words, Ray and Tom have no credible experience in producing a real podcast! So, Ray invited DJ Shott, host of <a href="http://greenlightshow.com/">The Green Light Show</a>, a comedy podcast recorded in Jacksonville, to come to the studio to talk about what it&rsquo;s like to really produce a podcast. A word of warning, The Green Light Show is a very explicit comedy podcast that holds nothing back. So, if you get offended at the Comedy Zone, The Green Light Show probably isn&rsquo;t for you. But if you like comedy that gets really raunchy, check out The Green Light Show, and subscribe to <a href="http://greenlightshow.com/itunes">The Green Light Show in iTunes</a>. However, no need for a warning about this episode. Ray, Tom&nbsp;and DJ were perfect gentlemen, and refrained from any potty language during the show.</p>
+<p dir="ltr">After they talked about podcasting, Ray and Tom asked DJ about his <a href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=nike%20fuelband&amp;linkCode=ur2&amp;rh=i%3Aaps%2Ck%3Anike%20fuelband&amp;sprefix=nike%20fuel%20ban%2Caps%2C449&amp;tag=deemtech-20&amp;url=search-alias%3Daps" target="_blank">Nike+ FuelBand</a><img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0"> and got his take on it.</p>
+<p dir="ltr">After the break, Ray and Tom recapped what DJ talked about. Ray mentioned a website where you can easily create a podcast, but he couldn&rsquo;t remember the name of the site. The site is <a title="BuzzSprout - Create and publish your own podcast. " href="http://www.buzzsprout.com/?ref=Deemable" target="_blank">BuzzSprout</a>. If you aren&rsquo;t tech savvy but you want&nbsp;to start a podcast, BuzzSprout is a great resource. You can try it out for free to find out if you like the service, and it&rsquo;s free forever. If you decide to upgrade, paid plans start at only $12 per month.</p>
+<p dir="ltr">Also, Ray and Tom answered questions about printing contacts from Outlook, email file attachments that cause the Internet to disconnect, and how to block pop-ups on Internet Explorer and Chrome.</p>
+<p dir="ltr">Don&rsquo;t forget, we&rsquo;re still in the middle of the $50 Amazon Gift Card giveaway! If Deemable Tech gets at least 500 subscribers on iTunes and at least 200 subscribers on YouTube by the end of August, we are going to give away an Amazon Gift Card worth $50!</p>
+<p>To be eligible to win the $50 Amazon Gift Card, you need to subscribe to us on&nbsp;<a href="http://youtube.com/DeemableTech">YouTube</a>&nbsp;and&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/podcast/deemable-tech/id540595466" target="_blank" rel="external nofollow">iTunes</a>, like us on&nbsp;<a href="http://facebook.com/Deemable">Facebook</a>&nbsp;and follow us on&nbsp;<a href="http://twitter.com/Deemable">Twitter</a>. Then, send us an email at&nbsp;giftcard@deemable.com.&nbsp;In that email, include your Facebook name, Twitter and YouTube username. We&rsquo;ll pick one eligible email at random and we&rsquo;ll announce it on the show.&nbsp;The links to all of our social network profiles are in the top right corner of the website under the heading, Follow Deemable Tech.</p>
+<p>Also, the Deemable Tech app is now available for&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/deemable-tech/id671758316" target="_blank" rel="external nofollow">iPhone, iPod touch and iPad in the App Store</a>&nbsp;and for&nbsp;<a>Android phones and tablets in the Google Play store</a>. You can find a link to the app simply by visiting&nbsp;<a href="http://deemable.com/2013/07/44-angel-torres-aurora-app-2-0-and-deemable-tech-app-1-0/Deemable.com">Deemable.com</a>&nbsp;on your mobile device.</p>
+<p>One last thing! Don&rsquo;t forget to vote for Ray and Tom in Folio Weekly&rsquo;s Best of Jax for Hottest Local Celebrity. Go to <a title="Folio Weekly Best of Jax" href="http://folioweekly.com/bestofjax" target="_blank">http://folioweekly.com/bestofjax</a> to enter your vote!</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/GuFu2PisR1M?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><audio class="wp-audio-shortcode" id="audio-7796-20" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-08-04.mp3?_=20"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-08-04.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-08-04.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-08-04.mp3">#45 Deemable Tech and The Podsters</a></p>
+<p>DRAFT TRANSCRIPT</p>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p dir="ltr">TOM: I&rsquo;m Tom Braun,</p>
+<p dir="ltr">RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p dir="ltr">RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at <a href="http://www.audibletrial.com/Deemable">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">RAY: So, if you listened to last week&rsquo;s episode, you know that we are in the middle of a contest. If we reach 200 subscribers on YouTube and 500 subscribers on iTunes we are going to give away a $50 Amazon Gift Card. Here&rsquo;s what you have to do to be eligible. First, Subscribe to us on YouTube and iTunes. Then, like us on Facebook, and follow us on Twitter.</p>
+<p dir="ltr">Then, send us an email to <a href="mailto:giftcard@deemable.com">giftcard@deemable.com</a>. In that email, tell us your Facebook name, Twitter and YouTube username. &nbsp;We&rsquo;ll pick one eligible email at random and we&rsquo;ll announce it</p>
+<p dir="ltr">To make it easy for you, the links to our Facebook, YouTube, iTunes and Twitter accounts are all available at the top-right of our website under the heading, &ldquo;Follow Deemable Tech&rdquo;</p>
+<p dir="ltr">So, go subscribe, like and follow us, and get your emails in so you can win that $50 gift card.</p>
+<p dir="ltr">TOM: Hey Ray, I just wanted to tell you that you look great tonight.</p>
+<p dir="ltr">RAY: Thanks Tom, you don&rsquo;t look too bad yourself.</p>
+<p dir="ltr">TOM: Ray, we&rsquo;ve often been complimented that we really have faces for radio. And to commemorate that, we&rsquo;ve entered ourselves into Folio Weekly&rsquo;s yearly Best of Jax contest under the Hottest Local Celebrity category. Because, listeners, we know that when you think of Hot Local Celebrities you think of Ray and Tom.</p>
+<p dir="ltr">RAY: <a href="http://folioweekly.com/bestofjax">folioweekly.com/bestofjax</a>&nbsp;*blah blah blah*</p>
+<p dir="ltr">TOM: Alright, Ray, should we answer some listeners questions.</p>
+<p dir="ltr">RAY: I think we should.</p>
+<p dir="ltr">TOM: OK, let&rsquo;s take a look at Carlos&rsquo; question.</p>
+<p dir="ltr">TOM: Carlos writes:</p>
+<p dir="ltr">Hey Ray and Tom,</p>
+<p dir="ltr">I&rsquo;d really like to start a podcast, but I have no idea where to begin. Would I have to buy studio time? Don&rsquo;t some people podcast out of their house? What kind of equipment would I need to do it that way? Thanks, love your show! Carlos</p>
+<p dir="ltr">RAY: You know what Tom? I think we have found a question that we are not qualified to answer.</p>
+<p dir="ltr">TOM: Why is that Ray? We do a podcast almost every week.</p>
+<p dir="ltr">RAY: Well, Deemable Tech is really not like most podcasts. Most podcasts aren&rsquo;t recorded at radio stations. So, we&rsquo;ve invited somebody who has experience doing a podcast the real way.</p>
+<p dir="ltr">Joining us in the studio we have DJ Shott, the host of the Green Light Show.</p>
+<ul><li>Describe your show to us. What is your podcast about?</li>
+<li>Why did you want to start a podcast?</li>
+<li>How did you get started podcasting?</li>
+<li>Where do you record and stream your show from?</li>
+<li>What kind of equipment do you use? Mics, soundboards, headsets, computers, Internet connection&hellip;</li>
+<li>What software do you use? Ustream, Audacity, Garageband, WordPress, etc.</li>
+<li>How long does it take you to prepare for the show? How long does it take you after the show is over?</li>
+<li>What have you done to grow your audience?</li>
+<li>Is the show making any money?</li>
+<li>Where do you see your show going from here?</li>
+<li>What has been the most rewarding thing about producing a podcast?</li>
+<li>What has been the most challenging thing about producing a podcast?</li>
+<li>Was there ever a time when you just felt like giving up? Why?</li>
+<li>If people dare, where can folks find your show? (EXPLICIT content!)
+<ul><li><a href="http://greenlightshow.com/">http://Greenlightshow.com/</a></li>
+<li><a href="http://facebook.com/greenlightshow">http://Facebook.com/greenlightshow</a></li>
+<li><a href="http://twitter.com/greenlightshow">http://Twitter.com/greenlightshow</a></li>
+<li><a href="http://greenlightshow.com/itunes">http://greenlightshow.com/itunes</a></li>
+</ul></li>
+</ul><p>Next question:</p>
+<p dir="ltr">Marvin writes, I have an HP computer &nbsp;with Windows XP.</p>
+<p dir="ltr">I have been trying&nbsp;to print my contact list alphabetically from Outlook. The left half of the page prints out, but the &nbsp;right half is hidden and will not print. It is laborious to have to &nbsp;click on an individual&rsquo;s name to get the whole address, etc.</p>
+<p dir="ltr">This is frustrating, because I want to print out a hard copy to keep by my desk so I do not want to have to have the computer turned on.</p>
+<p dir="ltr">Any ideas?&nbsp;Thanks.</p>
+<p dir="ltr">TOM: Hi Marvin, thanks for the question.</p>
+<p dir="ltr">The first thing I would do is check your printer settings when you are printing. Just before you click the print button that prints the actual page you should see the screen where you select what printer you want to print with. While you&rsquo;re on this screen you can make changes to the print settings.</p>
+<p dir="ltr">What this screen looks like and what options it gives you depend on a lot of different factors: what operating system you&rsquo;re running, what kind of printer you have, what program you&rsquo;re launching from, etc. There should be a button on this screen for printer preferences or advanced settings. Click that, and then look for an option that says something like ?Fit to page? or ?Fit to paper size? or ?Shrink to fit?. Most printers have a setting like this which will automatically resize a page that is too big to fit on the paper. You may have to click a different tab to find it. Just look around, you won&rsquo;t hurt anything!</p>
+<p>Once you find ?Fit to page?, select it. Then click the OK button to get back to the print screen. Now go ahead and print. Hopefully the right side of the page is no longer cut off!</p>
+<p dir="ltr">RAY: Cool. So, that solves the problem.</p>
+<p dir="ltr">TOM: Wait, there&rsquo;s one more thing Marvin may need to know about and it&rsquo;s kind of a doozy. If he has Outlook 2003, it actually prints using Internet Explorer. So he needs to go into an entirely different program to change his settings!</p>
+<p dir="ltr">RAY: Wow, that&rsquo;s convenient.</p>
+<p dir="ltr">TOM: Yeah. So Marvin, if you have Outlook 2003, open up Internet Explorer, go to Internet Explorer, then select ?Page Setup? from the File menu. There you should find the Shrink to fit option. Check it, and boom. Happy printing!</p>
+<p dir="ltr">Richard writes, When I try to attach an attachment to an email, Internet Explorer looses connection to the Internet. I am using Windows 7 with latest patches applied by Window&rsquo;s Update and IE 10. This email attachment problem happens on my Gmail and a friend&rsquo;s yahoo mail.</p>
+<p dir="ltr">TOM: Thanks for letting us know what versions of Windows and Internet Explorer you are using, Richard.</p>
+<p dir="ltr">Based on what you&rsquo;re describing, my first guess is that your copy of Internet Explorer has an add-on that is being a little too helpful. Possibly you have a security or anti-virus add-on such as Norton that&rsquo;s malfunctioning and interfering with uploading files. To be on the safe side, start by disabling all the add-ons in Internet Explorer.</p>
+<p dir="ltr">You can do this by clicking on the settings menu and then going to Manage Add Ons and disabling them one by one. But if you have a lot of them it&rsquo;s quicker to click on the Tools menu and then under ?Toolbars&rsquo; you should see an option that says ?Disable Add Ons&rsquo;. Click on that to bring up the dialogue box that will allow you to do that.</p>
+<p dir="ltr">Once you&rsquo;ve done that you will need to reboot your computer. When it comes back up, open up Internet Explorer and see if you are able to add attachments in Gmail now. If you are, you can start enabling add ons one by one through the manage add-on menu until you figure out which one was causing the problem. Or just leave them all off.</p>
+<p dir="ltr">Again, if you have something like Norton Anti-virus it&rsquo;s a good bet that it&rsquo;s add ons are causing the problem.</p>
+<p dir="ltr">If this doesn&rsquo;t resolve your problem, well&hellip; try a different browser? You know, Chrome is looking very nice this time of year&hellip;</p>
+<p dir="ltr">Bill writes, Question: I just read your response to Christine&rsquo;s question about browsers in April, and have a follow-up question. Is there any way to completely block pop-up ads while running Chrome or IE? Or is Firefox&rsquo;s add-in the only solution? On both Chrome and IE, I have adjusted the settings to block pop-ups but that doesn&rsquo;t stop them on many sites I visit. I realize that those annoying ads are paying for these otherwise free websites, but I have to wonder what&rsquo;s the point of blocking pop-ups when so many get through anyway, slowing down the page loading to the point that it reminds me of being on dial-up.</p>
+<p dir="ltr">Thanks!</p>
+<p dir="ltr">TOM: Excellent question, Bill. You turn on the pop-up blocker and you still get pop ups! What&rsquo;s up with that?</p>
+<p dir="ltr">The thing you have to understand is that pop-up blocking is an arms race. Just like you can&rsquo;t tell your computer to block all viruses, you can&rsquo;t really tell it to block all pop-ups. Every time there&rsquo;s some new advance in pop-up blocker technology, the people making the pop up ads just get smarter.</p>
+<p dir="ltr">RAY: To make things even harder on the makers of pop up blockers, you can&rsquo;t just block all pop ups everywhere. there are lots of legitimate pop ups people want to see. Blocking all pop ups would make too many sites non-functional.</p>
+<p dir="ltr">So the ?block pop ups&rsquo; options in Internet Explorer and Chrome walk a fine line.</p>
+<p dir="ltr">TOM: If you&rsquo;re really serious about blocking pop-ups in Internet Explorer or Chrome you need to download an add-in or extension that does so, much like you did for Firefox. On Chrome, check out <a href="https://adblockplus.org/en/chrome">Adblock Plus</a> or <a href="https://chrome.google.com/webstore/detail/better-pop-up-blocker/nmpeeekfhbmikbdhlpjbfmnpgcbeggic?hl=en">Better Pop-up Blocker</a>.</p>
+<p dir="ltr">Your options are more limited on Internet Explorer, but there&rsquo;s an add on called <a href="http://download.cnet.com/Smart-Popup-Blocker/3000-7786_4-10282837.html">Smart Pop-up Blocker</a> that will block most pop-ups. It&rsquo;s no 100%, but it&rsquo;s the best we could find.</p>
+<p dir="ltr">RAY: Just a friendly little PSA about pop-up blocking: many free websites are ad supported. When you visit your favorite site and you&rsquo;ve got a pop-up blocker running, you may have avoided seeing that annoying pop-up ad but you&rsquo;ve also cost that site some ad revenue. So be sure to deploy your pop-up blocker judiciously. Most pop-up blockers give you the ability to allow pop-ups for certain sites. Be sure to allow them for sites you want to support!</p>
+<p><span style="font-size: 2em;">OUTRO</span></p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p dir="ltr">Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#45 Deemable Tech and The Podsters" data-link="/2013/08/deemable-tech-and-the-podsters/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#45 Deemable Tech and The Podsters" data-link="/2013/08/deemable-tech-and-the-podsters/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/deemable-tech-and-the-podsters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-08-04.mp3" length="0" type="" />
+		</item>
+	</channel>
+</rss>

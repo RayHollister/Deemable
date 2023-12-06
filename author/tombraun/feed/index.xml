@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Tom Braun</title>
+	<atom:link href="/author/tombraun/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Dangerous hole in Windows security! All users should patch immediately! This is not a drill!</title>
+		<link>/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/</link>
+		<comments>/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/#comments</comments>
+		<pubDate>Wed, 12 Nov 2014 04:58:34 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9369</guid>
+		<description><![CDATA[If it seems that in the last year or so you&#8217;ve been bombarded by one scary online security threat after another, you&#8217;re not wrong. And here comes another one. Microsoft disclosed on Tuesday, Nov. 11 that there is a &#8216;vulnerability&#8217; <a href="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>If it seems th<img class="alignleft wp-image-9370 size-thumbnail" src="//media/2014/11/bad-windows-resized-600-150x150.png" alt="bad windows-resized-600" width="150" height="150">at in the last year or so you&rsquo;ve been bombarded by one scary online security threat after another, you&rsquo;re not wrong. And here comes another one. Microsoft disclosed on Tuesday, Nov. 11 that there is a &lsquo;vulnerability&rsquo; in the code that handles encryption and authentication in Windows that could allow attackers to take control of computers running the operating system. And here&rsquo;s the really fun part: virtually every modern version of Windows is affected. Windows Vista, Windows 7, Windows 8, Windows 8.1, and even the more obscure flavors like Windows RT and Windows Server ALL have this security hole.<span id="more-9369"></span></p>
+<p>That&rsquo;s the bad news. The good news is that Microsoft didn&rsquo;t just announce that it had found a problem, it also announced that it had a fix. The fix is a patch which should automatically download if you perform a system update (to find out how to do that <a href="http://windows.microsoft.com/en-us/windows/windows-update" target="_blank">go here</a>).</p>
+<p>Microsoft says that so far it is not aware of any bad guys exploiting this vulnerability, but now that they have disclosed its existence it is only a matter of time.</p>
+<p>However, savvy web surfers who download the patch now can make sure they are safe before any bad guys get a hold of their Windows machines.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Dangerous hole in Windows security! All users should patch immediately! This is not a drill!" data-link="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Dangerous hole in Windows security! All users should patch immediately! This is not a drill!" data-link="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Deemable Tech Tips: Taking Control of Your Facebook Feed</title>
+		<link>/2014/10/deemable-tech-tips-taking-control-facebook-feed/</link>
+		<comments>/2014/10/deemable-tech-tips-taking-control-facebook-feed/#comments</comments>
+		<pubDate>Sun, 05 Oct 2014 16:22:58 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Facebook feed]]></category>
+		<category><![CDATA[tech tips]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9272</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/Facebook_like_thumb-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" />Every once in a while we like to take a few minutes to cover something everyone should know. This time, we want to talk about the website everyone loves to hate&#8230; Facebook! If you are&#160;honest with yourself,&#160;you are probably on <a href="/2014/10/deemable-tech-tips-taking-control-facebook-feed/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/deemable-tech-tips-taking-control-facebook-feed/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/Facebook_like_thumb-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Every once in a while we like to take a few minutes to cover something everyone should know. This time, we want to talk about the website everyone loves to hate&hellip; Facebook!<span id="more-9272"></span></p>
+<div id="attachment_9281" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/Facebook_like_thumb.png" class="gallery_colorbox"><img class="wp-image-9281 size-medium" src="//media/2014/10/Facebook_like_thumb-300x256.png"  alt="Image credit: Wikimedia Commons" width="300" height="256"></a><p class="wp-caption-text">Image credit: Wikimedia Commons</p></div>
+<p>If you are&nbsp;honest with yourself,&nbsp;you are probably on Facebook because it is kind of unavoidable, but you&nbsp;don&rsquo;t love it.&nbsp;A&nbsp;lot of time it&rsquo;s just full of stuff you&nbsp;don&rsquo;t care about, like that friend-of-a-friend who posts a dozen posts a day about her dog, or your&nbsp;high school friend who is always starting political arguments.</p>
+<p>But the fact is that you have more control over what you see on your Facebook feed then you think you do. There are things you can do to greatly improve that. And there are some ways that you can make sure that when you post something, it gets noticed.</p>
+<p>Before we dive in,&nbsp;let&rsquo;s explain what we mean when we say &ldquo;Facebook feed&rdquo;. Basically, we are just talking about the homepage of Facebook, where you see all the updates from friends and from pages you?ve liked. That is referred to as the &ldquo;news feed&rdquo; or just the &ldquo;feed&rdquo; for short.</p>
+<p>The Facebook feed doesn&rsquo;t show you EVERYTHING your friends post, however. Most people on Facebook have 300 or more friends, and if you saw everything every single one of them liked or posted you would be swamped with information. So Facebook employs an algorithm to decide what to show you.</p>
+<p>The real question is how this algorithm works. The actual algorithm is top secret, but just from experimenting around with Facebook we know a lot about it. The Facebook algorithm is more likely to show you stuff from people it thinks you care about and from pages it thinks you really like.</p>
+<p>Every time you like a post or comment on something someone wrote or visit someone&rsquo;s profile, Facebook notices that, and it will start to move that person higher up in your feed. So if you&rsquo;re always checking out someone?s profile, Facebook will show you more posts by that person.</p>
+<p>Some people have said that Facebook knows that two people will start dating several days before it actually happens, supposedly because those people will start liking and commenting on each other&rsquo;s posts much more frequently. Now,&nbsp;we&nbsp;don&rsquo;t know if the secret algorithm really knows, that, but it feels like this would be the case . The more you interact with someone, the more Facebook knows that you like that person and want to see more posts by them.</p>
+<p>Okay, but what if there?s someone who you&nbsp;really don?t want to see in your&nbsp;feed that much? Is there anything you&nbsp;can do?</p>
+<p>Absolutely. A lot of people don&rsquo;t realize this, but you can explicitly tell Facebook that you don&rsquo;t want to see a post.&nbsp;You can try this out yourself by bringing up the Facebook home page on your web browser.&nbsp;Pick a post in your feed. At the top right of that post there should be a faint gray down arrow. You might have to hover over the post to see it if you?re on a computer. Click it.</p>
+<p>You will&nbsp;get a pop-up with some options like ?I don?t want to see this,? and ?Report this.? Click ?I don?t want to see this.? Don?t worry if you actually do want to see it, on a computer you can undo your choices.</p>
+<p>Now it should say that&nbsp;the post is hidden, and there should be a&nbsp;link asking you&nbsp;why&nbsp;you&nbsp;don?t want to see it. Click the link. You will see the options, ?It?s annoying or not interesting,? ?I?m in this photo and I don?t like it,? ?This shouldn?t be on Facebook? and ?This is spam.? Clicking any of those will give Facebook some useful information about what you want to see in your feed &ndash; and what you don&rsquo;t want to see. Now if you click out of that box and then click &ldquo;undo&rdquo; in the gray box that tells you the post is hidden you will get that post back.</p>
+<p>There&rsquo;s another trick you can try also. Do you feel like many of your Facebook &ldquo;friends&rdquo; are more like &ldquo;acquaintances&rdquo;? You can tell Facebook that. Just over to a friend&rsquo;s&nbsp;profile on Facebook. Up at the top you will see the &ldquo;Friends&rdquo; button &ndash; click that. In the drop down that pops up you should see the word &ldquo;acquaintances&rdquo;. If you click it, it will add this&nbsp;profile to a special friends list called &ldquo;acquaintances&rdquo;.</p>
+<p>Acquaintances are still friends in Facebook?s world, but Facebook won?t show you very many posts by acquaintances. In fact, it will only show you posts by them that either have a lot of comments or that are about major life events. So if you made someone&nbsp;an acquaintance then you&rsquo;d see if they&nbsp;got engaged or got a new job, but you wouldn&rsquo;t see the three posts they&nbsp;made about what they&nbsp;had for lunch yesterday.</p>
+<p>Before we go any further we&nbsp;should mention one important thing about your feed. You may have noticed that your feed isn&rsquo;t strictly chronological. Stuff your&nbsp;partner or best friends&nbsp;post stays at the top of the&nbsp;feed for a day or two sometimes.</p>
+<p>If you want to see a more chronological view of your feed, you can click the down arrow next to &ldquo;news feed&rdquo; in the bar on the left of the page, and then select &ldquo;most recent&rdquo;. That will make your news feed more or less ordered by date rather than how much the algorithm thinks you like stuff.</p>
+<p>We&nbsp;should mention that if you are in the Facebook app on a tablet or smartphone, you won&rsquo;t have this option. Actually, the app has a lot fewer options in general. So if something we&rsquo;re talking about here isn&rsquo;t working for you on the app, you may need to log in to Facebook on your home PC to change it.</p>
+<p>Alright, time to get down to brass tacks. How do you make &ldquo;the algorithm&rdquo; show your friends YOUR posts?&nbsp;How can you be Facebook cool?</p>
+<p>Well there&rsquo;s no sure-fire way to be the most popular kid on the news feed, but we know that there are some things that Facebook likes and that it will factor in when deciding whether or not to show your posts to your friends.&nbsp;Facebook likes posts with pictures and links more than posts that are just updates. So if you link to a website or post a pic, you&rsquo;re more likely to get noticed. The exception, of course, is if you post a link or a picture that people don&rsquo;t like. Remember we talked about how you can hide posts? If a lot of people are hiding something you posted, Facebook is likely to downgrade that post. So you want to steer away from controversial topics if your main concern is Facebook popularity.</p>
+<p>For instance, cute animals&nbsp;are always a big hit. Facebook also loves &ldquo;positive&rdquo; posts. It probably searches posts for keywords like &ldquo;happy&rdquo;, &ldquo;engaged&rdquo;, &ldquo;married&rdquo;, &ldquo;pregnant&rdquo;, &ldquo;kitty&rdquo;, &ldquo;love&rdquo; and so on.&nbsp;Facebook likes happy posts because they are more likely to be shared. Happy links are more likely to be clicked on. And when people click links, Facebook is usually making money.</p>
+<p>So if you&rsquo;re happy and you know it, tell Facebook!</p>
+<p>Following these tips will give you much more control over your Facebook feed. More control, but not complete control. At the end of the day, the secret Facebook algorithm is still deciding what it thinks you&nbsp;should see. You may be wondering, is there a way&nbsp;tiycan have total control over my news feed?</p>
+<p>There is only one we know of: switch to Twitter.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Taking Control of Your Facebook Feed" data-link="/2014/10/deemable-tech-tips-taking-control-facebook-feed/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Taking Control of Your Facebook Feed" data-link="/2014/10/deemable-tech-tips-taking-control-facebook-feed/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/deemable-tech-tips-taking-control-facebook-feed/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Dale asks, &#8220;How can I change the email password on my Samsung Galaxy S4?&#8221;</title>
+		<link>/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/</link>
+		<comments>/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/#comments</comments>
+		<pubDate>Sun, 05 Oct 2014 16:22:51 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Samsung Galaxy]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9268</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/samsung_galaxy_s4-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Simon / Pixabay" style="float:left; margin:0 15px 15px 0;" />Q: I recently changed my e-mail password, and now my Samsung Galaxy S4 phone will not show my e-mails. I assume the old password is somehow encoded in the phone. I cannot find a way within the &#8220;setting&#8221; folder to <a href="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/samsung_galaxy_s4-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Simon / Pixabay" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q: </strong>I recently changed my e-mail password, and now my Samsung Galaxy S4 phone will not show my e-mails. I assume the old password is somehow encoded in the phone. I cannot find a way within the &ldquo;setting&rdquo; folder to put the new password in to access the e-mails. How can I now access my e-mails on the S4?<span id="more-9268"></span></p>
+<p><strong>A: </strong>Dale, it sounds like you are looking in the settings for the email app, but you won&rsquo;t find it there!</p>
+<div id="attachment_9284" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/samsung_galaxy_s4.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9284" src="//media/2014/10/samsung_galaxy_s4-300x225.jpg"  alt="Image Credit: Simon / Pixabay" width="300" height="225"></a><p class="wp-caption-text">Image Credit: Simon / Pixabay</p></div>
+<p>Android phones, including the Samsung Galaxy models, store all the big, important passwords, like email accounts and social media accounts, in the same place. You need to bring up &ldquo;settings&rdquo;. Not the settings for the email app, but the main settings menu that you get to from the desktop.</p>
+<p>Then you need to scroll way down. You&rsquo;re looking for a section called &ldquo;Accounts&rdquo;. Keep scrolling down until you find it. Under that you should see an option called &ldquo;Email&rdquo;. Tap that. Then tap &ldquo;Settings&rdquo;. Then tap your email address again. Now you should see a page with a bunch of options, including one that says &ldquo;password&rdquo; &ndash; tap that and enter your new password.</p>
+<p>Basically, any time you want to change a major password you have to go under &ldquo;Accounts&rdquo; under your main settings. Your email login, your Facebook login, your Twitter login, your LinkedIn login, it&rsquo;s all stored there. These are all apps that have deep, native integration into the Android operating system, so it actually makes some sense for them to be stored down in the main settings of the phone.</p>
+<p>That&rsquo;s pretty similar to how it is handled on the iPhone and iPad too. Under the Settings app, you tap &ldquo;Mail, Contacts, and Calendars&rdquo;, then tap the account and tap your email address, then enter the correct password.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Dale asks, "How can I change the email password on my Samsung Galaxy S4?"' data-link="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Dale asks, "How can I change the email password on my Samsung Galaxy S4?"' data-link="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Downloadable: Apps for Small Business</title>
+		<link>/2014/10/downloadable-apps-small-business/</link>
+		<comments>/2014/10/downloadable-apps-small-business/#comments</comments>
+		<pubDate>Sun, 05 Oct 2014 03:28:02 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Downloadable]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Intuit GoPayment]]></category>
+		<category><![CDATA[PayPal Here]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<category><![CDATA[Square]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9263</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/paypal_here_hand-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here.
+
+Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" />If you are a small business owner wondering if there are any apps out there that can help make your life easier, wonder no more! These days you can practically run your entire business through a tablet or mobile device. <a href="/2014/10/downloadable-apps-small-business/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/downloadable-apps-small-business/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/paypal_here_hand-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here.
+
+Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>If you are a small business owner wondering if there are any apps out there that can help make your life easier, wonder no more! These days you can practically run your entire business through a tablet or mobile device. Your device can handle point-of-sale, time tracking, invoicing and much more.<span id="more-9263"></span></p>
+<p>Here are a few of our favorite apps for small business owners:</p>
+<div id="attachment_9083" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/paypal_here_hand.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9083" src="//media/2014/07/paypal_here_hand-300x300.jpg"  alt="PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here. Image credit: PayPal" width="300" height="300"></a><p class="wp-caption-text">PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here.<br>Image credit: PayPal</p></div>
+<h3>Point of Sale</h3>
+<p>You&rsquo;re probably already familiar with Square, the little plastic card reader that plugs into a smartphone. But Square is no longer the only card reader in town. Here are a few of the card readers currently out there:</p>
+<ul><li><a href="https://squareup.com/" target="_blank">Square</a></li>
+<li><a href="https://www.paypal.com/webapps/mpp/credit-card-reader" target="_blank">PayPal Here</a></li>
+<li><a href="http://localregister.amazon.com/" target="_blank">Amazon Register</a></li>
+<li><a href="http://payments.intuit.com/mobile-credit-card-processing/" target="_blank">Intuit GoPayment</a></li>
+</ul><p>You can get all of these for essentially free (for example, the Square reader is $9.99 at retail stores, but it comes with a $10 mail-in rebate). The card reader companies make their money off transaction fees, which vary by device. You can read more about credit cards readers in <a title="Norman asks, ?How can I accept credit card payments using my smartphone??" href="http://deemable.com/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" target="_blank"><strong>this article</strong></a>.</p>
+<p>Let&rsquo;s talk about a different type of cards: business cards.</p>
+<h3>Business Card Readers</h3>
+<p>There are apps that will allow you to photograph, scan&nbsp;and store the information from people&rsquo;s business cards, creating a digital Rolodex. There are two major apps. Abbyy&rsquo;s is the tried-and-true original, Evernote&rsquo;s is the new upstart:</p>
+<ul><li><a href="http://www.abbyy.com/products/bcr/" target="_blank">Abbyy&rsquo;s Business Card Reader</a> ($4.99 on Android and $5.99 on iOS)</li>
+<li><a href="https://evernote.com/hello/" target="_blank">Evernote Hello</a> (free)</li>
+</ul><h3>Bookkeeping</h3>
+<p>A good bookkeeping app will not only connect to your various accounts and allow you to create invoices, but will categorize your expenses and income for tax purposes. There are a number of cool bookkeeping apps out there:</p>
+<ul><li><a href="http://www.freshbooks.com/" target="_blank">Freshbooks</a></li>
+<li><a href="http://quickbooks.intuit.com/" target="_blank">Quickbooks</a></li>
+<li><a href="https://bookkeeping.godaddy.com/" target="_blank">GoDaddy Bookkeeping</a> (formerly Outright.com)</li>
+</ul><p>Most of these charge monthly or yearly subscription fees. There is also a newcomer called Wave Accounting whose website is free to use. Wave also does payroll management for $4/month for the first 10 employees (and $1/employee after).</p>
+<h3>Productivity</h3>
+<p>You have two major options for productivity software. The first is Google Drive, which includes Google Docs and Google Sheets. This is free, but not as fully-featured as Microsoft Office. You can also get Microsoft Office 365, the cloud-based (read: online) version of Office. One user is $6/month.</p>
+<p>Also, this is not exactly an app but we would be remiss if we didn&rsquo;t mention Google Apps for Work. Do you want to have your own, custom email address that still uses the Gmail interface? Google Apps for Work can give you that. For instance, Ray@SmallBusiness.com could be accessed through Gmail and would also have full access to Google Drive.</p>
+<p>Google Apps for Work is $5/user/month or $50/year.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Downloadable: Apps for Small Business" data-link="/2014/10/downloadable-apps-small-business/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Downloadable: Apps for Small Business" data-link="/2014/10/downloadable-apps-small-business/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/downloadable-apps-small-business/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Meghan asks, &#8220;Why won&#8217;t my Kindle battery charge?&#8221;</title>
+		<link>/2014/06/meghan-asks-kindle-battery-isnt-charging/</link>
+		<comments>/2014/06/meghan-asks-kindle-battery-isnt-charging/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8935</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/kindle_fire-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="kindle_fire" style="float:left; margin:0 15px 15px 0;" />Q:&#160;We have a Kindle Fire that is approximately 2 years old. It has completely lost its ability to charge. I tried multiple chargers with no avail. I used to be able to tilt the charger upward and get it to <a href="/2014/06/meghan-asks-kindle-battery-isnt-charging/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/meghan-asks-kindle-battery-isnt-charging/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/kindle_fire-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="kindle_fire" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><b>Q:&nbsp;</b>We have a Kindle Fire that is approximately 2 years old. It has completely lost its ability to charge. I tried multiple chargers with no avail. I used to be able to tilt the charger upward and get it to charge, but that is no longer working. Is there anything we can do?<span id="more-8935"></span> <a href="http://deemable.com/media/2014/06/kindle_fire.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8950" src="//media/2014/06/kindle_fire-300x201.jpg"  alt="kindle_fire" width="300" height="201"></a></p>
+<p><strong>A:</strong>&nbsp;Bad news&nbsp;Meghan: it&rsquo;s time for a new tablet. This one is toast. The connection to the battery is probably broken or the battery is bad. In fact, if the power is not getting to the battery properly that can kill the battery anyway. So if you only had one problem before, now you have two problems. And, more bad news, most Kindle Fire tablets do not have replaceable batteries.</p>
+<p>Kindle Fires have a standard one year warranty so unfortunately that won&rsquo;t help you. You might be able to take it to someone to get it repaired, but do you really want to spend money on this? You can get a new Kindle Fire for $119.00 and a previous generation version for only $73.00. You could easily spend that on the repair bill.</p>
+<p>If you are feeling really crafty, you can get a replacement battery for about $50, but I&rsquo;ll tell you, they are not easy to replace.</p>
+<p>If you liked your Kindle Fire I would just order a new one, or look at other cheap tablets. There are a lot on the market right now.</p>
+<p>Don&rsquo;t think of it as losing a tablet so much as&hellip; gaining a newer tablet? At any rate, good luck!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/meghan-asks-kindle-battery-isnt-charging/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Deemable Tech Tips: Hacker-Proof Your Phone</title>
+		<link>/2014/06/deemable-tech-tips-hacker-proof-phone/</link>
+		<comments>/2014/06/deemable-tech-tips-hacker-proof-phone/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[Location tagging]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[WiFi]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8932</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/iphone_5s_fingerprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Kelvinsong / Wikimedia" style="float:left; margin:0 15px 15px 0;" />Every once in a while we like to cover something everyone should know, and this time we wanted to talk about securing your personal information &#8211; on your smartphone. If you own a smartphone, you probably keep tons of personal <a href="/2014/06/deemable-tech-tips-hacker-proof-phone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/deemable-tech-tips-hacker-proof-phone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/iphone_5s_fingerprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Kelvinsong / Wikimedia" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Every once in a while we like to cover something everyone should know, and this time we wanted to talk about securing your personal information &ndash; on your smartphone.<span id="more-8932"></span></p>
+<div id="attachment_8956" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/iphone_5s_fingerprint.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8956" src="//media/2014/06/iphone_5s_fingerprint-300x210.jpg"  alt="Image credit: Kelvinsong / Wikimedia" width="300" height="210"></a><p class="wp-caption-text">Image credit: Kelvinsong / Wikimedia</p></div>
+<p>If you own a smartphone, you probably keep tons of personal information on it: your address book, emails, passwords, maybe even credit card data. Your phone knows where you work and where you live and who is texting you. It&rsquo;s a gold mine for everyone from phone thieves to advertisers to hackers.</p>
+<p>Many smartphone owners would be surprised at how easy it is to learn some basic hacks which allow you to extract data from someone else&rsquo;s smartphone. But there are a few simple steps that they can take to make it much harder.</p>
+<p>We want to emphasize that it&rsquo;s probably impossible to completely hacker-proof your phone. If government spies are trying to break into your phone, they are probably going to get in. But you <em>can</em> stop your run of the mill identity thieves.</p>
+<h3>Tip #1: Lock your smartphone!</h3>
+<p>It&rsquo;s so simple, and yet so effective!&nbsp;Why should someone bother hacking into your phone when they can just pick it up and see everything on it? You need a lockscreen with a password or an unlock pattern or a fingerprint scanner.&nbsp;Using a password is the <em>most</em> secure technique, and the more characters you have to enter, the better. But even a simple pin code or unlock pattern is better than nothing.</p>
+<p>Most Android phones support unlock patterns. If you use one, though, you should take one extra step for security: wipe down your phone?s screen frequently! This way a thief can&rsquo;t simply follow the smudged fingerprints on the screen to determine your unlock pattern.</p>
+<p>Here&rsquo;s another lock screen tip for those of you with iPhones:&nbsp;by default, iPhones allow you to do a few things without unlocking your phone, like voice dialing and previewing texts. You can disable this, though, and you should.&nbsp;Unless you like the idea of a stranger at the coffee shop reading your texts!</p>
+<h3>Tip #3: Don&rsquo;t connect to open Wi-Fi networks!</h3>
+<p>Avoid that free coffee shop Wi-Fi if it doesn&rsquo;t have a password!&nbsp;Any device, whether it?s a phone or a tablet or a laptop, which is connected to an open Wi-Fi is a hacker?s dream. With some basic software installed, a hacker can see almost everything anyone on the Wi-Fi network is doing &ndash; sending emails, logging into Facebook, etc.</p>
+<p>The good news is, people are wising up to the fact that having unsecured Wi-Fi is not a good idea. Some places still offer it, though. If you don?t have to ask for a password to get in, it?s probably not a good idea to use that Wi-Fi.</p>
+<p>Speaking of Wi-Fi: if you got your iPhone from AT&amp;T it has an interesting extra feature.&nbsp;Any time an AT&amp;T iPhone detects a Wi-Fi network called <em>attwifi</em>, it will automatically try to connect to it.&nbsp;That&rsquo;s a problem, to put it bluntly. A hacker could just setup a network, call it <em>attwifi</em>, and wait for people?s phones to automatically connect to it so they can extract information. The good news is, this is a feature you can turn off on your iPhone, and you should. Just open the Settings app, tap Wi-Fi, and tap the check box next to ?Ask to join networks?. And contact AT&amp;T customer support and tell them that you don&rsquo;t approve of them making their customers&rsquo; phones vulnerable in this way.</p>
+<h3>Tip #4: Turn off location tagging on your smartphone&rsquo;s camera</h3>
+<p>When&nbsp;you&nbsp;take a picture with your smartphone, it adds the GPS coordinates of the place where you&nbsp;took the picture to the image file. Later on, that can help you&nbsp;remember where you&nbsp;took the picture at.&nbsp;That&rsquo;s convenient, but many times when you upload that picture to a website or email it to a friend, the GPS coordinates remain embedded in the file. Anyone who has that picture can figure out where you took it. And if it&rsquo;s your house, well, now they know where you live.&nbsp;And that?s no good.</p>
+<p>You can turn this feature off on Android phones, although the details depend on what phone you have. You should be able to find instructions with a Google search.&nbsp;On an iPhone, go&nbsp;to Settings, and then privacy, and then Location services and then you should see an option for the camera. Switch that to off.</p>
+<h3>Tip #5: Require a password for purchases</h3>
+<p>This&nbsp;is something we&rsquo;ve talked about before, but it?s worth repeating: both Android and iPhone allow you to set a password on the phone that must be entered before you can make purchases on the phone. Stopping kids or others from running up charges on your phone is always a great idea.</p>
+<h3>Tip #6: Disable third party cookies</h3>
+<p>Everybody likes cookies, right?&nbsp;Well, maybe not if they are cookies on your computer which can allow advertisers to track what websites you visit.&nbsp;For those readers&nbsp;who don?t know, a cookie is a small text file that a website places on your computer or smartphone. They can be used to help websites remember to automatically log you in, which is great. But they can also help advertisers to track you which not everybody likes.</p>
+<p>On the iPhone&rsquo;s Safari browser you can stop this. Safari lets you&nbsp;disable &lsquo;third party cookies&rsquo;, which are the kind of cookies that many&nbsp;people don&rsquo;t want, the kind that help advertisers offer targeted ads.&nbsp;Most browsers now offer a &lsquo;DO NOT TRACK&rsquo; option as well. It&rsquo;s a good idea to turn this on. Now here?s the thing, the &lsquo;do not track&rsquo; option is not universally respected. There are some advertisers that will ignore it and track you anyway. But it can?t hurt to have it turned on.</p>
+<h3>Tip #7: Wipe your personal data before you return your phone to the store</h3>
+<p>Occasionally you may need to take your smartphone somewhere to get it repaired or to swap it for a working model. Before you do this, it&rsquo;s a really good idea to wipe all of your personal data from your phone! What you need to do is reset your phone to factory defaults. Your smartphone should come with instructions on how to do this.&nbsp;Of course you should backup all your personal data before you do this as it WILL be erased!</p>
+<p>So these are just a few tips that will help you keep the personal data on your smartphone more secure from thieves, from hackers and even from advertisers. And if nothing else, you should always,&nbsp;<em>always &ndash;</em></p>
+<p><strong>LOCK YOUR PHONE.</strong></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/deemable-tech-tips-hacker-proof-phone/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Linda writes, &#8220;Help! My computer says someone is using my IP address!&#8221;</title>
+		<link>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/</link>
+		<comments>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[IP Address]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[wireless router]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8930</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/using_your_ip-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="using_your_ip" style="float:left; margin:0 15px 15px 0;" />Q:&#160;When ever I go on my computer I get a message that someone else is using my IP address. I am terrified. Is someone else pretending to be me? Please help!!!!!! A:&#160;Linda, first of all, don&#8217;t panic: if a hacker <a href="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/using_your_ip-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="using_your_ip" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q:</strong>&nbsp;When ever I go on my computer I get a message that someone else is using my IP address. I am terrified. Is someone else pretending to be me? Please help!!!!!!<span id="more-8930"></span></p>
+<p><a href="http://deemable.com/media/2014/06/using_your_ip.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8954" src="//media/2014/06/using_your_ip-300x180.jpg"  alt="using_your_ip" width="300" height="180"></a><strong>A:</strong>&nbsp;Linda, first of all, don&rsquo;t panic: if a hacker wanted to pretend to be you, they wouldn&rsquo;t steal your IP address. It?s unlikely you are being hacked. What is more likely is that you have two devices on your home network that are conflicting with each other.</p>
+<p>Your&nbsp;mysterious IP address thief is much more likely to be a misbehaving wireless printer or mobile device that is using your WiFi network than a hacker. Wireless printers are sometimes the culprit, because some of them have pre-set IP addresses. If the WiFi router hands out that preset address to another computer or device, the router will get confused about who to send data to. Of course it doesn&rsquo;t have to be a printer to blame, it could be anything that is using your Wi-Fi.</p>
+<p>Try disconnecting your&nbsp;laptop from the Wi-Fi and then reconnecting. That should cause the router to assign it a clean IP address. Actually it wouldn&rsquo;t be a bad idea to do that for every device connected to the Wi-Fi.</p>
+<p>It?s possible, though, that this problem stems from either your&nbsp;laptop or another device on the network having a static IP address set. If that?s the issue you&nbsp;will probably need a technician to come out and look at it, as that starts to get a little bit complicated.</p>
+<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Charles asks, &#8220;Does my smartphone have a virus?&#8221;</title>
+		<link>/2014/06/charles-asks-smartphone-virus/</link>
+		<comments>/2014/06/charles-asks-smartphone-virus/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android Apps]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8928</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" />Q: My smartphone (a Casio G&#8217;zOne) displayed a warning yesterday saying that it had a virus. I didn&#8217;t do anything as I&#8217;ve been told the warning is the actual virus.&#160;How can I tell if the phone has virus protection installed? <a href="/2014/06/charles-asks-smartphone-virus/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/charles-asks-smartphone-virus/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p141388-embed" src="http://www.prx.org/p/141388/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>My smartphone (a Casio G&rsquo;zOne) displayed a warning yesterday saying that it had a virus. I didn&rsquo;t do anything as I&rsquo;ve been told the warning is the actual virus.&nbsp;How can I tell if the phone has virus protection installed? If not, can I download it&nbsp;for the phone?</p>
+<p><span id="more-8928"></span></p>
+<div id="attachment_8948" style="width: 232px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/gzone.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8948" src="//media/2014/06/gzone-222x300.jpg"  alt="Image credit: Casio" width="222" height="300"></a><p class="wp-caption-text">Image credit: Casio</p></div>
+<p><strong>A:&nbsp;</strong>Charles, let us set your mind at ease. It is very unlikely that your smart phone has a virus. What you saw was most likely a scam &ndash; a banner ad trying to trick you into buying something or clicking on something that you shouldn&rsquo;t. Uninstall whatever app you saw that in, and you should be fine.</p>
+<p>Smartphones work differently than PCs. A program on a PC basically has the run of the computer and can do anything it wants. But an app on a smartphone gets put in a little sandbox, and it is very limited in what it can do. This makes it&nbsp;harder for a classic virus to be effective on a phone.</p>
+<p>That isn&rsquo;t to say that a smartphone could&nbsp;<em>never</em> get a virus, but we have yet to see any big ones on Android or iOS that users need to worry about. If that ever happens, we will be the first ones to let you know.</p>
+<p>If you still don&rsquo;t feel safe, you <em>can</em> download anti-virus apps that will check for bad stuff on your phone, but recent studies have found that a lot of the free ones are basically useless.&nbsp;They catch very few pieces of malware, and can slow down your phone considerably. There are also paid apps from big anti-virus companies like&nbsp;Symantec, BitDefender and Trend Micro, but these too take up a lot of memory and will affect your phone&rsquo;s performance.</p>
+<p>What you really need to watch out for aren&rsquo;t viruses, they&rsquo;re malicious apps. Apps available in the&nbsp;the Apple App Store or the Google Play Store have been screened by those companies, and are trustworthy 99.99% of the time. But if you download and install an app from an unofficial source (this is known as &ldquo;side-loading&rdquo;), you run the risk of getting something dangerous. Most people who side-load apps are trying to install free versions of games you normally have to pay for, which is basically like catnip for hackers. Our advice is to never side-load an app unless you&rsquo;re confident of what it is and know the people who made it.</p>
+<p>So, Charles, don&rsquo;t worry too much about that warning you saw. If you play it safe when you&rsquo;re surfing the web, and make sure you&rsquo;re only downloading apps from official places, you should be fine.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/charles-asks-smartphone-virus/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Heartbleed, Passwords and You</title>
+		<link>/2014/04/heartbleed-passwords/</link>
+		<comments>/2014/04/heartbleed-passwords/#comments</comments>
+		<pubDate>Thu, 10 Apr 2014 16:08:06 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Heartbleed]]></category>
+		<category><![CDATA[internet security]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8707</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" />The big news in tech right now is a dangerous bug in the internet known as &#8216;Heartbleed&#8217; which could be putting your personal information at risk. Here&#8217;s what you need to know about it and what you can do. What <a href="/2014/04/heartbleed-passwords/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/heartbleed-passwords/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p116661-embed" src="http://www.prx.org/p/116661/embed.js?size=small"></script></p>
+<p><span style="line-height: 1.5em;">The big news in tech right now is a dangerous bug in the internet known as &lsquo;Heartbleed&rsquo; which could be putting your personal information at risk. Here&rsquo;s what you need to know about it and what you can do.</span><span id="more-8707"></span></p>
+<h2><a href="http://deemable.com/media/2014/04/heartbleed.png" class="gallery_colorbox"><img class="alignright  wp-image-8708" src="//media/2014/04/heartbleed.png"  alt="heartbleed" width="246" height="297"></a>What is Heartbleed?</h2>
+<p>Heartbleed&nbsp;is a &ldquo;vulnerability,&rdquo; or a hole in the elaborate security systems in place around the web. Imagine if there was one company that made over half the locks on doors in the world. Now imagine that someone discovered that all those locks could be picked easily and without anyone noticing. That frightening situation is basically what has happened on the internet.</p>
+<p>To put it simply,&nbsp;Heartbleed&nbsp;is basically a programming error that makes many secure websites less secure. When you visit a page that asks for private information, such as a password or a credit card number, that page almost always has a lock icon beside its web address. This means that the page uses SSL, the technology that secures web pages with sensitive information. A popular and widespread version of SSL is&nbsp;OpenSSL, which is used by almost 60 percent of all websites.&nbsp;OpenSSL&nbsp;is where this bug was found.</p>
+<p>On some versions of this system a small but critical error made it possible for a hacker to &ldquo;snoop&rdquo; the encrypted data being passed back and forth without being detected. Experts estimate that this problem has existed for the past two years.</p>
+<p>While some internet security threats are overblown, this one is real. World-renowned internet security expert and author Bruce&nbsp;Schneier&nbsp;recently stated that &ldquo;on a scale of 1 to 10, this is an 11.&rdquo;</p>
+<p><strong>What Can I Do About It?</strong></p>
+<p>The bad news is that there is not a lot that ordinary users can do about this. It is up to the companies that run the compromised websites to fix it. Patches are available, and IT administrators world-wide should be scrambling to implement them.</p>
+<p>For the moment, the best thing you can do is to avoid compromised websites that have not yet been fixed. How do you know if a site is compromised? You can check it by entering the address of the site at this page:&nbsp;<a href="http://filippo.io/Heartbleed/" target="_blank" data-cke-saved-href="http://filippo.io/Heartbleed/">http://filippo.io/Heartbleed/</a></p>
+<p>Major websites that are known to be SAFE and were UNAFFECTED include:</p>
+<ul><li>Twitter</li>
+<li>Amazon</li>
+<li>Microsoft (and sub-sites)</li>
+<li>AOL</li>
+<li>Paypal</li>
+<li>Most banking websites</li>
+</ul><p>Major websites that are SAFE but had been PREVIOUSLY AFFECTED include:</p>
+<ul><li>Google</li>
+<li>Gmail</li>
+<li>YouTube</li>
+<li>Facebook</li>
+<li>Yahoo!</li>
+<li>Instragram</li>
+<li>Pinterest</li>
+<li>OKCupid</li>
+<li>GoDaddy</li>
+</ul><p>Mashable&nbsp;has&nbsp;<a href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/" data-cke-saved-href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/">a long list of sites that were affected</a>&nbsp;with up-to-date information about their security status.</p>
+<p><strong>Should I Change My Passwords?</strong></p>
+<p>Yes,&nbsp;as long as the website you are changing your password on has been fixed. If you change your password on a site that is still vulnerable, hackers can simply grab your new password! At this point, however, it should be safe to change your password virtually everywhere.</p>
+<p>Your best bet to protect yourself is to&nbsp;use separate passwords for every website.</p>
+<p>We have long preached the virtues of&nbsp;<a href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords" target="_blank" data-cke-saved-href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords">password managers</a>. These are programs that can&nbsp;generate truly random passwords and remember which password goes with which website for you.&nbsp;It used to be just a good idea to use a password manager, but now you need to seriously consider using one.</p>
+<p>The password managers we recommend are&nbsp;<a href="https://lastpass.com/" target="_blank" data-cke-saved-href="https://lastpass.com/">LastPass</a>,&nbsp;<a href="https://www.dashlane.com/" target="_blank" data-cke-saved-href="https://www.dashlane.com/">DashLane&nbsp;</a>and&nbsp;<a href="http://keepass.com/" target="_blank" data-cke-saved-href="http://keepass.com/">KeePass</a>.&nbsp;LastPass&nbsp;and&nbsp;DashLane&nbsp;store your passwords in a very secure cloud so you can access them from all your computers and mobile devices.&nbsp;KeePass&nbsp;stores them on your hard drive. Use whichever feels more comfortable to you, but please use one!</p>
+<p>If you are dead set against password managers, you should still try to use different passwords for different sites. Your Amazon password should be different from your email password, which should be different from your bank password. To help you remember these passwords, consider writing them down and storing them somewhere safe at home &ndash; like, maybe in a safe!</p>
+<p><strong>What Else Can I Do?</strong></p>
+<p>Become better educated about internet security! With so much of our lives now stored online, this is a topic that affects virtually everyone. Knowing good password practices, like how to make a hard-to-guess password and that you should have separate passwords for separate websites, is critical.</p>
+<p>Check websites that you regularly visit for the&nbsp;Heartbleed&nbsp;vulnerability using the link above. If you find that one has problems, you could try emailing their IT administrators to inform them and find out what steps are being taken. In the meantime, stay off of that website. Once the hole is plugged, log in and change your password.</p>
+<p>Keep an eye on bank statements and credit card information for unusual activity.&nbsp;Heartbleed&nbsp;was discovered by security researchers. We have no proof that hackers have been using it, but the possibility exists. That means you need to take precautions to protect yourself in the digital world.</p>
+<p>If you have more questions, call us a <a href="tel:18889729868">1-888-972-9868</a> or email us at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/heartbleed-passwords/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>The End of Blogging?</title>
+		<link>/2013/03/the-end-of-blogging/</link>
+		<comments>/2013/03/the-end-of-blogging/#comments</comments>
+		<pubDate>Fri, 15 Mar 2013 11:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Google Reader]]></category>
+		<category><![CDATA[RSS]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6954</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/AngryBloggers-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google is feeling the wrath of angry bloggers." style="float:left; margin:0 15px 15px 0;" />In a statement that has rocked the blogosphere to its core, Google has announced that as part of its annual &#8216;spring cleaning&#8217; it will be shuttering Google Reader: We have just announced on the Official Google Blog that we will <a href="/2013/03/the-end-of-blogging/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/the-end-of-blogging/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/AngryBloggers-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google is feeling the wrath of angry bloggers." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/03/AngryBloggers.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7038" title="Google is feeling the wrath of angry bloggers." alt="" src="//media/2013/03/AngryBloggers-300x200.jpg"  width="300" height="200"></a>In a statement that has rocked the blogosphere to its core, Google has announced that as part of its annual &lsquo;spring cleaning&rsquo; <a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html" target="_blank">it will be shuttering Google Reader</a>:</p>
+<blockquote style="padding-left: 30px;"><p>We have just announced on the Official Google Blog that we will soon retire Google Reader (the actual date is July 1, 2013). We know Reader has a devoted following who will be very sad to see it go. We&rsquo;re sad too.</p>
+<p>There are two simple reasons for this: usage of Google Reader has declined, and as a company we&rsquo;re pouring all of our energy into fewer products. We think that kind of focus will make for a better user experience.</p>
+<p>To ensure a smooth transition, we&rsquo;re providing a three-month sunset period so you have sufficient time to find an alternative feed-reading solution.</p></blockquote>
+<p>The problem is, there <em>is </em>no alternate feed reading solution. Google Reader has become the alpha and omega of RSS feed aggregation.</p>
+<p>RSS readers allow you to pull content from multiple blogs and news sites (via &lsquo;feeds&rsquo;) and read them in one location. For an information omnivore like me, they are a must have: a way to parse through dozens or even hundreds of blogs daily for new content without having a bookmark for every single blog that might interest me.</p>
+<p>As <a href="http://www.businessweek.com/articles/2013-03-14/google-unplugs-google-reader-sending-its-loyal-users-elsewhere" target="_blank">BusinessWeek put it</a>:</p>
+<blockquote style="padding-left: 30px;"><p><em>But serious RSS users aren&rsquo;t into it for the luscious jpegged&nbsp;beauty. RSS feeds, taken straight, are a wall of text. That&rsquo;s useful when you want to let news wash over you, to scan screenfuls&nbsp;of headlines without waiting for extraneous pictures to load. When I want to absorb a lot of information fast-which is to say, always-I don&rsquo;t have time for Flipboard. I want exactly what Google will be taking away from me this summer.</em></p></blockquote>
+<p>Lest you think I exaggerate about the sheer volume of content I personally consume via Google Reader, here is a snapshot of the stats from my GR &lsquo;Trends&rsquo; page:</p>
+<p><a href="http://1.bp.blogspot.com/-K5uZohsrmWw/UUHpzV0E4hI/AAAAAAAAAgI/Z99VmYfnp5Q/s1600/GoogleReaderStats.jpg" class="gallery_colorbox"><img alt="" src="http://1.bp.blogspot.com/-K5uZohsrmWw/UUHpzV0E4hI/AAAAAAAAAgI/Z99VmYfnp5Q/s400/GoogleReaderStats.jpg"  width="400" height="197" border="0"></a></p>
+<p>For Google Reader users this is not at all the exception. Reader may have a smaller user-base than other Google tools, but there&rsquo;s no doubt that they are almost all power-users: bloggers, journalists, media-hawks of all stripes. There are several petitions already up at Change.org, one of which has already surpassed 50,000 signatures (<a href="https://www.change.org/petitions/google-keep-google-reader-running" target="_blank">sign it!</a>). The Google Reader support forums are <a href="http://productforums.google.com/forum/#!categories/reader/something-is-broken" target="_blank">choked with wails of agony</a>. And Reader-dependent journalists from every virtually every news organization are<a href="https://www.google.com/search?hl=en&amp;gl=us&amp;tbm=nws&amp;q=google+reader&amp;oq=google+reader&amp;gs_l=news-cc.3..43j43i53.2711.4078.0.4253.13.5.0.8.8.0.77.357.5.5.0...0.0...1ac.1.3ceXOkjiM2o" target="_blank"> noting its passing</a>.</p>
+<p>There are, of course, other RSS readers out there. The problem is, even if you don&rsquo;t use Google Reader <em>you probably actually use Google Reader</em>. Google Reader&rsquo;s powerful back-end synchronizes your feeds and the content you have and haven&rsquo;t read across multiple devices. Most feed readers currently on the market, from desktop clients to smartphone apps, take advantage of this by plugging into it. The developers of these readers will now be scrambling to come up with their own back-end solutions before the service sunsets on July 1st.</p>
+<p>Should a viable alternative not emerge, this could spell big trouble for the small blogs of the world. I read Tyler Cowen&rsquo;s &lsquo;Marginal Revolution&rsquo; blog every day and would probably remember to check it without a feed reader. But I follow other, smaller blogs, often blogs written by friends, which update irregularly. If you follow&nbsp;<a title="Tom Noir.com" href="http://www.tomnoir.com/" target="_blank">my blog</a> this is the case for you too: I don&rsquo;t update daily, so without some sort of feed you&rsquo;d have to remember to manually check this blog now and again.</p>
+<p>Again, Google Reader is not the only way to do this, but it is the <em>main</em>&nbsp;way people do it. Google Reader has been in service since 2005 and has garnered a substantial following in the intervening eight years. As one blogger <a href="https://twitter.com/siracusa/status/311984542770659328" target="_blank">tweeted</a>:</p>
+<blockquote>
+<ol><li>Drive competing services out of business with a free service (subsidized by a profitable product).</li>
+<li>Cancel free service.</li>
+<li>???</li>
+</ol></blockquote>
+<p>The implications of Google&rsquo;s cancellation of its Reader service go far beyond the loss of a useful tool, as <a href="http://www.forbes.com/sites/tomwatson/2013/03/13/googles-strange-attack-on-bloggers-and-the-public-internet-the-massive-reaction-to-reader-shutdown/" target="_blank">a Forbes blogger bitterly notes</a>:</p>
+<blockquote><p><em>Does Google understand the concept of corporate social responsibility? That seems to be the basic question around the company&rsquo;s strange decision to shut down a tiny service that serves as a major audience conduit for many thousands of bloggers, citizen journalists, and self publishers.</em></p>
+<p>Google&rsquo;s announcement today that it is destroying Google Reader, the most popular RSS syndication tool was a massive blow to the blogging community &ndash; and to most of those speaking out tonight via social media, an entirely unnecessary attack on an important corner of the public Internet by a company with more than $50 billion in revenue and a newly won reputation as a tech giant on the move.</p></blockquote>
+<p>Google&rsquo;s decision is also shaking the faith of myself and many others in the Google eco-system. If Google is willing to pull the plug on Reader, what tool or service that we use might be next to get the axe at the search giant&rsquo;s whim? Perhaps Blogger? If Google is getting out of blogs entirely I&rsquo;ll be forced to move TomNoir.com in its entirety to some other blog service.</p>
+<p>Several voices have pointed out that Google Reader is probably not very profitable for Google. It does serve up some ads, but in a minimalist fashion. Meanwhile, even if it isn&rsquo;t actively developing the service anymore it <em>does </em>have to maintain the back-end servers. So maybe it makes good business sense for Google to put the axe to reader.</p>
+<p>Or does it? Google Reader is a wildly successful product by the standards of any ordinary software company. Its user base must number in the hundreds-of-thousands, if not millions. Only to a company that measures web traffic by the hundreds of millions and even <em>billions</em> would this seem like a dismal flop. Google is viewing Reader through the same lens with which it views its other products: as a service to drive ad revenue.</p>
+<p>This is a mistake.</p>
+<p>If Google&rsquo;s give-it-away-free model doesn&rsquo;t make sense for Google Reader, why not try charging for the service? Google could charge the other feed readers that use its back-end API. Or it could even charge its users. <em>I would pay</em>. Google Reader is absolutely worth, say, $30/year to me.</p>
+<p>You hear that, Google? You&rsquo;ve got a user base you could actually <em>monetize</em>! If only you will listen before it&rsquo;s too late.</p>
+<p>Otherwise you&rsquo;re killing off the thriving-but-often-invisible universe of small blogs. You&rsquo;re alienating a base of vocal power-users. And you&rsquo;re shattering those users&rsquo; faith in your willingness to continue supporting services you&rsquo;ve developed.</p>
+<p>Originally posted at <a title="Tom Noir.com" href="http://www.tomnoir.com/2013/03/the-end-of-blogging.html" target="_blank">TomNoir.com</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/the-end-of-blogging/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Very Bad Ways To Wake Up [Friday Funnies]</title>
+		<link>/2013/03/very-bad-ways-to-wake-up-friday-funnies/</link>
+		<comments>/2013/03/very-bad-ways-to-wake-up-friday-funnies/#comments</comments>
+		<pubDate>Fri, 08 Mar 2013 18:53:21 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Friday Funnies]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6915</guid>
+		<description><![CDATA[Someone made a supercut of really mean ways to wake people up. They&#8217;re funny when they aren&#8217;t happening to&#160;you!<p class="more-link-p"><a class="more-link" href="/2013/03/very-bad-ways-to-wake-up-friday-funnies/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Someone made a supercut of really mean ways to wake people up. They&rsquo;re funny when they aren&rsquo;t happening to&nbsp;<em>you!</em></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/aIyQn9jRjP8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Very Bad Ways To Wake Up [Friday Funnies]" data-link="/2013/03/very-bad-ways-to-wake-up-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Very Bad Ways To Wake Up [Friday Funnies]" data-link="/2013/03/very-bad-ways-to-wake-up-friday-funnies/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/very-bad-ways-to-wake-up-friday-funnies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 23 &#8211; Holiday Minisode 1: Tablets vs. Laptops</title>
+		<link>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/</link>
+		<comments>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/#comments</comments>
+		<pubDate>Mon, 10 Dec 2012 14:27:21 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[ESRB]]></category>
+		<category><![CDATA[game ratings]]></category>
+		<category><![CDATA[Google Chromebooks]]></category>
+		<category><![CDATA[Google Nexus 7]]></category>
+		<category><![CDATA[Google tablet]]></category>
+		<category><![CDATA[hashtag baby]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[netbook]]></category>
+		<category><![CDATA[Nexus 7]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[wipe hard drive]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6422</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/ray_with_tom_smile-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s face with Tom&#039;s Smile" style="float:left; margin:0 15px 15px 0;" />Episode 23 &#8211; Holiday Minisode 1: Tablets vs. Laptops Ray Hollister was out for today&#8217;s episode, but don&#8217;t worry, he&#8217;s always with us in spirit! Kristen Spencer co-hosts with Tom Braun as they talk about what video games, game systems, <a href="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/ray_with_tom_smile-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s face with Tom&#039;s Smile" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/12/ray_with_tom_smile.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-6433" title="What a great smile!" src="//media/2012/12/ray_with_tom_smile.jpg"  alt="Ray's Face with Tom's Smile" width="300" height="260"></a></p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3">Episode 23 &ndash; Holiday Minisode 1: Tablets vs. Laptops</a></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-6422-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3</a></audio><p>Ray Hollister was out for today&rsquo;s episode, but don&rsquo;t worry, he&rsquo;s always with us in spirit! Kristen Spencer co-hosts with Tom Braun as they talk about what video games, game systems, tablets and laptops to get your kids for the holidays.</p>
+<p>And make sure you listen <em>all</em> the way to the end for a little something&hellip; extra.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="itpc://feeds.feedburner.com/DeemableTech" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="pcast://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Should I buy my son a tablet or a laptop?</li>
+<li>What&rsquo;s the point of Twitter? And did someone really name their baby &lsquo;Hashtag&rsquo;?</li>
+<li>How do I make sure all personal data is erased before giving someone my old computer?</li>
+</ul><h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://www.esrb.org/mobile/">ESRB Game Rating Search App</a></li>
+<li><a href="https://play.google.com/store/devices/details?id=nexus_7_16gb">Buy a Nexus 7</a></li>
+<li><a href="http://www.google.com/intl/en/chrome/devices/#utm_campaign=en&amp;utm_source=en-ha-na-us-bkws&amp;utm_medium=ha">Buy Google Chromebooks</a></li>
+<li><a href="http://www.csmonitor.com/Innovation/Tech-Culture/2012/1128/Baby-named-Hashtag-draws-Internet-fame-ire-skepticism">Baby named &ldquo;Hashtag&rdquo; goes viral</a></li>
+<li><a href="http://sourceforge.net/projects/dban/">DBAN &ndash; Free program for wiping a hard drive</a></li>
+<li><a href="http://pcsupport.about.com/od/toolsofthetrade/ht/write-zeros-format-command.htm">The &lsquo;Write Zero&rsquo; method of hard drive formatting</a></li>
+</ul><p>&nbsp;</p>
+<div></div>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3" length="29745319" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Disney Buys Star Wars! Image Mashup Roundup</title>
+		<link>/2012/10/disney-buys-star-wars-image-mashup-roundup/</link>
+		<comments>/2012/10/disney-buys-star-wars-image-mashup-roundup/#comments</comments>
+		<pubDate>Wed, 31 Oct 2012 19:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Death Star]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[Epcot]]></category>
+		<category><![CDATA[Industrial Light and Magic]]></category>
+		<category><![CDATA[LucasArts]]></category>
+		<category><![CDATA[Mashups]]></category>
+		<category><![CDATA[Skywalker Sound]]></category>
+		<category><![CDATA[Spaceship Earth]]></category>
+		<category><![CDATA[Star Wars]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5946</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/10/vadermouse-300x267-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="vadermouse-300x267" style="float:left; margin:0 15px 15px 0;" />By now you&#8217;ve surely heard the news that Disney just forked over $4.05&#160;billion dollars to buy LucasFilm LTD, lock stock and barrel, with the explicit intent of making more Star Wars films. If you want actual facts about the deal, <a href="/2012/10/disney-buys-star-wars-image-mashup-roundup/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/10/disney-buys-star-wars-image-mashup-roundup/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/10/vadermouse-300x267-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="vadermouse-300x267" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/10/vadermouse-300x267.jpg" class="gallery_colorbox" rel="attachment wp-att-5954"><img class="alignleft  wp-image-5954" title="Vader Mouse" src="//media/2012/10/vadermouse-300x267.jpg"  alt="" width="240" height="214"></a>By now you&rsquo;ve surely heard the news that Disney just forked over $4.05&nbsp;<em>billion</em> dollars to buy LucasFilm LTD, lock stock and barrel, with the explicit intent of making more Star Wars films. If you want actual facts about the deal, <a href="http://www.forbes.com/sites/dorothypomerantz/2012/10/30/disney-planning-new-star-wars-movie-with-lucasfilms-purchase/" target="_blank">try this</a>. But we&rsquo;re not here to annoy you with&nbsp;<em>facts</em>. We&rsquo;re here to bring you wacky image mash-ups of Disney and Star Wars!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Obviously, Disney will be making more room for Star Wars in its theme parks:</p>
+<p><a href="http://deemable.com/media/2012/10/EpcotDeathStar-300x193.png" class="gallery_colorbox" rel="attachment wp-att-5948"><img class="size-medium wp-image-5948 alignnone" title="That's No Moon...or Spaceship Earth either!" src="//media/2012/10/EpcotDeathStar-300x193.png"  alt="" width="300" height="193"></a></p>
+<p>But The Mouse will be calling all the shots now.</p>
+<p><a href="http://deemable.com/media/2012/10/mickeydarth-300x258.jpg" class="gallery_colorbox" rel="attachment wp-att-5951"><img class="alignnone size-medium wp-image-5951" title="mickeydarth" src="//media/2012/10/mickeydarth-300x258.jpg"  alt="" width="300" height="258"></a></p>
+<p>Speaking of shots&hellip;</p>
+<p><a href="http://deemable.com/media/2012/10/remyshotfirst-300x187.jpg" class="gallery_colorbox" rel="attachment wp-att-5952"><img class="alignnone size-medium wp-image-5952" title="Remy Shot First" src="//media/2012/10/remyshotfirst-300x187.jpg"  alt="" width="300" height="187"></a></p>
+<p>Will Disney be able to resist the urge to do a little George Lucas-style digital tinkering of their own with the original films?</p>
+<p><a href="http://deemable.com/media/2012/10/disney-star-wars-300x133.jpg" class="gallery_colorbox" rel="attachment wp-att-5956"><img class="alignnone size-medium wp-image-5956" title="A Trinary System?" src="//media/2012/10/disney-star-wars-300x133.jpg"  alt="" width="300" height="133"></a></p>
+<p>Predictably, George himself seems pretty happy about selling out.</p>
+<p><a href="http://deemable.com/media/2012/10/lucas_disney-300x223.jpg" class="gallery_colorbox" rel="attachment wp-att-5950"><img class="alignnone size-medium wp-image-5950" title="George Lucas poses with Mickey, Minnie, Goofy and Donald dressed up as the cast of Star Wars." src="//media/2012/10/lucas_disney-300x223.jpg"  alt="" width="300" height="223"></a></p>
+<p>You don&rsquo;t need to see any more pictures. These aren&rsquo;t the pictures you&rsquo;re looking for. Move along.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disney Buys Star Wars! Image Mashup Roundup" data-link="/2012/10/disney-buys-star-wars-image-mashup-roundup/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disney Buys Star Wars! Image Mashup Roundup" data-link="/2012/10/disney-buys-star-wars-image-mashup-roundup/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/10/disney-buys-star-wars-image-mashup-roundup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting Smarter About My Smartphone</title>
+		<link>/2012/09/getting-smarter-about-my-smartphone/</link>
+		<comments>/2012/09/getting-smarter-about-my-smartphone/#comments</comments>
+		<pubDate>Thu, 13 Sep 2012 15:28:51 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[gestures]]></category>
+		<category><![CDATA[GS3]]></category>
+		<category><![CDATA[Ice Cream Sandwich]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[Samsung Galaxy SIII]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[tips]]></category>
+		<category><![CDATA[voice commands]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5501</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/09/samsung-gs3-lg1-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Samsung Galaxy SIII... in ravishing Pebble Blue" style="float:left; margin:0 15px 15px 0;" />I&#8217;ve been proud Android smartphone user for a couple of years now. I&#8217;m a big fan and I&#8217;ll stack a top-of-the-line Android phone up against an iPhone any day of the week, but I have to admit that Apple does <a href="/2012/09/getting-smarter-about-my-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/09/getting-smarter-about-my-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/09/samsung-gs3-lg1-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Samsung Galaxy SIII... in ravishing Pebble Blue" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/09/samsung-gs3-lg1.jpg" class="gallery_colorbox"><img class="alignright  wp-image-5503" title="The Samsung Galaxy SIII... in ravishing Pebble Blue" src="//media/2012/09/samsung-gs3-lg1-300x300.jpg"  alt="The Samsung Galaxy SIII... in ravishing Pebble Blue" width="192" height="192"></a>I&rsquo;ve been proud Android smartphone user for a couple of years now. I&rsquo;m a big fan and I&rsquo;ll stack a top-of-the-line Android phone up against an iPhone any day of the week, but I have to admit that Apple does a much, <em>much</em> better job of publicizing their phones&rsquo; features.</p>
+<p>I recently purchased the <strong>Samsung Galaxy SIII</strong>, widely considered to be the best Android phone on the market today (and I mean exactly at the time I&rsquo;m writing this &ndash; because tomorrow, who knows!). But what makes this phone so special? Pick it up and start playing with it and your first impressions will likely be, ?It&rsquo;s so fast! It&rsquo;s so thin! It&rsquo;s so shiny!? But like me, you probably won&rsquo;t have a clue about all the cool things it can do initially*. The GS3 is much more than just a pretty face: it&rsquo;s stuffed with innovative features. You just have to know where to find them.</p>
+<p>I&rsquo;ve been doing a little research into my new smartphone and have been completely blown away by some of the features I&rsquo;ve discovered. Here are some of the coolest hidden things that your Samsung Galaxy SIII can do:</p>
+<h2>The Best Part of Waking Up is Your Samsung Galaxy SIII</h2>
+<div id="attachment_5507" style="width: 111px" class="wp-caption alignleft"><a href="http://deemable.com/media/2012/09/Screenshot_Alarm_Briefing.png" class="gallery_colorbox"><img class=" wp-image-5507" title="Alarm settings screen" src="//media/2012/09/Screenshot_Alarm_Briefing-168x300.png"  alt="Alarm settings screen" width="101" height="180"></a><p class="wp-caption-text">Set your alarm mode to &lsquo;briefing&rsquo; to wake up feeling like Tony Stark!</p></div>
+<p>Remember <a href="http://www.youtube.com/watch?v=sXH2K2ZlrjQ" target="_blank">that scene from Iron Man</a> where the girl at Tony Stark&rsquo;s house is woken up by a computerized voice greeting her and reading the surf and weather report? Yeah, the GS3 can totally do that. It will also read you the top news headline and tell you about any events on today&rsquo;s calendar.</p>
+<p>Oh, and if all that&rsquo;s too much for you at 6:45 AM in the morning you can just shout ?SNOOZE!? at it and it will leave you alone for another ten minutes.</p>
+<p>You can find all these features under the options for the pre-installed Clock app. Just create an alarm and set it to ?briefing&rsquo; mode.</p>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2>Talk To Me, Baby</h2>
+<div id="attachment_5510" style="width: 111px" class="wp-caption alignright"><a href="http://deemable.com/media/2012/09/Screenshot_S_Voice.png" class="gallery_colorbox"><img class=" wp-image-5510" title="S-Voice" src="//media/2012/09/Screenshot_S_Voice-168x300.png"  alt="S-Voice" width="101" height="180"></a><p class="wp-caption-text">Samsung&rsquo;s S-Voice is absolutely nothing like Siri, really!</p></div>
+<p>The GS3 comes pre-installed with something called S-Voice, which is apparently Samsung&rsquo;s latest effort to get sued by Apple for blatantly ripping off Siri. S-Voice has some cool features, but in practice it just doesn&rsquo;t work that well and seems kind of gimmicky. But you don&rsquo;t need it anyway. The GS3 runs Ice Cream Sandwich, and its voice recognition capabilities are already phenomenal.</p>
+<div id="attachment_5504" style="width: 111px" class="wp-caption alignleft"><a href="http://deemable.com/media/2012/09/Screenshot_2012-09-13-08-49-13.png" class="gallery_colorbox"><img class=" wp-image-5504" title="Texting with voice input" src="//media/2012/09/Screenshot_2012-09-13-08-49-13-168x300.png"  alt="Texting with voice input" width="101" height="180"></a><p class="wp-caption-text">Talk to the one thing that really understands you&hellip; your phone!</p></div>
+<p>Tired of typing out your text messages? Why not just speak them instead? Click the microphone icon on the on-screen keyboard and just start talking. The phone&rsquo;s voice recognition is impressively fast and accurate. Many of the pre-installed apps also understand voice commands: you can answer or reject an incoming call by just saying ?Answer? or ?Reject?, you can take photos by saying ?Capture? or ?Cheese? and you can even use voice commands to adjust the volume on the music player.</p>
+<p>To activate these features and learn more about them, go to the main Settings for the phone, then select ?Language and Input? and click on ?Voice cmd for apps.? You can also set the phone for ?Driving Mode? where incoming calls and new notifications will be read out to you by your phone.</p>
+<h2></h2>
+<h2></h2>
+<h2>Lock Screen Love</h2>
+<div id="attachment_5506" style="width: 131px" class="wp-caption alignright"><a href="http://deemable.com/media/2012/09/Screenshot_2012-09-13-09-31-03.png" class="gallery_colorbox"><img class=" wp-image-5506" title="The lock screen" src="//media/2012/09/Screenshot_2012-09-13-09-31-03-168x300.png"  alt="" width="121" height="216"></a><p class="wp-caption-text">Ooh, looks like I&rsquo;ve got mail!</p></div>
+<p>Besides the oh-so-pretty ripple effect that follows your finger when you slide-to-unlock, the GS3&rsquo;s lock screen offers quick access to all kinds of features. Note the four icons at the bottom: they are customizable, and dragging your finger up from any of them (say, for example, the camera) will load that app immediately. You can also drag the notification bar down to check out alerts without having to unlock your phone. Text messages float in the lock screen, and appointment reminders will replace it until you tell them to go away. You can also configure your lock screen to show the weather or a stock ticker.</p>
+<p><a href="http://deemable.com/media/2012/09/Screenshot_Flashlight_App.png" class="gallery_colorbox"><img class="alignleft  wp-image-5508" title="Tiny Flashlight + LED" src="//media/2012/09/Screenshot_Flashlight_App-168x300.png"  alt="Tiny Flashlight + LED" width="100" height="178"></a></p>
+<p>All of this can be configured from Settings &gt; Security &gt; Lock screen options.</p>
+<p>One last lock screen feature I want to mention is cheating a little bit since I&rsquo;m mostly talking about stock, pre-installed apps here, but this is too cool to pass over: download the free app ?Tiny Flashlight + LED? from the Play Market. It turns your phone&rsquo;s LED camera flash into a very bright flashlight at the touch of a button, which is nice, but not revolutionary. But if you go into the settings (by touching the circle at the upper right of the app, then the tool icon) you&rsquo;ll discover that you can set it to turn on for 20 seconds just by shaking the phone when you&rsquo;re on the lock screen. So if your power goes out and all of a sudden you&rsquo;re in the dark you just pull out your phone and give it a shake and you&rsquo;re back in business. Nice.</p>
+<h2></h2>
+<h2>Shake It Like A Polaroid Picture</h2>
+<p><a href="http://deemable.com/media/2012/09/Screenshot_2012-09-13-08-50-40.png" class="gallery_colorbox"><img class="alignright  wp-image-5505" title="The Motion Settings menu" src="//media/2012/09/Screenshot_2012-09-13-08-50-40-168x300.png"  alt="The Motion Settings menu" width="134" height="240"></a>The first thing that any new GS3 owner should do with their phone is to go to the main settings menu and select ?Motion&rsquo;. Every smartphone owner knows about simple touch gestures like flicking up and down a list to scroll quickly or pinch-to-zoom (although the calendar app adds a cool use for this &ndash; zooming in and out of calendar, from days to weeks to months), but Samsung and Google have added an impressive number of intuitive motions to the gesture control alphabet.</p>
+<p>A few of my favorites: swipe <em>left</em> on a contact to text them, swipe <em>right</em> to call them. Want to capture what&rsquo;s on your screen? Swipe your entire hand across it. Ever had a text message conversation get to the point where you realize that it&rsquo;s simpler to just pick up the phone and call the person? While on the text message screen, pick up the phone and hold it to your ear and the GS3 will make the call. Brilliant!</p>
+<p><a href="http://deemable.com/2012/09/getting-smarter-about-my-smartphone/screenshot_swipe_contacts/" rel="attachment wp-att-5511"><img class="alignleft size-medium wp-image-5511" title="Swiping contacts" src="//media/2012/09/Screenshot_Swipe_Contacts-168x300.png" alt="Swiping contacts" width="168" height="300"></a>Shaking also happens to be the default ?refresh&rsquo; motion for many things. From the Bluetooth screen or the Wi-Fi screen try shaking your phone to look for nearby networks and devices.</p>
+<p>There are too many motion-activated abilities on this phone to list here, but that&rsquo;s okay. Clicking on any of them in the settings menu will allow you to enter a tutorial mode where you can try the gesture out for yourself. You&rsquo;ll be panning, tilting and shaking in no time flat.</p>
+<h2>Pics Or It Didn&rsquo;t Happen</h2>
+<p>If you&rsquo;ve seen the TV commercials for the Samsung Galaxy S3, you know that it is supposed to allow you to watch a video and do other things with the phone, such as text. This actually works as advertised &ndash; clicking the box in the lower right hand corner of a video will put it in a small window and then you&rsquo;re free to navigate the phone as usual while the video plays. Why you&rsquo;d want to do this is another question entirely. For my money, there are several video and camera features on the phone that are far more useful.</p>
+<p>The camera offers the ability to take a bunch of shots and then stitch them together into a panorama. It works pretty seamlessly. After you&rsquo;re done, you can hold the screen and move the phone back and forth to sweep across the scene. There is also a burst mode for taking a bunch of shots back to back. But one of my favorite features, which I mentioned before, is being able to stabilize the camera with both hands and tell it to take a picture by saying ?shoot? or ?capture.?</p>
+<p><a href="http://deemable.com/media/2012/09/Screenshot_Voice_Command_Camera.png" class="gallery_colorbox"><img class="wp-image-5512 alignright" title="Take pictures with voice commands" src="//media/2012/09/Screenshot_Voice_Command_Camera-300x168.png"  alt="Take pictures with voice commands" width="240" height="134"></a></p>
+<p>Flicking a toggle on the camera screen switches over to video mode. A cool feature in video mode is that you can snap still shots while you are recording! You can also pinch-to-zoom to zoom in the camera.</p>
+<h2>It&rsquo;s the Little Things</h2>
+<p>There&rsquo;s so much more. You probably figured you could assign your contacts custom ringtones, but did you know you can also assign them custom vibration patterns? Love of your life calling? How about giving them the ?heartbeat&rsquo; vibration? Hair stylist? You can drum out a custom pattern: ?Shave-and-a-haircut, two bits.?</p>
+<p>The Samsung Galaxy SIII does a great job of making the basic jobs of smartphones fast, easy and hassle-free. You don&rsquo;t have to know about any of these features to really enjoy using it. But this phone is packed with clever little surprises that can make your life that much easier, so it&rsquo;s worth exploring!</p>
+<p><em>* To be fair, Samsung does discuss some of these ?hidden&rsquo; features in the phone&rsquo;s thick manual. But who actually reads those things??</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Getting Smarter About My Smartphone" data-link="/2012/09/getting-smarter-about-my-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Getting Smarter About My Smartphone" data-link="/2012/09/getting-smarter-about-my-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/09/getting-smarter-about-my-smartphone/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Nokia unveils flagship Windows 8 smartphone Lumia 920</title>
+		<link>/2012/09/nokia-unveils-flagship-windows-8-smartphone/</link>
+		<comments>/2012/09/nokia-unveils-flagship-windows-8-smartphone/#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 15:43:33 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Lumia]]></category>
+		<category><![CDATA[Lumia 920]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows Phone 8]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5450</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/09/nokia-lumia-920-color-range-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Nokia Lumia 920 - All of the colors" style="float:left; margin:0 15px 15px 0;" />Wednesday at a New York City press event, Nokia unveiled two new Windows 8 phones: the Nokia Lumia 920 and the Nokia Lumia 820. A Microsoft representative was present at the event to show off some of the phone&#8217;s Windows <a href="/2012/09/nokia-unveils-flagship-windows-8-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/09/nokia-unveils-flagship-windows-8-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/09/nokia-lumia-920-color-range-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Nokia Lumia 920 - All of the colors" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/09/nokia-lumia-920-color-range.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-5458" src="//media/2012/09/nokia-lumia-920-color-range-300x300.jpg"  alt="" width="300" height="300"></a>Wednesday at a New York City press event, Nokia unveiled two new Windows 8 phones: the <a title="Nokia Lumia 920 specs" href="http://www.nokia.com/global/products/phone/lumia920/specifications/" target="_blank">Nokia Lumia 920</a> and the <a title="Nokia Lumia 820 specs" href="http://www.nokia.com/global/products/phone/lumia820/specifications/" target="_blank">Nokia Lumia 820</a>.</p>
+<p>A Microsoft representative was present at the event to show off some of the phone&rsquo;s Windows 8-specific features. The company has apparently taken a page from the Google playbook and decided that Windows 8 phones need a flagship, similar to Android&rsquo;s Samsung Galaxy Nexus phone. It would appear that the Nokia Lumia 920 is that flagship.</p>
+<p>Nokia is an interesting choice as Microsoft&rsquo;s primary partner for Windows Phone 8 as the company has been hemorrhaging market share to Samsung and HTC in the last couple years, while posting billion dollar losses.</p>
+<p>The Lumia 920 that Nokia showed off at Wednesday&rsquo;s event looked impressive, however, with a major focus on a powerful camera that uses ?floating lens&rsquo; technology to stabilize video and take high-quality photographs in low-light situations. Another camera-based integrated feature is ?City Lens&rsquo;, an augmented reality app that tags the environment around the user with information about businesses and restaurants. Nokia is marketing the screen on the phone as ?HD+&rsquo; and claims that it shows up well even in direct sunlight.</p>
+<p>The phone also boasts native support for the Qi wireless charging standard.</p>
+<p>Nokia has not neglected its new phones&rsquo; styling: the 920 comes in a variety of bright, vibrant colors including ?spectacular yellow, stunning lipstick red and seductive gray.? The 820 features easily swappable snap-on backs in a variety of colors. Both phones boast a rounded form-factor, including curved Gorilla Glass screens. Customers are certainly unlikely to confuse the new Nokia Lumia phones with any other smartphone.</p>
+<p>There were a couple small flies in the ointment after the unveiling. Nokia admitted that its impressive side-by-side image stabilization comparisons were not shot with the actual phone. They have now <a title="Nokia's apology and updated demo" href="http://conversations.nokia.com/2012/09/06/an-apology-is-due/" target="_blank">posted a new demo video</a>&nbsp;using the actual phone. While the Lumia 920&rsquo;s stabilized video certainly compares favorably against the iPhone 4s, it&rsquo;s not as effortlessly smooth as the original demo video. Some bloggers are also <a href="http://sefsar.com/nokia-faked-the-still-photos-too" target="_blank">calling some of the demo images of the phone&rsquo;s low-light photo capabilities into question</a>, but we&rsquo;ll probably have to wait until the phone is out in the wild to see how its night-shot camera really stacks up.</p>
+<p>There&rsquo;s no word yet on the official release date although it will probably coincide closely with the official release of Windows 8. The final&nbsp;phone is expected&nbsp;to boast a 1.5GHz dual-core Snapdragon S4&nbsp;processor and 32 mb of on-board memory (no expandable SD slot, though). Pricing and carriers have yet to be announced.</p>
+<p>Both Microsoft and Nokia have a lot riding on the new Lumia phones. Microsoft needs to get a ?must-have&rsquo; Windows 8 phone into the marketplace in order to&nbsp;seriously compete with iOS and Android. And Nokia desperately needs a big hit to help it regain its old position as a major phone maker, or at least put it back in the black.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Nokia unveils flagship Windows 8 smartphone Lumia 920" data-link="/2012/09/nokia-unveils-flagship-windows-8-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Nokia unveils flagship Windows 8 smartphone Lumia 920" data-link="/2012/09/nokia-unveils-flagship-windows-8-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/09/nokia-unveils-flagship-windows-8-smartphone/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	<p style="font-size:10px;">Plugin by <a target ="_blank" href="http://nickpowers.info/wordpress-plugins/social-author-bio/">Social Author Bio</a></p></channel>
+</rss>

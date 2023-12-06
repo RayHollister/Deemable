@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; IT Help</title>
+	<atom:link href="/tag/it-help/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#54 Teenage Mutant Ninja Deemable</title>
+		<link>/2013/11/54-teenage-mutant-ninja-deemable/</link>
+		<comments>/2013/11/54-teenage-mutant-ninja-deemable/#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 17:34:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[GAAM]]></category>
+		<category><![CDATA[Games Art and Music]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[TMNT]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8418</guid>
+		<description><![CDATA[This week Ray and Elizabeth were joined in the studio&#160;by Ryan Paul Thompson, the founder and president of GAAM, Games Art and Music, to talk to us about the upcoming GAAM event, Teenage Mutant Ninja GAAM, Saturday, December 7, 2013 <a href="/2013/11/54-teenage-mutant-ninja-deemable/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/11/54-teenage-mutant-ninja-deemable/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Elizabeth were joined in the studio&nbsp;by Ryan Paul Thompson, the founder and president of <a onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gaamshow.com/']);" href="http://gaamshow.com/">GAAM, Games Art and Music</a>, to talk to us about the upcoming GAAM event, <a href="http://gaam.eventbrite.com/">Teenage Mutant Ninja GAAM</a>, Saturday, December 7, 2013 starting at 6:00 PM. There&rsquo;s going to be&nbsp;video game art exhibit, video game competition, cosplay competition and free beer! Ray, Tom and Sean went to the <a href="http://deemable.com/2013/06/41-the-legend-of-gaam-is-extreme-but-its-not-free-99/">last GAAM show</a>, and it was a blast. If you love video games, you should definitely check it out. Head over to <a href="http://gaam.eventbrite.com/">gaam.eventbrite.com</a> to get your tickets.</p>
+<p style="text-align: center;"><a href="http://gaam.eventbrite.com/"><img class="aligncenter" alt="Teenage Mutant Ninja GAAM" src="//media/2013/11/TMNG.jpg" width="600" height="222"></a></p>
+<p>After the break, Ray and Elizabeth answered listeners questions about&nbsp;&nbsp;transferring an iTunes collection from a dead computer, which antivirus software is the best, and how to restore an iPhone from an older backup.</p>
+<p>And remember, we are prepping for the first Deemable Tech hour-long radio episode. Get your calls in at 1-888-972-9868 to &ldquo;audition&rdquo; for the show!&nbsp;</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8418-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3">#54 Teenage Mutant Ninja Deemable</a></p>
+<p>TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>ELIZABETH: I&rsquo;m Elizabeth Pampalone, in for Tom Braun</p>
+<p>RAY: and this is Deemable Tech. This week&rsquo;s episode is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>ELIZABETH: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: We mentioned this last week, but once Tom get&rsquo;s back, we are going to be&nbsp;working on our first, hour-long Deemable Tech radio special, and we need your help. We need some live callers to be&nbsp;on the show. So, we want you to call and leave a voicemail. We will be using them to pick our callers for the show. Make sure to leave your phone number so we can schedule a time for you to be on the show.</p>
+<p>Now, before we get to your questions, we have a guest back in the studio again, Ryan Thompson, creator and President of GAAM, Games, Art and Music is here! Welcome to the show, Ryan!</p>
+<p>You were on the show back in June before your last event and you guys have another awesome event coming up really soon.</p>
+<p>Questions for Ryan Paul Thompson</p>
+<ul><li>What is GAAM? What is the purpose of GAAM?</li>
+<li>Where did you get the idea for GAAM?</li>
+<li>Ask about the last GAAM&nbsp;event, The Legend of GAAM</li>
+<li>Tell us about Teenage Mutant Ninja GAAM</li>
+</ul><p>Ryan, thanks so much for coming in. Where can our listeners find out more about GAAM and get tickets for the event?</p>
+<p>BREAK</p>
+<p>Well, we have to take a quick break, after the break Elizabeth and I will answer a few questions from you guys about antivirus software, moving your iTunes account to a new computer.</p>
+<p>You&rsquo;re listening to Deemable Tech.</p>
+<p>OUTRO</p>
+<p><b>Name: </b>Phil</p>
+<p><b>Question:</b>&nbsp;How do I switch my iTunes account from an old computer which no longer turns on to my new computer? I&rsquo;ve downloaded iTunes onto&nbsp;the new computer but, needless to say, it doesn&rsquo;t recognize my account. The last time I changed computers with the same problem I had to start a new account on the new computer and reenter music into my library. I have all my music on my iPod but now am not able to add to it.</p>
+<p><b>Answer: </b>Before Switching computers, go into My Music (Music), Itunes, Save the iTunes Library.itl and iTunes Library.xml files to a flash drive or external drive. Install itunes&nbsp;on the new computer. Go into the same location (Music/iTunes) and replace those files with your library files from the older computer. Make sure to move your music files to the same place as they lived on the old computer. (ie Music)</p>
+<p>If it&rsquo;s too late, and you&rsquo;ve already gotten rid of your old computer, try <a href="http://www.digidna.net/diskaid">DiskAid</a> or <a href="http://www.macroplant.com/iexplorer/">iExplorer</a> to take music, movies, etc. off of your iPad, iPod, iPhone and get it into your computer.</p>
+<p><b>Name: </b>Danielle</p>
+<p>&nbsp;<b>Question: </b>Is paying for antivirus software more safer that the free versions? What are some recommendations for antivirus?</p>
+<p><b>Answer: </b>We answered this once before on our <a href="http://deemable.com/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">radio segment</a>. If you are using a Windows: XP, Vista, Win 7 use MS Security Essentials. It is FREE and works seamlessly with Windows Firewall and Windows Defender. Windows 8 has MS Security Essentials built in. It is really the best antivirus software on the market, especially for the price. Word of caution: you can only use ONE antivirus at a time. You can not have TWO running, they will cancel each other out!</p>
+<p>If you are using Mac, antivirus protection is built&nbsp;in. Check System Preferences, Security &amp; Privacy. There are some settings you might want to check out the settings there. Some of the items on General and Privacy tabs are good to go through based on what your personal preferences happen to be.</p>
+<p><b>Name:</b> Valerie</p>
+<p><b>Question:</b> Can I retrieve an iPhone backup from maybe 5 backups ago?</p>
+<p>iPhoto&nbsp;apparently failed on one of my loads from image capture, and of course I had the &ldquo;delete&nbsp;after import&rdquo; option checked. I saw some warning about iPhoto&nbsp;being full (although not an issue since) after my Macbook Pro had been working&nbsp;for awhile. I didn&rsquo;t have time to deal with it and later re-backed up my phone. When I went looking for the 3 months of photos/videos, I couldn&rsquo;t find them anywhere on my computer &mdash; it is a mess. Also my time machine (to my external hard drive) apparently hadn&rsquo;t been working during that time period either. I just can&rsquo;t imagine that the photos/video from the whole&nbsp;upload don&rsquo;t exist in some cache somewhere.</p>
+<p><b>Answer:</b> Plug in your iPhone, click the Summary button, and under Backups click Restore Backup. If you have multiple backups saved, you should have a drop down menu appear. Choose one of the options.</p>
+<p><a href="http://support.apple.com/kb/HT1766">http://support.apple.com/kb/HT1766</a></p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#54 Teenage Mutant Ninja Deemable" data-link="/2013/11/54-teenage-mutant-ninja-deemable/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/54-teenage-mutant-ninja-deemable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-11-03.mp3" length="31698039" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#53 Apple News, Saving Tunes and Scanning Documents</title>
+		<link>/2013/10/53-apple-news-saving-tunes-scanning-documents/</link>
+		<comments>/2013/10/53-apple-news-saving-tunes-scanning-documents/#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[iPad Mini with Retina Display]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Macbook Air]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8397</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&#160; They also answered <a href="/2013/10/53-apple-news-saving-tunes-scanning-documents/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/53-apple-news-saving-tunes-scanning-documents/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&nbsp; They also answered questions about backing up your music collection, how to use your iPhone as a scanner and how to scrub&nbsp;a computer of your personal data before you donate it.</p>
+<audio class="wp-audio-shortcode" id="audio-8397-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">#53 Apple News, Saving Tunes and Scanning Documents </a></p>
+<p><img class="alignright size-large wp-image-8402" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" src="//media/2013/10/10-23-2013-1024x576.png" width="659" height="370"></p>
+<p>TRANSCRIPT</p>
+<p><strong>RAY:</strong> From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p><strong>TOM:</strong> I&rsquo;m Tom Braun,</p>
+<p><strong>RAY: </strong>and <em>this </em>is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p><strong>TOM:</strong>&nbsp;Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p><strong>RAY: </strong>Hey, we are working on recording an hour long Deemable Tech radio special so give us a call to &ldquo;audition&rdquo; for the show.</p>
+<p><strong>TOM: </strong>Today on the show we?re going to answer your questions about using your smart phone to scan things, backing up your music files and donating your old computer. But first let?s talk tech news.</p>
+<p>Ray, I see you chomping at the bit there, so go ahead and tell us about your tech story of the week!</p>
+<p><strong>RAY: </strong>Well Tom, we get to talk about your favorite thing: Apple had a press event!</p>
+<p>Last Tuesday Apple had a big press announcement</p>
+<p>iPad Air</p>
+<p>? Dropped from 1.4 lbs to 1 lb</p>
+<p>iPad Mini with Retina display $399</p>
+<p>? Same price as the iPad 2 which is still on sale.</p>
+<p>iPad Mini price dropped from $329 to $299</p>
+<p>? Still more expensive than a Nexus 7 at $269 and the Nexus 7 has a better screen.</p>
+<p>New Macbook Pros with Retina Display</p>
+<p>? Faster Intel Haswell CPUs</p>
+<p>? 13&Prime; models saw a $200 price drop.</p>
+<p>13&Prime; Macbook stayed the same price</p>
+<p>The 15&Prime; Macbook disappeared.</p>
+<p>Mac Pro (iTrash&nbsp;can) available date and pricing was announced</p>
+<p>? December 2013</p>
+<p>? Starting at $2,999</p>
+<p>last major update was 2010</p>
+<p>Mavericks OSX 10 FREE</p>
+<p>iWork: Pages, Numbers, and Keynote Formerly $9.99 each on iOS and $19.99 on OSX</p>
+<p>iLife: GarageBand, iPhoto, iMovie&nbsp;&ndash; Formerly $4.99 each on iOS and $15.00 each on OSX</p>
+<p>TOM: In the interest of equal time, here are some other non-Apple stories from this week. Best Buy reports that returns of the Samsung Galaxy Gear are over 30%.</p>
+<p>Acer has a new Chromebook, the Acer 720. It?s got a Haswell CPU under the hood. 11.6-inch 1366&times;768 TN screen. It retails for $249. Includes USB 3.0, HDMI.</p>
+<p>RAY: Kenneth writes, <strong>I want to back up my music/photos files on my Dell Home Edition computer that&rsquo;s using Windows XP as an (OS)Operating System. Which backup system or program do you recommend?</strong></p>
+<p><strong>The reason why I need to do this is because while playing music files the music is skipping so I googled the problem and that&rsquo;s what it recommended me to do is backup my music files. I did try downloading a backup program but I was getting an error message at the finish part of the download.</strong></p>
+<p>TOM: Hey Kenneth. We talked a little about backup programs last week, so you?ll want to check that out. There are a lot of good cloud backup programs out there right now, and they?re easy to use.</p>
+<p>If you want to backup&nbsp;music specifically, it actually gets even easier. Google Play Music will scoop up your music library and upload it to their cloud automatically. From there you can access it from anywhere, or download it again if you lose it.</p>
+<p><strong>RAY:</strong> Yeah, it?s great. But I?m a little confused about something.</p>
+<p>TOM: What?s that?</p>
+<p><strong>RAY:</strong> Why would backing up Kenneth?s music files stop his music player from skipping?</p>
+<p>TOM: Uhhhhhhh? yeah, I don?t know. That seems strange. Backing up your music just makes a copy of it. It doesn?t do anything to the original files.</p>
+<p>The only thing I can think of is that maybe Kenneth is just running out of space on his hard drive.</p>
+<p><strong>RAY:</strong> He did say that he was unable to download a backup program. If he was out of space that would make sense.</p>
+<p>TOM: Yeah. Once you get very low on space on your hard drive you won?t be able to download anything that?s not very small. And it causes a lot of other problems too. Your Operating System uses spare hard drive space to do stuff. Like if a program is running in memory but you?re not using it, your OS might dump a snapshot of that memory onto your hard drive temporarily to free up space. But if you?re out of hard drive space, that?s not going to happen. You?ll see your entire computer getting slower and slower. It might even cause your music to skip.</p>
+<p><strong>RAY:</strong> The only way to fix this is to either delete some files, move files off your hard drive, or uninstall programs.</p>
+<p>TOM: Yeah. If you have an older, smaller hard drive you may find yourself having to do this kind of housekeeping quite a lot. Music files are a great way to start. Try downloading Google Music, because it?s super small. Once it has scanned and uploaded your music library to the cloud, which might take a couple days, start deleting music.</p>
+<p><strong>RAY:</strong> You also need to open up Program Files in the Windows control panel and go through and look for programs you aren?t using. If you see any, click and uninstall them. Remember with most programs you can always reinstall them later if you need them.</p>
+<p><strong>TOM:</strong> Nowadays people have a lot of video files on their hard drives. Nothing will eat up space faster. Time to burn some DVDs! And do you really need a copy of every season of Friends?</p>
+<p>We have a voicemail from Geri:</p>
+<p><strong>Hi guys this is jerry&nbsp;calling over wife I&nbsp;from Cameroon in Africa &hellip; I was calling to harass you asked me to let you know if my old computer game would work gravel &hellip; and it&rsquo;s working great it totally will run on my computer so thanks for the tip okay so my new question I&rsquo;ve just been informed by a friend on face book and that I can use my I phone &hellip; camera as a scanner and that they&rsquo;re apps for the I need to know more and so I&rsquo;m calling to best guys I know to help me find out so that you can do the research and tell me the best thing &hellip; I have an I phone for okay thanks</strong></p>
+<p>Depends on what you want to use it for, OCR or image capture.</p>
+<p><strong>OCR</strong></p>
+<p>ABBYY&nbsp;TextGrabber + Translator $5.99</p>
+<p><strong>Image capture</strong></p>
+<p>ABBYY&nbsp;FineScanner $1.99</p>
+<p>JotNot Scanner Pro $.99</p>
+<p>TOM: Julie wrote in: <strong>I have 2 laptop computers that I would like to donate&nbsp;to a school or organization. How can I erase/remove any personal information in the hard drive, before I donate&nbsp;them? i&nbsp;have been told&nbsp;i can reinstall the original set up discs that came with each one but I can&rsquo;t find those. Is there an inexpensive way to do this, i.e. where I don&rsquo;t have to buy expensive software or take it somewhere like Best Buy where it will cost a lot of $$? Thanks. </strong></p>
+<p>We talked about this once before, on episode #42, but it never hurts to repeat. You have the right idea. You definitely want to wipe your computer <em>before</em> you give it away or sell it.</p>
+<p>In that episode, we mentioned If it?s a Windows PC you?re getting rid of, use a program like Eraser or the Drive Wiper in CCleaner to completely eradicate your data. If you?re tossing out a Mac, there?s a program called Permanent Eraser. All of these programs are free.</p>
+<p>However, one of our listeners, Eva, pointed out that this will not wipe the entire hard drive clean, because it won&rsquo;t wipe the operating system. That is true. To wipe the entire hard drive clean, you need to do one of two things, boot it from the USB or CD/DVD drive or remove the hard drive and use a USB adapter to attach it as an external hard drive to another computer.</p>
+<p>Restore partition.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/53-apple-news-saving-tunes-scanning-documents/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3" length="39942353" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#51 How To Root Your TI-84</title>
+		<link>/2013/10/51-root-ti-84/</link>
+		<comments>/2013/10/51-root-ti-84/#comments</comments>
+		<pubDate>Wed, 09 Oct 2013 16:42:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Calendar apps]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[productivity apps]]></category>
+		<category><![CDATA[receipt and recordkeeping]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[to do list apps]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8343</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" />On this week&#8217;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an <a href="/2013/10/51-root-ti-84/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/51-root-ti-84/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this week&rsquo;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an Android app to the SD card. They also announced the winner of the Amazon Gift Card, #24 Eugene!</p>
+<audio class="wp-audio-shortcode" id="audio-8343-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">#51 How To Root Your TI-84</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/NZ5aPUbt3rY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><img class="alignright  wp-image-8344" alt="TI-84-Hacked" src="//media/2013/10/TI-84-Hacked.jpg" width="360" height="322"></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech PODcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: Before we jump into the show, could I ask a favor? ? OK, thanks.</p>
+<p>Would you take a second and tell your friends about Deemable Tech? Especially if you know someone who is interested&nbsp;in learning more about technology, whether they currently know nothing about technology, or you think they already know everything about technology. Tell them to check out Deemable Tech. We&rsquo;d really appreciate it!</p>
+<p>RAY: Also, if you haven&rsquo;t done so already, make sure you are subscribed&nbsp;to Deemable Tech. Just go to iTunes and search for Deemable Tech, or go to deemable.com/itunes to take you directly to our iTunes page. You can also subscribe to our YouTube page. And we&rsquo;re on the Facebook and the Twitter, just search for Deemable Tech.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>RAY: Well, the time is finally here to announce the winner of the Amazon Gift Card contest. If you&rsquo;re not familiar with it, we have been asking&nbsp;you guys to answer a few questions about the Deemable Tech podcast. All you had to do was go to Deemable.com and click the link to take the survey. And if you did it, you are entered&nbsp;to win a $20 Amazon Gift Card, which we are going to draw the winner of riiiight, after we answer your questions!</p>
+<p>TOM: Today on the show we?re going to answer your questions about what phone works best for overseas travel,</p>
+<p>RAY: Which calendar app is the best,</p>
+<p>TOM: How to move apps to the SD Card on an Android phone,</p>
+<p>RAY: And how to print a morning edition. But first &ndash;</p>
+<p>TOM: We have a question from Deborah.</p>
+<p dir="ltr"><strong>Deborah writes:</strong> I am a teacher, and I need to track my receipts for tax purposes. I try to keep up with this on my computer, but invariably forget, get behind, and give up. This leads to me merely estimating my out-of-pocket expenses for my classroom at tax time. Is there a good, FREE app for my iPhone that can help me keep up with my expenses and receipts? I searched the app store at iTunes, but the results list was so long that it was daunting, especially since I cannot sort it for reviews. I thought I had found a winner with <a href="https://www.concur.com/">Concur</a>, but then realized only the app was free &ndash; an online account would require money.</p>
+<p dir="ltr">RAY: Well, let me start by making a disclosure and a disclaimer. I work for the IRS, but I do not speak for the IRS. Don&rsquo;t take anything that I say as representative of the Internal Revenue Service&rsquo;s position&nbsp;on anything. They are solely my opinions and do not necessarily reflect the Internal Revenue Service&rsquo;s view or opinion.</p>
+<p dir="ltr">Also, do not take anything that we say as financial or accounting advice. If you need financial or accounting advice, we strongly recommend seeking expert advice from qualified professionals.</p>
+<p dir="ltr">Now, that being said, we do know of a couple of apps that might work for what you are trying to find. The simplest one, is also free, and it&rsquo;s called <a href="https://drive.google.com/">Google Drive</a>. Just start a Spreadsheet up on Google Drive to keep track of your transactions, and take photos of your receipts and upload them to a Receipt folder in Google Drive.</p>
+<p dir="ltr">Now, for a solution that is custom made for what you are trying to do, <a href="http://www.onereceipt.com/">OneReceipt</a> is a great app that you can use to scan receipts in with your iPhone camera. It automatically determines the amount of the transaction, and what it was for. It also can connect to your email account, so when you get electronic receipts, like from Apple iTunes account, Amazon, Office Depot, Square, etc, it will grab those receipts for you and keep track of them as well.</p>
+<p dir="ltr">The app is currently&nbsp;free, but it is still in beta. Also, I doubt that the optical character recognition is as good as the results imply. There must be someone looking at these receipts to confirm the results. That might make you uncomfortable. But it is pretty seamless and simple to use.</p>
+<p dir="ltr">An app called <a href="http://lemon.com/">Lemon Wallet</a>&nbsp;does the same, but it&rsquo;s mostly focused on storing your credit cards and loyalty cards. The receipt scanning feature isn&rsquo;t quite&nbsp;as good, and the app is a little crashy the last time I tried it.</p>
+<p dir="ltr">I haven&rsquo;t found any other apps that were free or worth the money, if anyone of our listeners know of expense record keeping apps that you like that work on iOS, let us know. Send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">Now, there is a question of&nbsp;whether or not&nbsp;these apps would be sufficient&nbsp;for record keeping if you were audited by the IRS. I wish I could answer that question, but I don&rsquo;t know the answer. But I do know where you can find the answer, go to <a href="http://www.irs.gov/">irs.gov</a> and search for &ldquo;Publication 17 Your Federal Income Tax&rdquo;. That will have all the answers you seek, and if it&rsquo;s not in there, it will usually tell you where to find the answer in a different publication. And if you still can&rsquo;t find the answer, you can call the IRS at 1-800-829-1040 (Individuals) or 1-800-829-4933 (Business)</p>
+<p dir="ltr"><strong>Summer asked:</strong>&nbsp;I listened recently to your advice about using a phone outside the U.S. I will be traveling to MX soon and I&rsquo;ve lived there before, so I actually have an el cheapo phone that I can bring with me and use there. However, I&rsquo;d like to use my iPhone if I could..it&rsquo;s an iPhone 4s, but it&rsquo;s on the Sprint Network. You mentioned iPhone 4s would work&mdash;but that Sprint uses CDMA&hellip;.so&hellip;Is there something I can do so that it will work for me? I won&rsquo;t have a ton of WiFi access&hellip;thanks!</p>
+<p dir="ltr">Great question, Summer. An iPhone 4S does work international because it is a world phone, however, like you said Sprint does use CDMA. There is a SIM card in your phone, but you can&rsquo;t activate it except for international roaming without unlocking your phone. However, if you call Sprint they will might unlock it for you, if you are in good standing with Sprint and you explain why you need it unlocked and you are very nice to them. This will be much easier if you are out of contract. If you are still in contract, you might have a harder time. Otherwise, you&rsquo;ll have to unlock it the old fashioned way, which means jailbreaking it. If that is something you are interested in trying visit&nbsp;<a href="http://www.imore.com/jailbreak">imore.com/jailbreak</a>&nbsp;at your own risk.</p>
+<p><strong>Louis asks:</strong>&nbsp;After recovering items from two different recovery software applications I am unable to open videos and over 90% of the photos. Please provide me guidance to resolve this problem.</p>
+<p>Thanks for your email. We need some additional&nbsp;details to be&nbsp;able to help you out. What operating system are you running, and what software applications did you use? Email us back at questions@deemable.com and hopefully we should be able to help you out. If you need access to those files faster, check out our business directory at <a title="Business Directory" href="http://deemable.com/business-directory/">http://deemable.com/business-directory/</a>&nbsp;and there are several companies in Jacksonville that should be able to help you out.</p>
+<p dir="ltr"><strong>Krysten asked on Facebook:</strong>&nbsp;Can anyone recommend a calendar app for my iPhone? I&rsquo;ve kept my calendar as a list in my notes for years and have accidentally deleted it multiple times, which is all stupid, I know. Haven&rsquo;t found a calendar app yet that I like. I want to be&nbsp;able to integrate tasks I&rsquo;ve given myself for the day and I&rsquo;d like it to be easy to cut/paste from date to date. Suggestions?</p>
+<p dir="ltr">The built in&nbsp;calendar app is pretty good since iOS 7 came out, but I honestly don&rsquo;t think you want a calendar app. I think you want a good task manager or to-do list app.</p>
+<p dir="ltr">Check out <a href="http://www.davidco.com/about-gtd">Getting Things Done</a>. You should only use a calendar app for events that are set in time, not for tasks.</p>
+<p dir="ltr">If you are looking for a to-do app, Reminders in iOS is actually a pretty decent basic task app. If you&rsquo;re looking for something a little more comprehensive, <a href="http://www.toodledo.com/">Toodledo</a>&nbsp;is a great app that will let you organize your tasks by context and by location.</p>
+<p><strong>Dana emailed us:</strong></p>
+<p>I listened to your discussion on the use of cellphones overseas. I wanted to print this. On your website/WJCT, I see that I can listen to it, but I do not see where I can print this.</p>
+<p>Can you forward me a copy of this? I would like to have this copy so I can decide what I would like to do as I plan to travel soon.</p>
+<p>All of our Radio Segments at <a href="http://deemable.com/radio">deemable.com/radio</a> We include a transcript of the segment on the site. We don&rsquo;t have a print friendly version, but we will look into it. The copy of the transcript on <a href="http://wjctnews.org/">WJCT&rsquo;s news website</a> is printer friendly, just click the Print icon above the headline. Otherwise, just copy and paste the text into a Word or Google Drive document.</p>
+<p dir="ltr"><strong>Robert Snyder writes</strong>, I had to uninstall Facebook on my Android phone, and when I reinstalled it, I couldn&rsquo;t move it to my SD card. This is a problem because my phone doesn&rsquo;t have a lot of internal memory.</p>
+<p dir="ltr">Why can&rsquo;t I move it, and is there a way around it?</p>
+<p dir="ltr">TOM: Robert Snyder? Snyder, that name rings a bell.</p>
+<p dir="ltr">ROBERT: Yeah I?m? back here?</p>
+<ul><li dir="ltr">
+<p dir="ltr">What phone does Robert have?</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">What version of Android? (Froyo)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Publishers can set apps so that they can?t be moved to the SD card.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Later versions of Android have disabled move to SD card completely</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Apps running on the SD card are de-prioritized and run much slower. To be fair though, with the exception of&nbsp;games most apps are pretty small. It?s the data that takes up a lot of space. So most music, pictures and video will be stored on your SD card.</p>
+</li>
+<li dir="ltr">If you?re really strapped for space and need to move stuff to the SD card, you have two options: root the phone, or download an app. There are apps that will move it to the SD card, but use at your own risk.</li>
+</ul><p>All right it is actually time is to announce the winner of the Amazon Gift Card contest! We had 27 of entries to the contest. Now we are going to <a href="http://random.org/">random.org</a> to pick one of these contestants at random. The winner was number 24, Eugene! Thanks to everyone who answered the survey!</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p dir="ltr">Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/51-root-ti-84/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3" length="34856173" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#50 The Ginger Episode</title>
+		<link>/2013/09/50-ginger-episode/</link>
+		<comments>/2013/09/50-ginger-episode/#comments</comments>
+		<pubDate>Mon, 30 Sep 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[JaxComputerChic]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8320</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/09-29-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" style="float:left; margin:0 15px 15px 0;" />This week on Deemable Tech, Tom is out-of-town, but Elizabeth Pampalone stepped in to keep the show rolling. And, she gave Tom a run for his money. Ray and Elizabeth answered lots of questions, including questions about Blue Screens of <a href="/2013/09/50-ginger-episode/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/50-ginger-episode/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/09-29-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img src="//media/2013/09/09-29-2013-1024x576.png" alt="Elizabeth Pampalone, Blue Screen of Death, Busted iPad, Critical Updates, Air Print, Clearwire" width="659" height="370" class="alignright size-large wp-image-8324">This week on Deemable Tech, Tom is out-of-town, but Elizabeth Pampalone stepped in to keep the show rolling. And, she gave Tom a run for his money. Ray and Elizabeth answered lots of questions, including questions about Blue Screens of Death, whether you can change your internet provider without changing your email provider, Facebook photo syncing, how to print from your iPad, and Critical Updates that break things!</p>
+<audio class="wp-audio-shortcode" id="audio-8320-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3">#50 The Ginger Episode</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/_qQWifjPIMY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>LIZ: I&rsquo;m Elizabeth Pampalone in for Tom Braun,</p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>So, Tom is out&hellip;again. This time he gave some notice, so I asked our friend Elizabeth Pampalone to give us a hand, and she was gracious enough to help. Thanks for coming in, Elizabeth.</p>
+<p>LIZ: *vamp response*</p>
+<p>RAY:</p>
+<p>Actually, you did almost all of the work getting ready for this show, you&rsquo;re giving Tom a run for his money. I tell you what, I&rsquo;ll hire you for half of what I pay Tom.</p>
+<p>&ndash; I gonna be the brains, and I guess that leaves me to be the beauty. This is not going to go well for me.</p>
+<p>It&rsquo;s the ginger episode. If you&rsquo;re watching the video stream &hellip;</p>
+<p>Before we jump into the show, could I ask a favor? OK, thanks. Would you take a second and tell your friends about Deemable Tech? Especially if you know someone who is interested&nbsp;in learning more about technology, whether they currently know nothing about technology, or you think they already know everything about technology. Tell them to check out Deemable Tech. We&rsquo;d really appreciate it!</p>
+<p>Also, if you haven&rsquo;t done so already, make sure you are subscribed&nbsp;to Deemable Tech. Just go to iTunes and search for Deemable Tech, or go to deemable.com/itunes to take you directly to our iTunes page. You can also subscribe to our YouTube page. And we&rsquo;re on the Facebook and the Twitter, just search for Deemable Tech.</p>
+<p>LIZ: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>RAY: Hey folks, time is dwindling down to the end of our Amazon Gift Card contest. All you have to do is answer a few questions about the Deemable Tech podcast. Just go to Deemable.com and click the link to take the survey. You can&rsquo;t miss it, it is the first or second article at the top of the page, but it is ends September 30th, so don&rsquo;t wait, go submit&nbsp;your survey answers right now. Even if you&rsquo;re listening live, go pull up the survey now, because you won&rsquo;t have much time after we finish recording this episode.</p>
+<p>Don&rsquo;t worry, it&rsquo;s not a trivia contest. We just need your opinion on a few questions. If you could take a few minutes and answer our survey it will really help us out a lot. And, just for doing so, you&rsquo;ll be entered to win a $20 Amazon Gift Card.</p>
+<p>Speaking of questions, Elizabeth, what kind of questions do we have today?</p>
+<p>LIZ: Well, we have questions about Blue Screens of Death, whether you can change your internet provider without changing your email provider, Facebook photo syncing, how to print from your iPad, and Critical Updates that break things!</p>
+<p>RAY: Awesome, let&rsquo;s start with Blue Screens of Death.</p>
+<p>JUDY<br>
+Hi, Saw article in Folio about BSOD. Am getting a lot of unexpected shutdowns &ndash; 4 in last week-&nbsp;and service hang ups &ndash; 15 last week. Microsoft-speak about drivers, etc. might as well be Greek given how little I know about computers. What should I do to address it? How serious is it? Thanks so much!!</p>
+<p>ANSWER: I would call a tech ASAP!</p>
+<p>WALTER</p>
+<p>Switch Email Service Providers and not lose emails. forwarding emails to another account for a short time.</p>
+<p>ANSWER:<br>
+I do not recommend using ANY of the ISP accounts email addresses. You can use something like a GMAIL&nbsp;account and BEFORE you switch start having your emails forwarded. this will eliminate&nbsp;the need to go cold turkey with your account when you switch. a gmail&nbsp;account is like your cell phone. no matter where you live it travels with you. your ISP email address (bellsouth/comcast) is like a landline, when you move it stays behind. Switching to gmail&nbsp;and fwding&nbsp;your accounts before you switch ISPs is like when the post office fwds&nbsp;your mail. you don&rsquo;t have to worry about the missed&nbsp;messages or people not knowing your email address because you will see all of them come in and you will be able to tell if that person or company is using your gmail&nbsp;address or your old ISP address. this gives you a chance to gradually switch all of your addresses over for daily use rather than having to switch all at once.</p>
+<p>&hellip; this is marvin&nbsp;here in jacksonville&nbsp;3670124 I&rsquo;ve asked this question before but I&rsquo;m not quite getting the answer you gave me I wanna print out my address book I&rsquo;m on on&nbsp;h. p. computer per sorry &hellip; s. sorry 1930 annex and I&rsquo;m using windows x. p. progress and hi&nbsp;address book his obscured died on the right have bye &hellip; part of the address book proper left I can print out name is but hello information is sitting behind the they&rsquo;ll have for the page hello if I explained that well or not 3670124 thanks.</p>
+<p>ANSWER: When printing anything online you want to make sure you are not printing the web page but printing the email or in this case, the addressbook you actually want to print.</p>
+<p>I always look for a Printer icon that is ON the page. The word print or the printer icon to print the items you want to print without printing all those annoying ads etc that are normally on webpages.</p>
+<p>KATHERINE I have an iPhone 5 and every time I take a photo and try to upload it to Facebook, it keeps adding it to a stream of old photos and the comments from friends are from all the old photos. How do I get this to stop and just upload 1 photo at a time in a post?</p>
+<p>ANSWER: Open Facebook app on your phone, Go to the Photos Section, Go to Synched. If you have set it up to sync you can scroll to the bottom and turn that off. If you have not set it up to synch&nbsp;it will ask you if you want to. I say NO, don&rsquo;t do it. Every photo you post to Facebook becomes property of facebook&nbsp;and they can use them however they wish. also, sometimes i take photos of stupid stuff and I don&rsquo;t want my mom and everybody seeing them.</p>
+<p>ROBERT<br>
+Recently, as I use the &lsquo;back arrow&rsquo; on my Internet Explorer browser to return to a previous page, something strange has happened. Even if I continue to click on the back arrow, I still do not return to the previous web page. After waiting a few moments, I click on the down arrow next to the back arrow and all that I see are a bunch of web page links that I have never visited. Usually, there is a portion of the links that has something like: ad.doubleclick.<br>
+In order to get back to the web page that I want, I have to either open a new web browser page; or, I can click on the Home link (alt +M) and then type in the URL address all over again. What is going on; and, more importantly, how can I block this from happening again?</p>
+<p>Bob: Installed Adblock and its working fine, however I still get<br>
+random audio ads (sometimes playing over audio coming from<br>
+a U-tube I&rsquo;m watching) and other times while reading an e-mail.</p>
+<p>Is there a solution to block unwanted audio?</p>
+<p>ANSWER:This is not a browser hack but some sites open multiple windows of ads that can appear in your browser as if you had visited the site multiple times. this often happens on ad heavy sites like sites where you can watch tv online etc. TO ROBERT&nbsp;If I am going to open a link like this, I try to Right click on the Link before going to it and ?open in a new tab? this helps to keep your original spot if you decide the link wasn?t worth it and want to go back to your original page. TO BOB If you are using Google Chrome as your browser, which you should be,whenever&nbsp;there is a pop up a box will appear near the Bookmark star. It will have a red X on it. If you click it you will see a list of all the pop ups that did NOT pop up. in order to&nbsp;stop the audio, you must open each hidden pop up and close it using the normal means, the red X. This can happen with Audio and Non Audio pop ups and can be&nbsp;very annoying as they often start playing the audio after a few min. If the audio ad is on the page you are viewing you can click the MUTE symbol on the ad. this usually works, but some ads have taken to makeing&nbsp;the mute button look like it is muted and it is playing really loudly. click the mute button anyway, this will stop the audio.</p>
+<p>JULIE<br>
+Using Clearwire, Not giving her the speeds she needs</p>
+<p>ANSWER: Might have someone come out and look at it BEFORE you switch providers. Clearwire only allows you to have up to 8 devices on at a time depending on your service you pay for.</p>
+<p>SCOTT<br>
+Wants to print from ipad to printer.</p>
+<p>ANSWER:<br>
+Need a printer with Airprint :</p>
+<p>All of the models sold by apple are airprint&nbsp;compatible. you don&rsquo;t have to buy it from apple, but most wireless HP models have airprint&nbsp;that were made within the last year.</p>
+<p>Also, there is an app called Collobos&nbsp;printer that you can buy for $20. if you have a computer that is on and connected to a printer and connected to the same network your wifi&nbsp;is on, you can print via that printer. essentially Collobos is a patch to make any printer that is connected&nbsp;to a computer that is connected&nbsp;to your wifi&nbsp;network your ipad&nbsp;or iphone&nbsp;is on an airprint compatible printer.</p>
+<p>https://www.collobos.com/</p>
+<p>Joe</p>
+<p>Guys,</p>
+<p>I am at my wits end&nbsp;regarding&nbsp;a Microsoft Critical Update that just won&rsquo;t install. It has failed over and over again&nbsp;on my Windows 7 laptop. I have tried everything mentioned in the Microsoft Knowledgebase&nbsp;and on Tech Net. Nothing works! This includes downloading the critical update separately and trying to install it, using the MS Fixit&nbsp;tool, using a Hot Fix utility to fix Windows Update, use the SFC&nbsp;command to find/repair missing files, etc. I have shut down my firewall and turned off my A/V program and even tried to install the critical update in Safe Mode! The update is apparently critical to security as it updates the kernel to remove some vulnerability. What I don&rsquo;t understand is why Microsoft gives you a cryptic error message on the fail that doesn&rsquo;t really tell you anything! The update is KB2850851&nbsp;and error I get is 800736B3.</p>
+<p>The laptop is an HP DV7&nbsp;with Windows 7 64 bit. It&rsquo;s about 18 months old and I haven&rsquo;t had any problems with it until now. I run Webroot Secure Anywhere for A/V and the built-in Security Essentials from Microsoft.</p>
+<p>Thanks.</p>
+<p>http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_update/unable-to-install-update-kb2850851-error-8007045d/a1bcef56-687b-4afc-af00-428a96c6c1c3</p>
+<p>RAY<br>
+Randomly and occasionally the computer will not wake from sleep state. I have looked at the event log for this. Results: Event log. Critical error. Message: The last sleep transition was unsuccessful. This error could be caused if the system stopped responding, failed, or lost power during the sleep transition. Windows Vista Home Premium.<br>
+Going to event log online help reveals nothing useful: Results for: Microsoft Product: Windows Operating System; Version: 6.0.6002.18005; Event ID: 41; Event Source: Microsoft-Windows-Kernel-Power.<br>
+This is not helpful. This failure occurs less than once a month. The solution is a hard reboot, using the power switch to turn off and turn on the computer. Then it works fine for several months. The hardware diagnostic tools scan shows that all the hardware is working. Since it happens rarely and randomly, it would be difficult to troubleshoot. Any suggestions? The computer is up to date regarding&nbsp;service packs and other updates and updating the bios did not help. The mouse and none of the buttons on the keyboard do not wake the computer. Hibernation is not enabled for this computer, only sleep state. Since this is an infrequent and random error, perhaps the only solution is to give the computer a hard boot when necessary. Thank you for your assistance.</p>
+<p>ANSWER:<br>
+The problem was solved on several message boards by going back to an older version of the motherboard BIOS Or you are overclocking their ATI cards</p>
+<p>ANDREA I was wondering if you know of any places in Jacksonville, FL that buys and/or recycles old outdated electronics such as: computers, cell phones, keyboards, hard drives, etc.?<br>
+ANSWER<br>
+http://www.scrapcomputers.com/</p>
+<p>MARY Apple told me they would sell me a refurbished ipad for $220<br>
+I would like to find a reputable repair service (preferably locally) who can repair or replace the damaged screen without going broke in the process. Is that possible? I know that in doing so, I would void my Apple warranty and would be SOL in the event that something else goes wrong, but honestly, since Apple&rsquo;s &ldquo;technicians&rdquo; are now just fulltime warranty specialists, I would probably have to replace the device anyway(at which point, the mini would go into a drawer somewhere and I&rsquo;d dedicate myself full time to my Android devices). I called a couple of local fix it places and most charge close to $200 to replace the screen (almost as much as Apple charges for a replacement). I&rsquo;m also concerned that some of these technicians may damage the device in the process of replacing the screen. Do you know of a reputable company that can help me out without cleaning me out?<br>
+Time: 09/20/2013 at 3:52 PM<br>
+ANSWER: iphone911.com reasonable prices, good hours and fast service.</p>
+<p>http://www.theiphone911.com/<br>
+http://www.jaxiphonerepair.com/<br>
+http://www.ubreakifix.com/</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Elizabeth Pampalone, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#50 The Ginger Episode" data-link="/2013/09/50-ginger-episode/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#50 The Ginger Episode" data-link="/2013/09/50-ginger-episode/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/50-ginger-episode/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-09-29.mp3" length="0" type="" />
+		</item>
+	</channel>
+</rss>

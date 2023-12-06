@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; add-ons</title>
+	<atom:link href="/tag/add-ons/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Browser Extensions</title>
+		<link>/2016/05/browser-extensions/</link>
+		<comments>/2016/05/browser-extensions/#comments</comments>
+		<pubDate>Thu, 19 May 2016 16:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[add-ons]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10568</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" />Steve writes, &#8220;When I&#8217;m on the internet, I constantly see things pop up on the screen that say &#8216;Check for malware now&#8217; or &#8216;You&#8217;re missing drivers, click to update.&#8217; Should I click on it? The way things are nowadays, I&#8217;m <a href="/2016/05/browser-extensions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/browser-extensions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong><a href="http://deemable.com/media/2016/05/browser_extensions.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10569" src="//media/2016/05/browser_extensions-300x228.jpg"  alt="browser_extensions" width="300" height="228"></a>Steve writes, &ldquo;When I&rsquo;m on the internet, I constantly see things pop up on the screen that say &lsquo;Check for malware now&rsquo; or &lsquo;You&rsquo;re missing drivers, click to update.&rsquo; Should I click on it? The way things are nowadays, I&rsquo;m afraid to try!&rdquo;&nbsp;</strong><span id="more-10568"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10568-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3</a></audio><p>Don&rsquo;t click on it, Steve! As our friend Admiral Ackbar would say:</p>
+<p><img class="aligncenter" src="http://i.giphy.com/3ornka9rAaKRA2Rkac.gif" alt="It's a trap!"></p>
+<p>What you&rsquo;re seeing is a pop-up ad designed to trick you into visiting a spam website or downloading harmful malware.</p>
+<p>Internet pop-ups will disguise themselves as all kinds of stuff to get you to click on them. Spammers have gotten pretty good at making pop-ups look like legitimate error messages, so sometimes it can be hard to tell it&rsquo;s a pop-up until it?s too late. Our advice is to install a pop-up blocker extension for your browser.</p>
+<p>Extensions (also known as add-ons) are little programs you can install on some web browsers which give them extra features. There are a lot of extensions for the Mozilla Firefox and Google Chrome browsers, including effective pop-up blockers.</p>
+<p><a href="https://adblockplus.org/" target="_blank">Adblock Plus</a> is one of the most popular pop-up blockers, and is available for both Firefox and Chrome. It not only kills 98 percent of pop-up ads, but also removes most of the in-page ads from many websites. Try it out, and hopefully you&rsquo;ll never see another one of those pesky fake error messages again.</p>
+<p>But we wouldn&rsquo;t stop there with browser extensions. You can trick out your browser in a number of cool ways. Some of our favorites include:</p>
+<ul><li>Lazarus: Form Recovery &ndash; Remembers what you were typing in an online form, in case something happens while you&rsquo;re filling one out and you lose everything. (<a href="https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno?hl=en" target="_blank">Lazarus for Chome</a>) (<a href="https://addons.mozilla.org/en-uS/firefox/addon/lazarus-form-recovery/" target="_blank">Lazarus for Firefox</a>)</li>
+</ul><ul><li><span style="line-height: 1.5;">Panic Button &ndash; Immediately hides all of your open browser tabs with a single click. We&rsquo;re not saying that it comes in really handy for when your boss walks by, but we&rsquo;d have to imagine it would. (<a href="https://chrome.google.com/webstore/detail/panicbutton/faminaibgiklngmfpfbhmokfmnglamcm?hl=en" target="_blank">Panic Button for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/panic-button/" target="_blank">Panic Button for Firefox</a>)</span></li>
+</ul><ul><li>LastPass<span style="line-height: 1.5;"> &ndash; One of our favorite password managers. Stores all of your passwords, generates complex new ones, and automatically fills in login fields for you. (<a href="https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US" target="_blank">LastPass for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/" target="_blank">LastPass for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Honey &ndash; Automatically finds coupon codes and sales for many popular online stores. (<a href="https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-US" target="_blank">Honey for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/honey/" target="_blank">Honey for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
+</ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
+<p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3" length="3484145" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

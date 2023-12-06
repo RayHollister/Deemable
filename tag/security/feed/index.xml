@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Security</title>
+	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#93 Bro, You&#8217;ve Been Hacked</title>
+		<link>/2015/07/93-bro-youve-been-hacked/</link>
+		<comments>/2015/07/93-bro-youve-been-hacked/#comments</comments>
+		<pubDate>Sun, 26 Jul 2015 20:39:01 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Ashley Madison]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Nest Thermostat]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10169</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/ashleymadison-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ashley Madison" style="float:left; margin:0 15px 15px 0;" />This week Ray, Tom and Sean discuss the hacking of the adultery-centric site Ashley Madison, drones causing problems for California firefighters, and security flaws in Jeep Cherokees. That and more on this episode of the Deemable Tech podcast. If you&#8217;re <a href="/2015/07/93-bro-youve-been-hacked/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/93-bro-youve-been-hacked/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/ashleymadison-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ashley Madison" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray, Tom and Sean discuss the hacking of the adultery-centric site Ashley Madison, drones causing problems for California firefighters, and security flaws in Jeep Cherokees. That and more on this episode of the Deemable Tech podcast.<span id="more-10169"></span></p>
+<p>If you&rsquo;re listening to Deemable Tech on our website, make sure to&nbsp;subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>.&nbsp;And, while you&rsquo;re there, leave a review. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10169-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-24.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-24.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-24.mp3</a></audio><h1>THIS WEEK&rsquo;S RUNDOWN</h1>
+<h3></h3>
+<h3><b>Ashley Madison gets hacked</b></h3>
+<p>Last week, hackers targeted AshleyMadison.com, an online dating site for married people looking to have an affair, and&nbsp;<a href="http://arstechnica.com/business/2015/07/cheaters-hook-up-site-ashley-madison-makes-account-deletion-confusing/" target="_blank">claimed to have&nbsp;downloaded its complete database of 37 million user profiles</a>. The hackers, who call themselves The Impact Team, are threatening to release all the profiles publicly unless Avid Life Media, the company that owns Ashley Madison, shutters the site permanently along with sister site EstablishedMen.com.</p>
+<div id="attachment_10170" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/07/ashleymadison.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10170" src="//media/2015/07/ashleymadison-300x169.jpg"  alt="Image credit: Ashley Madison" width="300" height="169"></a><p class="wp-caption-text">Image credit: Ashley Madison</p></div>
+<p>The hackers also take issue with Ashley Madison&rsquo;s paid &ldquo;full delete,&rdquo; where the site charges users $19 to full erase their profile. The hackers claim that Ashley Madison does not in fact purge all of their records from their database, even after a full delete has been paid for.</p>
+<p>Strangely, as of this podcast, the hackers have released only two of the 37 million profiles. One belongs to a man in Brockton, Massachusetts, the other to a man in Mississauga, Ontario, in Canada.</p>
+<h3><b>Stupid, stupid drones</b></h3>
+<p><a href="http://gizmodo.com/firefighters-cant-save-people-burning-in-cars-because-o-1718675039?rev=1437224396454" target="_blank">Drones prevent firefighters from putting out a fire on the 15 Freeway in Southern California&rsquo;s Cajon Pass</a>. Cars were stopped on the 15 because of a wildfire and several caught fire. Firefighters were unable to get water to the cars because five drones were hovering over the site. Apparently this has been an ongoing issue with the wildfire that is so bad it&rsquo;s been given a name, North Fire.</p>
+<p>Drone operators have been flying around while firefighter helicopters have been trying to do their job. This particular incident was so bad, several people were severely burned, and twenty vehicles were completely destroyed. Two of the drones even pursued the helicopter.</p>
+<p>In equally stupid drone news, an 18-year-old decided to attach a gun to a drone and fire the gun. He probably would have been fine if he hadn&rsquo;t also decided to <a href="http://gizmodo.com/the-feds-are-investigating-a-teen-who-weaponized-a-quad-1719265092" target="_blank">video record it and post the video to YouTube</a>. The FAA is investigating the case to see if any federal laws were broken.</p>
+<p>This isn&rsquo;t the first time someone has weaponized a drone. In 2013 a company that creates screen protection built a drone, attached a gun to the gimble and shot some video of the <a href="http://io9.com/this-video-of-a-drone-with-a-gun-will-freak-you-the-hel-513442074" target="_blank">Skynet-esque monstrosity shooting soda bottles</a> and cans, and a Samsung Galaxy.</p>
+<h3><b>Hackers demonstrate exploit that allows them to remotely control Jeep Cherokee</b></h3>
+<p>Wired reports that white hat hackers Charlie Miller and Chris Valasek <a href="http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/">were able to take control of a Jeep Cherokee using the Chrysler Uconnect system installed in the vehicle</a>. The hackers performed their exploit remotely while Wired&rsquo;s journalist was inside. The hacker&rsquo;s code reportedly allows them to control the AC, change the volume of the stereo, control the transmission, disable the brakes, and kill the engine.</p>
+<p>The hack comes just as senators Ed Markey and Richard Blumenthal are introducing new legislation that will mandate digital security standards for cars and trucks.</p>
+<h3><b>Apple kicks Nest out of bed</b></h3>
+<p>Re/Code is reporting that the <a href="http://recode.net/2015/07/23/apple-kicks-nest-thermostats-from-its-shelves-for-now/">Apple Store no longer carries the Nest Thermostat, Nest Protect or Nest Cam</a> online or in its retail stores.</p>
+<p>This all happens of course after Google bought Nest last year, and Apple is about to launch the first of its HomeKit automation enabled products. No surprise, around the same time as the Nest Thermostat was taken off the shelves, the Ecobee 3, a wireless thermostat that does work with HomeKit quickly took its place.</p>
+<p>Unfortunately, none of this is terribly surprising. Apple sold tons of fitness bands like the Jawbone Up and the Nike FuelBand&hellip; right up until they launched the Apple Watch when they quickly dumped the products off their shelves.</p>
+<p>This could be a sign that Nest won&rsquo;t support HomeKit. Which is sad for iPhone users who were looking forward to the day when we could tell Siri to turn the temperature down, like their&nbsp;Android friends can do with Google Now.</p>
+<p>&mdash;</p>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#93 Bro, You've Been Hacked" data-link="/2015/07/93-bro-youve-been-hacked/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#93 Bro, You've Been Hacked" data-link="/2015/07/93-bro-youve-been-hacked/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/93-bro-youve-been-hacked/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-24.mp3" length="30463550" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: How Can I Safely Shop Online?</title>
+		<link>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/</link>
+		<comments>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#comments</comments>
+		<pubDate>Thu, 16 Jul 2015 12:47:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10146</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" />Andrew writes, &#8220;It seems like every week there&#8217;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&#8221; You&#8217;re <a href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Andrew writes, &ldquo;It seems like every week there&rsquo;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&rdquo;</strong></em></p>
+<audio class="wp-audio-shortcode" id="audio-10146-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3</a></audio><p><span id="more-10146"></span></p>
+<p>You&rsquo;re right, Andrew, there have been a few pretty severe hacks of some large corporations recently. Unfortunately, we probably haven&rsquo;t seen the last of them. But here&rsquo;s the thing: staying off the internet probably won&rsquo;t help you at all.</p>
+<div id="attachment_10159" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/07/credit_cards_flickr.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10159" src="//media/2015/07/credit_cards_flickr-300x169.jpg"  alt="Image credit: Sean MacEntee / Flickr" width="300" height="169"></a><p class="wp-caption-text">Image credit: Sean MacEntee / Flickr</p></div>
+<p>Most of the businesses that have been hacked lately were retail stores, and the people affected were those who had shopped in the stores&rsquo; brick and mortar locations, not online. Hackers found their way into the companies&rsquo; servers, and were able to skim credit card numbers as they were scanned into the database.</p>
+<p>Banks similarly store your information in databases that are connected to the internet. While they take security precautions, those defenses are sometimes compromised by hacking groups that have become more organized and sophisticated.</p>
+<p>You see, Andrew, you don&rsquo;t even have to be online for businesses or banks to store your information online.</p>
+<p>All of this can understandably seem pretty scary. Luckily there are systems in place to protect you if your information is stolen. The Federal Deposit Insurance Corporation, or FDIC, says that customers can only be held responsible for a maximum of $50 for a fraudulent transaction, provided they report it to their bank or credit card company quickly. In fact, most credit card companies will rarely hold someone responsible for any fraudulent charges on their card, as long as they report those charges in a timely manner.</p>
+<p>The trick is to keep an eye on your bank account and credit card statements. Be on the lookout for transactions you don&rsquo;t remember making. Remember, the sooner your report a fraudulent transaction, the more likely you are to get all of your money back.</p>
+<p>It really is okay to shop online, just as long as you use some common sense. For example, only give your credit card information to reputable online retailers. And make sure you use good, unique passwords.&nbsp;<a href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" target="_blank">Like we&rsquo;ve said before</a>, long passwords of 15 characters or more are best. You should also avoid using easily guessable names or words for passwords. Have&nbsp;different passwords for different websites, especially the important ones like your bank, your favorite online store and your primary email account. We also recommend using a password manager like LastPass or DashLane.</p>
+<p>Stay safe, and happy shopping!</p>
+<p><em>Photo Credit: &ldquo;<a href="https://www.flickr.com/photos/smemon/12696032183" target="_blank">Credit Cards</a>&rdquo;&nbsp;by&nbsp;<a href="https://www.flickr.com/photos/smemon/" target="_blank">Sean MacEntee</a>&nbsp;is used under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Support for Windows XP is Ending Soon</title>
+		<link>/2014/03/support-windows-xp-ending-soon/</link>
+		<comments>/2014/03/support-windows-xp-ending-soon/#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 10:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<category><![CDATA[Windows XP]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8622</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/windows_xp-150x150.png" class="attachment-thumbnail wp-post-image" alt="Credit: Microsoft" style="float:left; margin:0 15px 15px 0;" />It&#8217;s estimated that nearly 500 million people around the world use the Windows XP operating system on their computers. If you&#8217;re one of those people, you need to be aware of an important change from Microsoft. On April 8, 2014, <a href="/2014/03/support-windows-xp-ending-soon/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/support-windows-xp-ending-soon/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/windows_xp-150x150.png" class="attachment-thumbnail wp-post-image" alt="Credit: Microsoft" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p113129-embed" src="http://www.prx.org/p/113129/embed.js?size=small"></script></p>
+<p>It&rsquo;s estimated that nearly 500 million people around the world use the Windows XP operating system on their computers. If you&rsquo;re one of those people, you need to be aware of an important change from Microsoft.<span id="more-8622"></span></p>
+<div id="attachment_8623" style="width: 293px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/03/windows_xp.png" class="gallery_colorbox"><img class=" wp-image-8623      " src="//media/2014/03/windows_xp.png"  alt="Credit: Microsoft" width="283" height="203"></a><p class="wp-caption-text">So long, it&rsquo;s been good to know you.<br>Image credit: Microsoft</p></div>
+<p>On April 8, 2014, the software giant ended&nbsp;their support for Windows XP. &nbsp;Don&rsquo;t worry, this doesn&rsquo;t mean that your computer suddenly stopped working on April 9. It will, however, start to be a lot riskier to keep using.</p>
+<p>Windows XP was released in 2001, and because of its worldwide popularity Microsoft has continued to support it with updates, bug fixes and security patches for the past 13 years. As the company begins to focus on newer versions of the Windows operating system, they&rsquo;ve decided to stop releasing these updated security patches for XP. This means that there will be nothing to guard you from hackers finding new ways to break into computers running XP and stealing personal information from victims.</p>
+<p>Now, the chances are that your copy of Windows XP will still be relatively secure on April 9, but that will change as it gets older and older. To protect yourself, we recommend that you upgrade your operating system. Microsoft, of course, is happy to help, and have created&nbsp;<a href="http://windows.microsoft.com/en-us/windows/end-support-help" data-cke-saved-href="http://windows.microsoft.com/en-us/windows/end-support-help">a page with all of the information you&rsquo;ll need to know</a>. There, you can download a program that will check your PC to see if it is compatible with Windows 8.1, the latest version of Windows.</p>
+<p>You may have heard about Windows 8 getting a bad rap due to a new interface and the fact that initial versions didn&rsquo;t include the classic Start Menu so many of us know and love. But the truth is that you can still run the classic Windows desktop in Windows 8, which looks and feels a lot like what you&rsquo;re used to.</p>
+<p>We should note that upgrading to a new operating system will cost money, and that an upgrade to Windows 8.1 costs $199. That&rsquo;s a lot, and that&rsquo;s the reason most people buy a new computer with Windows already installed on it. In fact, you can get a new Windows 8 computer for as low as $249.</p>
+<p>If those options sound too pricey or if you&rsquo;re just not ready for Windows 8, we recommend checking out Windows 7. Microsoft has stopped selling it officially, but you can still buy copies of the home version from many third party vendors like Best Buy and Amazon.com for around $100. It is a great operating system, and we would go as far as to say it&rsquo;s the &ldquo;new&rdquo; Windows XP in terms of it being easy to pick up and use.</p>
+<p>Whatever you decide to do, you need to start taking steps to update that old copy of Windows XP right now. Having an outdated, unsecured operating system might cost you more than any new one ever could.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Support for Windows XP is Ending Soon" data-link="/2014/03/support-windows-xp-ending-soon/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Support for Windows XP is Ending Soon" data-link="/2014/03/support-windows-xp-ending-soon/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/support-windows-xp-ending-soon/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Jamie asks, &#8220;How can I avoid malicious software and dangerous websites?&#8221;</title>
+		<link>/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/</link>
+		<comments>/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 10:40:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[anti-malware software]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8391</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/malware_ahead-150x150.png" class="attachment-thumbnail wp-post-image" alt="You may see warnings like this if you attempt to visit a malicious website.
+
+Image Credit: Google" style="float:left; margin:0 15px 15px 0;" />Q:&#160;I recently started experiencing random pop-up ads on my computer even when I was on websites that don&#8217;t have popups. Downloading a malware removal program didn&#8217;t fix the problem. Eventually I had to roll back to a clean install of <a href="/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/malware_ahead-150x150.png" class="attachment-thumbnail wp-post-image" alt="You may see warnings like this if you attempt to visit a malicious website.
+
+Image Credit: Google" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p105686-embed" src="http://www.prx.org/p/105686/embed.js?size=small"></script></p>
+<p><strong>Q:</strong>&nbsp;I recently started experiencing random pop-up ads on my computer even when I was on websites that don&rsquo;t have popups. Downloading a malware removal program didn&rsquo;t fix the problem. Eventually I had to roll back to a clean install of Windows. How did my computer get infected, and how can I avoid this in the future?</p>
+<div id="attachment_8392" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/10/malware_ahead.png" class="gallery_colorbox"><img class="size-medium wp-image-8392" alt="You may see warnings like this if you attempt to visit a malicious website. Image Credit: Google" src="//media/2013/10/malware_ahead-300x161.png"  width="300" height="161"></a><p class="wp-caption-text">You may see warnings like this if you attempt to visit a malicious website.<br>Image Credit: Google</p></div>
+<p><strong>A:&nbsp;</strong>Getting infected with malware and pop-ups is no fun. Even though there are lots of software programs out there to clean this junk off your hard drive, these kinds of malware programs are <em>designed</em> to be a pain to remove.</p>
+<p>The key is to avoid getting infected in the first place. People know that it&rsquo;s not a good idea to walk down a dark street in the middle of the night, and the Internet is pretty similar. It has some bad neighborhoods, and you just need to know to avoid them.</p>
+<p>First off, you want to be careful with what you search for. Unscrupulous spammers and hackers tend to stake out popular Google searches, and they especially love celebrities. In fact, anti-virus company McAfee <a href="http://www.mcafee.com/us/about/news/2013/q3/20130917-01.aspx?cid=127498&amp;ctst=1">published a list of 2013&rsquo;s most dangerous celebrities to search for</a>. The #1 most dangerous person to search for is Lily Collins &ndash; one in seven of the results will land you on a malicious web site! Others dangerous celeb searches include Katy Perry, Sandra Bullock, and Britney Spears.</p>
+<p>Celebrity searches aren?t the only searches that can get you in trouble, though. There are plenty of seemingly safe, regular search terms that can yield dangerous results, including:</p>
+<ul><li>&ldquo;lyrics&rdquo;</li>
+<li>&ldquo;free music&rdquo;</li>
+<li>&ldquo;game cheats&rdquo;</li>
+<li>&ldquo;free ringtones&rdquo;</li>
+<li>&ldquo;solitaire&rdquo;</li>
+<li>&ldquo;make money&rdquo;</li>
+<li>&ldquo;work from home&rdquo;</li>
+<li>&ldquo;free downloads&rdquo;</li>
+</ul><p>Now, a few different things can happen when you visit an unsafe website. The most common is that you&rsquo;ll be hit with a pop-up asking you to download some &ldquo;helpful&rdquo; program. Never agree to this! Running strange programs from unknown sources is extremely dangerous. If a website asks you to download something and you weren&rsquo;t expecting to download it, say no.</p>
+<p>In some cases it&rsquo;s possible for a website to load a malicious program onto your computer secretly. Avoid this by upgrading to the latest version of your web browser. Still running Internet Explorer 7? Go download version 10 immediately. Having the latest and greatest makes sure you&rsquo;ve also got the most recent security updates.</p>
+<p>You also need to be smart about email. It&rsquo;s a bad idea to open a program or file that&rsquo;s been emailed to you if you weren&rsquo;t expecting it, even if it&rsquo;s from someone you know. That person could be infected with a virus, many of which love to spread themselves through email attachments. If you&rsquo;re not sure, email the person back and ask, &ldquo;Did you mean to send this?&rdquo;</p>
+<p>Follow these steps and you&rsquo;ll be pretty safe. But accidents do happen, so know that if you do get infected with malware, there&rsquo;s help. Google keeps a list of safe, useful malware removal programs at <a href="http://www.google.com/goodtoknow/">google.com/goodtoknow</a>. Just click on the &ldquo;keep your device clean&rdquo; link.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Jamie asks, "How can I avoid malicious software and dangerous websites?"' data-link="/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Jamie asks, "How can I avoid malicious software and dangerous websites?"' data-link="/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Gary asks, &#8220;How can I have secure, easy-to-remember passwords?&#8221;</title>
+		<link>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/</link>
+		<comments>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/#comments</comments>
+		<pubDate>Thu, 09 May 2013 13:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7335</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/passwords-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe?" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;ve heard that you&#8217;re supposed to have a good password to keep hackers from breaking into your account, but how do I know what a secure password is? I know I shouldn&#8217;t use something dumb like &#8220;123abc&#8221; but I <a href="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/passwords-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p96802-embed" src="http://www.prx.org/p/96802/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;ve heard that you&rsquo;re supposed to have a good password to keep hackers from breaking into your account, but how do I know what a secure password is? I know I shouldn&rsquo;t use something dumb like &ldquo;123abc&rdquo; but I don&rsquo;t think I can remember a bunch of random letters and numbers. What would you recommend?</p>
+<p><strong>A: </strong>First of all, there are different guidelines for home users and work users. Here are some password security basics for home users:</p>
+<ul><li>Never share a computer account.</li>
+<li>Never use the same password for more than one account.</li>
+<li>Never tell a password to anyone, including people who claim to be from customer service or security.</li>
+<li>Never email your password to anyone.</li>
+<li>Be sure to log off or lock your screen before leaving a computer unattended.</li>
+<li>Change your password whenever you think that it may have been compromised.</li>
+<li>Don&rsquo;t use guessable passwords: this includes your spouse&rsquo;s name, your kid&rsquo;s name, your pet&rsquo;s name, and of course your name.</li>
+</ul><p><a href="http://deemable.com/media/2013/05/passwords.jpg" class="gallery_colorbox"><img class="alignright  wp-image-7336" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe? " src="//media/2013/05/passwords-300x300.jpg"  width="270" height="270"></a>A perfect password would be made up entirely of random letters numbers and special characters, be as long as possible, and not be used anywhere else. Unfortunately, this is not humanly possible. Unless you use something like LastPass. LastPass is a password management app that suggests complicated, secure passwords for any website or application, and it remembers all of them for you.</p>
+<p>Here is another easy way to create strong, secure passwords: instead of using random letters and numbers, use a long string of separate words. For instance, something like &ldquo;OrangeShrimpOrphanSingers&rdquo;.</p>
+<p>You can separate each word with a number to make the password alphanumeric. Try not to make the words related to each other because that will make them easier to guess. But you will likely find four words easier to remember than eight or 10 random characters, and because the password is longer, it is actually tougher to crack.</p>
+<p>Oh, and you know how you&rsquo;ve always been told not to write down passwords? Nah, go ahead, write them down on a piece of paper and lock them in your file cabinet. Look at it this way: if someone is in your house reading that piece of paper, you&rsquo;ve got bigger problems. In addition to stealing your passwords, they&rsquo;re probably also stealing your checkbook, your TV and the lunch meat out of your fridge.</p>
+<p>Now, for business users, each corporation has their own policies. So, even if the policy is not <em>optimal</em> you have to follow it. If your company allows it, consider using LastPass.</p>
+<p>Unlike what we said about home users, work users should never write down their passwords. There are too many people walking by your office or cubicle, and that means a lot of opportunities for casual password grabbing.</p>
+<p>Also, never use a password for a business account that you also use for your personal accounts, because if your private information is compromised, then your corporate information will be also.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Gary asks, "How can I have secure, easy-to-remember passwords?"' data-link="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Gary asks, "How can I have secure, easy-to-remember passwords?"' data-link="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;LulzSec&#8221; Hackers: Attacking the Internet</title>
+		<link>/2011/06/lulzsec-hackers-attacking-the-internet/</link>
+		<comments>/2011/06/lulzsec-hackers-attacking-the-internet/#comments</comments>
+		<pubDate>Thu, 16 Jun 2011 18:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[breach]]></category>
+		<category><![CDATA[CIA]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Lulz]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[US]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3610</guid>
+		<description><![CDATA[Apparently no one is safe from the wrath of&#160;LulzSecurity, the notorious rogue hacker group who claimed the recent high-profile attacks on&#160;Sony Pictures Website and&#160;Nintendo&#8217;s servers. Now, their targets are set on the U.S. Government after hacking into the&#160;Senate&#8217;s website and <a href="/2011/06/lulzsec-hackers-attacking-the-internet/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/lulzsec-hackers-attacking-the-internet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://8.mshcdn.com/wp-content/uploads/2011/06/lulzsec_cia.jpg" alt="" width="470" height="176"></p>
+<p>Apparently no one is safe from the wrath of&nbsp;<a title="Lulz Security" href="http://lulzsecurity.com/" target="_blank">LulzSecurity</a>, the notorious rogue hacker group who claimed the recent high-profile attacks on&nbsp;<a title="Sony" href="http://mashable.com/2011/06/02/sony-pictures-hacked/" target="_blank">Sony Pictures Website</a> and&nbsp;<a title="Nintendo" href="http://mashable.com/2011/06/06/nintendo-hacked/" target="_blank">Nintendo&rsquo;s servers</a>. Now, their targets are set on the U.S. Government after hacking into the&nbsp;<a title="Senate" href="http://mashable.com/2011/06/14/lulzsec-us-senate-attack/" target="_blank">Senate&rsquo;s website</a> and even going as far as&nbsp;<a title="CIA" href="http://www.cnn.com/2011/TECH/web/06/16/cia.website.hacker/index.html" target="_blank">taking down the CIA&rsquo;s site</a>, which was restored shortly afterward.</p>
+<p>The group is apparently motivated by hacktivist culture and fueled by the amount of amusement &ndash; or &ldquo;lulz&rdquo; &ndash; that they can generate by causing mayhem on the internet.&nbsp;To bring down the Central Intelligence Agency&rsquo;s website on Wednesday, LulzSecurity used a Distributed Denial-of-Service (DDoS) attack which uses computers to flood the targeted site with so much traffic that it causes it to go offline. It is suggested that&nbsp;LulzSec probably did not steal any sensitive information from the breach on the government websites and while this is reassuring, it doesn&rsquo;t bode well for those who were among one of the 26,000 e-mail addresses and passwords that&nbsp;<a title="Passwords and e-mail addresses" href="http://www.zdnet.com/blog/btl/26000-email-addresses-and-passwords-leaked-check-this-list-to-see-if-youre-included/50424?tag=mantle_skin;content" target="_blank">the group recently leaked.</a></p>
+<p>Mashable&nbsp;<a title="Mashable" href="http://mashable.com/2011/06/16/lulzsec-hackers-cia/" target="_blank">mentions</a>, &ldquo;One thing separates LulzSec from many other similar groups, however: Its members are actively communicating with users, and they love the attention. And with a high-profile site being attacked almost daily in the past several weeks, we&rsquo;re sure we&rsquo;ll hear more about LulzSec in future.&rdquo; LulzSec is active on the social media site&nbsp;<a title="LulzSec" href="http://twitter.com/#!/lulzsec" target="_blank">Twitter</a> and has even created a&nbsp;<a title="Hotline" href="http://www.fastcompany.com/1760226/brrring-hello-lulzsec-hacker-collective-id-like-to-bring-down-a-website-please" target="_blank">telephone hotline service</a> which invites users to request potential targets for the group to attack in the future.</p>
+<p>Although LulzSec may be amusing themselves for the time being, the CIA has surely taken notice of the group and will likely be the ones having the last laugh.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://8.mshcdn.com/wp-content/uploads/2011/06/lulzsec_cia.jpg" target="_blank">Photo</a> by&nbsp;<a title="Stan Schroeder" href="http://mashable.com/author/stan-schroeder/" target="_blank">Stan Schroeder</a> via&nbsp;<a title="Mashable" href="http://mashable.com/" target="_blank">Mashable</a></p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='"LulzSec" Hackers: Attacking the Internet' data-link="/2011/06/lulzsec-hackers-attacking-the-internet/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='"LulzSec" Hackers: Attacking the Internet' data-link="/2011/06/lulzsec-hackers-attacking-the-internet/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/lulzsec-hackers-attacking-the-internet/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

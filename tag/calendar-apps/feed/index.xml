@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Calendar apps</title>
+	<atom:link href="/tag/calendar-apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#51 How To Root Your TI-84</title>
+		<link>/2013/10/51-root-ti-84/</link>
+		<comments>/2013/10/51-root-ti-84/#comments</comments>
+		<pubDate>Wed, 09 Oct 2013 16:42:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Calendar apps]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[productivity apps]]></category>
+		<category><![CDATA[receipt and recordkeeping]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[to do list apps]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8343</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" />On this week&#8217;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an <a href="/2013/10/51-root-ti-84/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/51-root-ti-84/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/TI-84-Hacked-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TI-84-Hacked" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this week&rsquo;s episode Ray and Tom do not give accounting, financial or tax related advice, but they do answer questions about apps to keep receipts, using an iPhone 4S in Mexico, calendar and task app suggestions, and moving an Android app to the SD card. They also announced the winner of the Amazon Gift Card, #24 Eugene!</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8343-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3">#51 How To Root Your TI-84</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/NZ5aPUbt3rY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p><img class="alignright  wp-image-8344" alt="TI-84-Hacked" src="//media/2013/10/TI-84-Hacked.jpg" width="360" height="322"></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and this is Deemable Tech.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech PODcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: Before we jump into the show, could I ask a favor? ? OK, thanks.</p>
+<p>Would you take a second and tell your friends about Deemable Tech? Especially if you know someone who is interested&nbsp;in learning more about technology, whether they currently know nothing about technology, or you think they already know everything about technology. Tell them to check out Deemable Tech. We&rsquo;d really appreciate it!</p>
+<p>RAY: Also, if you haven&rsquo;t done so already, make sure you are subscribed&nbsp;to Deemable Tech. Just go to iTunes and search for Deemable Tech, or go to deemable.com/itunes to take you directly to our iTunes page. You can also subscribe to our YouTube page. And we&rsquo;re on the Facebook and the Twitter, just search for Deemable Tech.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to questions@deemable.com.</p>
+<p>RAY: Well, the time is finally here to announce the winner of the Amazon Gift Card contest. If you&rsquo;re not familiar with it, we have been asking&nbsp;you guys to answer a few questions about the Deemable Tech podcast. All you had to do was go to Deemable.com and click the link to take the survey. And if you did it, you are entered&nbsp;to win a $20 Amazon Gift Card, which we are going to draw the winner of riiiight, after we answer your questions!</p>
+<p>TOM: Today on the show we?re going to answer your questions about what phone works best for overseas travel,</p>
+<p>RAY: Which calendar app is the best,</p>
+<p>TOM: How to move apps to the SD Card on an Android phone,</p>
+<p>RAY: And how to print a morning edition. But first &ndash;</p>
+<p>TOM: We have a question from Deborah.</p>
+<p dir="ltr"><strong>Deborah writes:</strong> I am a teacher, and I need to track my receipts for tax purposes. I try to keep up with this on my computer, but invariably forget, get behind, and give up. This leads to me merely estimating my out-of-pocket expenses for my classroom at tax time. Is there a good, FREE app for my iPhone that can help me keep up with my expenses and receipts? I searched the app store at iTunes, but the results list was so long that it was daunting, especially since I cannot sort it for reviews. I thought I had found a winner with <a href="https://www.concur.com/">Concur</a>, but then realized only the app was free &ndash; an online account would require money.</p>
+<p dir="ltr">RAY: Well, let me start by making a disclosure and a disclaimer. I work for the IRS, but I do not speak for the IRS. Don&rsquo;t take anything that I say as representative of the Internal Revenue Service&rsquo;s position&nbsp;on anything. They are solely my opinions and do not necessarily reflect the Internal Revenue Service&rsquo;s view or opinion.</p>
+<p dir="ltr">Also, do not take anything that we say as financial or accounting advice. If you need financial or accounting advice, we strongly recommend seeking expert advice from qualified professionals.</p>
+<p dir="ltr">Now, that being said, we do know of a couple of apps that might work for what you are trying to find. The simplest one, is also free, and it&rsquo;s called <a href="https://drive.google.com/">Google Drive</a>. Just start a Spreadsheet up on Google Drive to keep track of your transactions, and take photos of your receipts and upload them to a Receipt folder in Google Drive.</p>
+<p dir="ltr">Now, for a solution that is custom made for what you are trying to do, <a href="http://www.onereceipt.com/">OneReceipt</a> is a great app that you can use to scan receipts in with your iPhone camera. It automatically determines the amount of the transaction, and what it was for. It also can connect to your email account, so when you get electronic receipts, like from Apple iTunes account, Amazon, Office Depot, Square, etc, it will grab those receipts for you and keep track of them as well.</p>
+<p dir="ltr">The app is currently&nbsp;free, but it is still in beta. Also, I doubt that the optical character recognition is as good as the results imply. There must be someone looking at these receipts to confirm the results. That might make you uncomfortable. But it is pretty seamless and simple to use.</p>
+<p dir="ltr">An app called <a href="http://lemon.com/">Lemon Wallet</a>&nbsp;does the same, but it&rsquo;s mostly focused on storing your credit cards and loyalty cards. The receipt scanning feature isn&rsquo;t quite&nbsp;as good, and the app is a little crashy the last time I tried it.</p>
+<p dir="ltr">I haven&rsquo;t found any other apps that were free or worth the money, if anyone of our listeners know of expense record keeping apps that you like that work on iOS, let us know. Send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">Now, there is a question of&nbsp;whether or not&nbsp;these apps would be sufficient&nbsp;for record keeping if you were audited by the IRS. I wish I could answer that question, but I don&rsquo;t know the answer. But I do know where you can find the answer, go to <a href="http://www.irs.gov/">irs.gov</a> and search for &ldquo;Publication 17 Your Federal Income Tax&rdquo;. That will have all the answers you seek, and if it&rsquo;s not in there, it will usually tell you where to find the answer in a different publication. And if you still can&rsquo;t find the answer, you can call the IRS at 1-800-829-1040 (Individuals) or 1-800-829-4933 (Business)</p>
+<p dir="ltr"><strong>Summer asked:</strong>&nbsp;I listened recently to your advice about using a phone outside the U.S. I will be traveling to MX soon and I&rsquo;ve lived there before, so I actually have an el cheapo phone that I can bring with me and use there. However, I&rsquo;d like to use my iPhone if I could..it&rsquo;s an iPhone 4s, but it&rsquo;s on the Sprint Network. You mentioned iPhone 4s would work&mdash;but that Sprint uses CDMA&hellip;.so&hellip;Is there something I can do so that it will work for me? I won&rsquo;t have a ton of WiFi access&hellip;thanks!</p>
+<p dir="ltr">Great question, Summer. An iPhone 4S does work international because it is a world phone, however, like you said Sprint does use CDMA. There is a SIM card in your phone, but you can&rsquo;t activate it except for international roaming without unlocking your phone. However, if you call Sprint they will might unlock it for you, if you are in good standing with Sprint and you explain why you need it unlocked and you are very nice to them. This will be much easier if you are out of contract. If you are still in contract, you might have a harder time. Otherwise, you&rsquo;ll have to unlock it the old fashioned way, which means jailbreaking it. If that is something you are interested in trying visit&nbsp;<a href="http://www.imore.com/jailbreak">imore.com/jailbreak</a>&nbsp;at your own risk.</p>
+<p><strong>Louis asks:</strong>&nbsp;After recovering items from two different recovery software applications I am unable to open videos and over 90% of the photos. Please provide me guidance to resolve this problem.</p>
+<p>Thanks for your email. We need some additional&nbsp;details to be&nbsp;able to help you out. What operating system are you running, and what software applications did you use? Email us back at questions@deemable.com and hopefully we should be able to help you out. If you need access to those files faster, check out our business directory at <a title="Business Directory" href="http://deemable.com/business-directory/">http://deemable.com/business-directory/</a>&nbsp;and there are several companies in Jacksonville that should be able to help you out.</p>
+<p dir="ltr"><strong>Krysten asked on Facebook:</strong>&nbsp;Can anyone recommend a calendar app for my iPhone? I&rsquo;ve kept my calendar as a list in my notes for years and have accidentally deleted it multiple times, which is all stupid, I know. Haven&rsquo;t found a calendar app yet that I like. I want to be&nbsp;able to integrate tasks I&rsquo;ve given myself for the day and I&rsquo;d like it to be easy to cut/paste from date to date. Suggestions?</p>
+<p dir="ltr">The built in&nbsp;calendar app is pretty good since iOS 7 came out, but I honestly don&rsquo;t think you want a calendar app. I think you want a good task manager or to-do list app.</p>
+<p dir="ltr">Check out <a href="http://www.davidco.com/about-gtd">Getting Things Done</a>. You should only use a calendar app for events that are set in time, not for tasks.</p>
+<p dir="ltr">If you are looking for a to-do app, Reminders in iOS is actually a pretty decent basic task app. If you&rsquo;re looking for something a little more comprehensive, <a href="http://www.toodledo.com/">Toodledo</a>&nbsp;is a great app that will let you organize your tasks by context and by location.</p>
+<p><strong>Dana emailed us:</strong></p>
+<p>I listened to your discussion on the use of cellphones overseas. I wanted to print this. On your website/WJCT, I see that I can listen to it, but I do not see where I can print this.</p>
+<p>Can you forward me a copy of this? I would like to have this copy so I can decide what I would like to do as I plan to travel soon.</p>
+<p>All of our Radio Segments at <a href="http://deemable.com/radio">deemable.com/radio</a> We include a transcript of the segment on the site. We don&rsquo;t have a print friendly version, but we will look into it. The copy of the transcript on <a href="http://wjctnews.org/">WJCT&rsquo;s news website</a> is printer friendly, just click the Print icon above the headline. Otherwise, just copy and paste the text into a Word or Google Drive document.</p>
+<p dir="ltr"><strong>Robert Snyder writes</strong>, I had to uninstall Facebook on my Android phone, and when I reinstalled it, I couldn&rsquo;t move it to my SD card. This is a problem because my phone doesn&rsquo;t have a lot of internal memory.</p>
+<p dir="ltr">Why can&rsquo;t I move it, and is there a way around it?</p>
+<p dir="ltr">TOM: Robert Snyder? Snyder, that name rings a bell.</p>
+<p dir="ltr">ROBERT: Yeah I?m? back here?</p>
+<ul><li dir="ltr">
+<p dir="ltr">What phone does Robert have?</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">What version of Android? (Froyo)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Publishers can set apps so that they can?t be moved to the SD card.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Later versions of Android have disabled move to SD card completely</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Apps running on the SD card are de-prioritized and run much slower. To be fair though, with the exception of&nbsp;games most apps are pretty small. It?s the data that takes up a lot of space. So most music, pictures and video will be stored on your SD card.</p>
+</li>
+<li dir="ltr">If you?re really strapped for space and need to move stuff to the SD card, you have two options: root the phone, or download an app. There are apps that will move it to the SD card, but use at your own risk.</li>
+</ul><p>All right it is actually time is to announce the winner of the Amazon Gift Card contest! We had 27 of entries to the contest. Now we are going to <a href="http://random.org/">random.org</a> to pick one of these contestants at random. The winner was number 24, Eugene! Thanks to everyone who answered the survey!</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p dir="ltr">Our producer is Sean Birch. Thanks to Robert Snyder for Video Production Assistance. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#51 How To Root Your TI-84" data-link="/2013/10/51-root-ti-84/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/51-root-ti-84/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-06.mp3" length="34856173" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Shortcuts</title>
+	<atom:link href="/tag/shortcuts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Keyboard Shortcuts</title>
+		<link>/2015/07/ask-deemable-tech-keyboard-shortcuts/</link>
+		<comments>/2015/07/ask-deemable-tech-keyboard-shortcuts/#comments</comments>
+		<pubDate>Thu, 30 Jul 2015 12:44:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Hotkeys]]></category>
+		<category><![CDATA[Keyboard Shortcuts]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Shortcuts]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10174</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/02/Logitech_K750-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Logitech Wireless Solar Keyboard K750" style="float:left; margin:0 15px 15px 0;" />Dale writes, &#8220;My son-in-law was helping me with some computer stuff and he showed me a trick where I could see all the windows I have open on my computer at once and switch between them. The problem is, I <a href="/2015/07/ask-deemable-tech-keyboard-shortcuts/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/ask-deemable-tech-keyboard-shortcuts/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/02/Logitech_K750-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Logitech Wireless Solar Keyboard K750" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Dale writes, &ldquo;My son-in-law was helping me with some computer stuff and he showed me a trick where I could see all the windows I have open on my computer at once and switch between them. The problem is, I have forgotten how he did it, and I don?t want to keep bothering him. So I thought I&rsquo;d bother you guys instead!&rdquo;</strong></em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10174-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3</a></audio><p><span id="more-10174"></span></p>
+<p>No problem, Dale, that&rsquo;s what we&rsquo;re here for!</p>
+<p><img class="alignright size-medium wp-image-4956" src="//media/2012/02/Logitech_K750-300x165.jpg" alt="Logitech Wireless Solar Keyboard K750" width="300" height="165">As far as your question goes, we&rsquo;re pretty sure that the &ldquo;trick&rdquo; you are looking for is holding down the ALT and TAB keys on your keyboard at the same time. In Windows 8, that brings up a view of all the windows you currently have open. If you keep holding ALT and start pressing TAB, you can switch from window to window. When you get to the one you want to select, just let go of the ALT key and boom, there you go.</p>
+<p>ALT-TAB is one of many keyboard shortcuts that we think are essential to know when using Windows. A shortcut &mdash; or hotkey, as they are sometimes called &mdash; is a combination of key presses that triggers a command. They unusually involve holding down two keys at once, like pressing CTRL and C to copy, or&nbsp;CTRL and V to paste. Shortcuts can save you a lot of time by condensing everyday tasks that usually require several clicks of the mouse into one press of the keys.</p>
+<p>Here are some of our favorite keyboard shortcuts for Windows and Mac.</p>
+<p><strong>Windows</strong></p>
+<ul><li>Alt + Tab &ndash; Cycle through open windows/programs</li>
+<li>Windows key + D &ndash; Display desktop</li>
+<li>Windows key + E &ndash; Open new Windows Explorer window</li>
+<li>Windows key + F &ndash; Open Windows search window</li>
+<li>Windows key + down arrow &ndash; Minimize window</li>
+<li>Windows key + up arrow &ndash; Maximize window</li>
+<li>Windows key + X &ndash; Open Quick Access Menu</li>
+<li>Windows key + plus or minus sign &ndash; Zoom in or zoom out</li>
+<li>Windows key + L &ndash; Lock computer or switch user</li>
+<li>Ctrl + Shift + Esc &ndash; Open Task Manager</li>
+<li>Ctrl + W &ndash; Close window</li>
+<li>Ctrl + C &ndash; Copy selected item or text</li>
+<li>Ctrl + X &ndash; Cut selected item or text</li>
+<li>Ctr l+ V &ndash; Paste selected copied item or text</li>
+<li>Ctrl + P &ndash; Print</li>
+<li>Ctrl + A &ndash; Select everything</li>
+<li>Ctrl + Z &ndash; Undo</li>
+<li>Ctrl + Y &ndash; Redo</li>
+</ul><p><strong>Mac</strong></p>
+<ul><li>Command + Tab &ndash; Cycle through open windows/applications</li>
+<li>Command + Q &ndash; Quit open application</li>
+<li>Command + W &ndash; Close active window</li>
+<li>Command + C &ndash; Copy selected item or text</li>
+<li>Command + X &ndash; Cut Selected item or text</li>
+<li>Command + V &ndash; Paste copie item or text</li>
+<li>Command + F3 &ndash; Show desktop</li>
+<li>Command + Alt + Esc &ndash; Force quit application</li>
+<li>Command + Option + Control + Esc &ndash; Shut down computer</li>
+<li>Command + Alt + Eject button &ndash; Put computer to sleep</li>
+<li>Ctrl + D &ndash; Delete</li>
+</ul><p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Keyboard Shortcuts" data-link="/2015/07/ask-deemable-tech-keyboard-shortcuts/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Keyboard Shortcuts" data-link="/2015/07/ask-deemable-tech-keyboard-shortcuts/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/ask-deemable-tech-keyboard-shortcuts/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3" length="3297251" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

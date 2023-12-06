@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Wi-Fi Assist</title>
+	<atom:link href="/tag/wi-fi-assist/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Wi-Fi Assist</title>
+		<link>/2016/06/ask-deemable-tech-wi-fi-assist/</link>
+		<comments>/2016/06/ask-deemable-tech-wi-fi-assist/#comments</comments>
+		<pubDate>Thu, 16 Jun 2016 18:53:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[Wi-Fi Assist]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10604</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/07/iphone_wi-fi-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone_wi-fi" style="float:left; margin:0 15px 15px 0;" />Walter writes, &#8220;I read a story about a teenager who ran up a $2,000 phone bill because they thought they were using Wi-Fi but they were actually on the cellular network. I didn&#8217;t catch the whole story, but I know <a href="/2016/06/ask-deemable-tech-wi-fi-assist/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/06/ask-deemable-tech-wi-fi-assist/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/07/iphone_wi-fi-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone_wi-fi" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><a href="http://deemable.com/media/2016/07/iphone_wi-fi.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10622" src="//media/2016/07/iphone_wi-fi-300x150.jpg"  alt="iphone_wi-fi" width="300" height="150"></a>Walter writes, &ldquo;I read a story about a teenager who ran up a $2,000 phone bill because they thought they were using Wi-Fi but they were actually on the cellular network. I didn&rsquo;t catch the whole story, but I know it had something to do with iPhones. Do you know what&rsquo;s going on?&rdquo;</em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10604-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3">http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3</a></audio><p>We heard about that story too, Walter, and all we can say is, &ldquo;Yikes!&rdquo;</p>
+<p>It sounds like it wasn?t entirely the kid&rsquo;s fault, though. There&rsquo;s a new feature in iOS 9 called <strong>Wi-Fi Assist</strong> that was at least partially responsible.</p>
+<p>Wi-Fi Assist helps to make sure you have a solid data connection when you&rsquo;re using Wi-Fi, even if your Wi-Fi connection is really weak. For example, if you&rsquo;re in a part of your house that is far away from your wireless router, Wi-Fi Assist will automatically switch your phone over to 4G cellular data to keep you connected to the internet.</p>
+<p>This is great for people who have unlimited data plans, but it could run up your bill pretty quickly if you have a data cap and you&rsquo;re not paying attention to how much you&rsquo;re using.</p>
+<hr><p>For tips on keeping your data usage low, check out our other articles <a href="http://deemable.com/2013/04/michelle-asks-how-can-i-lower-my-data-usage-on-my-iphone/" target="_blank">here</a>, <a href="http://deemable.com/2014/09/angela-asks-can-monthly-usage-smartphone/" target="_blank">here</a> and <a href="http://deemable.com/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/" target="_blank">here</a>.</p>
+<hr><p style="text-align: left;">If you&rsquo;re worried about Wi-Fi Assist eating up your data, here&rsquo;s how to turn it off:</p>
+<ul><li style="text-align: left;">Open the Settings app</li>
+<li style="text-align: left;">Tap Cellular</li>
+<li style="text-align: left;">Scroll all the to the bottom of that menu</li>
+<li style="text-align: left;">Tap the toggle button next to Wi-Fi Assist</li>
+</ul><p>In the Cellular menu, you&rsquo;ll also see a list of all of the apps on your phone that use cellular data. Next to each one is a toggle button to turn data for it on or off. It&rsquo;s a good idea to look through this list to see if there are any using data that don&rsquo;t need to be, especially ones you rarely use anymore.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Wi-Fi Assist" data-link="/2016/06/ask-deemable-tech-wi-fi-assist/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Wi-Fi Assist" data-link="/2016/06/ask-deemable-tech-wi-fi-assist/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/06/ask-deemable-tech-wi-fi-assist/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3" length="3184244" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

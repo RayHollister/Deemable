@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; NFC tags</title>
+	<atom:link href="/tag/nfc-tags/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Lydia asks, &#8220;What is a QR Code?&#8221;</title>
+		<link>/2013/06/lydia-asks-what-is-a-qr-code/</link>
+		<comments>/2013/06/lydia-asks-what-is-a-qr-code/#comments</comments>
+		<pubDate>Thu, 13 Jun 2013 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[NFC tags]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[smart phones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7430</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/Thine_Antique_Pen_QR_Code_medium-150x150.png" class="attachment-thumbnail wp-post-image" alt="Random QR Code" style="float:left; margin:0 15px 15px 0;" />RAY: Hi, I&#8217;m Ray Hollister, TOM: I&#8217;m Tom Braun, RAY: and we&#8217;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: TOM: Lydia writes: What is <a href="/2013/06/lydia-asks-what-is-a-qr-code/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/lydia-asks-what-is-a-qr-code/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/Thine_Antique_Pen_QR_Code_medium-150x150.png" class="attachment-thumbnail wp-post-image" alt="Random QR Code" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p98853-embed" src="http://www.prx.org/p/98853/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Lydia writes: What is a QR Code? I saw somebody at the mall looking at a movie poster with a black and white square that looked techy, and they said something about a QR code. What is that?</p>
+<p>RAY: Thanks for your question Lydia. Actually you described it pretty well. A QR code is a techy looking, black and white square. </p>
+<p>TOM: They kinda look like small crossword puzzles. What they can do is pretty cool though. The QR in QR code stands for Quick Response. They were first used in the automobile industry to help manufacturers keep track of parts. </p>
+<p>QR codes are similar to the bar codes or UPC symbols that you might see at a grocery store on the back of a can of beans. The difference is that a barcode is just one line of information, usually a twelve digit UPC number. The numbers that you see beneath the barcode are literally all that the laser scanner reads. Barcodes are one dimensional, (left to right) but QR codes are 2 dimensional: they store information left to right and up and down.</p>
+<p>RAY: Now, here&rsquo;s how this affects you, or could affect you. QR codes can have a lot of information stored in them, like website addresses, phone numbers, and other information, and you can read QR codes with a smartphone and a QR code reader app. And, a lot of companies are starting to put QR codes on their posters and in their ads in magazines and billboards. </p>
+<p>So, let&rsquo;s say you&rsquo;re looking at an ad in a magazine for a product you&rsquo;re interested in, and you&rsquo;d like to more information about it. Instead of having to enter the website&rsquo;s address in manually, or having to search the Internet for it, you could grab your phone, open your QR code reader, and snap a picture of the code, and boom you&rsquo;ve got the link to their website and it opens. Most QR codes that I&rsquo;ve seen just have a link to the website in them, but I&rsquo;ve seen a couple that real estate agents had on their brochures that had their contact information stored in them. So, when I scanned the code, I got their name, phone numbers, email addresses and website all in a note on my iPhone. I didn&rsquo;t have to write any of it down.</p>
+<p>TOM: So, QR codes could be really awesome, but they still face a lot of hurdles. The fact is that most people don&rsquo;t know what they are or how to read them. Actually, though, they&rsquo;re fairly easy to use.</p>
+<p>RAY: To use a QR code, you have to have a QR code reader on your phone. The best app I&rsquo;ve found for the iPhone is QRReader, but there are tons of QR code readers for the iPhone. Just search the app store for &ldquo;QR code reader,&rdquo; and try them out. </p>
+<p>Also, Microsoft has a similar 2D barcode called Microsoft Tag. It looks like multi-colored triangles sitting on shelves, so the appearance is much friendlier. Also, Microsoft has been pretty aggressively getting companies to start posting Tags on their ads and on their products. The Microsoft Tag app, which is available on practically ALL phones, (iPhones, Androids, Windows Phone, Blackberry, and standard feature phones) is the best one that I have found because it scans all 2D barcodes, including QR codes and Microsoft&rsquo;s Tags.</p>
+<p>TOM: There are numerous free apps in the Android play market that will allow you to read QR codes. Just search for &lsquo;QR code reader&rsquo;. Then download the app, open it up, point your camera at one of those black and white squares, and watch the magic happen.</p>
+<p>RAY: To hear more answers to questions like this one, visit our website at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to our full length show, and all of our previous radio segments.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister&hellip;</p>
+<p>TOM: and I&rsquo;m Tom Braun</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Lydia asks, "What is a QR Code?"' data-link="/2013/06/lydia-asks-what-is-a-qr-code/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Lydia asks, "What is a QR Code?"' data-link="/2013/06/lydia-asks-what-is-a-qr-code/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/lydia-asks-what-is-a-qr-code/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

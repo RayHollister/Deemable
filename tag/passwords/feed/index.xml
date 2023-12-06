@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; passwords</title>
+	<atom:link href="/tag/passwords/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: How Can I Safely Shop Online?</title>
+		<link>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/</link>
+		<comments>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#comments</comments>
+		<pubDate>Thu, 16 Jul 2015 12:47:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10146</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" />Andrew writes, &#8220;It seems like every week there&#8217;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&#8221; You&#8217;re <a href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Andrew writes, &ldquo;It seems like every week there&rsquo;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&rdquo;</strong></em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10146-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3</a></audio><p><span id="more-10146"></span></p>
+<p>You&rsquo;re right, Andrew, there have been a few pretty severe hacks of some large corporations recently. Unfortunately, we probably haven&rsquo;t seen the last of them. But here&rsquo;s the thing: staying off the internet probably won&rsquo;t help you at all.</p>
+<div id="attachment_10159" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/07/credit_cards_flickr.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10159" src="//media/2015/07/credit_cards_flickr-300x169.jpg"  alt="Image credit: Sean MacEntee / Flickr" width="300" height="169"></a><p class="wp-caption-text">Image credit: Sean MacEntee / Flickr</p></div>
+<p>Most of the businesses that have been hacked lately were retail stores, and the people affected were those who had shopped in the stores&rsquo; brick and mortar locations, not online. Hackers found their way into the companies&rsquo; servers, and were able to skim credit card numbers as they were scanned into the database.</p>
+<p>Banks similarly store your information in databases that are connected to the internet. While they take security precautions, those defenses are sometimes compromised by hacking groups that have become more organized and sophisticated.</p>
+<p>You see, Andrew, you don&rsquo;t even have to be online for businesses or banks to store your information online.</p>
+<p>All of this can understandably seem pretty scary. Luckily there are systems in place to protect you if your information is stolen. The Federal Deposit Insurance Corporation, or FDIC, says that customers can only be held responsible for a maximum of $50 for a fraudulent transaction, provided they report it to their bank or credit card company quickly. In fact, most credit card companies will rarely hold someone responsible for any fraudulent charges on their card, as long as they report those charges in a timely manner.</p>
+<p>The trick is to keep an eye on your bank account and credit card statements. Be on the lookout for transactions you don&rsquo;t remember making. Remember, the sooner your report a fraudulent transaction, the more likely you are to get all of your money back.</p>
+<p>It really is okay to shop online, just as long as you use some common sense. For example, only give your credit card information to reputable online retailers. And make sure you use good, unique passwords.&nbsp;<a href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" target="_blank">Like we&rsquo;ve said before</a>, long passwords of 15 characters or more are best. You should also avoid using easily guessable names or words for passwords. Have&nbsp;different passwords for different websites, especially the important ones like your bank, your favorite online store and your primary email account. We also recommend using a password manager like LastPass or DashLane.</p>
+<p>Stay safe, and happy shopping!</p>
+<p><em>Photo Credit: &ldquo;<a href="https://www.flickr.com/photos/smemon/12696032183" target="_blank">Credit Cards</a>&rdquo;&nbsp;by&nbsp;<a href="https://www.flickr.com/photos/smemon/" target="_blank">Sean MacEntee</a>&nbsp;is used under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Heartbleed, Passwords and You</title>
+		<link>/2014/04/heartbleed-passwords/</link>
+		<comments>/2014/04/heartbleed-passwords/#comments</comments>
+		<pubDate>Thu, 10 Apr 2014 16:08:06 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Heartbleed]]></category>
+		<category><![CDATA[internet security]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8707</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" />The big news in tech right now is a dangerous bug in the internet known as &#8216;Heartbleed&#8217; which could be putting your personal information at risk. Here&#8217;s what you need to know about it and what you can do. What <a href="/2014/04/heartbleed-passwords/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/heartbleed-passwords/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/heartbleed_wide-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="heartbleed_wide" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p116661-embed" src="http://www.prx.org/p/116661/embed.js?size=small"></script></p>
+<p><span style="line-height: 1.5em;">The big news in tech right now is a dangerous bug in the internet known as &lsquo;Heartbleed&rsquo; which could be putting your personal information at risk. Here&rsquo;s what you need to know about it and what you can do.</span><span id="more-8707"></span></p>
+<h2><a href="http://deemable.com/media/2014/04/heartbleed.png" class="gallery_colorbox"><img class="alignright  wp-image-8708" src="//media/2014/04/heartbleed.png"  alt="heartbleed" width="246" height="297"></a>What is Heartbleed?</h2>
+<p>Heartbleed&nbsp;is a &ldquo;vulnerability,&rdquo; or a hole in the elaborate security systems in place around the web. Imagine if there was one company that made over half the locks on doors in the world. Now imagine that someone discovered that all those locks could be picked easily and without anyone noticing. That frightening situation is basically what has happened on the internet.</p>
+<p>To put it simply,&nbsp;Heartbleed&nbsp;is basically a programming error that makes many secure websites less secure. When you visit a page that asks for private information, such as a password or a credit card number, that page almost always has a lock icon beside its web address. This means that the page uses SSL, the technology that secures web pages with sensitive information. A popular and widespread version of SSL is&nbsp;OpenSSL, which is used by almost 60 percent of all websites.&nbsp;OpenSSL&nbsp;is where this bug was found.</p>
+<p>On some versions of this system a small but critical error made it possible for a hacker to &ldquo;snoop&rdquo; the encrypted data being passed back and forth without being detected. Experts estimate that this problem has existed for the past two years.</p>
+<p>While some internet security threats are overblown, this one is real. World-renowned internet security expert and author Bruce&nbsp;Schneier&nbsp;recently stated that &ldquo;on a scale of 1 to 10, this is an 11.&rdquo;</p>
+<p><strong>What Can I Do About It?</strong></p>
+<p>The bad news is that there is not a lot that ordinary users can do about this. It is up to the companies that run the compromised websites to fix it. Patches are available, and IT administrators world-wide should be scrambling to implement them.</p>
+<p>For the moment, the best thing you can do is to avoid compromised websites that have not yet been fixed. How do you know if a site is compromised? You can check it by entering the address of the site at this page:&nbsp;<a href="http://filippo.io/Heartbleed/" target="_blank" data-cke-saved-href="http://filippo.io/Heartbleed/">http://filippo.io/Heartbleed/</a></p>
+<p>Major websites that are known to be SAFE and were UNAFFECTED include:</p>
+<ul><li>Twitter</li>
+<li>Amazon</li>
+<li>Microsoft (and sub-sites)</li>
+<li>AOL</li>
+<li>Paypal</li>
+<li>Most banking websites</li>
+</ul><p>Major websites that are SAFE but had been PREVIOUSLY AFFECTED include:</p>
+<ul><li>Google</li>
+<li>Gmail</li>
+<li>YouTube</li>
+<li>Facebook</li>
+<li>Yahoo!</li>
+<li>Instragram</li>
+<li>Pinterest</li>
+<li>OKCupid</li>
+<li>GoDaddy</li>
+</ul><p>Mashable&nbsp;has&nbsp;<a href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/" data-cke-saved-href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/">a long list of sites that were affected</a>&nbsp;with up-to-date information about their security status.</p>
+<p><strong>Should I Change My Passwords?</strong></p>
+<p>Yes,&nbsp;as long as the website you are changing your password on has been fixed. If you change your password on a site that is still vulnerable, hackers can simply grab your new password! At this point, however, it should be safe to change your password virtually everywhere.</p>
+<p>Your best bet to protect yourself is to&nbsp;use separate passwords for every website.</p>
+<p>We have long preached the virtues of&nbsp;<a href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords" target="_blank" data-cke-saved-href="http://news.wjct.org/post/ask-deemable-tech-how-can-i-have-secure-easy-remember-passwords">password managers</a>. These are programs that can&nbsp;generate truly random passwords and remember which password goes with which website for you.&nbsp;It used to be just a good idea to use a password manager, but now you need to seriously consider using one.</p>
+<p>The password managers we recommend are&nbsp;<a href="https://lastpass.com/" target="_blank" data-cke-saved-href="https://lastpass.com/">LastPass</a>,&nbsp;<a href="https://www.dashlane.com/" target="_blank" data-cke-saved-href="https://www.dashlane.com/">DashLane&nbsp;</a>and&nbsp;<a href="http://keepass.com/" target="_blank" data-cke-saved-href="http://keepass.com/">KeePass</a>.&nbsp;LastPass&nbsp;and&nbsp;DashLane&nbsp;store your passwords in a very secure cloud so you can access them from all your computers and mobile devices.&nbsp;KeePass&nbsp;stores them on your hard drive. Use whichever feels more comfortable to you, but please use one!</p>
+<p>If you are dead set against password managers, you should still try to use different passwords for different sites. Your Amazon password should be different from your email password, which should be different from your bank password. To help you remember these passwords, consider writing them down and storing them somewhere safe at home &ndash; like, maybe in a safe!</p>
+<p><strong>What Else Can I Do?</strong></p>
+<p>Become better educated about internet security! With so much of our lives now stored online, this is a topic that affects virtually everyone. Knowing good password practices, like how to make a hard-to-guess password and that you should have separate passwords for separate websites, is critical.</p>
+<p>Check websites that you regularly visit for the&nbsp;Heartbleed&nbsp;vulnerability using the link above. If you find that one has problems, you could try emailing their IT administrators to inform them and find out what steps are being taken. In the meantime, stay off of that website. Once the hole is plugged, log in and change your password.</p>
+<p>Keep an eye on bank statements and credit card information for unusual activity.&nbsp;Heartbleed&nbsp;was discovered by security researchers. We have no proof that hackers have been using it, but the possibility exists. That means you need to take precautions to protect yourself in the digital world.</p>
+<p>If you have more questions, call us a <a href="tel:18889729868">1-888-972-9868</a> or email us at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/heartbleed-passwords/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Deemable Tech March 2014 Radio Special</title>
+		<link>/2014/03/deemable-tech-march-2014-radio-special/</link>
+		<comments>/2014/03/deemable-tech-march-2014-radio-special/#comments</comments>
+		<pubDate>Sun, 30 Mar 2014 17:39:18 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Specials]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Facebook legends]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Nagware]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[Windows XP]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8670</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" />In this first of four hour-long public radio specials for 2014, Ray and Tom&#160;hear from listeners experiencing problems with their Kindles, wondering how they can have safe and secure passwords, looking for advice on what kind of tablet they should <a href="/2014/03/deemable-tech-march-2014-radio-special/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/deemable-tech-march-2014-radio-special/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8753" style="width: 304px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/03/dt_ray_tom.jpg" class="gallery_colorbox"><img class=" wp-image-8753  " alt="Image credit: Stephen Jones / WJCT" src="//media/2014/03/dt_ray_tom.jpg"  width="294" height="230"></a><p class="wp-caption-text">Image credit: Stephen Jones / WJCT</p></div>
+<p>In this first of four hour-long public radio specials for 2014, Ray and Tom&nbsp;hear from listeners experiencing problems with their Kindles, <a title="Gary asks, ?How can I have secure, easy-to-remember passwords??" href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/">wondering how they can have safe and secure passwords</a>, looking for advice on what kind of tablet they should purchase and more.</p>
+<div>
+<p>The guys also have <a title="Support for Windows XP is Ending Soon" href="http://deemable.com/2014/03/support-windows-xp-ending-soon/">important (and timely) news regarding Windows XP</a>, share some tips on how to buy a laptop, debunk a few Facebook myths and talk about some great travel-related apps.</p>
+<p><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">March 2014 Radio Special</a></p>
+<audio class="wp-audio-shortcode" id="audio-8670-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3?_=2"></source><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3</a></audio></div>
+<p>Links mentioned in the show:</p>
+<ul><li><a href="http://blog.laptopmag.com/laptop-buying-guide">Laptop Magazine &ndash;&nbsp;Laptop Buying Guide</a></li>
+<li><a href="http://www.snopes.com/computer/facebook/noreligion.asp">Snopes.com &ndash; Facebook Blocking Religious Posts</a></li>
+<li><a href="http://www.avast.com/">Avast! Anti-Virus</a></li>
+<li><a href="http://pcdecrapifier.com/">PC Decrapifier</a></li>
+<li><a href="http://www.revouninstaller.com/">Revo Uninstaller</a></li>
+<li><a href="http://www.bleepingcomputer.com/download/adwcleaner/">AdwCleaner</a></li>
+<li><a href="http://windows.microsoft.com/en-us/windows/end-support-help">Microsoft &ndash; End of Windows XP Support Guide</a></li>
+<li><a href="https://www.glympse.com/">Glympse</a></li>
+<li><a href="http://milebug.com/">MileBug</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/checkit-speedometer-speed/id662156507?mt=8" target="_blank" rel="external nofollow">CheckIt Speedometer</a></li>
+<li><a href="https://www.duolingo.com/">Duolingo</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/deemable-tech-march-2014-radio-special/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3" length="48829064" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Protecting Logins with a Second Authentication Factor</title>
+		<link>/2013/08/protecting-logins-second-authentication-factor/</link>
+		<comments>/2013/08/protecting-logins-second-authentication-factor/#comments</comments>
+		<pubDate>Thu, 29 Aug 2013 17:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Dashlane]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[two-factor authentication]]></category>
+		<category><![CDATA[two-step verification]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8107</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/repost-us-6843133-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="repost-us-image-6843133" style="float:left; margin:0 15px 15px 0;" />Two-factor authentication is catching on for a variety of consumer Web services. For those of you not in the know, this isn’t all that new. Years ago, various computer vendors set out to improve things with hardware-based two-factor authentication: Something uniquely in your possession that would generate a one-time code to work with a security appliance and better secure your logins. RSA made millions in this market, and over the years these tokens have been used by millions of users.
+&#8230;<p class="more-link-p"><a class="more-link" href="/2013/08/protecting-logins-second-authentication-factor/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/repost-us-6843133-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="repost-us-image-6843133" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Passwords are getting easier to crack even as we more create more complicated passwords. <a href="http://hashcat.net/oclhashcat-plus/">Hashcat</a>, one of the leading password cracking software programs was just upgraded to allow it to break passwords of up to 55 characters in length. In addition to using a program like LastPass or Dashlane to store individual passwords for every website you log into, you should use two-factor authentication for every site that offers it. For more on two-factor authentication, here&rsquo;s David Strom&rsquo;s article from Dice News in Tech.</p>
+<div class="rpuEmbedCode">
+<div class="rpuArticle rpuRepost-9EFC7E67828D93BC52CBF9E5D15865AF-top rpuNoTitle" style="margin:0;padding:0;">
+<script src="https://1.rp-api.com/rjs/repost-article.js?3" type="text/javascript" data-cfasync="false"></script><a href="http://s.tt/1JNTx" class="rpuThumb" rel="norewrite"><img src="//media/2013/08/repost-us-6843133.jpg" width="300" height="209" class="alignright size-full wp-image-8108"></a><a href="http://s.tt/1JNTx" class="rpuTitle" rel="norewrite"><strong>Protecting Logins with a Second Authentication Factor</strong></a> (via <a href="http://s.tt/1JNTx" class="rpuHost" rel="norewrite">Dice News in Tech</a>)
+<p class="rpuSnip">
+Two-factor authentication is catching on for a variety of consumer Web services. For those of you not in the know, this isn&rsquo;t all that new. Years ago, various computer vendors set out to improve things with hardware-based two-factor authentication: Something uniquely in your possession that would generate a one-time code to work with a security appliance and better secure your logins. RSA made millions in this market, and over the years these tokens have been used by millions of users.<br>
+&hellip;
+</p>
+</div>
+</div>
+<p><!-- put the "tease", "jump" or "more" break here --><br></p><hr id="system-readmore" style="display: none;"><span id="more-8107"></span><!--break--><br><hr class="at-page-break" style="display: none;"><div class="rpuEmbedCode">
+<div class="rpuArticle rpuRepostMain rpuRepost-9EFC7E67828D93BC52CBF9E5D15865AF-bottom" style="display:none;">&nbsp;</div>
+<div style="display: none;"><!-- How to customize this embed: http://www.repost.us/article-preview/#!shash=9EFC7E67828D93BC52CBF9E5D15865AF --></div>
+</div>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Protecting Logins with a Second Authentication Factor" data-link="/2013/08/protecting-logins-second-authentication-factor/" data-summary="Two-factor authentication is catching on for a variety of consumer Web services. For those of you not in the know, this isn?t all that new. Years ago, various computer vendors set out to improve things with hardware-based two-factor authentication: Something uniquely in your possession that would generate a one-time code to work with a security appliance and better secure your logins. RSA made millions in this market, and over the years these tokens have been used by millions of users."></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Protecting Logins with a Second Authentication Factor" data-link="/2013/08/protecting-logins-second-authentication-factor/" data-summary="Two-factor authentication is catching on for a variety of consumer Web services. For those of you not in the know, this isn?t all that new. Years ago, various computer vendors set out to improve things with hardware-based two-factor authentication: Something uniquely in your possession that would generate a one-time code to work with a security appliance and better secure your logins. RSA made millions in this market, and over the years these tokens have been used by millions of users."></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/protecting-logins-second-authentication-factor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gary asks, &#8220;How can I have secure, easy-to-remember passwords?&#8221;</title>
+		<link>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/</link>
+		<comments>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/#comments</comments>
+		<pubDate>Thu, 09 May 2013 13:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7335</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/passwords-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe?" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;ve heard that you&#8217;re supposed to have a good password to keep hackers from breaking into your account, but how do I know what a secure password is? I know I shouldn&#8217;t use something dumb like &#8220;123abc&#8221; but I <a href="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/passwords-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe?" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p96802-embed" src="http://www.prx.org/p/96802/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;ve heard that you&rsquo;re supposed to have a good password to keep hackers from breaking into your account, but how do I know what a secure password is? I know I shouldn&rsquo;t use something dumb like &ldquo;123abc&rdquo; but I don&rsquo;t think I can remember a bunch of random letters and numbers. What would you recommend?</p>
+<p><strong>A: </strong>First of all, there are different guidelines for home users and work users. Here are some password security basics for home users:</p>
+<ul><li>Never share a computer account.</li>
+<li>Never use the same password for more than one account.</li>
+<li>Never tell a password to anyone, including people who claim to be from customer service or security.</li>
+<li>Never email your password to anyone.</li>
+<li>Be sure to log off or lock your screen before leaving a computer unattended.</li>
+<li>Change your password whenever you think that it may have been compromised.</li>
+<li>Don&rsquo;t use guessable passwords: this includes your spouse&rsquo;s name, your kid&rsquo;s name, your pet&rsquo;s name, and of course your name.</li>
+</ul><p><a href="http://deemable.com/media/2013/05/passwords.jpg" class="gallery_colorbox"><img class="alignright  wp-image-7336" alt="Protecting your usernames and passwords is as important now as locking your car. What are you doing to keep your online accounts safe? " src="//media/2013/05/passwords-300x300.jpg"  width="270" height="270"></a>A perfect password would be made up entirely of random letters numbers and special characters, be as long as possible, and not be used anywhere else. Unfortunately, this is not humanly possible. Unless you use something like LastPass. LastPass is a password management app that suggests complicated, secure passwords for any website or application, and it remembers all of them for you.</p>
+<p>Here is another easy way to create strong, secure passwords: instead of using random letters and numbers, use a long string of separate words. For instance, something like &ldquo;OrangeShrimpOrphanSingers&rdquo;.</p>
+<p>You can separate each word with a number to make the password alphanumeric. Try not to make the words related to each other because that will make them easier to guess. But you will likely find four words easier to remember than eight or 10 random characters, and because the password is longer, it is actually tougher to crack.</p>
+<p>Oh, and you know how you&rsquo;ve always been told not to write down passwords? Nah, go ahead, write them down on a piece of paper and lock them in your file cabinet. Look at it this way: if someone is in your house reading that piece of paper, you&rsquo;ve got bigger problems. In addition to stealing your passwords, they&rsquo;re probably also stealing your checkbook, your TV and the lunch meat out of your fridge.</p>
+<p>Now, for business users, each corporation has their own policies. So, even if the policy is not <em>optimal</em> you have to follow it. If your company allows it, consider using LastPass.</p>
+<p>Unlike what we said about home users, work users should never write down their passwords. There are too many people walking by your office or cubicle, and that means a lot of opportunities for casual password grabbing.</p>
+<p>Also, never use a password for a business account that you also use for your personal accounts, because if your private information is compromised, then your corporate information will be also.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Gary asks, "How can I have secure, easy-to-remember passwords?"' data-link="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Gary asks, "How can I have secure, easy-to-remember passwords?"' data-link="/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

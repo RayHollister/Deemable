@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Citrix Online</title>
+	<atom:link href="/tag/citrix-online/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 32 &#8211; Alert The Boss, You Need to Disable Java Now!</title>
+		<link>/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/</link>
+		<comments>/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/#comments</comments>
+		<pubDate>Mon, 25 Feb 2013 05:09:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Adecco Ignite]]></category>
+		<category><![CDATA[Alert The Boss]]></category>
+		<category><![CDATA[Citrix Online]]></category>
+		<category><![CDATA[GoToWebinar]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[One Spark]]></category>
+		<category><![CDATA[Text Message]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6888</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/02/AlertTheBoss-150x150.png" class="attachment-thumbnail wp-post-image" alt="Alert The Boss" style="float:left; margin:0 15px 15px 0;" />This week on Deemable Tech Ray was joined by guest host Kenny Kwaak and by John Martinelli and Evan Diamond from Alert The Boss, a creation that is going to part of One Spark, a crowd funding festival happening in <a href="/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/02/AlertTheBoss-150x150.png" class="attachment-thumbnail wp-post-image" alt="Alert The Boss" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright size-full wp-image-6890" alt="Alert The Boss" src="//media/2013/02/AlertTheBoss.png" width="180" height="180">This week on Deemable Tech Ray was joined by guest host Kenny Kwaak and by John Martinelli and Evan Diamond from Alert The Boss, a creation that is going to part of <a title="One Spark: The World's Crowdfunding Festival " href="http://beonespark.com/" target="_blank">One Spark</a>, a crowd funding festival happening in Jacksonville, Florida April 17-21, 2013. Be sure to come and visit Alert The Boss at <a title="121 Atlantic Place at 121 W Forsyth Street." href="https://maps.google.com/maps?q=121+west+forsyth+street+jacksonville+fl&amp;daddr=121+W+Forsyth+St,+Jacksonville,+FL+32202&amp;hl=en&amp;safe=off&amp;hnear=0x88e5b7170a2cf03d:0xbe5b62b1e970c1ff,121+W+Forsyth+St,+Jacksonville,+FL+32202&amp;gl=us&amp;t=h&amp;z=16" target="_blank">121 Atlantic Place</a>&nbsp;and Deemable Tech at a <a title="Adecco Ignite at 6 E Bay Street" href="https://maps.google.com/maps?q=6+east+bay+street+jacksonville+fl&amp;daddr=6+E+Bay+St,+Jacksonville,+FL+32202&amp;hl=en&amp;safe=off&amp;hnear=0x88e5b719e5c78a97:0xc1e72ae59093be92,6+E+Bay+St,+Jacksonville,+FL+32202&amp;gl=us&amp;t=h&amp;z=16" target="_blank">Adecco Ignite</a> during One Spark, and make sure to vote for Alert The Boss and Deemable Tech at One Spark!</p>
+<p>After the break, Ray and Kenny answered one question that got skipped at the <a title="Deemable Tech Live at Bold Bean!" href="http://dmbl.co/e31">Live Event last week</a>. Mike wants to know why he can&rsquo;t hear the sound on the Citrix Online webinars that he attends. The guys tell him to fix the disease, not treat the symptoms.</p>
+<p>All that and more, on this episode of Deemable Tech!</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-6888-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-25.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-25.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-25.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-25.mp3" target="_blank">Download Episode 32 &ndash; Alert The Boss You Need to Disable Java Now!</a></p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 1-888-972-9868, or send us an email to questions at deemable dot com. We&rsquo;ll answer them on the show.</p>
+<h4>Links mentioned on this week&rsquo;s show:</h4>
+<ul><li><a title="AlertTheBoss! | Get instant feedback from your customers BEFORE they leave your business!" href="https://alerttheboss.com/" target="_blank">AlertTheBoss!</a></li>
+<li><a title="Facebook | Alert The Boss" href="https://www.facebook.com/AlertTheBoss" target="_blank">Like AlertTheBoss on Facebook</a></li>
+<li><a title="Gizmodo | How To Disable Java in Your Browser" href="http://gizmodo.com/5975475/how-to-disable-java-in-your-browser" target="_blank">Gizmodo &ndash; How To Disable Java in Your Browser</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 32 - Alert The Boss, You Need to Disable Java Now!" data-link="/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 32 - Alert The Boss, You Need to Disable Java Now!" data-link="/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/episode-32-alert-the-boss-you-need-to-disable-java-now/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-02-25.mp3" length="50022609" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

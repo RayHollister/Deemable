@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Kids Place</title>
+	<atom:link href="/tag/kids-place/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Sherry asks &#8220;How can I keep my son safe on the Internet on his tablet?&#8221;</title>
+		<link>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/</link>
+		<comments>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#comments</comments>
+		<pubDate>Thu, 17 Jan 2013 14:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Kids Mail]]></category>
+		<category><![CDATA[Kids Place]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7213</guid>
+		<description><![CDATA[Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&#8217;t supposed to? The hosts of Deemable Tech, Ray <a href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&rsquo;t supposed to? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p90848-embed" src="http://www.prx.org/p/90848/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:<br>
+Sherry writes: Hey guys!<br>
+We bought a Polaroid tablet for my 11 year-old son for Christmas. We picked it up for only $50 on Woot! Is there a way that we can control which websites he can access on it?<br>
+An additional question would be: What are the best options for kid safe e-mail? I just Googled it and found this one: http://www.kidsemail.org/ </p>
+<p>TOM: $50? Nice deal Sherry! Well played indeed.<br>
+Let&rsquo;s answer her last question first. Email for your kids &ndash; how do you control it? </p>
+<p>RAY: Well Tom, Sherry mentioned Kids Email. Kids Email is a subscription based email service that allows you to monitor and control who your kid is exchanging emails with. It has an Android app called KMail. It has some nice features like only allowing your kid to receive emails from an approved contact list, filtering out swear words and copying you on every email. </p>
+<p>TOM: Honestly, Ray, I feel like Sherry could achieve most of the same results by just making sure you have the password to your kid&rsquo;s email account. She can then see what emails he&rsquo;s receiving and what emails he&rsquo;s sending. </p>
+<p>Sherry, be upfront with your kid about the fact that you&rsquo;ll be monitoring his emails. Tell him you&rsquo;ll be checking periodically and as time goes on if you feel he&rsquo;s emailing responsibly you&rsquo;ll feel comfortable checking less and less.<br>
+That&rsquo;s what I would do. </p>
+<p>RAY: Now as far as general parental controls: while Android has virtually no parental controls built into the operating system, there are plenty of free or cheap third party apps on the Play Market which will give you a lot of control over how your tablet gets used. </p>
+<p>TOM: Speaking of the Play Market, why don&rsquo;t you go ahead and open up that app. Maybe the first thing you want to do is restrict what apps your kid can download. Open up the settings and scroll down to &ldquo;Set or change PIN.&rdquo; Go ahead and set a PIN code. Then check the box that says &ldquo;Use PIN for purchases.&rdquo; Now no one who doesn&rsquo;t know your PIN can use your phone to download apps. </p>
+<p>RAY: Now you can go further with apps that basically offer a very limited ?sandbox&rsquo; for your kid to play in. For example, there is a free third party app called Kids Place that basically creates a separate desktop for your kid. Once inside the Kids Place desktop, he only has access to apps you have specified. </p>
+<p>Maybe most importantly, Kids Place blocks in-app purchases. Some parents have run into trouble when they check their monthly credit card statements and see that their kids have spent hundreds of dollars on virtual fuzzy hats for their game character. </p>
+<p>Kids Place blocks that from happening, and I think that&rsquo;s a big bonus. Just search for &ldquo;Kids Place&rdquo; on the Play Market. </p>
+<p>TOM: Now Kids Place is really designed to block internet access entirely. If you want limited access for your kid, there are other options. </p>
+<p>But first you should be aware that there is really no way in the world to guarantee that your child stays out of trouble on the internet. New web sites spring up all the time, people come up with new tools and workarounds for existing blocks, and it&rsquo;s impossible for even the most zealous content controls to find and block them all. Plus, if your kid puts his mind to it he&rsquo;s eventually going to find his way around those blocks anyway. </p>
+<p>Unfortunately, that&rsquo;s the reality of the situation on today&rsquo;s internet. </p>
+<p>You might notice a theme here: No program can take the place of personally monitoring your son&rsquo;s internet and email use. I know when I was eleven I knew how to get into things on the computer that I wasn&rsquo;t supposed to. Your kid probably does too. </p>
+<p>TOM: We talked about this in more detail on our podcast this week. So be sure to check it out on Deemable.com. That&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast. </p>
+<p>RAY: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com. For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211222/BoyTablet_medium.png" title="How can we keep our kids safe on the Internet if they have their own devices?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; PayPal</title>
+	<atom:link href="/tag/paypal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Norman asks, &#8220;How can I accept credit card payments using my smartphone?&#8221;</title>
+		<link>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/</link>
+		<comments>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/#comments</comments>
+		<pubDate>Thu, 31 Jul 2014 16:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[Intuit GoPayment]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<category><![CDATA[PayPal Here]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Square]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9081</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m looking at opening a food truck. I&#8217;ve seen other food trucks and hot dogs stands taking credit cards on their phones. How can I do that? What kind of phone do I have to have, and does it <a href="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9082" data-orig-file="/media/2014/07/square.jpg" data-orig-size="1602,1402" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="square" data-image-description="" data-medium-file="/media/2014/07/square-300x262.jpg" data-large-file="/media/2014/07/square-1024x896.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p126234-embed" src="http://www.prx.org/p/126234/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m looking at opening a food truck. I&rsquo;ve seen other food trucks and hot dogs stands taking credit cards on their phones. How can I do that? What kind of phone do I have to have, and does it cost a lot of money?<span id="more-9081"></span></p>
+<p><strong>A: </strong>Smartphones have opened up a whole new way for mobile vendors to accept credit card payments. Gone are the days of having to use one of those bulky carbon copy imprinters with hefty fees, high transactions costs and no way to prove if the credit card you were charging was even a real credit card.</p>
+<p>You have a few different options that you can choose from, Norman, but the three most popular are Square, PayPal Here and Intuit GoPayment. All three are small devices that plug into the headphone jack of your iPhone or Android phone.</p>
+
+<a href="/media/2014/07/square.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/square-150x150.jpg"  class="attachment-thumbnail" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" data-attachment-id="9082" data-orig-file="/media/2014/07/square.jpg" data-orig-size="1602,1402" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="square" data-image-description="" data-medium-file="/media/2014/07/square-300x262.jpg" data-large-file="/media/2014/07/square-1024x896.jpg"></a>
+<a href="/media/2014/07/paypal_here_hand.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/paypal_here_hand-150x150.jpg"  class="attachment-thumbnail" alt="PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here.
+
+Image credit: PayPal" data-attachment-id="9083" data-orig-file="/media/2014/07/paypal_here_hand.jpg" data-orig-size="530,530" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="paypal_here_hand" data-image-description="" data-medium-file="/media/2014/07/paypal_here_hand-300x300.jpg" data-large-file="/media/2014/07/paypal_here_hand.jpg"></a>
+<a href="/media/2014/07/intuit_gopayment.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/intuit_gopayment-150x150.jpg"  class="attachment-thumbnail" alt="Intuit, makers of Quicken and QuickBooks, also makes the GoPayment credit card reader.
+
+Image credit: Intuit" data-attachment-id="9084" data-orig-file="/media/2014/07/intuit_gopayment.jpg" data-orig-size="1440,1592" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="intuit_gopayment" data-image-description="" data-medium-file="/media/2014/07/intuit_gopayment-271x300.jpg" data-large-file="/media/2014/07/intuit_gopayment-926x1024.jpg"></a>
+
+<p><strong>Square</strong></p>
+<p><a href="https://squareup.com/" target="_blank">Square</a> pioneered mobile credit card processing with their small, square (hence the name) credit card readers. Once you get your Square reader and download and install the free Square Register app, you&rsquo;ll be ready to start accepting credit cards. You can even add your entire inventory to the app, and use it as your point of sale terminal right there on your phone. Transactions you ring up before 5 p.m. are credited to your bank account the following business day. Square charges 2.75% per swipe.</p>
+<p><strong>PayPal</strong></p>
+<p>PayPal, the company that pioneered online credit card transactions, entered the mobile game a bit later than Square with their credit card reader, a blue triangle known as the <a href="https://www.paypal.com/webapps/mpp/credit-card-reader" target="_blank">PayPal Here.</a> PayPal Here also offers a point of sale app to go along with the device. Money from real world transactions made using this device is sent directly to your PayPal account. From there the money can be spent online or transferred to your bank account. PayPal Here charges 2.7% per swipe.</p>
+<p><strong>Intuit GoPayment</strong></p>
+<p>Intuit, the company that makes Quicken account software, makes the <a href="http://payments.intuit.com/mobile-credit-card-processing/" target="_blank">Intuit GoPayment</a> card reader and app. It&rsquo;s about the same shape as a roll of quarters, but a bit shorter. While the GoPayment is physical the biggest one we&rsquo;ve seen, it charges less per transaction than Square or PayPal Here: 2.4% per swipe. The Intuit QuickBooks GoPayment app also integrates with Quicken and many other small business apps.</p>
+<p>As the mobile payment industry keeps growing, more and more companies are starting to jump in. Amazon recently debuted&nbsp;a mobile credit card reader. Almost all of the traditional credit card processors like BluePay, Verifone and Chase have also launched their own readers. Even office supply retailer Staples has gotten in on the action.</p>
+<p>You have a lot of options to choose from, Norman, and you can get just about all of them for free with no contract. Our advice is that you try all of them until you find the one that fits your needs the best.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Norman asks, "How can I accept credit card payments using my smartphone?"' data-link="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Norman asks, "How can I accept credit card payments using my smartphone?"' data-link="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Redesigned PayPal Mobile App May Become Your Digital Wallet</title>
+		<link>/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/</link>
+		<comments>/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/#comments</comments>
+		<pubDate>Mon, 09 Sep 2013 14:25:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple iPhone]]></category>
+		<category><![CDATA[Digital Wallet]]></category>
+		<category><![CDATA[PayPal]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8199</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/repost-us-6937724-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="PayPal, with its newly redesigned mobile app for iPhone and Android, hopes to start changing people’s minds on mobile payments once again." style="float:left; margin:0 15px 15px 0;" data-attachment-id="8201" data-orig-file="/media/2013/09/repost-us-6937724.jpg" data-orig-size="580,387" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="PayPal, with its newly redesigned mobile app for iPhone and Android, hopes to start changing people’s minds on mobile payments once again." data-image-description="&lt;p&gt;Copyright Image &#8211; this image may only be used with&lt;br /&gt;
+http://www.repost.us/article-preview/#!hash=583146fffe6f2ad7f4f4240b412112aa, all other rights reserved.&lt;/p&gt;
+" data-medium-file="/media/2013/09/repost-us-6937724-300x200.jpg" data-large-file="/media/2013/09/repost-us-6937724.jpg" />In recent years, financial management companies like PayPal, Square and even Google's Wallet have been pushing for the world to embrace digital, on-the-go payments in place of (or in addition to) traditional methods like cash and credit cards. Though a small few have found success, like Square planting its feet in retail outlets big and small (from Starbucks stores to hot dog stands), many mobile payment methods are laborious and simply less convenient…<p class="more-link-p"><a class="more-link" href="/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/repost-us-6937724-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="PayPal, with its newly redesigned mobile app for iPhone and Android, hopes to start changing people’s minds on mobile payments once again." style="float:left; margin:0 15px 15px 0;" data-attachment-id="8201" data-orig-file="/media/2013/09/repost-us-6937724.jpg" data-orig-size="580,387" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="PayPal, with its newly redesigned mobile app for iPhone and Android, hopes to start changing people’s minds on mobile payments once again." data-image-description="&lt;p&gt;Copyright Image &#8211; this image may only be used with&lt;br /&gt;
+http://www.repost.us/article-preview/#!hash=583146fffe6f2ad7f4f4240b412112aa, all other rights reserved.&lt;/p&gt;
+" data-medium-file="/media/2013/09/repost-us-6937724-300x200.jpg" data-large-file="/media/2013/09/repost-us-6937724.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Back in the 90&rsquo;s Bill Gates predicted that we would all be carrying &ldquo;wallet PCs,&rdquo; small computers with screens the size of a wallet that we would hold our money, ID, credit cards and tickets, and would have basic computing functions like calculator, calendar and note applications. Unfortunately, he did not predict that we would also use them to watch endless cat videos and fling birds at green pigs. The modern smart phone has practically fulfilled his prediction, except for replacing the fundamental functions of the old leather wallet. All but very few of us still carry a piece of leather that holds our IDs and credit and debit cards. The problem with most digital wallet apps has been that none of them have yet to become more convenient than simply pulling out a debit card and swiping it. Even Apple&rsquo;s Passbook, which was supposed&nbsp;to be&nbsp;the pinacle of simplicity, is much more complicated than most people are willing to put up with. Until an app makes paying for something with your smartphone as simple and easy as paying for something with a credit card, digital wallets will never replace credit cards. But, PayPal is still willing to try with its latest app update. For more on that story, here is&nbsp;<a title="View more posts by this author" href="http://www.besttechie.com/author/landon/">Landon Robinson</a>&lsquo;s article from BestTechie.</p>
+<div class="rpuEmbedCode">
+<div class="rpuArticle rpuRepost-583146FFFE6F2AD7F4F4240B412112AA-top rpuNoTitle" style="margin: 0; padding: 0;">
+<p>&nbsp;</p>
+<p><img class="alignleft size-full wp-image-8201" alt="PayPal, with its newly redesigned mobile app for iPhone and Android, hopes to start changing people's minds on mobile payments once again." src="//media/2013/09/repost-us-6937724.jpg" width="580" height="387"></p>
+<p><a class="rpuTitle" href="http://s.tt/1Kc3U" rel="norewrite"><strong>Redesigned PayPal Mobile App May Become Your Digital Wallet</strong></a> (via <a class="rpuHost" href="http://s.tt/1Kc3U" rel="norewrite">http://www.besttechie.com/</a>)</p>
+<p class="rpuSnip">In recent years, financial management companies like PayPal, Square and even Google&rsquo;s Wallet have been pushing for the world to embrace digital, on-the-go payments in place of (or in addition to) traditional methods like cash and credit cards. Though a small few have found success, like Square planting its feet in retail outlets big and small (from Starbucks stores to hot dog stands), many mobile payment methods are laborious and simply less convenient?</p>
+</div>
+</div>
+<p><!-- put the "tease", "jump" or "more" break here --></p>
+<hr id="system-readmore" style="display: none;"><p><span id="more-8199"></span><!--break--></p>
+<hr class="at-page-break" style="display: none;"><div class="rpuEmbedCode">
+<div class="rpuArticle rpuRepostMain rpuRepost-583146FFFE6F2AD7F4F4240B412112AA-bottom" style="display: none;">&nbsp;</div>
+<div style="display: none;"><!-- How to customize this embed: http://www.repost.us/article-preview/hash/583146fffe6f2ad7f4f4240b412112aa --></div>
+</div>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Redesigned PayPal Mobile App May Become Your Digital Wallet" data-link="/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/" data-summary="In recent years, financial management companies like PayPal, Square and even Google's Wallet have been pushing for the world to embrace digital, on-the-go payments in place of (or in addition to) traditional methods like cash and credit cards. Though a small few have found success, like Square planting its feet in retail outlets big and small (from Starbucks stores to hot dog stands), many mobile payment methods are laborious and simply less convenient?"></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Redesigned PayPal Mobile App May Become Your Digital Wallet" data-link="/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/" data-summary="In recent years, financial management companies like PayPal, Square and even Google's Wallet have been pushing for the world to embrace digital, on-the-go payments in place of (or in addition to) traditional methods like cash and credit cards. Though a small few have found success, like Square planting its feet in retail outlets big and small (from Starbucks stores to hot dog stands), many mobile payment methods are laborious and simply less convenient?"></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/redesigned-paypal-mobile-app-may-become-digital-wallet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 iPhone Apps to Keep Business Running as Usual</title>
+		<link>/2011/02/5-iphone-apps-to-keep-business-running-as-usual/</link>
+		<comments>/2011/02/5-iphone-apps-to-keep-business-running-as-usual/#comments</comments>
+		<pubDate>Wed, 23 Feb 2011 13:10:14 +0000</pubDate>
+		<dc:creator><![CDATA[Chrissy Das]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer separation anxiety]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[GoDocs]]></category>
+		<category><![CDATA[iCal]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<category><![CDATA[Pulse]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=413</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2011/02/iphone41-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone4" style="float:left; margin:0 15px 15px 0;" data-attachment-id="460" data-orig-file="/media/2011/02/iphone41.jpg" data-orig-size="300,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="iphone4" data-image-description="" data-medium-file="/media/2011/02/iphone41.jpg" data-large-file="/media/2011/02/iphone41.jpg" />I have a confession to make. I am attached to my laptop. I fall asleep with it running near my bed. When I wake up, I check my email before I brush my teeth. As a freelance writer, my livelihood <a href="/2011/02/5-iphone-apps-to-keep-business-running-as-usual/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/02/5-iphone-apps-to-keep-business-running-as-usual/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/02/iphone41-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone4" style="float:left; margin:0 15px 15px 0;" data-attachment-id="460" data-orig-file="/media/2011/02/iphone41.jpg" data-orig-size="300,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="iphone4" data-image-description="" data-medium-file="/media/2011/02/iphone41.jpg" data-large-file="/media/2011/02/iphone41.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>I have a confession to make. I am attached to my laptop. I fall asleep with it running near my bed. When I wake up, I check my email before I brush my teeth. As a freelance writer, my livelihood depends on a steady connection and speedy applications. Last week I reluctantly put my MacBook in the hands of a computer repair friend and he noted, &ldquo;You have computer separation anxiety.&rdquo; While CSA is not (yet) recognized by any psychology journals, there are some options to lessen the fear that comes from being away from your computer.<br>
+These apps can keep your business running whether you are sneaking your iPhone with you on a family vacation* or working through lunch.</p>
+<div class="apps"><a href="https://www.dropbox.com/iphoneapp"><img class="logos" src="http://deemable.com/wp-content/uploads/2011/02/dropbox-small.png" alt="Dropbox App Logo" width="48" height="48"></a><a href="https://www.dropbox.com/iphoneapp" target="_blank">Dropbox</a> It&rsquo;s easy to work across multiple computers when I put my work in progress in Dropbox. It&rsquo;s secure and syncs quickly.</div>
+<div class="apps"><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://itunes.apple.com/us/app/pulse-news-mini/id377594176?mt=8" target="_blank" rel="external nofollow"><img class="logos" src="http://deemable.com/wp-content/uploads/2011/02/pulse-logo-e1298430988102.png" alt="Pulse App Logo" width="48" height="48"></a><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://itunes.apple.com/us/app/pulse-news-mini/id377594176?mt=8" target="_blank" rel="external nofollow">Pulse</a> I like the interface for this app. I can stay on top of news and keep up-to-date on all my favorite sites with the swipe of a finger. It&rsquo;s easy to scroll back for archives and share favorite articles.</div>
+<div class="apps"><a href="http://www.apple.com/macosx/what-is-macosx/mail-ical-address-book.html"><img class="logos" src="http://deemable.com/wp-content/uploads/2011/02/ical-small-e1298429658149.png" alt="iCal App Logo" width="48" height="48"></a><a href="http://www.apple.com/macosx/what-is-macosx/mail-ical-address-book.html" target="_blank">iCal</a> Keeping track of meeting times with clients in different time zones can be tricky. I like setting email reminders of important events. This app is also cool because I can import my <a href="http://calendar.google.com/" target="_blank">Google calendars</a> as well.</div>
+<div class="apps"><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://itunes.apple.com/us/app/godocs-for-ipad-iphone-google/id348792440?mt=8" target="_blank" rel="external nofollow"><img class="logos" src="http://deemable.com/wp-content/uploads/2011/02/GoDocs-logo-e1298429994369.jpg" alt="GoDocs App Logo" width="48" height="48"></a><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://itunes.apple.com/us/app/godocs-for-ipad-iphone-google/id348792440?mt=8" target="_blank" rel="external nofollow">GoDocs</a> Continuing my Google obsession, my workday would not be complete without <a href="http://www.google.com/apps/" target="_blank">Google Docs</a>. &nbsp;I use the spreadsheets to keep track of mileage and expenses.</div>
+<div class="apps"><a href="https://personal.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/mobile_iphone"> <img class="logos" src="http://deemable.com/wp-content/uploads/2011/02/paypal-e1298433164113.png" alt="PayPal App Logo" width="48" height="48"></a><a href="https://www.paypal.com/" target="_blank">PayPal</a> I like knowing when a client makes a payment. Through Paypal, I can send invoices for unpaid bills.</div>
+<p>*Please note that I do not advocate sneaking an iPhone on family vacations. I hear it is healthy to unplug and bond with those who still love you.</p>
+<p>How do you remain productive away from the office? Let me know in the comments if I missed any awesome apps.</p>
+<p><em>iPhone 4 image courtesy of Apple.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="5 iPhone Apps to Keep Business Running as Usual" data-link="/2011/02/5-iphone-apps-to-keep-business-running-as-usual/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="5 iPhone Apps to Keep Business Running as Usual" data-link="/2011/02/5-iphone-apps-to-keep-business-running-as-usual/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/5-iphone-apps-to-keep-business-running-as-usual/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

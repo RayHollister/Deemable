@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Mike asks, &#8220;Can I use one keyboard and mouse with two computers?&#8221;</title>
+	<atom:link href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: John Speer</title>
+		<link>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#comment-9941</link>
+		<dc:creator><![CDATA[John Speer]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2015 04:04:40 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7887#comment-9941</guid>
+		<description><![CDATA[I have this similar setup.  However, one computer is a personal computer and the second is my work computer.  My work computer has a VPN connection into the corporate network during the day.  Since my two computers are on different networks, will this software KVM still work?
+
+John]]></description>
+		<content:encoded><![CDATA[<p>I have this similar setup.  However, one computer is a personal computer and the second is my work computer.  My work computer has a VPN connection into the corporate network during the day.  Since my two computers are on different networks, will this software KVM still work?</p>
+<p>John</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

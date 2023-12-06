@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; iPad mini</title>
+	<atom:link href="/tag/ipad-mini/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#53 Apple News, Saving Tunes and Scanning Documents</title>
+		<link>/2013/10/53-apple-news-saving-tunes-scanning-documents/</link>
+		<comments>/2013/10/53-apple-news-saving-tunes-scanning-documents/#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[iPad Mini with Retina Display]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Macbook Air]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8397</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&#160; They also answered <a href="/2013/10/53-apple-news-saving-tunes-scanning-documents/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/53-apple-news-saving-tunes-scanning-documents/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&nbsp; They also answered questions about backing up your music collection, how to use your iPhone as a scanner and how to scrub&nbsp;a computer of your personal data before you donate it.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8397-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">#53 Apple News, Saving Tunes and Scanning Documents </a></p>
+<p><img class="alignright size-large wp-image-8402" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" src="//media/2013/10/10-23-2013-1024x576.png" width="659" height="370"></p>
+<p>TRANSCRIPT</p>
+<p><strong>RAY:</strong> From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p><strong>TOM:</strong> I&rsquo;m Tom Braun,</p>
+<p><strong>RAY: </strong>and <em>this </em>is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p><strong>TOM:</strong>&nbsp;Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p><strong>RAY: </strong>Hey, we are working on recording an hour long Deemable Tech radio special so give us a call to &ldquo;audition&rdquo; for the show.</p>
+<p><strong>TOM: </strong>Today on the show we?re going to answer your questions about using your smart phone to scan things, backing up your music files and donating your old computer. But first let?s talk tech news.</p>
+<p>Ray, I see you chomping at the bit there, so go ahead and tell us about your tech story of the week!</p>
+<p><strong>RAY: </strong>Well Tom, we get to talk about your favorite thing: Apple had a press event!</p>
+<p>Last Tuesday Apple had a big press announcement</p>
+<p>iPad Air</p>
+<p>? Dropped from 1.4 lbs to 1 lb</p>
+<p>iPad Mini with Retina display $399</p>
+<p>? Same price as the iPad 2 which is still on sale.</p>
+<p>iPad Mini price dropped from $329 to $299</p>
+<p>? Still more expensive than a Nexus 7 at $269 and the Nexus 7 has a better screen.</p>
+<p>New Macbook Pros with Retina Display</p>
+<p>? Faster Intel Haswell CPUs</p>
+<p>? 13&Prime; models saw a $200 price drop.</p>
+<p>13&Prime; Macbook stayed the same price</p>
+<p>The 15&Prime; Macbook disappeared.</p>
+<p>Mac Pro (iTrash&nbsp;can) available date and pricing was announced</p>
+<p>? December 2013</p>
+<p>? Starting at $2,999</p>
+<p>last major update was 2010</p>
+<p>Mavericks OSX 10 FREE</p>
+<p>iWork: Pages, Numbers, and Keynote Formerly $9.99 each on iOS and $19.99 on OSX</p>
+<p>iLife: GarageBand, iPhoto, iMovie&nbsp;&ndash; Formerly $4.99 each on iOS and $15.00 each on OSX</p>
+<p>TOM: In the interest of equal time, here are some other non-Apple stories from this week. Best Buy reports that returns of the Samsung Galaxy Gear are over 30%.</p>
+<p>Acer has a new Chromebook, the Acer 720. It?s got a Haswell CPU under the hood. 11.6-inch 1366&times;768 TN screen. It retails for $249. Includes USB 3.0, HDMI.</p>
+<p>RAY: Kenneth writes, <strong>I want to back up my music/photos files on my Dell Home Edition computer that&rsquo;s using Windows XP as an (OS)Operating System. Which backup system or program do you recommend?</strong></p>
+<p><strong>The reason why I need to do this is because while playing music files the music is skipping so I googled the problem and that&rsquo;s what it recommended me to do is backup my music files. I did try downloading a backup program but I was getting an error message at the finish part of the download.</strong></p>
+<p>TOM: Hey Kenneth. We talked a little about backup programs last week, so you?ll want to check that out. There are a lot of good cloud backup programs out there right now, and they?re easy to use.</p>
+<p>If you want to backup&nbsp;music specifically, it actually gets even easier. Google Play Music will scoop up your music library and upload it to their cloud automatically. From there you can access it from anywhere, or download it again if you lose it.</p>
+<p><strong>RAY:</strong> Yeah, it?s great. But I?m a little confused about something.</p>
+<p>TOM: What?s that?</p>
+<p><strong>RAY:</strong> Why would backing up Kenneth?s music files stop his music player from skipping?</p>
+<p>TOM: Uhhhhhhh? yeah, I don?t know. That seems strange. Backing up your music just makes a copy of it. It doesn?t do anything to the original files.</p>
+<p>The only thing I can think of is that maybe Kenneth is just running out of space on his hard drive.</p>
+<p><strong>RAY:</strong> He did say that he was unable to download a backup program. If he was out of space that would make sense.</p>
+<p>TOM: Yeah. Once you get very low on space on your hard drive you won?t be able to download anything that?s not very small. And it causes a lot of other problems too. Your Operating System uses spare hard drive space to do stuff. Like if a program is running in memory but you?re not using it, your OS might dump a snapshot of that memory onto your hard drive temporarily to free up space. But if you?re out of hard drive space, that?s not going to happen. You?ll see your entire computer getting slower and slower. It might even cause your music to skip.</p>
+<p><strong>RAY:</strong> The only way to fix this is to either delete some files, move files off your hard drive, or uninstall programs.</p>
+<p>TOM: Yeah. If you have an older, smaller hard drive you may find yourself having to do this kind of housekeeping quite a lot. Music files are a great way to start. Try downloading Google Music, because it?s super small. Once it has scanned and uploaded your music library to the cloud, which might take a couple days, start deleting music.</p>
+<p><strong>RAY:</strong> You also need to open up Program Files in the Windows control panel and go through and look for programs you aren?t using. If you see any, click and uninstall them. Remember with most programs you can always reinstall them later if you need them.</p>
+<p><strong>TOM:</strong> Nowadays people have a lot of video files on their hard drives. Nothing will eat up space faster. Time to burn some DVDs! And do you really need a copy of every season of Friends?</p>
+<p>We have a voicemail from Geri:</p>
+<p><strong>Hi guys this is jerry&nbsp;calling over wife I&nbsp;from Cameroon in Africa &hellip; I was calling to harass you asked me to let you know if my old computer game would work gravel &hellip; and it&rsquo;s working great it totally will run on my computer so thanks for the tip okay so my new question I&rsquo;ve just been informed by a friend on face book and that I can use my I phone &hellip; camera as a scanner and that they&rsquo;re apps for the I need to know more and so I&rsquo;m calling to best guys I know to help me find out so that you can do the research and tell me the best thing &hellip; I have an I phone for okay thanks</strong></p>
+<p>Depends on what you want to use it for, OCR or image capture.</p>
+<p><strong>OCR</strong></p>
+<p>ABBYY&nbsp;TextGrabber + Translator $5.99</p>
+<p><strong>Image capture</strong></p>
+<p>ABBYY&nbsp;FineScanner $1.99</p>
+<p>JotNot Scanner Pro $.99</p>
+<p>TOM: Julie wrote in: <strong>I have 2 laptop computers that I would like to donate&nbsp;to a school or organization. How can I erase/remove any personal information in the hard drive, before I donate&nbsp;them? i&nbsp;have been told&nbsp;i can reinstall the original set up discs that came with each one but I can&rsquo;t find those. Is there an inexpensive way to do this, i.e. where I don&rsquo;t have to buy expensive software or take it somewhere like Best Buy where it will cost a lot of $$? Thanks. </strong></p>
+<p>We talked about this once before, on episode #42, but it never hurts to repeat. You have the right idea. You definitely want to wipe your computer <em>before</em> you give it away or sell it.</p>
+<p>In that episode, we mentioned If it?s a Windows PC you?re getting rid of, use a program like Eraser or the Drive Wiper in CCleaner to completely eradicate your data. If you?re tossing out a Mac, there?s a program called Permanent Eraser. All of these programs are free.</p>
+<p>However, one of our listeners, Eva, pointed out that this will not wipe the entire hard drive clean, because it won&rsquo;t wipe the operating system. That is true. To wipe the entire hard drive clean, you need to do one of two things, boot it from the USB or CD/DVD drive or remove the hard drive and use a USB adapter to attach it as an external hard drive to another computer.</p>
+<p>Restore partition.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/53-apple-news-saving-tunes-scanning-documents/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3" length="39942353" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Michael asks, &#8220;How do you move to a new iPad?&#8221;</title>
+		<link>/2013/09/michael-asks-move-new-ipad/</link>
+		<comments>/2013/09/michael-asks-move-new-ipad/#comments</comments>
+		<pubDate>Thu, 26 Sep 2013 10:40:16 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apple iPad]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8311</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/ipads-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Ben Miller / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: My son recently gave his mother an iPad as a birthday gift. He bought it earlier this year, but he decided he wanted an iPad mini instead. What&#8217;s the best way to delete all of his data and accounts <a href="/2013/09/michael-asks-move-new-ipad/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/michael-asks-move-new-ipad/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/ipads-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Ben Miller / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p103616-embed" src="http://www.prx.org/p/103616/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> My son recently gave his mother an iPad as a birthday gift. He bought it earlier this year, but he decided he wanted an iPad mini instead. What&rsquo;s the best way to delete all of his data and accounts on the iPad, and get him moved over to the&nbsp;iPad Mini without losing all of his emails, contacts, music and apps?</p>
+<div id="attachment_8312" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/09/ipads.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8312" alt="Image Credit: Ben Miller / Flickr" src="//media/2013/09/ipads-300x200.jpg"  width="300" height="200"></a><p class="wp-caption-text">Image Credit: Ben Miller / Flickr</p></div>
+<p><strong>A:</strong> It is really important to clear your iPad out before you give it to someone else. You don&rsquo;t want to hand out your personal information when you sell or give someone your iPad or iPhone. But, it&rsquo;s also good to do, even if the only reason is so that the other person has more room for their own stuff. So, here&rsquo;s what you do on your iPad to clear it out.</p>
+<p>First, you want to back it up and sync it with his computer before you do anything to it. Backing it up saves his settings, Messages, photos in his Camera Roll, documents, saved games, and other data. Syncing his iPad saves all of his downloadable purchased content such as movies, music, podcasts, and apps.</p>
+<p>In general, you should sync and back up any iOS device, like an iPad, iPhone or iPod touch once a day, but if you only back it up once every couple of weeks, or even once a month, it&rsquo;s OK. I won&rsquo;t tell on you. Just keep in mind, you could lose anything that&rsquo;s on your iPad at any time since the last time you backed up and synced your iPad. So, the more often you back it up and sync it, the better.</p>
+<p>Just plug his iPad into his computer, and you&rsquo;ll be able to back it up and sync it in iTunes. Once you&rsquo;re done with that you can take his iPad Mini and plug it into his computer, and restore it using the backup you just made of his old iPad. Just plug it in, and tap Restore iPad. If it asks you which backup to use, make sure to choose the most recent backup. Once iTunes is done restoring and syncing his content, he should have everything back and it should look just like his old iPad. Of course, it will look a little smaller since it is an iPad mini.</p>
+<p>Now, the next step is to wipe the old iPad. Now, don&rsquo;t take this step lightly. Once you&rsquo;ve done it it cannot be undone. His iPad will be completely wiped clean, and it will look brand new like the day he bought it. Well, except for those scratches and the ding on the corner.</p>
+<p>To wipe his iPad, open the Settings app and tap General, then tap Reset, then tap Erase All Content and Settings. The iPad will give you one warning to try to pull you to your senses. If you&rsquo;re sure you want to do it, pull the trigger and tap Erase iPad. It will take a few minutes to do it&rsquo;s magic, but once it&rsquo;s done, it will reboot, and you&rsquo;ll be greeted with the setup greeting screen, just like he was when he first got the iPad.</p>
+<p>Sounds easy, right?</p>
+<p>Well, it is easy, if it works. I&rsquo;ll be honest, this is the one area where Apple to this day has still dropped the ball when it comes to the iPhone and iPad. If it works, it&rsquo;s seamless and polished. But, a lot of times, it just doesn&rsquo;t work, and it is very complicated to make sure you have all of your files from your old iOS device on your new iOS device. So, if you try it and it doesn&rsquo;t work, you may want to contact a professional before you wipe the old iPad.</p>
+<p>If you were wondering, yes, this is exactly how it works to move from an old iPhone to a new iPhone as well.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Michael asks, "How do you move to a new iPad?"' data-link="/2013/09/michael-asks-move-new-ipad/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Michael asks, "How do you move to a new iPad?"' data-link="/2013/09/michael-asks-move-new-ipad/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/michael-asks-move-new-ipad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Where can I watch the Apple event live?</title>
+		<link>/2012/10/where-can-i-watch-the-apple-event-live/</link>
+		<comments>/2012/10/where-can-i-watch-the-apple-event-live/#comments</comments>
+		<pubDate>Tue, 23 Oct 2012 14:57:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[live streaming]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5906</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/10/20121023-105544-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="20121023-105544.jpg" style="float:left; margin:0 15px 15px 0;" />If you are looking for live streaming video of the Apple special event happening today at 10 AM Pacific Time, look no farther than Apple&#8217;s own website. Apple is going to be streaming video live from the event on its <a href="/2012/10/where-can-i-watch-the-apple-event-live/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/10/where-can-i-watch-the-apple-event-live/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/10/20121023-105544-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="20121023-105544.jpg" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/10/20121023-105544.jpg" class="gallery_colorbox"><img class="size-full alignright" src="//media/2012/10/20121023-105544.jpg"  alt="20121023-105544.jpg"></a></p>
+<p>If you are looking for live streaming video of the Apple special event happening today at 10 AM Pacific Time, look no farther than Apple&rsquo;s own website. Apple is going to be streaming video live from the event on its website at <a href="http://www.apple.com/apple-events/october-2012/">http://www.apple.com/apple-events/october-2012/</a> and on Apple TV.</p>
+<p>This is the first time in many years that Apple has allowed any video or audio from the event to sneak past the doors during the event. Some enterprising journalists have attempted to start live streams during the event, but have often been permanently blacklisted from Apple events in the future as a result.</p>
+<p>I&rsquo;ve discussed the reason why <a href="http://deemable.com/2011/10/where-can-i-watch-the-apple-iphone-event-live/">Apple didn&rsquo;t allow or provide live streaming of its events in the past</a>, but this change brings up new questions. Why now did Apple decide to provide a live video stream? Does Apple think this will increase interest in what might otherwise be an insignificant event, or do they expect this event is more significant than others, so more people should be able to hear it live? Is Apple unsatisfied with how the press has handled live blogs during the events and want to control the information flow themselves? And, of course, the question that journalists will continue to ask until the end of time, what would Steve have done?</p>
+<p>These are all questions that we&rsquo;ll never know the answer to, and, quite honestly, do they even matter? To the lives of most people, they won&rsquo;t make any significant difference, but to the technology industry they could change how other companies do business. We&rsquo;ve seen in the past few years more and more companies following Apple&rsquo;s model of announcing products and services at special press events that are only for itself, instead of at major tech conferences like the Consumer Electronics Show and Mobile World Congress. Could Apple be changing the game again?</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Where can I watch the Apple event live?" data-link="/2012/10/where-can-i-watch-the-apple-event-live/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Where can I watch the Apple event live?" data-link="/2012/10/where-can-i-watch-the-apple-event-live/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/10/where-can-i-watch-the-apple-event-live/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; WPA2</title>
+	<atom:link href="/tag/wpa2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Gregory asks &#8220;Which is safer: wired or wireless?&#8221;</title>
+		<link>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/</link>
+		<comments>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/#comments</comments>
+		<pubDate>Thu, 15 Nov 2012 14:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[ethernet]]></category>
+		<category><![CDATA[free Wi-Fi]]></category>
+		<category><![CDATA[WEP]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless]]></category>
+		<category><![CDATA[WPA]]></category>
+		<category><![CDATA[WPA2]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7177</guid>
+		<description><![CDATA[Is it safe to use Wi-Fi in a hotel lobby, or would you be better off to pay for the wired internet in your room? Hosts of Deemable Tech, Ray Hollister and Tom Braun, have the answer. Take a listen <a href="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Is it safe to use Wi-Fi in a hotel lobby, or would you be better off to pay for the wired internet in your room? Hosts of Deemable Tech, Ray Hollister and Tom Braun, have the answer. Take a listen to this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p90798-embed" src="http://www.prx.org/p/90798/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM:I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>Gregory writes, How much more secure is a wired Internet connection vs a wireless connection?</p>
+<p>TOM: OK, so there are basically two ways to get your computer online, which as Gregory has pointed out are &lsquo;wired&rsquo; and &lsquo;wireless&rsquo;. &lsquo; Wireles&rsquo;s of course means your computer is not physically plugged into anything. &lsquo;Wired&rsquo; means you literally have one of those CAT5 cables that looks like a thick blue phone line plugged into your computer.</p>
+<p>Now, realize there are several different types of connections that we call &lsquo;wireless&rsquo;. You have good old-fashioned wi-fi, which is the type your router at home broadcasts. But you could also be talking about 3g or 4g connections through your cellular service.</p>
+<p>RAY: Okay, but out of all these which would you say would be the MOST secure?</p>
+<p>TOM: Well, that would definitely be a wired connection. There&rsquo;s no way for someone to intercept the signal without physically cutting the cable and splicing in. But honestly you can never assume that you&rsquo;re absolutely secure. Just because someone isn&rsquo;t intercepting your signal doesn&rsquo;t mean they don&rsquo;t have other means of compromising your security.</p>
+<p>I&rsquo;m not trying to make our listeners paranoid here, but I don&rsquo;t want anyone to assume that simply because you&rsquo;re plugged directly into a hardline that you cannot be hacked.</p>
+<p>But if you&rsquo;re on a wireless connection it is definitely easier for someone nearby to intercept your signal.</p>
+<p>RAY: So what about someone on a 3g or 4g connection, how secure are they?</p>
+<p>TOM: I&rsquo;m gonna go out on a limb and say that a cellular connection is pretty secure. It&rsquo;s going to be at least as secure as an ordinary cellphone call. Now we all know there are ways of hacking those, but if a white van is following you around with advanced cellular signal-breaking equipment, you&rsquo;ve got bigger problems. Or you&rsquo;re on an episode of &lsquo;Person of Interest&rsquo;.</p>
+<p>RAY: For ordinary wifi you have secured and unsecured connections. A secured wifi connection is one where you have to enter a password to login. There are several flavors but the only one you need to remember is WPA-2. If your router doesn&rsquo;t have that, use WPA. So, make sure when you&rsquo;re setting up your home router that you do turn on WPA-2 and set a password, or if you if you already have your wifi setup, go into your router settings and add a WPA-2 password.</p>
+<p>TOM: You also have open wifi connections. Now let me be very clear: an open wi-fi connection is absolutely unsecure. There are readily available programs that allow people to steal your login and password to Facebook, Gmail and other sites if you access them over an open wifi connection.</p>
+<p>So I would be real leery of open wi-fi especially if you are doing business stuff. Make sure if you are in a coffee shop using their wifi that it requires a password to connect. Otherwise you are leaving yourself wide open.</p>
+<p>Now, even secured wireless networks can be broken. So if you are doing something that requires a high degree of security, I would stay off public wifi in general.</p>
+<p>RAY: So, in summary, wired is the most secure, than cellular, then secured wifi, and unsecured wifi is the worst. But, you&rsquo;re never really totally secure regardless of what type of connection you use.</p>
+<p>TOM: Exactly! And that&rsquo;s your daily dose of paranoia, brought to you by Deemable Tech.</p>
+<p>RAY: To hear more answers to questions like Gregory&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at 1-888-972-9868, or you can send us an email at questions@deemable.com.</p>
+<p>RAY: For Deemable Tech I&rsquo;m Ray Hollister,</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<p><img title="Wired Versus Wireless." alt="" src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211162/WiredVsWireless_medium.png"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Gregory asks "Which is safer: wired or wireless?"' data-link="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Gregory asks "Which is safer: wired or wireless?"' data-link="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

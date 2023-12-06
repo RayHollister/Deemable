@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Cloud Computing</title>
+	<atom:link href="/tag/cloud-computing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Alex asks, &#8220;What is &#8216;The Cloud?&#039;&#8221;</title>
+		<link>/2013/05/alex-asks-what-is-the-cloud/</link>
+		<comments>/2013/05/alex-asks-what-is-the-cloud/#comments</comments>
+		<pubDate>Thu, 02 May 2013 13:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[EverNote]]></category>
+		<category><![CDATA[Google Drive]]></category>
+		<category><![CDATA[Google Music]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[SpringPad]]></category>
+		<category><![CDATA[SugarShare]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[The Cloud]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7306</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" />Q: You mentioned a few weeks ago that people could back up their information to &#8220;the Cloud.&#8221; I hear that term thrown around a lot, but what does it actually mean? What is &#8220;the Cloud&#8221;? A: That&#8217;s actually a great <a href="/2013/05/alex-asks-what-is-the-cloud/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/alex-asks-what-is-the-cloud/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p96373-embed" src="http://www.prx.org/p/96373/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> You mentioned a few weeks ago that people could back up their information to &ldquo;the Cloud.&rdquo; I hear that term thrown around a lot, but what does it actually mean? What is &ldquo;the Cloud&rdquo;?</p>
+<div id="attachment_8442" style="width: 253px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/05/Cloud_2.jpg" class="gallery_colorbox"><img class=" wp-image-8442 " title="What Is The Cloud" alt="What Is The Cloud" src="//media/2013/05/Cloud_2-300x244.jpg"  width="243" height="198"></a><p class="wp-caption-text">What Is The Cloud?</p></div>
+<p><strong>A: </strong>That&rsquo;s actually a great question, Alex. The funny thing is, most of us have actually been using &ldquo;the Cloud&rdquo; for years now. Anyone who has ever used an email service like Yahoo, Hotmail, or Gmail has already used the Cloud. For a normal, non-technical user, &ldquo;the Cloud&rdquo; is just storing your data on the Internet instead of just on your home computer.</p>
+<p>However, the actual technical definition of a cloud is a little more complicated than that. You see, the danger with storing documents, media or files on any single computer is that no matter how powerful they are, computers can (and do) break. But imagine if you could store your file on three different computers. Then if one or even two broke, you&rsquo;ve still got your document. The only problem is, every time you updated your document, you would have to update it on all three computers. That&rsquo;s a pain.</p>
+<p>But now imagine that you could treat those three physical computers as one virtual computer that your file is stored on. The actual, physical computers would essentially become invisible. Take this setup and multiply it by hundreds of computers, and that&rsquo;s basically what a cloud is.</p>
+<p>Now, you may have noticed that we said &ldquo;a cloud.&rdquo; The reason is that there are actually multiple clouds. In fact, tons of different companies offer their own clouds. They may work differently from each other, but they are all similar in that they allow you to store your files on the Internet instead of your computer, and they allow you to access those files from anywhere.</p>
+<p>So how does this affect you? For most of us, cloud services are a really great way to back up documents, pictures, music or whatever to the Internet. And once it&rsquo;s out on the Internet, you can access it from other computers or devices you own. For example, we use Google Music to back up the MP3s on our computers. All we had to do is download the Google Music program, and it automatically started uploading everything we had in iTunes to the Google Music cloud. When we add a new song or playlist to iTunes on our computers, those get uploaded too, and we can then listen to them on our phones straight from the Internet.</p>
+<p>Clouds aren&rsquo;t just good for music, though. Google and Microsoft both offer ways to do word processing in the Cloud, from anywhere, without even having to install a program. Google has a web application called Google Drive (we use it for Deemable Tech and love it), and Microsoft has introduced Office 365 which you can access through your web browser as well.</p>
+<p>For Apple users, there is iCloud, which automatically synchronizes your files across all of your Apple devices.</p>
+<p>If you&rsquo;re looking to backup and share your files, Alex, you should consider using Dropbox. We&rsquo;ve mentioned it before, but Dropbox is a service that allows you to select a folder on your computer, and anything you put in that folder will be automatically uploaded to the Dropbox cloud. If you install Dropbox on another computer, it will automatically mirror the folders between the two computers. There are a lot of other excellent cloud services as well (like EverNote, SpringPad and SugarShare), and there are more out there every day.</p>
+<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/alex-asks-what-is-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Hype Behind Cloud Computing</title>
+		<link>/2011/04/the-hype-behind-cloud-computing/</link>
+		<comments>/2011/04/the-hype-behind-cloud-computing/#comments</comments>
+		<pubDate>Thu, 28 Apr 2011 15:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Servers]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2858</guid>
+		<description><![CDATA[Cloud computing is all the rage these days, but what exactly is this mysterious &#8220;cloud&#8221; that businesses are trying to embrace? In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead <a href="/2011/04/the-hype-behind-cloud-computing/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/the-hype-behind-cloud-computing/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" alt="" width="454" height="229"></p>
+<p>Cloud computing is all the rage these days, but what exactly is this mysterious &ldquo;cloud&rdquo; that businesses are trying to embrace?</p>
+<p>In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead of the use of single dedicated servers. An even simpler way to view cloud computing is to see it as a way of outsourcing a business&rsquo;s hardware and software needs. These needs are met by outside providers who already host large data centers that have been configured to provide the utmost efficiency, providers such as Microsoft, Google, and Amazon (whose cloud system coincidentally <a title="collapsed" href="http://www.cnn.com/2011/TECH/web/04/22/amazon.cloud.mashable/index.html?iref=allsearch" target="_blank">collapsed</a> last week). Still confused? If you&rsquo;ve ever used Google Docs, GMail, or Google Maps then you&rsquo;ve used cloud computing without even realizing it!</p>
+<p>Instead of local computers handling all the work of running numerous applications, the network of computers that make up the &ldquo;cloud&rdquo; controls them instead (thereby reducing the demands for software and hardware for the individual user). By installing a cloud-based network, workers are able to access all the programs and tools they would need online, typically by Web browsers, instead of having to remotely install them on an individual&rsquo;s desktop computer &ndash; ultimately lowering the costs associated with IT and hardware needs.</p>
+<p>Before cloud computing, businesses had to estimate the number of software licenses that would be needed in the future, often wasting valuable resources should they overestimate the number of licenses to buy. However, cloud computing offers much more flexibility than traditional client-server forms of computing because they allow companies to pay for only the services that they actually used.</p>
+<p>While there are several issues associated with cloud networks &ndash; including concerns over security, privacy, and reliability &ndash; cloud computing has revolutionized the business world. A survey conducted by Elon University researchers discovered that a large majority of the respondents believe that Internet users will <a title="Elon Research" href="http://www.elon.edu/e-web/predictions/expertsurveys/2010survey/future_cloud_computing.xhtml" target="_blank">?live mostly in the cloud?</a> by the year 2020, and this fluffy endeavor will continue to change the way that individuals use software and hardware in the near future.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" target="_blank">Photo</a> by <a title="jotamyg" href="http://jotamyg.deviantart.com/" target="_blank">jotamyg</a> via <a title="deviantART" href="http://www.deviantart.com/" target="_blank">deviantART</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/the-hype-behind-cloud-computing/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

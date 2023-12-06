@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Mac OS X</title>
+	<atom:link href="/tag/mac-os-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ellen asks, &#8220;How do I download videos from my iPhone?&#8221;</title>
+		<link>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/</link>
+		<comments>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 05:38:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Image Capture]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows XP]]></category>
+		<category><![CDATA[Yosemite]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9741</guid>
+		<description><![CDATA[Ellen writes, How do I download videos from my iPhone to my PC? When I try to email them to myself it shrinks the video. I&#8217;ve been told to just connect my phone to my computer and download them that <a href="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-9741-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3</a></audio><p>Ellen writes, How do I download videos from my iPhone to my PC? When I try to email them to myself it shrinks the video. I&rsquo;ve been told to just connect my phone to my computer and download them that way, but how?</p>
+<p>Here&rsquo;s what you need to do Ellen. Fire up your computer, grab the charging cable for your iPhone and plug one end into your iPhone and the other end into your computer. Only one end will fit the iPhone, and the other end is the obvious end you&rsquo;ll plug into the PC.</p>
+<div id="attachment_9745" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/USBtoLightningAnd30-PinCable.jpg" class="gallery_colorbox"><img class="wp-image-9745 size-medium" src="//media/2015/02/USBtoLightningAnd30-PinCable-300x243.jpg"  alt="USB to Lightning Cable And USB to 30-Pin Cable" width="300" height="243"></a><p class="wp-caption-text">With this easy to follow guide, you too can plug your iPhone into your computer.</p></div>
+<p>&nbsp;</p>
+<p>If this is the first time you have plugged your iPhone into your computer, you&rsquo;ll&nbsp;see a pop up indicating that the software for the device is being installed.</p>
+<div id="attachment_9747" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot01.png" class="gallery_colorbox"><img class="size-medium wp-image-9747" src="//media/2015/02/Shot01-300x98.png"  alt="Without the device driver software, the two pieces of hardware cannot communicate." width="300" height="98"></a><p class="wp-caption-text">Without the device driver software, the two pieces of hardware cannot communicate.</p></div>
+<p>Right after you plug in your iPhone, (or after the driver software is done installing) you&rsquo;ll get a notification on your phone that asks if you should trust this computer. Tap <strong>Trust</strong>.</p>
+<div id="attachment_9746" style="width: 179px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/IMG_3576.png" class="gallery_colorbox"><img class="size-medium wp-image-9746" src="//media/2015/02/IMG_3576-169x300.png"  alt="Trust is an important part of any relationship, especially the one between a smartphone and a computer." width="169" height="300"></a><p class="wp-caption-text">Trust is an important part of any relationship, especially the one between a smartphone and a computer.</p></div>
+<p>You&nbsp;may see&nbsp;a similar window appear on your computer. Click <strong>Continue.</strong></p>
+<div id="attachment_9748" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot02.png" class="gallery_colorbox"><img class="size-medium wp-image-9748" src="//media/2015/02/Shot02-300x123.png"  alt="Trust is a two-way street." width="300" height="123"></a><p class="wp-caption-text">Trust is a two-way street.</p></div>
+<p>Then, if you&rsquo;re using a Windows PC, you should get a pop up window on the computer that basically is asking &ldquo;What do you want to do with this?&rdquo; It will literally say &ldquo;AutoPlay&rdquo; and give you options to choose from. Click&nbsp;&ldquo;<strong>Import Pictures and Videos.</strong>&rdquo;</p>
+<div id="attachment_9749" style="width: 305px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot03.png" class="gallery_colorbox"><img class="size-medium wp-image-9749" src="//media/2015/02/Shot03-295x300.png"  alt="So, uh, what do you wanna do with this here thing, eh?" width="295" height="300"></a><p class="wp-caption-text">So, uh, what do you wanna do with this here thing, eh?</p></div>
+<p>All of your pictures and videos will be selected. You can make changes to how and where they are imported by&nbsp;clicking Import Settings.</p>
+<div id="attachment_9750" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04.png" class="gallery_colorbox"><img class="size-medium wp-image-9750" src="//media/2015/02/Shot04-300x153.png"  alt="Import pictures and videos? That sounds exactly like what I wanted to do!" width="300" height="153"></a><p class="wp-caption-text">Import pictures and videos? That sounds exactly like what I wanted to do!</p></div>
+<p>On the Import Settings Menu, you can choose to send the images and videos to different folders, change the file name of the photos and videos, and other options. Click <strong>OK</strong> to keep your changes.</p>
+<div id="attachment_9751" style="width: 275px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04-1.png" class="gallery_colorbox"><img class="size-medium wp-image-9751" src="//media/2015/02/Shot04-1-265x300.png"  alt="Lots of choices. Where do you want what to go? Don't feel like making choices? Just click OK." width="265" height="300"></a><p class="wp-caption-text">Lots of choices. Where do you want what to go? Don&rsquo;t feel like making choices? Afraid of succumbing to analysis paralysis? Just click <strong>Cancel,</strong> and get out of there.</p></div>
+<p>Once you&rsquo;ve chosen which videos and pictures you want to import, then click&nbsp;<strong>Import</strong>. Your images and videos will begin to transfer to your computer. Depending on how many pictures you have, this may happen quickly, or it may take a while.</p>
+<div id="attachment_9752" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04-2.png" class="gallery_colorbox"><img class="size-medium wp-image-9752" src="//media/2015/02/Shot04-2-300x157.png"  alt="You'll watch your life flash before your eyes ? if you took a picture of every moment of your life." width="300" height="157"></a><p class="wp-caption-text">You&rsquo;ll watch your life flash before your eyes ? if you took a picture of every moment of your life.</p></div>
+<p>You&rsquo;ll see a checkbox that says, &ldquo;erase after importing.&rdquo;&nbsp;We recommend not checking it.&nbsp;If there is a problem transferring the video, then the video is gone. It&rsquo;s best to wait&nbsp;until you you?ve confirmed that the video is transferred, and then delete it from your iPhone manually.</p>
+<div id="attachment_9754" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot05.png" class="gallery_colorbox"><img class="size-medium wp-image-9754" src="//media/2015/02/Shot05-300x199.png"  alt="Finally! The pictures and videos are on the computer!" width="300" height="199"></a><p class="wp-caption-text">Finally! The pictures and videos are on the computer!</p></div>
+<p>Another window will open up showing all of your pictures and videos that you just imported.</p>
+<p>If for some reason you don&rsquo;t get a pop-up, click the <strong>Start button</strong> and select &ldquo;<strong>Computer</strong>.&rdquo;</p>
+<p><a href="http://deemable.com/media/2015/02/Shot06.png" class="gallery_colorbox"><img class="aligncenter size-medium wp-image-9755" src="//media/2015/02/Shot06-287x300.png"  alt="Click the Start button and then click Computer" width="287" height="300"></a></p>
+<p>Then, you&rsquo;ll right-click the iPhone icon, and select &ldquo;<strong>Import Pictures and Videos</strong>.&rdquo; From there, you&rsquo;ll do everything else the same as we said before.</p>
+<p><a href="http://deemable.com/media/2015/02/Shot07.png" class="gallery_colorbox"><img class="aligncenter size-medium wp-image-9756" src="//media/2015/02/Shot07-300x248.png"  alt="Right-click to get the Import Pictures and Videos menu" width="300" height="248"></a></p>
+<p>If you are using a Mac it starts out the same: plug the iPhone in and tell it to trust the computer.</p>
+<p>Then, you&rsquo;ll need to open the application Image Capture or <span data-scaytid="2" data-scayt_word="iPhoto">iPhoto</span>. We&nbsp;prefer Image Capture because you can choose where the video is stored on your hard drive.</p>
+<div id="attachment_9757" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.39.46-PM.png" class="gallery_colorbox"><img class="wp-image-9757 size-medium" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.39.46-PM-300x183.png"  alt="Just open the Launchpad, and find Image Capture. (Start typing in Image Capture. It will be the only thing that comes up.) You could use iPhoto, but trust me, you don't want to." width="300" height="183"></a><p class="wp-caption-text">Just open the Launchpad, and find Image Capture. (Start typing in Image Capture. It will be the only thing that comes up.) You could use iPhoto, but trust me, you don&rsquo;t want to.</p></div>
+<p>Once Image Capture is open, at the bottom of the window, you can select which folder to import them to.</p>
+<p><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.41.19-PM.png" class="gallery_colorbox"><img class="aligncenter wp-image-9758 size-medium" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.41.19-PM-300x189.png"  alt="Image Capture" width="300" height="189"></a></p>
+<p>&nbsp;</p>
+<p>You can choose the obvious places like Pictures or Documents, or you can decide to save them where ever you want to.</p>
+<div id="attachment_9759" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.41.42-PM.png" class="gallery_colorbox"><img class="size-medium wp-image-9759" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.41.42-PM-300x200.png"  alt="You could even choose to import your pictures and videos to iPhoto, but no one really knows why you would want to do that." width="300" height="200"></a><p class="wp-caption-text">You could even choose to import your pictures and videos to iPhoto, but no one really knows why you would want to do that.</p></div>
+<p>Then, you can click the &ldquo;Import All&rdquo; button or select the individual video and click &ldquo;Import.&rdquo;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Ellen asks, "How do I download videos from my iPhone?"' data-link="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Ellen asks, "How do I download videos from my iPhone?"' data-link="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3" length="3361886" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Nancy asks, &#8220;Can Macs get viruses?&#8221;</title>
+		<link>/2014/10/nancy-asks-can-macs-get-viruses/</link>
+		<comments>/2014/10/nancy-asks-can-macs-get-viruses/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 00:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9325</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop? A: If you&#8217;re <a href="/2014/10/nancy-asks-can-macs-get-viruses/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/nancy-asks-can-macs-get-viruses/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p132861-embed" src="http://www.prx.org/p/132861/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop?<span id="more-9325"></span></p>
+<p><strong>A: </strong>If you&rsquo;re like us, Nancy, you&rsquo;ve probably heard a lot of people say that Macs don&rsquo;t get viruses. While this isn&rsquo;t entirely true, there is a lot to back this claim up. Macs are safer on average, and it has to do with a couple of factors.</p>
+<div id="attachment_9326" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/mac_glow.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9326" src="//media/2014/10/mac_glow-300x210.jpg"  alt="Image credit: Ricky Romero / Flickr" width="300" height="210"></a><p class="wp-caption-text">Image credit: Ricky Romero / Flickr</p></div>
+<p>When hackers write a virus or a piece of malware, their goal is to make money. The most efficient way to make money is to get the virus on as many computers as they can. Apple has always had a pretty low market share in the world of home computers, usually around 10 percent. So, if you were trying to write a virus, what would make the most sense: writing it for the majority of computers running a version of Windows, or writing it for the small number of Macs?</p>
+<p>Also, Mac OS X is based on Unix, which (without getting into all the nerdy technical details) makes it much harder to hack than Windows. However, this does not mean that Macs are unhackable.</p>
+<p>You may have heard about the recently-discovered bug called Shellshock, which can let a hacker gain unauthorized access to computers running Mac OS or Linux. Although it impacts very few Mac users, it is just one of several bugs and security vulnerabilities that have been discovered in Mac OS X lately. Apple does a fairly good job of patching these up once they&rsquo;ve been discovered, but it usually takes a little while.</p>
+<p>To answer your question, Nancy: we actually wouldn&rsquo;t recommend installing any antivirus software, unless you are using your computer to run a business. This may sound strange considering what we just said about recent bugs, but it has to do with the cost-to-benefit ratio. As we said, the chance of you getting a virus is very low. When you take those odds into account with the cost of antivirus software, and the amount of resources that software takes making the computer slower and less productive, it just doesn&rsquo;t make sense to invest that much into it.</p>
+<p>We do recommend, though, that you install antivirus software if you use your computer to run a business, especially if you work in the medical field or if the data on your computer is incredibly sensitive. Avast and Kasperky both make highly rated antivirus software for Mac OS X. Avast is free, and Kasperky starts at $39.95.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/nancy-asks-can-macs-get-viruses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hector asks, &#8220;Do I have to eject USB drives?&#8221;</title>
+		<link>/2014/07/hector-asks-eject-usb-drives/</link>
+		<comments>/2014/07/hector-asks-eject-usb-drives/#comments</comments>
+		<pubDate>Thu, 03 Jul 2014 10:38:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[flash memory]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[USB drives]]></category>
+		<category><![CDATA[USB flash drive]]></category>
+		<category><![CDATA[USB thumb drive]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9008</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" />Q: Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&#8217;t eject the drive, and it could cause damage if I don&#8217;t eject it. I usually ignore this message and it hasn&#8217;t caused me <a href="/2014/07/hector-asks-eject-usb-drives/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/hector-asks-eject-usb-drives/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p123307-embed" src="http://www.prx.org/p/123307/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&rsquo;t eject the drive, and it could cause damage if I don&rsquo;t eject it. I usually ignore this message and it hasn&rsquo;t caused me any issues yet. Is this really a problem?<span id="more-9008"></span></p>
+<p><strong><a href="http://deemable.com/media/2014/07/flash_drive.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9009" src="//media/2014/07/flash_drive-300x225.jpg"  alt="flash_drive" width="300" height="225"></a>A: </strong>We&rsquo;ll admit it, Hector, we&rsquo;ve occasionally done the same thing. There&rsquo;s nothing more irritating than waiting for a computer to eject a thumb drive when you&rsquo;ve got to be somewhere. What&rsquo;s worse is trying to eject a drive only to have the computer tell you that it&rsquo;s &ldquo;busy.&rdquo; Busy doing what? Getting a cup of coffee?</p>
+<p>As annoying as it can be, the truth is you really should eject all USB devices before you unplug them. This is especially true for external hard drives, as the sudden loss of power can cause physical damage to the spinning discs inside them. That doesn&rsquo;t have to happen too many times for the hard drive to fail, taking all that data with it.</p>
+<p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
+<p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
+<p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
+<p>Just remember, Hector: you must eject before you disconnect!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Clare asks, &#8220;How can I have both a Mac and a PC?&#8221;</title>
+		<link>/2014/05/clare-asks-can-mac-pc/</link>
+		<comments>/2014/05/clare-asks-can-mac-pc/#comments</comments>
+		<pubDate>Thu, 29 May 2014 10:37:20 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Boot Camp]]></category>
+		<category><![CDATA[dual-boot]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Parallels]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8824</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/05/windows_on_mac-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="windows_on_mac" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;ve started getting into editing videos. I&#8217;ve heard Macs are the best computers for this, but I need to have a PC for my job. We have some programs for our company that only work on Windows. Do you <a href="/2014/05/clare-asks-can-mac-pc/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/05/clare-asks-can-mac-pc/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/05/windows_on_mac-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="windows_on_mac" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p119765-embed" src="http://www.prx.org/p/119765/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;ve started getting into editing videos. I&rsquo;ve heard Macs are the best computers for this, but I need to have a PC for my job. We have some programs for our company that only work on Windows. Do you have any suggestions?<span id="more-8824"></span></p>
+<p><strong>A: </strong>We sure do, Clare. We would definitely recommend getting a Mac if you are seriously interested in video editing, but if the software you need for your job will only work on Windows, you&rsquo;ll need to have Windows. Unfortunately, it can be frustrating to have to run two computers at the same time. But what if you could have the best of both worlds on one computer? It can be done by installing Windows on a Mac.<br></p><div id="attachment_8826" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/05/windows_on_mac.jpg" class="gallery_colorbox"><img class="wp-image-8826 size-medium" src="//media/2014/05/windows_on_mac-300x223.jpg"  alt="windows_on_mac" width="300" height="223"></a><p class="wp-caption-text">Windows 8 running on a MacBook Pro.</p></div>
+<p>Yes, you read that correctly. You can actually install Windows on any Mac with an Intel processor, which all current Mac models have. This will create what is called a dual-boot system with both Mac OS and Windows. Setting this up isn&rsquo;t hard to do, but you&rsquo;ll need to make sure that you purchase a full version installation disc or download of Windows first (an upgrade version cannot be used). Of course, you&rsquo;ll need to buy a Mac as well.</p>
+<p>To install Windows on a Mac, you will use one of two programs: Boot Camp or Parallels. Boot Camp comes free with your Apple computer, while Parallels is a separate program that costs around $80. The major difference between the two programs is how your computer will run the different operating systems in relation to each other. Boot Camp allows you to run Windows <em>or</em> Mac OS, and you decide which one you want to use when you boot your computer. If you want to switch to the other operating system, you have restart your machine.</p>
+<p>Parallels, on the other hand, lets you use Windows <em>and</em> Mac OS at the same time and switch back and forth while both are running. You can even launch Windows applications right from your Mac dock, and it will switch over to Windows automatically. The downside to this program (apart from the price tag) is that your computer can become really bogged down since you&rsquo;re running two operating systems at the same time.</p>
+<p>Of the two, we prefer Boot Camp. To install Windows using it, just open your Launchpad, go to the Boot Camp Assistant and follow the instructions. As with any major change to your computer, we recommend that you back up all of your important files and documents before you install Windows.</p>
+<p>With a little time and energy, Clare, you&rsquo;ll be doing everything you want and need to with two computers in one!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Clare asks, "How can I have both a Mac and a PC?"' data-link="/2014/05/clare-asks-can-mac-pc/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Clare asks, "How can I have both a Mac and a PC?"' data-link="/2014/05/clare-asks-can-mac-pc/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/clare-asks-can-mac-pc/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Mike asks, &#8220;Can I use one keyboard and mouse with two computers?&#8221;</title>
+		<link>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/</link>
+		<comments>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#comments</comments>
+		<pubDate>Fri, 16 Aug 2013 15:40:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[desktop computers]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[KVM]]></category>
+		<category><![CDATA[Lifehacker]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mobile Mouse]]></category>
+		<category><![CDATA[ShareMouse]]></category>
+		<category><![CDATA[Synergy]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7887</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I use two desktop computers at work, and I&#8217;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse <a href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/two_computers_one_keyboard-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Chris Owens / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p101665-embed" src="http://www.prx.org/p/101665/embed.js?size=small"></script></p>
+<div id="attachment_7894" style="width: 356px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/08/two_computers_one_keyboard.png" class="gallery_colorbox"><img class=" wp-image-7894 " src="//media/2013/08/two_computers_one_keyboard.png"  alt="Image Credit: Chris Owens / Flickr" width="346" height="207"></a><p class="wp-caption-text">Image Credit: Chris Owens / Flickr</p></div>
+<p><strong>Q:</strong> I use two desktop computers at work, and I&rsquo;m starting to feel like having two keyboards and mice is taking up too much space on my desk. Is there any way I can use one keyboard and one mouse for both computers? Also, is there any app I can use to control my computer from my iPad?</p>
+<p><strong>A:</strong> Thanks for your question, Mike. There are a couple of methods to control two different computers from one keyboard and mouse: either with a cable or with software.</p>
+<p>First, there is a cable called a&nbsp;KVM&nbsp;switch, which is short for &ldquo;keyboard, video and mouse&rdquo; switch. These let you share one mouse, keyboard and monitor between two computers. There are also KM switch cables that allow you to share just a keyboard and mouse with two computers that have two separate monitors. If you are using the two different computers at the same time, that second one might be the best option for you.</p>
+<p>Either way, they both run between $20 and $100. The great thing about using a physical cable is that the connection is really fast, and you&rsquo;ll never have any lag. The down side is that you are limited by the length of the cable. Also, you&rsquo;ll need to press a button, or turn a switch, to go back and forth between the two computers.</p>
+<p>If you want to go the software route, there are two great programs that do the same thing as a KM switch, but over your network instead of a cable. One is called&nbsp;<a href="http://www.share-mouse.com/" data-cke-saved-href="http://www.share-mouse.com/">ShareMouse</a>. It is super easy to use, and isn&rsquo;t too difficult to set up. However, it normally costs $30 per computer!</p>
+<p>Another option is a program called&nbsp;<a href="http://synergy-foss.org/" data-cke-saved-href="http://synergy-foss.org/">Synergy</a>&nbsp;(this is the one we prefer). It&rsquo;s a tiny bit harder to set up than&nbsp;ShareMouse, but it&nbsp;starts at only $10&nbsp;and it&rsquo;s open-source, so there&rsquo;s an entire community constantly working on it to make it better! On both programs you don&rsquo;t have to press a button to switch computers &ndash; it&rsquo;s as simple as sliding your mouse off the edge of one screen, and it will appear on the other screen. Also, both programs support clipboard sharing, which allows you to copy text on one computer and paste it on the other.</p>
+<p>Both programs are relatively small ones that don&rsquo;t use up a lot of resources on your computers or bandwidth on your network. One potential downside of using one of these programs is that if your network is bogged down (for example if you are running streaming video or downloading a lot), you might notice a slight lag in reaction time. Also, neither program supports sharing a monitor between the two computers.</p>
+<p>If you are trying to do that with software, you&rsquo;ll have to try Remote Desktop or a Virtual Network Computing program. That&rsquo;s a little bit more complicated, and probably isn&rsquo;t worth it if you have both computers in the same room.</p>
+<p>If each computer does have its own monitor, we recommend starting out by trying Synergy. That will probably be the best solution for your problem. If that doesn&rsquo;t work, then try&nbsp;ShareMouse&nbsp;or a hardware KM or&nbsp;KVM&nbsp;switch.</p>
+<p>To answer your second question about controlling your computers from your iPad, we recommend&nbsp;<a href="http://mobilemouse.com/" data-cke-saved-href="http://mobilemouse.com/">Mobile Mouse Pro</a>. You can get it in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id363573369?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;for $2.99 (it&rsquo;s also available for the same price in&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.full&amp;hl=en">Google Play</a>&nbsp;for Android users). You have to install a small server app on your desktop, but once you do and open the app, your phone or tablet turns into a&nbsp;multitouch&nbsp;trackpad, remote keyboard, and music and presentation remote.&nbsp;If you just want to try out Mobile Mouse before you buy it, there is a free version called Mobile Mouse&nbsp;Lite&nbsp;in the&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/mobile-mouse-remote-mouse/id356395556?mt=8" target="_blank" rel="external nofollow">App Store</a>&nbsp;and&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en" data-cke-saved-href="https://play.google.com/store/apps/details?id=com.mobilemouse.free&amp;hl=en">Google Play</a>.</p>
+<p>Hopefully one of these options will help you out, Mike. Try them out, and clear off that desk!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Mike asks, "Can I use one keyboard and mouse with two computers?"' data-link="/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/mike-asks-can-i-use-one-keyboard-and-more-with-two-computers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

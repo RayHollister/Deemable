@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; torrents</title>
+	<atom:link href="/tag/torrents/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Jo El asks &#8220;Which antivirus software is the best?&#8221;</title>
+		<link>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/</link>
+		<comments>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/#comments</comments>
+		<pubDate>Thu, 10 Jan 2013 14:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[anti-malware software]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[freeware]]></category>
+		<category><![CDATA[torrents]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7212</guid>
+		<description><![CDATA[Jo El&#8217;s computer is infected with spyware. Which antivirus and anti-spyware software should she use? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&#8217;s Ask Deemable Tech. RAY: Hi, I&#8217;m Ray Hollister, TOM: <a href="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Jo El&rsquo;s computer is infected with spyware. Which antivirus and anti-spyware software should she use? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p91018-embed" src="http://www.prx.org/p/91018/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM:</p>
+<p>Jo El writes: I need to know what the best anti spyware, anti virus, anti EVERYTHING there is to get! My husband keeps downloading all these &ldquo;free&rdquo; programs and they just aren&rsquo;t cutting it. I was stupid and couldn&rsquo;t wait to watch The Walking Dead so I tried to watch it on (a certain website that we&rsquo;re not going to mention on the air) &hellip;.and then the problems started. The worst part is I didn&rsquo;t even see any of the show. As I was trying to get the show to play, the website kept asking me to download all these viewers. Halfway through installing the first one my brain kicked in and said, &ldquo;Don&rsquo;t do it.&rdquo; and my computer has been buggy ever since. My mp3 player skips when it plays and the internet just DRAGS. Any suggestions? Help me Deemable Tech, you&rsquo;re my only hope.</p>
+<p>RAY: Thanks for your email, Jo El. Well, I hope you have something to backup your files to, because if it&rsquo;s as bad as you are describing, I would make a copy of all of your important files to an external hard drive, and then wipe your computer and reinstall the operating system.</p>
+<p>TOM: The reason why, is because antivirus and anti-malware software work intimately with the operating system. They share several important files, and if there&rsquo;s a problem with the antivirus software, it can cause a problem with the operating system. And, if you&rsquo;ve installed multiple antivirus software programs on the same computer, they can conflict with each other. So, your best bet is to start over with a clean slate.</p>
+<p>RAY: Now, if I had to guess, I would assume that you&rsquo;re using Windows. </p>
+<p>You should have received a disc with your computer, that you can use to reinstall the operating system and restore your computer back to factory settings. If you received a disc, hopefully, you saved it with your manual. If you didn&rsquo;t, you&rsquo;re in a pickle, or a jam, or some other sort of food that would be uncomfortable to be in.</p>
+<p>TOM: Regardless, you&rsquo;re going to need some professional help.</p>
+<p>RAY: Hey!</p>
+<p>TOM: No, not you, Ray, Jo El. She&rsquo;s going to need professional help from someone like a computer repair person. Otherwise, Jo El will have to buy a Windows 7 disc, which can run anywhere from $119 to $219. </p>
+<p>RAY: So, with that great news, out of the way, let&rsquo;s get back to her original question, which was, what is the best antivirus, antispyware, antimalware, anti-&ldquo;everything-you-don&rsquo;t-want-in-your-computer&rdquo;-ware program?</p>
+<p>TOM: Well, that&rsquo;s tough. We do try to avoid subjective questions because we don&rsquo;t want to promote one product over the other, but also because we don&rsquo;t have the time, or budget to really thoroughly test the over three dozen different antivirus applications out there to see which is better. But, Laptop Magazine and PC Magazine do have the time and budget to thoroughly test them, and they both found BitDefender AntiVirus Plus 2013 to be the highest rated on their top ten lists for 2012.</p>
+<p>RAY: However, if you have Windows Vista or higher, the built-in antivirus software, Windows Security Essentials or Windows Defender is actually one of the best out there, and AVG and AVAST are a couple of great alternatives that are highly rated and free. As long as you stay out of the &ldquo;rougher neighborhoods&rdquo; of the Internet most people don&rsquo;t need to pay for a &ldquo;stronger&rdquo; antivirus software program. </p>
+<p>TOM: The moral of the story is, always think before you click. &ldquo;If it sounds too good to be true&hellip;&rdquo;</p>
+<p>RAY: To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun. </p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211510/computer-virus_medium.PNG" title="Uh oh! You've got a virus! What now?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Jo El asks "Which antivirus software is the best?"' data-link="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Jo El asks "Which antivirus software is the best?"' data-link="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; scams</title>
+	<atom:link href="/tag/scams/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Tech Support Scammers</title>
+		<link>/2016/02/ask-deemable-tpport-scammers/</link>
+		<comments>/2016/02/ask-deemable-tpport-scammers/#comments</comments>
+		<pubDate>Tue, 16 Feb 2016 20:56:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10514</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" />Today we have not one but two related questions from different listeners. Lenny writes, &#8220;Last week I received a call from a guy who said he was from Microsoft. He said they had detected that my computer was having problems. <a href="/2016/02/ask-deemable-tpport-scammers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/02/ask-deemable-tpport-scammers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2014/10/scam.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9348 alignleft" src="//media/2014/10/scam-300x225.jpg"  alt="Scam Computer Keys Showing Swindles And Fraud" width="300" height="225"></a>Today we have not one but two related questions from different listeners.</p>
+<p>Lenny writes, <em>&ldquo;Last week I received a call from a guy who said he was from Microsoft. He said they had detected that my computer was having problems. To prove it, he told me how to open my Windows log file, and when I did it was full of errors. So I paid him to fix all the problems and scan for viruses. Now I&rsquo;m wondering if that was really a good idea.&rdquo;</em></p>
+<p>Sandra sends us a similar story. She says: <em>&ldquo;I was checking my email and all of a sudden windows started giving me an error message which said it had a virus. It included a phone number. I called the number and a man connected to my computer and fixed it. But now my computer runs slowly and this guy charged me a lot of money. Have I been hacked?&rdquo;</em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10514-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3">http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3</a></audio><p>Neither Sandra nor Lenny were hacked. They were, unfortunately, the victims of one of the most popular scams on the internet these days.</p>
+<p>Here&rsquo;s how it works: crafty scammers convince people that their computer has a serious problem, and the only way to fix it is to pay the scammers money. In actuality, there is no such problem, and these people are paying for nothing.</p>
+<p>This is such a major issue that Microsoft testified about it in front of Congress in the fall of 2015. These scammers love to impersonate major, legitimate companies like Microsoft, Apple, and HP, which can create problems for those organizations.</p>
+<p>So, what can you do to make sure you don&rsquo;t fall for this scam? Remember one simple rule: tech support will never call you out of the blue. You call them first.</p>
+<p>And just to be clear, Windows error messages do not include a number for Microsoft tech support. If you see an error message that says you need to call Microsoft or any other company immediately, there is a good chance that you are seeing a fake error message. Maybe it&rsquo;s just a clever web page, but do not call the phone number.</p>
+<p>If you do talk to these scammers, they can be very convincing. They may do things like you show a Windows log file full of errors to make you think there is something wrong with your PC. The thing is, though, your computer&rsquo;s logs are always full of errors, but they are little ones that are perfectly normal.</p>
+<p>Unfortunately, both Sandra and Lenny let the scammers gain access to their computers. All of these scammers, once they have you on the phone, will ask you to run or download programs that let them look at your computer remotely. Do not do this! You should never let someone who you don&rsquo;t completely trust have remote access to your computer. They can&rsquo;t get into your computer unless you let them.</p>
+<p>If you&rsquo;re not sure if someone is from tech support, hang up on them, find the manual for your computer, and call the number in there. That&rsquo;s the real number, the one that you can trust.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Tech Support Scammers" data-link="/2016/02/ask-deemable-tpport-scammers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Tech Support Scammers" data-link="/2016/02/ask-deemable-tpport-scammers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/02/ask-deemable-tpport-scammers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3" length="3207596" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Eva writes, &#8220;Help! I called tech support but got a scam artist instead!&#8221;</title>
+		<link>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/</link>
+		<comments>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/#comments</comments>
+		<pubDate>Thu, 30 Oct 2014 12:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9345</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" />Q: Recently I called what I thought was an HP support number with a printer problem. In fact, the number connected me to a scammer! He ran a program to scan my computer and then claimed I had been hacked. <a href="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p134121-embed" src="http://www.prx.org/p/134121/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Recently I called what I thought was an HP support number with a printer problem. In fact, the number connected me to a scammer! He ran a program to scan my computer and then claimed I had been hacked. I realized something was off when he asked me for $350 to fix it, so I hung up. I am worried that my computer is now at risk. Help!<span id="more-9345"></span></p>
+<p><strong><a href="http://deemable.com/media/2014/10/scam.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9348" src="//media/2014/10/scam-300x225.jpg"  alt="Scam Computer Keys Showing Swindles And Fraud" width="300" height="225"></a>A: </strong>Eva, we are incredibly glad you realized what was happening before you handed that guy $350. Calling the real HP support line will of course cost you nothing. Unfortunately, scam artists have flooded Google&rsquo;s search results so that if you searched for &ldquo;help with HP printers,&rdquo; for instance, you would see a bunch of sites that claim to be HP&rsquo;s official support page but aren&rsquo;t. The one and only HP tech support website is support.hp.com. If you forget that, the real website address can always be found in the manual that came with your printer.</p>
+<p>Some people have reported receiving unsolicited phone calls from people claiming to be HP support. HP is not going to call you unless you called them first! You can call HP directly at 1-800-HP-INVENT to confirm the identity of anyone claiming to be from tech support.</p>
+<p>Most of these scammers are out to make money, Eva, but some of them may really be up to no good and could try to hack your computer. That&rsquo;s why we&rsquo;re concerned about the fact that he apparently gained access to your machine. We can&rsquo;t know for sure how much he was able to do, but if he was able to install and run programs all bets are off. He might have installed some sort of key-logger which is sending everything you do on the computer to hackers, or a back door which will allow him to access your computer anytime he wants to.</p>
+<p>And here&rsquo;s the really bad news: anti-virus software probably won&rsquo;t help you, because someone logged into your computer could easily disable it. The only one surefire way to make sure your computer is safe to reset it to its factory defaults. The documentation that came with your computer will tell you how to perform a reset to factory default, or you can look it up online. You will want to make sure you get any important photos or documents off of your computer before doing this.</p>
+<p>The factory reset will make sure the computer itself is clean, but you also need to protect your personal data online and change all of the passwords as well. Assume that all of your important accounts (email, bank accounts, Facebook, etc.) are at risk whether you&rsquo;ve logged into them recently or not.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Eva writes, "Help! I called tech support but got a scam artist instead!"' data-link="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Eva writes, "Help! I called tech support but got a scam artist instead!"' data-link="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Frank asks, &#8220;Are scam artists calling me?&#8221;</title>
+		<link>/2014/07/frank-asks-scam-artists-calling/</link>
+		<comments>/2014/07/frank-asks-scam-artists-calling/#comments</comments>
+		<pubDate>Thu, 24 Jul 2014 10:38:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[spam email]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9069</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" />Q: The other day I got a phone a call from someone who claimed to be from Microsoft. He told me my antivirus software was out of a date, and that they would update it for me for free. He <a href="/2014/07/frank-asks-scam-artists-calling/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/frank-asks-scam-artists-calling/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p125567-embed" src="http://www.prx.org/p/125567/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>The other day I got a phone a call from someone who claimed to be from Microsoft. He told me my antivirus software was out of a date, and that they would update it for me for free. He wanted me to go to a website and download a program that would let him control my computer so he could update it. I decided to wait until I heard back from you to see if this was legit or not. What do you think?<span id="more-9069"></span></p>
+<div id="attachment_9070" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/blocked_call.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9070" src="//media/2014/07/blocked_call-300x225.jpg"  alt="Image Credit: Tap Call" width="300" height="225"></a><p class="wp-caption-text">Image Credit: Tap Call</p></div>
+<p><strong>A: </strong>There&rsquo;s no question about it, Frank, this is a scam. The cost of having people at Microsoft call all of their users about their antivirus software would be astronomical. Plus, how would they have gotten your phone number in the first place? You made the right choice to not believe them. Unfortunately, many other people will be the victims of these types of scam artists.</p>
+<p>If they had gotten control of your computer, they would have installed software to turn it into a spam sending machine. Your computer would have started cranking out thousands of emails trying to convince people to buy herbal supplements and who knows what else. And, of course, the &ldquo;Prince of Nigeria&rdquo; probably would have used it to send out some &ldquo;important&rdquo; emails. These scammers could have even used the information on your computer to steal your identity.</p>
+<p>What should you do if you mistakenly do let someone have control of your computer, and you suspect them of not being who they say they are? The first thing you would need to do is unplug your computer from the Internet. Pull the cord out of the wall; turn off your Wi-Fi; do whatever it takes.</p>
+<p>The next step would be to format your hard drive and reinstall Windows. You could try to uninstall programs and run your antivirus software, but the best bet would be to wipe it and start with a clean slate. This may sound pretty severe, but remember: these are criminals who, at the very least, are using your computer to send spam.</p>
+<p>There&rsquo;s a possibility that these scam artists may call you back after you&rsquo;ve reinstalled Windows. You have shut off their money-making spam machine, and they&rsquo;ll probably be upset about it. They might even threaten you to get you to turn it back on. Depending on what they have done, we would recommend contacting your Internet service provider and/or the police.</p>
+<p>We should clarify that if <em>you</em> called Microsoft or a local IT company, and they needed access to your computer to help you with a problem that <em>you</em> called them about, you should be able to trust them. But if you receive an unsolicited call like this, you have no reason to believe that the person on the phone is actually who they say they are.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/frank-asks-scam-artists-calling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Steve asks &#8220;Is it safe to log in with Facebook?&#8221;</title>
+		<link>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/</link>
+		<comments>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 14:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Login with Facebook]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[Timeline]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7171</guid>
+		<description><![CDATA[Steve wants to know if logging in to a website using your Facebook username and password is safe. Hosts of Deemable Tech, Ray Hollister and Tom Braun, say it all depends on whether or not it uses the service &#8220;Log <a href="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Steve wants to know if logging in to a website using your Facebook username and password is safe. Hosts of Deemable Tech, Ray Hollister and Tom Braun, say it all depends on whether or not it uses the service &ldquo;Log In with Facebook.&rdquo; Listen to this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p90747-embed" src="http://www.prx.org/p/90747/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM:<br>
+Steve asks: I&rsquo;ve noticed that a lot of websites and apps on my phone have been asking me for my Facebook login. My teenage son keeps telling me it&rsquo;s fine, but I don&rsquo;t feel comfortable giving them my Facebook password. Should I be worried about this, or is it OK?</p>
+<p>RAY: Thanks for your question, Steve. Well, Maybe&hellip;? The question is whether or not you are on a website that uses a service called &ldquo;Login with Facebook&rdquo; or if the website is actually asking for your Facebook username and password?</p>
+<p>TOM: If the website is actually using &ldquo;Login with Facebook&rdquo; it is relatively safe. Facebook saves something on your computer when you log in called a cookie, so that the website knows who you are and knows that you are signed in.</p>
+<p>Login with Facebook allows other websites and apps on your phone &ndash; or tablet &ndash; to use that same information. That way they know who you are and you can log into their website. So, for example, if you were on NPR.org, and you wanted to comment on a story, normally you would have to create a username and password just for their website to comment. OR, you could sign in with your Facebook account instead. That&rsquo;s one less username or password you have to remember!</p>
+<p>RAY: Facebook doesn&rsquo;t share your password with the website or the app, but it usually does ask for permission to do things like: see who your friends are on Facebook, look at your Timeline, or post things on your Timeline and look at your pictures, videos and messages. So, make sure to read what you are giving the website or app permission to do, and don&rsquo;t agree to anything you are uncomfortable with.</p>
+<p>Now, on the other hand, if the website is asking for Facebook username and password. It&rsquo;s a scam. Run away. If you are already signed into Facebook, you should not get a prompt to sign in to Facebook again. So, if the website redirects you to the Facebook sign in page, make sure that you are actually on Facebook&rsquo;s website before you sign in. Facebook&rsquo;s website is facebook.com. That&rsquo;s it. It&rsquo;s not facebook.com.ex3Aa.com or anything other than Facebook.com.</p>
+<p>TOM: If you&rsquo;re not sure, an easy way to check is to open a new web browser tab or window and go to Facebook.com. If Facebook loads up and you are already signed in, close the other site and don&rsquo;t go back, it&rsquo;s definitely a scam.</p>
+<p>RAY: If you are on an app on your phone or tablet, that you bought from the App Store on iOS or Google Play or Amazon App Store on Android, then chances are very slim that the app is a scam app, but the same rules apply. The app should not be asking you for your user name and profile if you are already signed into Facebook.</p>
+<p>TOM: So, again, switch over to Facebook and see if you are already logged in. If you&rsquo;re not logged into Facebook, log in directly, and relaunch the app and see if it asks you to log in again. If you are already logged into Facebook, and it asks you to log in again, then forget that app. It&rsquo;s not worth it.</p>
+<p>Just like you wouldn&rsquo;t normally hand your car keys to a stranger on the street, you shouldn&rsquo;t give your Facebook username and password away.</p>
+<p>RAY: To hear more answers to questions like Steve&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at 1-888-972-9868, or you can send us an email at questions@deemable.com.</p>
+<p>RAY: For Deemable Tech I&rsquo;m Ray Hollister,</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/210862/facebooklogin_1__medium.PNG" title="Is it safe to log in with Facebook? That depends."></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Steve asks "Is it safe to log in with Facebook?"' data-link="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Steve asks "Is it safe to log in with Facebook?"' data-link="/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/steve-asks-is-it-safe-to-log-in-with-facebook/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

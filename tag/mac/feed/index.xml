@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Mac</title>
+	<atom:link href="/tag/mac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Keyboard Shortcuts</title>
+		<link>/2015/07/ask-deemable-tech-keyboard-shortcuts/</link>
+		<comments>/2015/07/ask-deemable-tech-keyboard-shortcuts/#comments</comments>
+		<pubDate>Thu, 30 Jul 2015 12:44:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Hotkeys]]></category>
+		<category><![CDATA[Keyboard Shortcuts]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Shortcuts]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10174</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/02/Logitech_K750-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Logitech Wireless Solar Keyboard K750" style="float:left; margin:0 15px 15px 0;" />Dale writes, &#8220;My son-in-law was helping me with some computer stuff and he showed me a trick where I could see all the windows I have open on my computer at once and switch between them. The problem is, I <a href="/2015/07/ask-deemable-tech-keyboard-shortcuts/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/ask-deemable-tech-keyboard-shortcuts/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/02/Logitech_K750-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Logitech Wireless Solar Keyboard K750" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Dale writes, &ldquo;My son-in-law was helping me with some computer stuff and he showed me a trick where I could see all the windows I have open on my computer at once and switch between them. The problem is, I have forgotten how he did it, and I don?t want to keep bothering him. So I thought I&rsquo;d bother you guys instead!&rdquo;</strong></em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10174-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3</a></audio><p><span id="more-10174"></span></p>
+<p>No problem, Dale, that&rsquo;s what we&rsquo;re here for!</p>
+<p><img class="alignright size-medium wp-image-4956" src="//media/2012/02/Logitech_K750-300x165.jpg" alt="Logitech Wireless Solar Keyboard K750" width="300" height="165">As far as your question goes, we&rsquo;re pretty sure that the &ldquo;trick&rdquo; you are looking for is holding down the ALT and TAB keys on your keyboard at the same time. In Windows 8, that brings up a view of all the windows you currently have open. If you keep holding ALT and start pressing TAB, you can switch from window to window. When you get to the one you want to select, just let go of the ALT key and boom, there you go.</p>
+<p>ALT-TAB is one of many keyboard shortcuts that we think are essential to know when using Windows. A shortcut &mdash; or hotkey, as they are sometimes called &mdash; is a combination of key presses that triggers a command. They unusually involve holding down two keys at once, like pressing CTRL and C to copy, or&nbsp;CTRL and V to paste. Shortcuts can save you a lot of time by condensing everyday tasks that usually require several clicks of the mouse into one press of the keys.</p>
+<p>Here are some of our favorite keyboard shortcuts for Windows and Mac.</p>
+<p><strong>Windows</strong></p>
+<ul><li>Alt + Tab &ndash; Cycle through open windows/programs</li>
+<li>Windows key + D &ndash; Display desktop</li>
+<li>Windows key + E &ndash; Open new Windows Explorer window</li>
+<li>Windows key + F &ndash; Open Windows search window</li>
+<li>Windows key + down arrow &ndash; Minimize window</li>
+<li>Windows key + up arrow &ndash; Maximize window</li>
+<li>Windows key + X &ndash; Open Quick Access Menu</li>
+<li>Windows key + plus or minus sign &ndash; Zoom in or zoom out</li>
+<li>Windows key + L &ndash; Lock computer or switch user</li>
+<li>Ctrl + Shift + Esc &ndash; Open Task Manager</li>
+<li>Ctrl + W &ndash; Close window</li>
+<li>Ctrl + C &ndash; Copy selected item or text</li>
+<li>Ctrl + X &ndash; Cut selected item or text</li>
+<li>Ctr l+ V &ndash; Paste selected copied item or text</li>
+<li>Ctrl + P &ndash; Print</li>
+<li>Ctrl + A &ndash; Select everything</li>
+<li>Ctrl + Z &ndash; Undo</li>
+<li>Ctrl + Y &ndash; Redo</li>
+</ul><p><strong>Mac</strong></p>
+<ul><li>Command + Tab &ndash; Cycle through open windows/applications</li>
+<li>Command + Q &ndash; Quit open application</li>
+<li>Command + W &ndash; Close active window</li>
+<li>Command + C &ndash; Copy selected item or text</li>
+<li>Command + X &ndash; Cut Selected item or text</li>
+<li>Command + V &ndash; Paste copie item or text</li>
+<li>Command + F3 &ndash; Show desktop</li>
+<li>Command + Alt + Esc &ndash; Force quit application</li>
+<li>Command + Option + Control + Esc &ndash; Shut down computer</li>
+<li>Command + Alt + Eject button &ndash; Put computer to sleep</li>
+<li>Ctrl + D &ndash; Delete</li>
+</ul><p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Keyboard Shortcuts" data-link="/2015/07/ask-deemable-tech-keyboard-shortcuts/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Keyboard Shortcuts" data-link="/2015/07/ask-deemable-tech-keyboard-shortcuts/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/ask-deemable-tech-keyboard-shortcuts/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150730_keyboard_shortcuts.mp3" length="3297251" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Nancy asks, &#8220;Can Macs get viruses?&#8221;</title>
+		<link>/2014/10/nancy-asks-can-macs-get-viruses/</link>
+		<comments>/2014/10/nancy-asks-can-macs-get-viruses/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 00:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9325</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop? A: If you&#8217;re <a href="/2014/10/nancy-asks-can-macs-get-viruses/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/nancy-asks-can-macs-get-viruses/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p132861-embed" src="http://www.prx.org/p/132861/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop?<span id="more-9325"></span></p>
+<p><strong>A: </strong>If you&rsquo;re like us, Nancy, you&rsquo;ve probably heard a lot of people say that Macs don&rsquo;t get viruses. While this isn&rsquo;t entirely true, there is a lot to back this claim up. Macs are safer on average, and it has to do with a couple of factors.</p>
+<div id="attachment_9326" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/mac_glow.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9326" src="//media/2014/10/mac_glow-300x210.jpg"  alt="Image credit: Ricky Romero / Flickr" width="300" height="210"></a><p class="wp-caption-text">Image credit: Ricky Romero / Flickr</p></div>
+<p>When hackers write a virus or a piece of malware, their goal is to make money. The most efficient way to make money is to get the virus on as many computers as they can. Apple has always had a pretty low market share in the world of home computers, usually around 10 percent. So, if you were trying to write a virus, what would make the most sense: writing it for the majority of computers running a version of Windows, or writing it for the small number of Macs?</p>
+<p>Also, Mac OS X is based on Unix, which (without getting into all the nerdy technical details) makes it much harder to hack than Windows. However, this does not mean that Macs are unhackable.</p>
+<p>You may have heard about the recently-discovered bug called Shellshock, which can let a hacker gain unauthorized access to computers running Mac OS or Linux. Although it impacts very few Mac users, it is just one of several bugs and security vulnerabilities that have been discovered in Mac OS X lately. Apple does a fairly good job of patching these up once they&rsquo;ve been discovered, but it usually takes a little while.</p>
+<p>To answer your question, Nancy: we actually wouldn&rsquo;t recommend installing any antivirus software, unless you are using your computer to run a business. This may sound strange considering what we just said about recent bugs, but it has to do with the cost-to-benefit ratio. As we said, the chance of you getting a virus is very low. When you take those odds into account with the cost of antivirus software, and the amount of resources that software takes making the computer slower and less productive, it just doesn&rsquo;t make sense to invest that much into it.</p>
+<p>We do recommend, though, that you install antivirus software if you use your computer to run a business, especially if you work in the medical field or if the data on your computer is incredibly sensitive. Avast and Kasperky both make highly rated antivirus software for Mac OS X. Avast is free, and Kasperky starts at $39.95.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/nancy-asks-can-macs-get-viruses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>#63 Spaceteam!</title>
+		<link>/2014/07/63-spaceteam/</link>
+		<comments>/2014/07/63-spaceteam/#comments</comments>
+		<pubDate>Wed, 16 Jul 2014 20:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mobile Games]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[RAID]]></category>
+		<category><![CDATA[Spaceteam]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9030</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/spaceteam_group-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="In-app screenshots from Spaceteam!
+
+Image credits: Sleeping Beast Games" style="float:left; margin:0 15px 15px 0;" />On this episode of the Deemable Tech podcast, Tom and Ray answer your questions about downloading pictures off of iPhones, donating old computers and setting up RAID systems with your hard drives. Then the guys are joined by producer Sean <a href="/2014/07/63-spaceteam/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/63-spaceteam/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/spaceteam_group-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="In-app screenshots from Spaceteam!
+
+Image credits: Sleeping Beast Games" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>On this episode of the Deemable Tech podcast, Tom and Ray answer your questions about downloading pictures off of iPhones, donating old computers and setting up RAID systems with your hard drives.</p>
+<p>Then the guys are joined by producer Sean Birch to attempt the impossible: playing a mobile game on a podcast! The three of them suit up to test out the party game <a href="http://www.sleepingbeastgames.com/spaceteam/">Spaceteam</a>. If you like technobabble and yelling, you&rsquo;ll enjoy this episode!<span id="more-9030"></span></p>
+<div id="attachment_9042" style="width: 669px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2014/07/spaceteam_group.jpg" class="gallery_colorbox"><img class="wp-image-9042 size-large" src="//media/2014/07/spaceteam_group-1024x561.jpg"  alt="In-app screenshots from Spaceteam! Image credits: Sleeping Beast Games" width="659" height="361"></a><p class="wp-caption-text">In-app screenshots from Spaceteam!<br> Image credits: Sleeping Beast Games</p></div>
+<audio class="wp-audio-shortcode" id="audio-9030-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-07-15.mp3?_=2"></source><a href="http://deemable.com/audio/DeemableTech_2014-07-15.mp3">http://deemable.com/audio/DeemableTech_2014-07-15.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-07-15.mp3">#63 Spaceteam!</a></p>
+<p><span style="text-decoration: underline;"><strong>Links mentioned in this episode:</strong></span></p>
+<ul><li><a href="http://support.apple.com/kb/HT1342">Using Your Mac&rsquo;s Activity Monitor</a></li>
+<li><a href="http://www.thexlab.com/faqs/sbbod.html">What To Do When You See The &ldquo;Spinning Beach Ball Of Death&rdquo;</a></li>
+<li><a href="http://support.apple.com/kb/ht5189">What To Do Before You Sell Or Give Way Your Mac</a></li>
+<li><a href="http://www.pcworld.com/article/132877/RAID.html">How To Set Up RAID On Your PC</a></li>
+<li><a href="http://www.howtogeek.com/howto/36504/how-to-create-a-software-raid-array-in-windows-7/">Creating A Software RAID Array In Windows 7</a></li>
+<li><a href="http://www.sleepingbeastgames.com/spaceteam/">Spaceteam</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#63 Spaceteam!" data-link="/2014/07/63-spaceteam/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#63 Spaceteam!" data-link="/2014/07/63-spaceteam/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/63-spaceteam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-07-15.mp3" length="35317983" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 37 &#8211; More Evil Printers!</title>
+		<link>/2013/05/episode-37-more-evil-printers/</link>
+		<comments>/2013/05/episode-37-more-evil-printers/#comments</comments>
+		<pubDate>Mon, 06 May 2013 03:38:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Printer trouble]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7312</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" />This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand <a href="/2013/05/episode-37-more-evil-printers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/episode-37-more-evil-printers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_7314" style="width: 375px" class="wp-caption alignright"><a href="http://www.somethingofthatilk.com/index.php?id=454"><img class=" wp-image-7314 " title="Printers. Can't live with them, can't beat them with a baseball bat." alt="Graph via Something of that Ilk." src="//media/2013/05/WhyYouCantPrintThat.png" width="365" height="282"></a><p class="wp-caption-text">Graph via <a href="http://www.somethingofthatilk.com/index.php?id=454">Something of that Ilk</a>.</p></div>
+<p>This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand why her phone is better at being a computer than her computer is. All that and more on this week&rsquo;s episode of Deemable Tech.</p>
+<p><audio class="wp-audio-shortcode" id="audio-7312-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">Episode 37 &ndash; More Evil Printers!</a></p>
+<p><strong>ROUGH TRANSCRIPT</strong></p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/" target="_blank">asmallorange.com</a>.</p>
+<p>And, by audible.com &ndash; get a FREE audiobook download at <a href="http://audibletrial.com/Deemable" target="_blank">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>TOM: This week on the podcast we&rsquo;re talking about&hellip; what are we talking about, Ray?</p>
+<p>RAY: Well Tom, this week we&rsquo;re going to talk about how to shop for laptops, but first we&rsquo;re going to talk about your favorite topic.</p>
+<p>TOM: What&rsquo;s that?</p>
+<p>RAY: Printers!</p>
+<p>TOM: NOOOOOOOOOOOO!!!!</p>
+<p>RAY: Listeners from last week&rsquo;s podcast may remember that Tom has an &ndash; aversion &ndash; to printers.</p>
+<p>TOM: They are from the devil and should be burned.</p>
+<p>RAY: Well, people still have questions about printers. Let&rsquo;s see if we can help the nice people out.</p>
+<p>TOM: Oookay&hellip;</p>
+<p>Melissa asks, my HP Photosmart C5100 printer says that I need to insert a new ink cartridge (the pink) even though we already have. It won&rsquo;t let me choose black and white printing either, which it usually does when one color is out. I&rsquo;ve tried two different pink ink cartridges so I know that isn&rsquo;t the problem.</p>
+<p>RAY: Printers are probably the most-hated pieces of technology ever created, and at no time are they more hated than when they pop up the dreaded ?Ink Cartridge(s) Are Empty&rdquo; error message. Fortunately, with your model, you can override that error message without hacking into the printer. It does take a few steps though. Here&rsquo;s how to get rid of that pesky error message.</p>
+<p>Before you start this, you should bookmark this page or open it on another device. You have to reboot your computer during this process, and since you can&rsquo;t use your printer you&rsquo;ll need a way to get back to this information. A fast easy way to bookmark this page is to press Ctrl-D on your keyboard. That will start the save this page as a bookmark dialogue in almost every web browser. Now that you have that saved, you can move on.</p>
+<p>First, if the computer and the printer isn&rsquo;t turned on and plugged in, go ahead and do that now. This will sound ironic in a minute, but trust me, it&rsquo;s important.<br>
+Now, disconnect the Ethernet Cable or the USB cable from the back of the printer. (Disconnect both if you have them both plugged in for some reason.)<br>
+Restart your computer. (Make sure you&rsquo;ve already bookmarked this page before you do that so you can easily get back here after the computer restarts.)<br>
+Once the computer is back on, and with the printer still turned on, unplug the power cord from the printer.<br>
+Now, wait 30 seconds. Listen to Her Majesty, by The Beatles to kill the time. (Technically, it&rsquo;s only 23 seconds long but by the time you fire up the CD or record player or YouTube, you&rsquo;ll have burnt those extra 7 seconds.)<br>
+Put all your CDs or records back in the closet, or stop watching cat videos on YouTube.<br>
+Insert the power cord back into the printer, and turn the printer on.<br>
+Clear any error messages.<br>
+Now, you shouldn&rsquo;t have that pesky error message in your face, and you should be able to go back to printing. Until the next time.</p>
+<p>If that doesn&rsquo;t work, try repeating these steps again, but perhaps try substituting Her Majesty for one of these videos. They won&rsquo;t improve your odds, but they&rsquo;ll probably make you laugh, and you might forget about your evil printer for a little bit.</p>
+<p>Joe D. writes,</p>
+<p>Hello Ray and Tom,</p>
+<p>I also have a printer problem but not related to operation. It&rsquo;s the cost of operation. We have been using 2 Canon inkjet printers for the past 4-5 years &ndash; the entire time my kids were in college they used these printers. While the printers were very cheap to purchase, they have been very expensive to operate (granted that&rsquo;s subjective). I am not sure which costed more &ndash; the college tuition or the ink for the printers! I recently started looking for replacement printers with the goal of getting the operational price down, but there is so little information on this, it&rsquo;s hard to determine what models are cheapest to run. While I realize that all-in-one inkjets aren&rsquo;t the least expensive to operate, I really would like to find the least expensive in this category while still getting decent print quality and speed for occasional home use only. Thanks for any help you can provide.</p>
+<p>RAY: Lauren writes, Hi guys,</p>
+<p>So I&rsquo;m in the market for a new laptop. (After much wailing and gnashing of teeth over my still new-ish old one which went kaput for absolutely no reason other than that it hates me. I&rsquo;m only a teensy bit bitter.)</p>
+<p>I&rsquo;m not a gamer so I don&rsquo;t foresee needing tons of bells &amp; whistles, but I do want to stream video on things like YouTube, watch TV shows on Hulu, chat on Skype and store pictures and music. I&rsquo;m pretty sure I don&rsquo;t want a Chromebook.</p>
+<p>Can you give some pointers about:</p>
+<p>processors (does it really matter which kind?)</p>
+<p>GB Memory (is there a basic number to shoot for? Like 4? 4 sounds good&hellip;)</p>
+<p>GB Hard Drive (same as memory; basic ballpark for functionality?)</p>
+<p>Thanks! If you&rsquo;ve already covered this in a different show never mind&hellip; <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;"></p>
+<p>RAY: No Chromebook? Aw, come on, that&rsquo;s no fun.</p>
+<p>TOM: The lady has spoken Ray. No Chromebooks. I mean, I can see where she&rsquo;s coming from. Would you necessarily want your Chromebook to be your only computer?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Well, so Lauren&rsquo;s in the market for a Windows-based laptop. These can be pretty murky waters to navigate for the casual buyer. But she&rsquo;s asking the right questions.</p>
+<p>RAY: Oh yeah. First of all, she&rsquo;s not hung up on brands that really don&rsquo;t matter. So many times when I ask someone who is having problems what kind of computer they have they tell me ?HP&rdquo; or ?Dell.&rdquo; Those are just brand-names!</p>
+<p>TOM: Right. That&rsquo;s like if you go to your mechanic because you&rsquo;re having car problems and when they ask what kind of car you have you say ?Ford.&rdquo;</p>
+<p>RAY: When you&rsquo;re shopping for a car you look at things like whether it&rsquo;s manual or automatic, how many cylinders the engine has, what kind of MPG it gets.</p>
+<p>You&rsquo;ve got to do the same thing when you&rsquo;re fixing a computer, or in this case, shopping for one. You need to know what numbers matter, and what they mean.</p>
+<p>TOM: Lauren&rsquo;s email hit on several of the important ones. Why don&rsquo;t we make a quick list of things you need to know about your laptop and then we can dive into more detail on some of them.</p>
+<p>Windows or Mac (or Chromebook)*</p>
+<p>Amount of RAM (in Gigabytes)</p>
+<p>Processor</p>
+<p>Who made it?</p>
+<p>How many cores?</p>
+<p>How fast?</p>
+<p>Size of hard drive (in Gigabytes)</p>
+<p>Type of hard drive (SSD vs. SATA)</p>
+<p>32 bit or 64 bit*</p>
+<p>Screen resolution*</p>
+<p>Slots (USB/HDMI/Ethernet/Card Reader)*</p>
+<p>*(elaborate)</p>
+<p>TOM: Ray, I love your explanation of RAM versus hard drive space. Can I use it?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Thanks! So as Ray has elegantly put it, if you think of your computer like your desk at the office, then RAM is like the size of your desktop. If you have a really large desk you can work on a lot of things at once. If you have a small desk, you can maybe only work on one or two things at a time. Am I doing okay so far Ray?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Now your hard drive space is like the filing cabinet next to your desk. Stuff you&rsquo;re not working on right now goes in there. The bigger your filing cabinet, the more notes and papers and stuff you can stash away in it.</p>
+<p>To bring this back to computers: if you have a computer with a big hard drive but a small amount of RAM, that&rsquo;s like having a big filing cabinet with an itty-bitty desk. You can save lots of your old folders, but you may only be able to get one out at a time.</p>
+<p>You can fill that big hard drive up with music and video and programs and games, but you can probably only actually run one or two programs simultaneously.</p>
+<p>RAY: Even if you&rsquo;re not a power user, having a decent amount of RAM is a good idea. More RAM simply makes the computing experience better. Your operating system will run more smoothly, programs will open and close faster, and you&rsquo;re a lot less likely to run into mysterious slow-downs as your computer keeps running out of places to put things.</p>
+<p>TOM: Right. So what&rsquo;s a good amount of RAM, Ray? Lauren suggested four. Is that enough?</p>
+<p>RAY: I think you definitely want at least four. Right now if you have four gigs most things will run smoothly. Two gigs or one gig is definitely too little. If you can get six or eight, though, I&rsquo;d say go for it. That will future-proof your laptop a little bit.</p>
+<p>TOM: Newer programs and operating systems almost always want more RAM.</p>
+<p>RAY: Absolutely.</p>
+<p>TOM: Now hard drives are also measured in gigs, but instead of a few gigs they usually have hundreds of gigs, or even a terabyte.</p>
+<p>RAY: A terabyte being a thousand gigs.</p>
+<p>TOM: Bingo. Remember, this is your filing cabinet. Or, if you like downloading movies, this is your DVD shelf. The bigger your shelf is, the more movies you can store.</p>
+<p>Hard drive space is really cheap. If you get a laptop with a normal, SATA hard drive, I wouldn&rsquo;t get anything less than 500 gigabytes. It shouldn&rsquo;t cost you that much and it should be enough space to keep the average user happy for a long time.</p>
+<p>RAY: But if Lauren is really into music and movies, I might recommend getting a full terabyte.</p>
+<p>TOM: True.</p>
+<p>RAY: Also, some newer laptops come with SSD hard drives instead of or in addition to the classic SATA drive. SSD drives cost more per gig, so you&rsquo;re probably looking at getting a 50-100 gigabyte drive for the same price.</p>
+<p>TOM: That&rsquo;s not nearly as much space. What&rsquo;s the advantage of an SSD drive?</p>
+<p>RAY: Well a) they are much faster and b) they can take more of a beating. Oh and c), they&rsquo;re smaller. So your really thin laptop is likely to have one because they take up less physical space and aren&rsquo;t likely to be jostled when you carry the laptop around.</p>
+<p>TOM: But with a fifty gig hard drive, your computer will barely have space for its operating system. You&rsquo;re not going to be downloading many movies.</p>
+<p>RAY: A lot of high-end laptops now offer a small SSD drive and a larger SATA hard drive next to it. That way you get speed and size.</p>
+<p>TOM: But if you&rsquo;re looking at laptops on a budget, you&rsquo;re probably looking at standard SATA hard drives. And in that case, you want a few hundred gigabytes at least in my opinion.</p>
+<p>RAY: Definitely.</p>
+<p>TOM: OK, so let&rsquo;s talk about processors.</p>
+<p>Processors are a complicated subject. You get into things like busses and transistor counts and onboard cache, stuff that no normal human being should have to think about.</p>
+<p>But here are a few guidelines. All processors have a clock speed, which is a really big number. Bigger numbers mean faster clock speeds. Clock speed is NOT the final word on how good a processor is, but it helps when you&rsquo;re comparing two processors to each other.</p>
+<p>There are also cores. Almost all processors these days are multi-core. What that means is that they have two processors in one chip. Or four. Or eight. The more cores that are on the chip, the more processes the computer can accomplish simultaneously.</p>
+<p>Finally, the brand matters. For all intents and purposes, if you&rsquo;re buying a laptop, it should say Intel Inside. Intel still dominates the personal computer market and the fact is they still make a mean CPU.</p>
+<p>RAY: Right. So let&rsquo;s recap. When Lauren is shopping for a laptop she should consider RAM</p>
+<p>TOM: 4 gigs or more</p>
+<p>RAY: hard drive size</p>
+<p>TOM: at least 500 gigabytes for a normal hard drive</p>
+<p>RAY: and processor</p>
+<p>TOM: Intel Inside!</p>
+<p>RAY: So Lauren, I hope that helps you out.</p>
+<p>Hi guys! Loving the show!</p>
+<p>I have a question for you guys today that is more knowledge-based than needing help.<br>
+I recently was working on ordering something online from Africa. I worked on it simultaneously on my laptop and my iPhone. My laptop just kept taking so long, and my iPhone was able to make everything happen and complete all of the page refreshes the way that it was supposed to. Why is my cell phone so much better at being a computer than my laptop?</p>
+<p>Thanks! Geri</p>
+<p>And the other Geri asked,</p>
+<p>I bought a used iPhone from a friend. I have ATT go phone unlimited talk, text, web. I can access wifi from anywhere on my phone. I can text and receive plain messages.<br>
+I can&rsquo;t however send or receive texts with photos or videos. They won&rsquo;t send and they don&rsquo;t show up when I receive. The text doesn&rsquo;t even show up either. My friend has an earlier iPhone 3 and she has all capabilities.<br>
+Is there a fix? thanks.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.<br>
+Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/episode-37-more-evil-printers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3" length="40725943" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>The Future of Apple</title>
+		<link>/2011/06/the-future-of-apple/</link>
+		<comments>/2011/06/the-future-of-apple/#comments</comments>
+		<pubDate>Fri, 10 Jun 2011 19:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3542</guid>
+		<description><![CDATA[Steve Jobs, who has been on medical leave since January, triumphantly walked out to a standing ovation at this year&#8217;s Worldwide Developers Conference (WWDC). Taking place in San Francisco, the gaunt and seemingly frail Apple CEO managed to address the <a href="/2011/06/the-future-of-apple/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/the-future-of-apple/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" alt="" width="375" height="281"></p>
+<p>Steve Jobs, who has been on medical leave since January, triumphantly walked out to a standing ovation at this year&rsquo;s Worldwide Developers Conference (WWDC). Taking place in San Francisco, the gaunt and seemingly frail Apple CEO managed to address the thousands of developers in attendance by revealing major developments in Apple software that will be coming soon to consumers throughout the world.</p>
+<div><span style="text-decoration: underline"><strong>Mac OS X &ldquo;Lion&rdquo;</strong></span></div>
+<p>The latest Mac Operating System, called <em>Lion</em>, will add 250 new improvements &ndash; such as multi-touch gestures for controlling applications. As the eighth major release of Mac OS, Apple has taken a step in a different direction by making the new release emulate the mobile iOS platform. Jobs has stated in the past that the PC-era will soon pass by, and with over 50 million Mac users across the globe his vision is coming into fruition. The software update will be on sale next month exclusively in the Mac App Store, and unlike previous Mac updates that usually cost $129.99, the 4GB <em>Lion</em> update can be downloaded for a mere $29.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/tq2enQYTrbU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Read more about <em>Lion</em> in Apple&rsquo;s <a title="Lion Press Release" href="http://www.apple.com/pr/library/2011/06/06lion.html" target="_blank">Official Press Release</a>.</p>
+<div><span style="text-decoration: underline"><strong>iOS 5</strong></span></div>
+<p>After selling over 200 million iOS devices like the iPad, iPhone, and iPod Touch,<br>
+the highly popular mobile Apple iOS software will receive a much-anticipated update in the fall. Over 200 new features will be added including Notification Center, iMessage, Newsstand, and built-in Twitter integration. Users will be sent the new update over-the-air after it was announced that iOS devices will no longer require syncing with a computer to be activated or receive updates.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/LLJIef-e-7g?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Read more about iOS 5 <a title="iOS" href="http://www.apple.com/pr/library/2011/06/06ios.html" target="_blank">here</a>.</p>
+<p><span style="text-decoration: underline"><strong>iCloud</strong></span></p>
+<p>The headliner of the WWDC was undoubtedly the unveiling of Apple&rsquo;s iCloud, a free wireless storage and syncing system. Based on the idea of cloud computing, which allows users to store files and applications on the internet instead of on their own devices, the iCloud will help further integrate and synchronize Apple devices in an efficient and simple manner. Using Apple&rsquo;s servers, new files that a user loads onto their device will be automatically pushed and available in &ldquo;the cloud&rdquo; without having to manually sync or transfer anything.</p>
+<p>Several features set Apple&rsquo;s cloud computing service apart from competing cloud systems launched by Amazon and Google. The largest competitive advantage that the iCloud holds is its iTunes integration. As rumored before its release, iTunes will automatically push a user&rsquo;s purchased song to all other devices running iTunes at no charge. For an additional $25 a year, though, you can access up to 20,000 songs from your entire iTunes library through a new service known as iTunes Match, which scans the iTunes library and matches it to the millions of songs that the company acquired licensing rights to. Users can also upload additional songs that haven&rsquo;t found a match using the new program. Besides the iTunes integration, iCloud will also integrate with applications, documents, and photos.</p>
+<p>Apple iCloud is set to fully launch during the fall, but some features are available right now.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/zAYA7WfNjjI?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>Additional information about the iCloud can be found at <a title="iCloud" href="http://www.apple.com/pr/library/2011/06/06icloud.html" target="_blank">Apple&rsquo;s web site</a>.</p>
+<p>Full WWDC keynote below:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/3lsMFzxtSZ8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" target="_blank">Photo</a> via <a title="WWDC" href="http://ology.com/sites/default/files/imagecache/post-image/apple-wwdc-2011-invite.png" target="_blank">Ology</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Future of Apple" data-link="/2011/06/the-future-of-apple/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Future of Apple" data-link="/2011/06/the-future-of-apple/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/the-future-of-apple/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

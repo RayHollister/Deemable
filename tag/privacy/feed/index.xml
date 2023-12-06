@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; privacy</title>
+	<atom:link href="/tag/privacy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Marjory asks, &#8220;How can I change my privacy settings on Facebook?&#8221;</title>
+		<link>/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/</link>
+		<comments>/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/#comments</comments>
+		<pubDate>Thu, 27 Jun 2013 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[privacy settings]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7472</guid>
+		<description><![CDATA[RAY: Hi, I&#8217;m Ray Hollister, TOM: I&#8217;m Tom Braun, RAY: and we&#8217;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: TOM: Marjory writes, Can you <a href="/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p99633-embed" src="http://www.prx.org/p/99633/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Marjory writes, Can you help me understand Facebook&rsquo;s privacy settings? I want to finally join the 21st century and sign up so I can see my son&rsquo;s baby pics and updates, but I don&rsquo;t want the whole world to see everything I write or upload.</p>
+<p>RAY: Welcome to the 21st century, Marjory!</p>
+<p>TOM: You&rsquo;re definitely right to be concerned. Facebook privacy settings can be hard to figure out. In fact you&rsquo;d be surprised how little even people who are heavy Facebook users know about Facebook privacy settings.</p>
+<p>RAY: Tom, doesn&rsquo;t Facebook keep all your information private by default?</p>
+<p>TOM: No, in fact they do the complete opposite, Ray. Facebook&rsquo;s default assumption is that you want to broadcast everything to the whole wide world. Posts and statuses marked with the little globe icon are visible to anyone with a Facebook account, which is pretty much&hellip; everyone. However, any time you post something on Facebook you can choose to make it friends-only, friends-of-friends, or a custom security setting.</p>
+<p>RAY: What is a custom security setting?</p>
+<p>TOM: You can actually make lists of friends and choose to share posts only with friends on that list. That way if you have a post that you think would be funny for your college buddies but not your grandmother, you can make sure that only the right people see it.</p>
+<p>RAY: The first thing you&rsquo;ll want to do, Marjory, is check out the Facebook privacy settings menu. Up in the blue bar that runs across the top of the Facebook page you should see a little gear icon next to your name. That&rsquo;s the ?settings&rsquo; button. Click the button and a drop-down menu will appear. Then click the ?Privacy Settings&rsquo; option. This will take you to ?Privacy Settings and Tools&rsquo;.</p>
+<p>You&rsquo;ll see a list of options that you can change. ?Who can see my future posts? allows you to set the default for posts to friends-only, for instance.</p>
+<p>TOM: You can still set it back to ?Public&rsquo; any time you post something.</p>
+<p>RAY: Right. You can also decide whether or not you want people to be able to search for you by email address or phone number, or whether search engines like Google can search for your profile.</p>
+<p>TOM: Ray, if you say ?no&rsquo; to all this stuff, can people still search for your profile on Facebook?</p>
+<p>RAY: Yes, they can. It used to be that you could hide your profile completely from anyone who wasn&rsquo;t your friend, but Facebook has recently made all profiles searchable. You can still make all the information IN your profile, including your profile pic, private though.</p>
+<p>TOM: Be sure to visit the ?Timeline and Tagging&rsquo; menu while you&rsquo;re tweaking privacy settings. There&rsquo;s a link to it on the left-hand side of the privacy page.</p>
+<p>This page allows you to manage tags.</p>
+<p>RAY: A tag is when someone labels a picture with my name, right?</p>
+<p>TOM: Right. When you start typing a friend&rsquo;s name and Facebook pops up their picture and you click it, that&rsquo;s a ?tag&rsquo;. When you tag someone in a post or on a picture it adds a link to their profile page and notifies that friend that they&rsquo;ve been ?tagged&rsquo;.</p>
+<p>If you are tagged in another friend&rsquo;s post or picture, your friends will be able to view that picture or post by default, even if they&rsquo;re not friends with the person who tagged you.</p>
+<p>The ?Timeline and Tagging&rsquo; page allows you to change this, and even to approve tags with your name before they appear on posts and pictures.</p>
+<p>RAY: With a working knowledge of Facebook&rsquo;s privacy settings and how to control who sees your posts, you can spend a lot less time worrying about who sees what you wrote on Facebook and more time communicating with your friends!</p>
+<p>RAY: To hear more answers to questions like this one, visit our website at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to our full length show, and all of our previous radio segments.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister&hellip;</p>
+<p>TOM. And I&rsquo;m Tom Braun.</p>
+<p><img title="Facebook Privacy" alt="" src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/236684/facebook_privacy.png"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Marjory asks, "How can I change my privacy settings on Facebook?"' data-link="/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Marjory asks, "How can I change my privacy settings on Facebook?"' data-link="/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/marjory-asks-how-can-i-change-my-privacy-settings-on-facebook/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

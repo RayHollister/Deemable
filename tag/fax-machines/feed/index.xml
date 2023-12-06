@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; fax machines</title>
+	<atom:link href="/tag/fax-machines/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Sarah asks, &#8220;Can I fax from my computer?&#8221;</title>
+		<link>/2015/01/sarah-asks-can-fax-something-computer/</link>
+		<comments>/2015/01/sarah-asks-can-fax-something-computer/#comments</comments>
+		<pubDate>Thu, 22 Jan 2015 13:45:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[fax machines]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9544</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/01/SendYouAFax-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="SendYouAFax" style="float:left; margin:0 15px 15px 0;" />Q: I have a scanner and a Windows computer. Can I fax documents through my computer without a telephone land line? A: That&#8217;s a terrific question, Sarah! We can&#8217;t tell you much it bothers us when companies or government agencies <a href="/2015/01/sarah-asks-can-fax-something-computer/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/01/sarah-asks-can-fax-something-computer/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/01/SendYouAFax-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="SendYouAFax" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p140918-embed" src="http://www.prx.org/p/140918/embed.js?size=small"></script></p>
+<p><strong><a href="http://deemable.com/media/2015/01/SendYouAFax.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9553" src="//media/2015/01/SendYouAFax-300x225.jpg"  alt="SendYouAFax" width="300" height="225"></a>Q:</strong> I have a scanner and a Windows computer. Can I fax documents through my computer without a telephone land line?<span id="more-9544"></span></p>
+<p><strong>A:</strong> That&rsquo;s a terrific question, Sarah! We can&rsquo;t tell you much it bothers us when companies or government agencies require you to fax them a document. This is the internet age! Faxing is inefficient and insecure, and we should have left it in the 20th century! But, unfortunately, we know it probably isn&rsquo;t going away any time soon.</p>
+<p>To directly send a fax, you have to have a telephone line and a fax machine. There is just no other way. If you don&rsquo;t mind using an intermediary service, though, there is a way to do it over the internet. There are a host of companies you can send your document to who will then fax it for you.</p>
+<p>Some of the more popular free fax services include MyFax.com, eFax.com, HelloFax.com, and FaxZero.com. Most of them will let you send a certain number of pages for free per day or per month. So if you just have a one-time need to send a small number of documents, this is definitely the way to go.</p>
+<p>If you already have the document as a file on your computer, then you would simply go ahead and upload it. If your document isn&rsquo;t already on your computer, you would need to put that scanner to use, and scan the page in and save it as either a JPEG or a PDF file (many of the fax services will accept other formats, but these two are your best bets).</p>
+<p>If you need to fax things often, or need to be able to also receive faxes, you are going to have to pay for a service. One example we found was RingCentral.com, which offers a $7.99/month program that gives you your own fax number and the ability to send and receive 500 faxes per month.</p>
+<p>Hopefully one day we&rsquo;ll do away with archaic fax technology and move to just sending documents digitally. Until then, try some of those services out, and may the next thing you fax also be the last.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sarah asks, "Can I fax from my computer?"' data-link="/2015/01/sarah-asks-can-fax-something-computer/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sarah asks, "Can I fax from my computer?"' data-link="/2015/01/sarah-asks-can-fax-something-computer/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/sarah-asks-can-fax-something-computer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

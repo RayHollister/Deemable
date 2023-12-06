@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Servers</title>
+	<atom:link href="/tag/servers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The Hype Behind Cloud Computing</title>
+		<link>/2011/04/the-hype-behind-cloud-computing/</link>
+		<comments>/2011/04/the-hype-behind-cloud-computing/#comments</comments>
+		<pubDate>Thu, 28 Apr 2011 15:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Servers]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2858</guid>
+		<description><![CDATA[Cloud computing is all the rage these days, but what exactly is this mysterious &#8220;cloud&#8221; that businesses are trying to embrace? In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead <a href="/2011/04/the-hype-behind-cloud-computing/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/the-hype-behind-cloud-computing/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" alt="" width="454" height="229"></p>
+<p>Cloud computing is all the rage these days, but what exactly is this mysterious &ldquo;cloud&rdquo; that businesses are trying to embrace?</p>
+<p>In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead of the use of single dedicated servers. An even simpler way to view cloud computing is to see it as a way of outsourcing a business&rsquo;s hardware and software needs. These needs are met by outside providers who already host large data centers that have been configured to provide the utmost efficiency, providers such as Microsoft, Google, and Amazon (whose cloud system coincidentally <a title="collapsed" href="http://www.cnn.com/2011/TECH/web/04/22/amazon.cloud.mashable/index.html?iref=allsearch" target="_blank">collapsed</a> last week). Still confused? If you&rsquo;ve ever used Google Docs, GMail, or Google Maps then you&rsquo;ve used cloud computing without even realizing it!</p>
+<p>Instead of local computers handling all the work of running numerous applications, the network of computers that make up the &ldquo;cloud&rdquo; controls them instead (thereby reducing the demands for software and hardware for the individual user). By installing a cloud-based network, workers are able to access all the programs and tools they would need online, typically by Web browsers, instead of having to remotely install them on an individual&rsquo;s desktop computer &ndash; ultimately lowering the costs associated with IT and hardware needs.</p>
+<p>Before cloud computing, businesses had to estimate the number of software licenses that would be needed in the future, often wasting valuable resources should they overestimate the number of licenses to buy. However, cloud computing offers much more flexibility than traditional client-server forms of computing because they allow companies to pay for only the services that they actually used.</p>
+<p>While there are several issues associated with cloud networks &ndash; including concerns over security, privacy, and reliability &ndash; cloud computing has revolutionized the business world. A survey conducted by Elon University researchers discovered that a large majority of the respondents believe that Internet users will <a title="Elon Research" href="http://www.elon.edu/e-web/predictions/expertsurveys/2010survey/future_cloud_computing.xhtml" target="_blank">?live mostly in the cloud?</a> by the year 2020, and this fluffy endeavor will continue to change the way that individuals use software and hardware in the near future.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" target="_blank">Photo</a> by <a title="jotamyg" href="http://jotamyg.deviantart.com/" target="_blank">jotamyg</a> via <a title="deviantART" href="http://www.deviantart.com/" target="_blank">deviantART</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/the-hype-behind-cloud-computing/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

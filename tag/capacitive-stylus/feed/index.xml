@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; capacitive stylus</title>
+	<atom:link href="/tag/capacitive-stylus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Britt asks, &#8220;Why don&#8217;t touchscreens respond to my touch?&#8221;</title>
+		<link>/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/</link>
+		<comments>/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/#comments</comments>
+		<pubDate>Thu, 27 Dec 2012 14:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[capacitive screens]]></category>
+		<category><![CDATA[capacitive stylus]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[resistive screens]]></category>
+		<category><![CDATA[touch screens]]></category>
+		<category><![CDATA[zombie fingers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7210</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/Apple_iPad_Event03-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Wikipedia" style="float:left; margin:0 15px 15px 0;" />Q: So, I have kind of a weird problem. Touchscreen phones don&#8217;t work very well for me. When I touch the screen of a smartphone, it often doesn&#8217;t recognize that I&#8217;ve touched it. The strange thing is my mom has <a href="/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/Apple_iPad_Event03-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Wikipedia" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p91016-embed" src="http://www.prx.org/p/91016/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> So, I have kind of a weird problem. Touchscreen phones don&rsquo;t work very well for me. When I touch the screen of a smartphone, it often doesn&rsquo;t recognize that I&rsquo;ve touched it. The strange thing is my mom has the same problem with touchscreens. We&rsquo;ve always figured it had something to do with our circulation or something, but neither of us has cold or clammy hands. Why don&rsquo;t touchscreens like us?</p>
+<div id="attachment_8448" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2012/12/Apple_iPad_Event03.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8448" alt="Credit: Wikipedia" src="//media/2012/12/Apple_iPad_Event03-300x199.jpg"  width="300" height="199"></a><p class="wp-caption-text">Credit: Wikipedia</p></div>
+<p><strong>A:</strong> Good question, Britt! For starters, please know that most touchscreens don&rsquo;t really work the way you&rsquo;re describing them. Virtually all smartphones now have capacitive touchscreens. Basically that means that when your finger makes contact with the screen, or even just gets near it, it creates a tiny electrical disturbance on the surface of the screen that sends signals to the phone. That&rsquo;s why you can?t operate most touchscreen phones while wearing gloves. So, don&rsquo;t worry, it has nothing to do with poor circulation or clammy skin.</p>
+<p>Now, Britt, you&rsquo;ll be relieved to hear that you and your mother aren&rsquo;t the only people in the world that suffer from this problem. We did a little research, and we found out that it&rsquo;s so common that some people have actually taken to referring to this condition as &ldquo;zombie fingers&rdquo;. There aren&rsquo;t really any official diagnoses of what causes &ldquo;zombie fingers,&rdquo; but there are few possibilities.</p>
+<p>One is how you touch the screen. Most people use their index finger to touch phone screens, but based on the length of your other fingers they might also be dragging on the screen. As we hinted at earlier, you don&rsquo;t actually have to touch a capacitive touchscreen to get it to react; you just have to get really close. So if your other fingers are close to the screen while you?re interacting with it, that could cause it to think it&rsquo;s being touched when it&rsquo;s not.</p>
+<p>But what if you are just touching the screen with one finger and it&rsquo;s still not working? Well, it may have to do with what you do for a living or even what your hobbies are.</p>
+<p>We don&rsquo;t know for sure (and let us know if we&rsquo;re wrong), but we&rsquo;re guessing that you may be a musician or in a profession where you work with your hands a lot. Why? Because another possible cause are calluses. As you know, calluses are dead skin, which means that they aren&rsquo;t very electrically conductive. So when your calloused fingers touch the surface of the screen, it can&rsquo;t detect the tiny disturbance in its electrical field that it needs to operate. You could try using a different, maybe less calloused finger and see if that makes a difference. If it doesn&rsquo;t, you do have other options.</p>
+<p>One really out-there suggestion we&rsquo;ve heard is to use a piece of cold sausage to operate your touchscreen. We haven&rsquo;t tried this, and we aren&rsquo;t really recommending it (unless you want your phone to smell like sausage).</p>
+<p>A more practical solution might be to purchase a capacitive stylus. Now, it has to be a capacitive stylus because they have a special nub on the tip that carries the electrical charge from your whole hand down to the screen. You can buy one online for cheap and operate any touchscreen phone with it. They actually work really well, although keeping track of one might be inconvenient.</p>
+<p>Basically, Britt, don&rsquo;t let a mysterious case of &ldquo;zombie fingers&rdquo; stop you from enjoying a nice new smartphone.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Britt asks, &quot;Why don't touchscreens respond to my touch?&quot;" data-link="/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Britt asks, &quot;Why don't touchscreens respond to my touch?&quot;" data-link="/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/britt-asks-why-dont-touchscreens-respond-to-my-touch/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Episode 12 &#8211; Fly Me 2 d Moon</title>
+		<link>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/</link>
+		<comments>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/#comments</comments>
+		<pubDate>Mon, 27 Aug 2012 17:17:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apollo 11]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[cable company]]></category>
+		<category><![CDATA[capacitive stylus]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Mr. Gorsky]]></category>
+		<category><![CDATA[Neil Armstrong]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[SMS]]></category>
+		<category><![CDATA[text lingo]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless router]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5367</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />Deemable Tech &#8211; Episode 12 &#8211; Fly Me 2 d Moon Today&#8217;s Questions: I&#8217;m just not feeling it.Every time Britt touches a touchscreen it doesn&#8217;t recognize that he&#8217;s touched it. Zombie fingers? Anybody know how to share pictures on Facebook?Tina&#8217;s <a href="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200"></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5367-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3">Deemable Tech &ndash; Episode 12 &ndash; Fly Me 2 d Moon</a></p>
+<div><strong>Today&rsquo;s Questions:</strong></div>
+<div>
+<ol><li><strong>I&rsquo;m just not feeling it.<br></strong>Every time Britt touches a touchscreen it doesn&rsquo;t recognize that he&rsquo;s touched it. Zombie fingers?</li>
+<li><strong>Anybody know how to share pictures on Facebook?<br></strong>Tina&rsquo;s Android cell phone was wiped out and now she can&rsquo;t share pictures on Facebook or download pictures from text messages.</li>
+<li><strong>For that price, does it improve your score?!<br></strong>Michelle&rsquo;s sister-in-law was told she had to buy a $350 wireless router from the cable company if she wanted to play her Playstation 2 and Xbox 360 on the Internet.</li>
+<li><strong>w@ dz dis mean? I&rsquo;m %-)!<br></strong>Maggie&rsquo;s daughter is sending text messages that look like gibberish, and she wants to know what they mean.</li>
+</ol></div>
+<h3>The News Feed:</h3>
+<ol><li>The world lost a reluctant hero, Neil Armstrong.</li>
+<li>Samsung&rsquo;s worst scenario happened; Apple won. Samsung was found guilty of&nbsp;wilful&nbsp;infringement of Apple&rsquo;s patents.</li>
+</ol><h3>Debunkable:</h3>
+<ul><li>Neil Armstrong was misquoted, or was he?</li>
+<li>Good luck Mr. Gorsky!</li>
+</ul><div>If you get an email forwarded to you and you want to know if it&rsquo;s true or fake, forward it to us at <a href="http://mailto:debunkable@deemable.com/">debunkable@deemable.com</a>.</div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://www.markpilarski.com/deal-me-in/getting-ignored-by-a-touch-screen.html">http://www.markpilarski.com/deal-me-in/getting-ignored-by-a-touch-screen.html</a></li>
+<li><a href="http://www.hq.nasa.gov/office/pao/History/alsj/a11/a11.step.html">The official NASA transcripts from the Apollo 11 mission</a>.</li>
+<li><a href="http://www.lingo2word.com/translatetxt.php">lingo2word.com/translatetxt.php</a></li>
+<li><a href="http://transl8it.com/">transl8it.com/</a></li>
+<li><a href="http://netforbeginners.about.com/od/internetglossary/tp/The-Top-Text-Message-Acronyms-of-2011.htm">Text Talk: the Top Text Message Abbreviations, 2012</a></li>
+</ul><h3>Bumper Music</h3>
+<ul><li><a href="http://soundcloud.com/mcdoop/frank-sinatra-fly-me-to-the">Frank Sinatra &ndash; Fly Me To The Moon (8-bit) by Bryan Lopez</a></li>
+<li><a title="The Clash - I Fought The Law (8-bit NES Version)" href="http://www.youtube.com/watch?v=LJO-X-p00Ss">The Clash &ndash; I Fought The Law (8-bit NES Version)</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 12 - Fly Me 2 d Moon" data-link="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 12 - Fly Me 2 d Moon" data-link="/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/deemable-tech-episode-12-fly-me-2-d-moon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-08-27.mp3" length="50876466" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; URLs</title>
+	<atom:link href="/tag/urls/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Kevin asks, &#8220;How do I use my web browser?&#8221;</title>
+		<link>/2013/07/kevin-asks-how-do-i-use-my-web-browser/</link>
+		<comments>/2013/07/kevin-asks-how-do-i-use-my-web-browser/#comments</comments>
+		<pubDate>Thu, 18 Jul 2013 14:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Domain names]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[URIs]]></category>
+		<category><![CDATA[URLs]]></category>
+		<category><![CDATA[Web browsers]]></category>
+		<category><![CDATA[websites]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7545</guid>
+		<description><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" />Q: I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&#8217;m doing things the long way. To be honest I don&#8217;t <a href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p100195-embed" src="http://www.prx.org/p/100195/embed.js?size=full"></script></p>
+<p></p>
+<p><strong>Q:</strong> I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&rsquo;m doing things the long way. To be honest I don&rsquo;t know much about the web and I get a little bit overwhelmed every time I open Internet Explorer. Any advice?</p>
+<p><strong>A:</strong> Deep breaths, Kevin! It&rsquo;s going to be okay. We&rsquo;re here to help.</p>
+<p>The good news is that you are definitely not alone here. We talk to people all the time who can&rsquo;t figure out how to get from Point A to Point B on their browser. When you open Internet Explorer you may see up to three different fields where you can type things. You know you want to go to a specific website, but where do you type it in?</p>
+<p>What you want to do is type the URL into the address bar. URL stands for &ldquo;Uniform Resource Locator,&rdquo; which is just the formal name for a web address. For example, www.google.com and deemable.com are both URLs. Either way, they usually look like &ldquo;www.nameofthewebsite.com&rdquo;.</p>
+<p>Now here&rsquo;s a secret: 99% of the time you can leave off the &ldquo;www&rdquo;. You don&rsquo;t have to type &ldquo;www.google.com&rdquo;, you can just type &ldquo;google.com&rdquo; and your browser will figure out the rest.</p>
+<p>The place you want to type it is not the search bar of the website that is your home page. That will search for any web page that references the name of the website. Granted, the web page itself will probably be the first search result, but you&rsquo;re adding an extra step. You want to type the web address, or URL, into the address bar, which is above the web page. You can identify it because it will have the address of the current page, usually prefixed by &ldquo;http://&rdquo;/ or &ldquo;https://&rdquo;/ (incidentally, you don&rsquo;t have to type &ldquo;http://&rdquo;/ either, because your browser will fill that in as well).</p>
+<div id="attachment_7549" style="width: 537px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2013/07/bing.png" class="gallery_colorbox"><img class=" wp-image-7549 " alt="Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you're new to surfing the Internet." src="//media/2013/07/bing-1024x544.png"  width="527" height="280"></a><p class="wp-caption-text">Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you&rsquo;re new to surfing the Internet.</p></div>
+<p>There are a couple of things to be aware of. First, you may or may not have another field at the top of your browser that is for searching. Typing the web address into <em>that</em> field is just the same as if you went to Yahoo or Google or Bing and searched for the web address there. It&rsquo;s for searching, not for navigating directly to a website.</p>
+<p>The other thing to be aware of is that in newer browsers the address field can also do web searches. So if you type &ldquo;facebook.com&rdquo; you will be taken directly to Facebook, but if you type in &ldquo;books of faces&rdquo; it will search for &ldquo;books of faces&rdquo; on your preferred search engine.</p>
+<p>So, Kevin, try typing the URL for your email site into the address bar and hitting enter. Once you&rsquo;re there, don&rsquo;t forget that you can bookmark websites that you use frequently. Look for a star icon up at the top of your browser and click that. That will add your email to a list of favorite websites. Once you do that, you won&rsquo;t have to type anything &ndash; your email will always be just a click away.</p>
+<p><a href="http://deemable.com/media/2013/07/BrowserLogos.png" class="gallery_colorbox"><img src="//media/2013/07/BrowserLogos-300x153.png"  alt="Web Browser Logos" width="300" height="153" class="alignnone size-medium wp-image-7557"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/kevin-asks-how-do-i-use-my-web-browser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

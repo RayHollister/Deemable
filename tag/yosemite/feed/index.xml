@@ -1,0 +1,251 @@
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-seo/wp-seo.php on line 47
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-seo/vendor/autoload_52.php on line 5
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-seo/vendor/composer/autoload_real_52.php on line 30
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-for-wordpress/vendor/composer/ClassLoader52.php on line 186
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-settings.php on line 215
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-settings.php on line 221
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes/functions.php on line 3381
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/external/wpmu-lib/core.php on line 45
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/popover.php on line 81
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/popover.php on line 87
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-public.php on line 3
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 3
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 4
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 5
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 11
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/config.php on line 3
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/wptouch.php on line 33
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/wptouch.php on line 36
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/wptouch.php on line 39
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/wptouch.php on line 45
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/class-wptouch-pro.php on line 151
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/class-wptouch-pro.php on line 813
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/menu.php on line 5
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/class-wptouch-pro.php on line 2622
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/themes/foundation/root-functions.php on line 656
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wptouch/core/globals.php on line 26
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-seo/wp-seo-main.php on line 229
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-for-wordpress/vendor/composer/ClassLoader52.php on line 186
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-seo/wp-seo-main.php on line 251
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-for-wordpress/vendor/composer/ClassLoader52.php on line 186
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/publicize.php on line 30
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/publicize.php on line 33
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/publicize/publicize-jetpack.php on line 39
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/after-the-deadline.php on line 64
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/after-the-deadline.php on line 65
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/after-the-deadline.php on line 66
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/widgets.php on line 31
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/custom-css/custom-css.php on line 1830
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/sharedaddy.php on line 18
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/sharedaddy/sharedaddy.php on line 11
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/minileven.php on line 17
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/comments.php on line 14
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/shortcodes.php on line 66
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes/media.php on line 2265
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/shortcodes.php on line 66
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/shortcodes/videopress.php on line 3
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/shortcodes.php on line 66
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/widget-visibility.php on line 14
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery.php on line 5
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery-rectangular.php on line 2
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery.php on line 10
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1635
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/custom-content-types.php on line 15
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/protect.php on line 66
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1654
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/module-extras.php on line 35
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-settings.php on line 315
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-settings.php on line 329
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/themes/magazine-basic/functions.php on line 15
+
+Warning: require(): Unable to allocate memory for pool. in /app/wp-content/themes/magazine-basic/functions.php on line 16
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/business-directory-plugin.php on line 881
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/core/widget-featured-listings.php on line 2
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/business-directory-plugin.php on line 882
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/business-directory-plugin.php on line 883
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/business-directory-plugin/business-directory-plugin.php on line 884
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/themes/magazine-basic/functions.php on line 265
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-dashboard-for-wp/gadwp.php on line 235
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-content/plugins/google-analytics-for-wordpress/vendor/composer/ClassLoader52.php on line 186
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/sharedaddy/sharing.php on line 10
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php on line 3
+
+Warning: include(): Unable to allocate memory for pool. in /app/wp-includes/script-loader.php on line 653
+
+Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 288
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes/template.php on line 555
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Yosemite</title>
+	<atom:link href="/tag/yosemite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ellen asks, &#8220;How do I download videos from my iPhone?&#8221;</title>
+		<link>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/</link>
+		<comments>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 05:38:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Image Capture]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows XP]]></category>
+		<category><![CDATA[Yosemite]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9741</guid>
+		<description><![CDATA[Ellen writes, How do I download videos from my iPhone to my PC? When I try to email them to myself it shrinks the video. I&#8217;ve been told to just connect my phone to my computer and download them that <a href="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-9741-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3</a></audio><p>Ellen writes, How do I download videos from my iPhone to my PC? When I try to email them to myself it shrinks the video. I&rsquo;ve been told to just connect my phone to my computer and download them that way, but how?</p>
+<p>Here&rsquo;s what you need to do Ellen. Fire up your computer, grab the charging cable for your iPhone and plug one end into your iPhone and the other end into your computer. Only one end will fit the iPhone, and the other end is the obvious end you&rsquo;ll plug into the PC.</p>
+<div id="attachment_9745" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/USBtoLightningAnd30-PinCable.jpg" class="gallery_colorbox"><img class="wp-image-9745 size-medium" src="//media/2015/02/USBtoLightningAnd30-PinCable-300x243.jpg"  alt="USB to Lightning Cable And USB to 30-Pin Cable" width="300" height="243"></a><p class="wp-caption-text">With this easy to follow guide, you too can plug your iPhone into your computer.</p></div>
+<p>&nbsp;</p>
+<p>If this is the first time you have plugged your iPhone into your computer, you&rsquo;ll&nbsp;see a pop up indicating that the software for the device is being installed.</p>
+<div id="attachment_9747" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot01.png" class="gallery_colorbox"><img class="size-medium wp-image-9747" src="//media/2015/02/Shot01-300x98.png"  alt="Without the device driver software, the two pieces of hardware cannot communicate." width="300" height="98"></a><p class="wp-caption-text">Without the device driver software, the two pieces of hardware cannot communicate.</p></div>
+<p>Right after you plug in your iPhone, (or after the driver software is done installing) you&rsquo;ll get a notification on your phone that asks if you should trust this computer. Tap <strong>Trust</strong>.</p>
+<div id="attachment_9746" style="width: 179px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/IMG_3576.png" class="gallery_colorbox"><img class="size-medium wp-image-9746" src="//media/2015/02/IMG_3576-169x300.png"  alt="Trust is an important part of any relationship, especially the one between a smartphone and a computer." width="169" height="300"></a><p class="wp-caption-text">Trust is an important part of any relationship, especially the one between a smartphone and a computer.</p></div>
+<p>You&nbsp;may see&nbsp;a similar window appear on your computer. Click <strong>Continue.</strong></p>
+<div id="attachment_9748" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot02.png" class="gallery_colorbox"><img class="size-medium wp-image-9748" src="//media/2015/02/Shot02-300x123.png"  alt="Trust is a two-way street." width="300" height="123"></a><p class="wp-caption-text">Trust is a two-way street.</p></div>
+<p>Then, if you&rsquo;re using a Windows PC, you should get a pop up window on the computer that basically is asking &ldquo;What do you want to do with this?&rdquo; It will literally say &ldquo;AutoPlay&rdquo; and give you options to choose from. Click&nbsp;&ldquo;<strong>Import Pictures and Videos.</strong>&rdquo;</p>
+<div id="attachment_9749" style="width: 305px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot03.png" class="gallery_colorbox"><img class="size-medium wp-image-9749" src="//media/2015/02/Shot03-295x300.png"  alt="So, uh, what do you wanna do with this here thing, eh?" width="295" height="300"></a><p class="wp-caption-text">So, uh, what do you wanna do with this here thing, eh?</p></div>
+<p>All of your pictures and videos will be selected. You can make changes to how and where they are imported by&nbsp;clicking Import Settings.</p>
+<div id="attachment_9750" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04.png" class="gallery_colorbox"><img class="size-medium wp-image-9750" src="//media/2015/02/Shot04-300x153.png"  alt="Import pictures and videos? That sounds exactly like what I wanted to do!" width="300" height="153"></a><p class="wp-caption-text">Import pictures and videos? That sounds exactly like what I wanted to do!</p></div>
+<p>On the Import Settings Menu, you can choose to send the images and videos to different folders, change the file name of the photos and videos, and other options. Click <strong>OK</strong> to keep your changes.</p>
+<div id="attachment_9751" style="width: 275px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04-1.png" class="gallery_colorbox"><img class="size-medium wp-image-9751" src="//media/2015/02/Shot04-1-265x300.png"  alt="Lots of choices. Where do you want what to go? Don't feel like making choices? Just click OK." width="265" height="300"></a><p class="wp-caption-text">Lots of choices. Where do you want what to go? Don&rsquo;t feel like making choices? Afraid of succumbing to analysis paralysis? Just click <strong>Cancel,</strong> and get out of there.</p></div>
+<p>Once you&rsquo;ve chosen which videos and pictures you want to import, then click&nbsp;<strong>Import</strong>. Your images and videos will begin to transfer to your computer. Depending on how many pictures you have, this may happen quickly, or it may take a while.</p>
+<div id="attachment_9752" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot04-2.png" class="gallery_colorbox"><img class="size-medium wp-image-9752" src="//media/2015/02/Shot04-2-300x157.png"  alt="You'll watch your life flash before your eyes ? if you took a picture of every moment of your life." width="300" height="157"></a><p class="wp-caption-text">You&rsquo;ll watch your life flash before your eyes ? if you took a picture of every moment of your life.</p></div>
+<p>You&rsquo;ll see a checkbox that says, &ldquo;erase after importing.&rdquo;&nbsp;We recommend not checking it.&nbsp;If there is a problem transferring the video, then the video is gone. It&rsquo;s best to wait&nbsp;until you you?ve confirmed that the video is transferred, and then delete it from your iPhone manually.</p>
+<div id="attachment_9754" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Shot05.png" class="gallery_colorbox"><img class="size-medium wp-image-9754" src="//media/2015/02/Shot05-300x199.png"  alt="Finally! The pictures and videos are on the computer!" width="300" height="199"></a><p class="wp-caption-text">Finally! The pictures and videos are on the computer!</p></div>
+<p>Another window will open up showing all of your pictures and videos that you just imported.</p>
+<p>If for some reason you don&rsquo;t get a pop-up, click the <strong>Start button</strong> and select &ldquo;<strong>Computer</strong>.&rdquo;</p>
+<p><a href="http://deemable.com/media/2015/02/Shot06.png" class="gallery_colorbox"><img class="aligncenter size-medium wp-image-9755" src="//media/2015/02/Shot06-287x300.png"  alt="Click the Start button and then click Computer" width="287" height="300"></a></p>
+<p>Then, you&rsquo;ll right-click the iPhone icon, and select &ldquo;<strong>Import Pictures and Videos</strong>.&rdquo; From there, you&rsquo;ll do everything else the same as we said before.</p>
+<p><a href="http://deemable.com/media/2015/02/Shot07.png" class="gallery_colorbox"><img class="aligncenter size-medium wp-image-9756" src="//media/2015/02/Shot07-300x248.png"  alt="Right-click to get the Import Pictures and Videos menu" width="300" height="248"></a></p>
+<p>If you are using a Mac it starts out the same: plug the iPhone in and tell it to trust the computer.</p>
+<p>Then, you&rsquo;ll need to open the application Image Capture or <span data-scaytid="2" data-scayt_word="iPhoto">iPhoto</span>. We&nbsp;prefer Image Capture because you can choose where the video is stored on your hard drive.</p>
+<div id="attachment_9757" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.39.46-PM.png" class="gallery_colorbox"><img class="wp-image-9757 size-medium" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.39.46-PM-300x183.png"  alt="Just open the Launchpad, and find Image Capture. (Start typing in Image Capture. It will be the only thing that comes up.) You could use iPhoto, but trust me, you don't want to." width="300" height="183"></a><p class="wp-caption-text">Just open the Launchpad, and find Image Capture. (Start typing in Image Capture. It will be the only thing that comes up.) You could use iPhoto, but trust me, you don&rsquo;t want to.</p></div>
+<p>Once Image Capture is open, at the bottom of the window, you can select which folder to import them to.</p>
+<p><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.41.19-PM.png" class="gallery_colorbox"><img class="aligncenter wp-image-9758 size-medium" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.41.19-PM-300x189.png"  alt="Image Capture" width="300" height="189"></a></p>
+<p>&nbsp;</p>
+<p>You can choose the obvious places like Pictures or Documents, or you can decide to save them where ever you want to.</p>
+<div id="attachment_9759" style="width: 310px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2015/02/Screen-Shot-2015-02-25-at-8.41.42-PM.png" class="gallery_colorbox"><img class="size-medium wp-image-9759" src="//media/2015/02/Screen-Shot-2015-02-25-at-8.41.42-PM-300x200.png"  alt="You could even choose to import your pictures and videos to iPhoto, but no one really knows why you would want to do that." width="300" height="200"></a><p class="wp-caption-text">You could even choose to import your pictures and videos to iPhoto, but no one really knows why you would want to do that.</p></div>
+<p>Then, you can click the &ldquo;Import All&rdquo; button or select the individual video and click &ldquo;Import.&rdquo;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Ellen asks, "How do I download videos from my iPhone?"' data-link="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Ellen asks, "How do I download videos from my iPhone?"' data-link="/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/ellen-asks-how-do-i-download-videos-from-my-iphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/20150226_adt_iphone_videos.mp3" length="3361886" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

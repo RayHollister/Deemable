@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Walt Disney World</title>
+	<atom:link href="/tag/walt-disney-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 15 &#8211; Apple Maps lost Epcot!</title>
+		<link>/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/</link>
+		<comments>/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/#comments</comments>
+		<pubDate>Mon, 01 Oct 2012 18:55:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple Maps]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[Bing]]></category>
+		<category><![CDATA[Epcot]]></category>
+		<category><![CDATA[iOS 6]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Printer]]></category>
+		<category><![CDATA[puppy linux]]></category>
+		<category><![CDATA[Splash Mountain]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[upgrading]]></category>
+		<category><![CDATA[Walt Disney World]]></category>
+		<category><![CDATA[Xubuntu]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5711</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/10/RayOnSplashMountain-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="See that guy in the back seat looking at his iPhone as he plummets down Splash Mountain at Disney World? Yeah, that&#039;s Ray. No, we have no idea what they guys in front of him were doing." style="float:left; margin:0 15px 15px 0;" />Last week, after Ray started feeling better, he went to Disney World! He got lost on his way to Disney&#8217;s Hollywood Studios, and found out that Apple Maps lost Epcot!&#160;This week, Ray and Tom were joined in the studio by <a href="/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/10/RayOnSplashMountain-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="See that guy in the back seat looking at his iPhone as he plummets down Splash Mountain at Disney World? Yeah, that&#039;s Ray. No, we have no idea what they guys in front of him were doing." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_5713" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2012/10/RayOnSplashMountain.jpg" class="gallery_colorbox"><img class="size-medium wp-image-5713" title="Ray Hollister on Splash Mountain." src="//media/2012/10/RayOnSplashMountain-300x300.jpg"  alt="" width="300" height="300"></a><p class="wp-caption-text">See that guy in the back seat looking at his iPhone as he plummets down Splash Mountain at Disney World? Yeah, that&rsquo;s Ray. Yes, he&rsquo;s wearing a Wookie t-shirt. No, we have no idea what they guys in front of him were doing.</p></div>
+<p>Last week, after Ray started feeling better, he went to Disney World! He got lost on his way to Disney&rsquo;s Hollywood Studios, and found out that Apple Maps lost Epcot!&nbsp;This week, Ray and Tom were joined in the studio by <a href="http://www.aedelson.com/" target="_blank">Aaron Edelson</a>, a green tech consultant with <a title="a.edelson, LLN - Simple. Green. Technology Consulting" href="http://www.aedelson.com/" target="_blank">a.edelson, LLC</a>.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5711-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-10-01.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-10-01.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-10-01.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-10-01.mp3">Deemable Tech &ndash; Episode 15 &ndash; Apple Maps lost Epcot!</a></p>
+<h3><strong>Today&rsquo;s Questions:</strong></h3>
+<ul><li>Should I get the iPhone 4 or the iPhone 4S? Is the 4S worth the extra $99?</li>
+<li>Can I print something from my phone?</li>
+<li>Can I upgrade my computer, or is it even worth it?</li>
+<li>What is open source software?</li>
+<li>Is it safe to use free Wi-Fi, or will my phone get hacked?</li>
+</ul><p>Need tech help?&nbsp;Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email and questions@deemable.com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h3>Debunkable</h3>
+<ul><li>Are redheads going extinct?</li>
+</ul><div>Had a friend forward you something from the Internet that seemed to good to be true? Gotten a crazy chain email from Aunt Thelma? Send it our way and we&rsquo;ll take a look at it. Our email address is <a href="mailto:debunkable@deemable.com">debunkable@deemable.com</a>.</div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://netputing.com/airprintactivator/airprint-activator-v2-0/">AirPrint Activator</a></li>
+<li><a href="http://www.google.com/cloudprint/learn/">Google Cloud Print</a></li>
+<li><a href="http://crucial.com/systemscanner">Crucial System Scanner</a></li>
+<li><a href="http://xubuntu.org/">Xubuntu</a></li>
+<li><a href="http://puppylinux.org/">Puppy Linux</a></li>
+<li><a title="Installing Ubuntu on a Windows PC" href="http://www.ubuntu.com/download/help/install-ubuntu-with-windows" target="_blank">Ubuntu</a></li>
+<li><a href="http://www.printershare.com/mobile.sdf" target="_blank">PrinterShare</a></li>
+</ul><p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 15 - Apple Maps lost Epcot!" data-link="/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 15 - Apple Maps lost Epcot!" data-link="/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/10/deemable-tech-episode-15-apple-maps-lost-epcot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-10-01.mp3" length="50400862" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

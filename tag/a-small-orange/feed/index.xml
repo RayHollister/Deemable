@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; A Small Orange</title>
+	<atom:link href="/tag/a-small-orange/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Deemable Tech is now on A Small Orange!</title>
+		<link>/2012/11/deemable-tech-is-now-on-a-small-orange/</link>
+		<comments>/2012/11/deemable-tech-is-now-on-a-small-orange/#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 04:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[A Small Orange]]></category>
+		<category><![CDATA[cat videos]]></category>
+		<category><![CDATA[Web hosting]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5976</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/catvideos-150x150.png" class="attachment-thumbnail wp-post-image" alt="Cat Videos!" style="float:left; margin:0 15px 15px 0;" />If you tried to get to our website in the last hour, you know that we were in the middle of moving our website over to our new server at A Small Orange. We are now moved over. Our website <a href="/2012/11/deemable-tech-is-now-on-a-small-orange/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/deemable-tech-is-now-on-a-small-orange/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/catvideos-150x150.png" class="attachment-thumbnail wp-post-image" alt="Cat Videos!" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>If you tried to get to our website in the last hour, you know that we were in the middle of moving our website over to our new server at <a href="http://asmallorange.com/">A Small Orange</a>. We are now moved over. Our website is so much faster! Thanks to A Small Orange for their support of Deemable Tech.</p>
+<p>However, If you didn&rsquo;t try to go to our website in the last hour, you missed out on this:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/wf_IIbT8HGk?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech is now on A Small Orange!" data-link="/2012/11/deemable-tech-is-now-on-a-small-orange/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech is now on A Small Orange!" data-link="/2012/11/deemable-tech-is-now-on-a-small-orange/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/deemable-tech-is-now-on-a-small-orange/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

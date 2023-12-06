@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; radio segments</title>
+	<atom:link href="/tag/radio-segments-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Browser Extensions</title>
+		<link>/2016/05/browser-extensions/</link>
+		<comments>/2016/05/browser-extensions/#comments</comments>
+		<pubDate>Thu, 19 May 2016 16:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[add-ons]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10568</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" />Steve writes, &#8220;When I&#8217;m on the internet, I constantly see things pop up on the screen that say &#8216;Check for malware now&#8217; or &#8216;You&#8217;re missing drivers, click to update.&#8217; Should I click on it? The way things are nowadays, I&#8217;m <a href="/2016/05/browser-extensions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/browser-extensions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong><a href="http://deemable.com/media/2016/05/browser_extensions.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10569" src="//media/2016/05/browser_extensions-300x228.jpg"  alt="browser_extensions" width="300" height="228"></a>Steve writes, &ldquo;When I&rsquo;m on the internet, I constantly see things pop up on the screen that say &lsquo;Check for malware now&rsquo; or &lsquo;You&rsquo;re missing drivers, click to update.&rsquo; Should I click on it? The way things are nowadays, I&rsquo;m afraid to try!&rdquo;&nbsp;</strong><span id="more-10568"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10568-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3</a></audio><p>Don&rsquo;t click on it, Steve! As our friend Admiral Ackbar would say:</p>
+<p><img class="aligncenter" src="http://i.giphy.com/3ornka9rAaKRA2Rkac.gif" alt="It's a trap!"></p>
+<p>What you&rsquo;re seeing is a pop-up ad designed to trick you into visiting a spam website or downloading harmful malware.</p>
+<p>Internet pop-ups will disguise themselves as all kinds of stuff to get you to click on them. Spammers have gotten pretty good at making pop-ups look like legitimate error messages, so sometimes it can be hard to tell it&rsquo;s a pop-up until it?s too late. Our advice is to install a pop-up blocker extension for your browser.</p>
+<p>Extensions (also known as add-ons) are little programs you can install on some web browsers which give them extra features. There are a lot of extensions for the Mozilla Firefox and Google Chrome browsers, including effective pop-up blockers.</p>
+<p><a href="https://adblockplus.org/" target="_blank">Adblock Plus</a> is one of the most popular pop-up blockers, and is available for both Firefox and Chrome. It not only kills 98 percent of pop-up ads, but also removes most of the in-page ads from many websites. Try it out, and hopefully you&rsquo;ll never see another one of those pesky fake error messages again.</p>
+<p>But we wouldn&rsquo;t stop there with browser extensions. You can trick out your browser in a number of cool ways. Some of our favorites include:</p>
+<ul><li>Lazarus: Form Recovery &ndash; Remembers what you were typing in an online form, in case something happens while you&rsquo;re filling one out and you lose everything. (<a href="https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno?hl=en" target="_blank">Lazarus for Chome</a>) (<a href="https://addons.mozilla.org/en-uS/firefox/addon/lazarus-form-recovery/" target="_blank">Lazarus for Firefox</a>)</li>
+</ul><ul><li><span style="line-height: 1.5;">Panic Button &ndash; Immediately hides all of your open browser tabs with a single click. We&rsquo;re not saying that it comes in really handy for when your boss walks by, but we&rsquo;d have to imagine it would. (<a href="https://chrome.google.com/webstore/detail/panicbutton/faminaibgiklngmfpfbhmokfmnglamcm?hl=en" target="_blank">Panic Button for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/panic-button/" target="_blank">Panic Button for Firefox</a>)</span></li>
+</ul><ul><li>LastPass<span style="line-height: 1.5;"> &ndash; One of our favorite password managers. Stores all of your passwords, generates complex new ones, and automatically fills in login fields for you. (<a href="https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US" target="_blank">LastPass for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/" target="_blank">LastPass for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Honey &ndash; Automatically finds coupon codes and sales for many popular online stores. (<a href="https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-US" target="_blank">Honey for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/honey/" target="_blank">Honey for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
+</ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
+<p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3" length="3484145" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: How Do I Block Spam Text Messages?</title>
+		<link>/2016/05/ask-deemable-t-text-messages/</link>
+		<comments>/2016/05/ask-deemable-t-text-messages/#comments</comments>
+		<pubDate>Thu, 05 May 2016 22:12:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[Text Message]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10556</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" />Norma writes, &#8220;How do you stop receiving an automated text message? When I got my new phone I started receiving messages from a store telling me about their specials. I&#8217;ve tried visiting the website and &#8216;unsubscribing&#8217; but that didn&#8217;t work.&#8221; <a href="/2016/05/ask-deemable-t-text-messages/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/ask-deemable-t-text-messages/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9070" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/blocked_call.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9070" src="//media/2014/07/blocked_call-300x225.jpg"  alt="Image Credit: Tap Call" width="300" height="225"></a><p class="wp-caption-text">Image Credit: Tap Call</p></div>
+<p><strong>Norma writes, &ldquo;How do you stop receiving an automated text message? When I got my new phone I started receiving messages from a store telling me about their specials. I&rsquo;ve tried visiting the website and &lsquo;unsubscribing&rsquo; but that didn&rsquo;t work.&rdquo;</strong></p>
+<audio class="wp-audio-shortcode" id="audio-10556-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3</a></audio><p>We feel you, Norma. Like junk mail and spam email, unsolicited text messages are the bane of our existence. Luckily there are ways to stop them.</p>
+<p>If you&rsquo;re receiving texts from a reputable company, there should be a way to unsubscribe from them through a text. Scroll back through the text messages from that number, and you&rsquo;ll probably find a message telling you to text the word &ldquo;STOP,&rdquo; &ldquo;QUIT,&rdquo; &ldquo;END,&rdquo; or &ldquo;UNSUBSCRIBE&rdquo; to stop receiving texts from them. Different companies use different keywords, but most of the time if you text the word &ldquo;HELP&rdquo; to them, they will tell you what other keywords work on their system.</p>
+<p>If you&rsquo;re receiving genuine spam texts from a less than reputable source, the best thing you can do is to not respond. This just lets the scammers know that your number is a good one to keep spamming. Your only choice is to block the number sending you those texts.</p>
+<p><strong>How to block numbers on iOS</strong></p>
+<ul><li>Open the offending text message</li>
+<li>Tap Details</li>
+<li>Tap the &ldquo;i&rdquo; button in the top right</li>
+<li>Tap &ldquo;Block this Caller&rdquo;</li>
+</ul><p><strong>How to block numbers on Android</strong></p>
+<ul><li>Find the text message you want to block in the Message app</li>
+<li>Press and hold it until a pop up appears</li>
+<li>Tap the &ldquo;Block it as spam&rdquo; option</li>
+</ul><p>If you&rsquo;re using a regular cell phone, you&rsquo;ll have to block the texts through your carrier.</p>
+<p><strong>AT&amp;T</strong></p>
+<ul><li>To report spam text messages on AT&amp;T, forward the offending text message to 7726 (SPAM)</li>
+<li>You can also call their customer service at 1-800-331-0500 to report spam</li>
+</ul><p><strong>Sprint</strong></p>
+<ul><li>Follow <a href="http://support.sprint.com/support/article/Block-restrict-or-allow-text-services-via-My-Sprint/case-fk158645-20100930-171711%22">these directions on Sprint&rsquo;s site</a> to block numbers</li>
+<li>Or call customer service at 1-888-211-4727</li>
+</ul><p><strong>Verizon</strong></p>
+<ul><li>Call 1-800-922-0204 to report the spam to customer service</li>
+</ul><p><strong>T-Mobile</strong></p>
+<ul><li>Call customer service at 1-877-453-1304</li>
+<li>Or use their <a href="https://support.t-mobile.com/community/contact-us">live chat</a> to block the number</li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Do I Block Spam Text Messages?" data-link="/2016/05/ask-deemable-t-text-messages/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Do I Block Spam Text Messages?" data-link="/2016/05/ask-deemable-t-text-messages/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/ask-deemable-t-text-messages/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3" length="3623689" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: Tech Support Scammers</title>
+		<link>/2016/02/ask-deemable-tpport-scammers/</link>
+		<comments>/2016/02/ask-deemable-tpport-scammers/#comments</comments>
+		<pubDate>Tue, 16 Feb 2016 20:56:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10514</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" />Today we have not one but two related questions from different listeners. Lenny writes, &#8220;Last week I received a call from a guy who said he was from Microsoft. He said they had detected that my computer was having problems. <a href="/2016/02/ask-deemable-tpport-scammers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/02/ask-deemable-tpport-scammers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2014/10/scam.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9348 alignleft" src="//media/2014/10/scam-300x225.jpg"  alt="Scam Computer Keys Showing Swindles And Fraud" width="300" height="225"></a>Today we have not one but two related questions from different listeners.</p>
+<p>Lenny writes, <em>&ldquo;Last week I received a call from a guy who said he was from Microsoft. He said they had detected that my computer was having problems. To prove it, he told me how to open my Windows log file, and when I did it was full of errors. So I paid him to fix all the problems and scan for viruses. Now I&rsquo;m wondering if that was really a good idea.&rdquo;</em></p>
+<p>Sandra sends us a similar story. She says: <em>&ldquo;I was checking my email and all of a sudden windows started giving me an error message which said it had a virus. It included a phone number. I called the number and a man connected to my computer and fixed it. But now my computer runs slowly and this guy charged me a lot of money. Have I been hacked?&rdquo;</em></p>
+<audio class="wp-audio-shortcode" id="audio-10514-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3">http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3</a></audio><p>Neither Sandra nor Lenny were hacked. They were, unfortunately, the victims of one of the most popular scams on the internet these days.</p>
+<p>Here&rsquo;s how it works: crafty scammers convince people that their computer has a serious problem, and the only way to fix it is to pay the scammers money. In actuality, there is no such problem, and these people are paying for nothing.</p>
+<p>This is such a major issue that Microsoft testified about it in front of Congress in the fall of 2015. These scammers love to impersonate major, legitimate companies like Microsoft, Apple, and HP, which can create problems for those organizations.</p>
+<p>So, what can you do to make sure you don&rsquo;t fall for this scam? Remember one simple rule: tech support will never call you out of the blue. You call them first.</p>
+<p>And just to be clear, Windows error messages do not include a number for Microsoft tech support. If you see an error message that says you need to call Microsoft or any other company immediately, there is a good chance that you are seeing a fake error message. Maybe it&rsquo;s just a clever web page, but do not call the phone number.</p>
+<p>If you do talk to these scammers, they can be very convincing. They may do things like you show a Windows log file full of errors to make you think there is something wrong with your PC. The thing is, though, your computer&rsquo;s logs are always full of errors, but they are little ones that are perfectly normal.</p>
+<p>Unfortunately, both Sandra and Lenny let the scammers gain access to their computers. All of these scammers, once they have you on the phone, will ask you to run or download programs that let them look at your computer remotely. Do not do this! You should never let someone who you don&rsquo;t completely trust have remote access to your computer. They can&rsquo;t get into your computer unless you let them.</p>
+<p>If you&rsquo;re not sure if someone is from tech support, hang up on them, find the manual for your computer, and call the number in there. That&rsquo;s the real number, the one that you can trust.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Tech Support Scammers" data-link="/2016/02/ask-deemable-tpport-scammers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Tech Support Scammers" data-link="/2016/02/ask-deemable-tpport-scammers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/02/ask-deemable-tpport-scammers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/02/adt20160211.mp3" length="3207596" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: What Can I Do With An Old Hard Drive?</title>
+		<link>/2015/12/what-can-i-do-with-old-hard-drive/</link>
+		<comments>/2015/12/what-can-i-do-with-old-hard-drive/#comments</comments>
+		<pubDate>Thu, 17 Dec 2015 21:20:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[external hard drive]]></category>
+		<category><![CDATA[hard drive]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10565</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/external_hard_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Misbehave / Flickr" style="float:left; margin:0 15px 15px 0;" />Thurman writes, &#8220;I have a hard drive that was removed from my old computer before I got rid of it. It has some pictures on it that I don&#8217;t have stored anywhere else and some of my old tax returns. <a href="/2015/12/what-can-i-do-with-old-hard-drive/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/12/what-can-i-do-with-old-hard-drive/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/external_hard_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Misbehave / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_10566" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2016/05/external_hard_drive.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10566" src="//media/2016/05/external_hard_drive-300x171.jpg"  alt="Credit: Misbehave / Flickr" width="300" height="171"></a><p class="wp-caption-text">Credit: Misbehave / Flickr</p></div>
+<p><strong>Thurman writes, &ldquo;I have a hard drive that was removed from my old computer before I got rid of it. It has some pictures on it that I don&rsquo;t have stored anywhere else and some of my old tax returns. Is there anything I can do with it, or is it just a hunk of junk? And, should I be concerned about other people getting into it if I throw it out?&rdquo;&nbsp;</strong></p>
+<audio class="wp-audio-shortcode" id="audio-10565-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/ad20151217.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/ad20151217.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/ad20151217.mp3</a></audio><p>You can definitely make use of that old hard drive, and you can get those pictures and tax returns off of it too!</p>
+<p>No matter how old your hard drive is, it will still probably work with the latest and greatest computers. If you have a new desktop computer, it might even be as simple as opening up your computer case and just plugging that hard drive in. This can be hit-or-miss since a lot of new desktop computers are so small that there&rsquo;s no room for a second hard drive.</p>
+<p>However, almost all computers have a USB port. All you need is a special adapter to change your internal hard drive into an external one, and then you can plug that hard drive into the computer&rsquo;s USB port.</p>
+<p>External hard drive adapters are available almost anywhere you can purchase computers, and vary in price from $5 to $30. If you&rsquo;re only going to use it once, or you don?t care if it looks fancy, the lower priced ones will work just fine.</p>
+<p>Now, Thurman, you asked if you should be concerned about your data if you just throw that hard drive away. The answer is a resounding YES. You should definitely be concerned about your privacy, as it&rsquo;s just as easy for someone else to put that hard drive into their computer as it is for you. Even if you delete your sensitive files, they pretty easy to retrieve.</p>
+<p>Your computer doesn&rsquo;t really erase files when you delete them, it just pretends that the space is no longer written on. To make sure that your hard drive is secure and completely erased, the U.S Department of Defense recommends that you write over every sector with new data at least three times (or even up to 35 times, if you really want to be safe). Each single bit of the hard drive needs to be written over with all ones and zeroes.</p>
+<p>We know that sounds daunting, but there are a few easy ways to accomplish this. If you have a PC, you can use a program like <a href="http://eraser.heidi.ie/" target="_blank">Eraser</a> or the &ldquo;Drive Wiper&rdquo; feature in <a href="https://www.piriform.com/ccleaner/download" target="_blank">C Cleaner</a>. If you&rsquo;re a Mac person, try using a program called <a href="http://www.edenwaith.com/products/permanent%20eraser/" target="_blank">Permanent Eraser</a>.</p>
+<p>Just plug in your hard drive to your new computer using the USB adapter, run one of the programs to wipe it, and you&rsquo;re good to go. Just make sure you wipe the right hard drive.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: What Can I Do With An Old Hard Drive?" data-link="/2015/12/what-can-i-do-with-old-hard-drive/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: What Can I Do With An Old Hard Drive?" data-link="/2015/12/what-can-i-do-with-old-hard-drive/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/what-can-i-do-with-old-hard-drive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/ad20151217.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: The Tech To Help You Get Through The Storm</title>
+		<link>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/</link>
+		<comments>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/#comments</comments>
+		<pubDate>Thu, 10 Sep 2015 12:28:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[hurricane preparedness]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10274</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/09/RedCrossEtonFRX3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" style="float:left; margin:0 15px 15px 0;" />As you prepare for hurricane season, don&#8217;t forget about your technology. Make sure to download apps now that can make it easier to get through the storm, and make sure to have what you need to keep your devices running <a href="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/09/RedCrossEtonFRX3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>As you prepare for hurricane season, don&rsquo;t forget about your technology. Make sure to download apps now that can make it easier to get through the storm, and make sure to have what you need to keep your devices running during and after the storm.</p>
+<p><span id="more-10274"></span></p>
+<audio class="wp-audio-shortcode" id="audio-10274-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3?_=5"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3">http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3</a></audio><div id="attachment_10275" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/09/RedCrossEtonFRX3.jpg" class="gallery_colorbox"><img class="wp-image-10275 size-medium" src="//media/2015/09/RedCrossEtonFRX3-300x169.jpg"  alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" width="300" height="169"></a><p class="wp-caption-text">The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton</p></div>
+<p><strong>Apps</strong></p>
+<p>There are countless weather apps on the Apple App Store and the Google Play Store. &nbsp;<a href="https://mobile.yahoo.com/weather/" data-cke-saved-href="https://mobile.yahoo.com/weather/">Yahoo Weather</a>, <a href="http://downloads.accuweather.com/" data-cke-saved-href="http://downloads.accuweather.com/"><span data-scaytid="1" data-scayt_word="Accuweather">Accuweather</span></a>, <a href="http://www.weather.com/apps" data-cke-saved-href="http://www.weather.com/apps">The Weather Channel</a>, <a href="http://getweatherbug.com/" data-cke-saved-href="http://getweatherbug.com/"><span data-scaytid="2" data-scayt_word="WeatherBug">WeatherBug</span></a> and <a href="http://www.wunderground.com/weather-app" data-cke-saved-href="http://www.wunderground.com/weather-app">Weather Underground</a> all do a fine job of providing up-to-date weather alerts and information.</p>
+<p><span data-scaytid="3" data-scayt_word="News4Jax?s">News4Jax&rsquo;s</span> <a href="http://www.news4jax.com/22092112" data-cke-saved-href="http://www.news4jax.com/22092112"><span data-scaytid="4" data-scayt_word="WJXT">WJXT</span>: The Weather Authority</a> app provides weather alerts and forecasts specifically for Northeast Florida. The <a href="http://www.coj.net/mobile-apps/mobile-apps-list/jaxready.aspx" data-cke-saved-href="http://www.coj.net/mobile-apps/mobile-apps-list/jaxready.aspx"><span data-scaytid="5" data-scayt_word="JaxReady">JaxReady</span> app</a> provides evacuation information for Jacksonville residents. The Florida Public Radio Emergency Network&rsquo;s new app,&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/florida-storms/id1011397030?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/florida-storms/id1011397030?mt=8" target="_blank" rel="external nofollow">Florida Storms</a>, provides weather and storm tracking and forecasting information, preparedness checklists, evacuation routes and a live audio stream from 89.9 FM or your local Florida public radio station.</p>
+<p><a href="http://www.redcross.org/mobile-apps/hurricane-app" data-cke-saved-href="http://www.redcross.org/mobile-apps/hurricane-app">The Red Cross Hurricane App</a> helps you plan before the storm, gives updates during the storm and provides information on how to recover after the storm has passed. <a href="http://www.redcross.org/mobile-apps/first-aid-app" data-cke-saved-href="http://www.redcross.org/mobile-apps/first-aid-app">The Red Cross First Aid App</a> has information and videos to help you handle common first aid emergencies that might arise during a disaster.</p>
+<p>If you&rsquo;re stuck in a precarious position, you may need to get information out fast to someone who can help. <a href="http://www.redpanicbutton.com/" data-cke-saved-href="http://www.redpanicbutton.com/">Red Panic Button</a> is an app that can send out an urgent text message, tweet, Facebook message and email with a link to your location on Google Maps.</p>
+<p><a href="http://www.fema.gov/mobile-app" data-cke-saved-href="http://www.fema.gov/mobile-app">FEMA&rsquo;s mobile app</a> can help you find shelters and disaster recovery centers. It also provides tips to survive a disaster and can be used to apply for aid after the storm.</p>
+<p><strong>External Batteries</strong></p>
+<p>An external battery with a USB port will keep your devices working for a while until the power comes back on.</p>
+<p>When shopping for a USB battery backup, look for the mAh, or milliAmpere-hour, rating. The mAh is a measurement of how much energy the battery can store. The more mAh, the better. Choose a battery backup that has more mAh than the device that needs to be charged.</p>
+<p>The iPhone 6 has a 1,810 mAh battery and the iPad&rsquo;s battery has 8,827 mAh. A quick search on the web will usually tell you how much mAh your device&rsquo;s battery has in it. For a list of recommendations, Lifehacker has put together a list of <a href="http://lifehacker.com/five-best-external-battery-packs-509802431" data-cke-saved-href="http://lifehacker.com/five-best-external-battery-packs-509802431">five of the best battery packs</a>.</p>
+<p><strong>Battery Chargers</strong></p>
+<p>There are a few options that can keep those external batteries and devices charged if the power is out for more than a few hours. Hand crank chargers are devices that turn your arm energy into battery power. There are also <a href="https://www.k-tor.com/pedal-powered-generator/" data-cke-saved-href="https://www.k-tor.com/pedal-powered-generator/">pedal-powered generators</a> that use your feet to make energy, <a href="http://www.amazon.com/Best-Sellers-Electronics-Cell-Phone-Solar-Chargers/zgbs/electronics/2407762011" data-cke-saved-href="http://www.amazon.com/Best-Sellers-Electronics-Cell-Phone-Solar-Chargers/zgbs/electronics/2407762011">solar chargers</a> that use energy from the sun to charge your phone, <a href="http://www.macworld.com/article/2086548/review-seven-off-the-grid-chargers-for-your-portable-devices.html" data-cke-saved-href="http://www.macworld.com/article/2086548/review-seven-off-the-grid-chargers-for-your-portable-devices.html">fuel cells that turn water into electricity</a> and <a href="http://powerpractical.com/products/powerpot5-thermoelectric-generator" data-cke-saved-href="http://powerpractical.com/products/powerpot5-thermoelectric-generator">heat-powered generators</a> that use the thermal energy from cooking to charge a battery.</p>
+<p><strong>Radios, Flashlights</strong></p>
+<p>Of course, if the Internet and cell phone service goes out your apps won&rsquo;t much provide information. In case that happens, make sure you have a working, battery-powered radio. Tune your radio to WJCT 89.9 FM, the official emergency weather station for Northeast Florida and extreme Southeast Georgia.</p>
+<p>Also, make sure to have battery-powered flashlights. Newer LED flashlights provide more light and last much longer than the older incandescent flashlights.</p>
+<p><strong>All-In-One</strong></p>
+<p>The ideal solution would be one device that had it all: a flashlight, radio, external battery and a way to charge the battery or an electronic device if the power goes out. Fortunately, Eton and the Red Cross have made that device. <a href="http://www.redcrossstore.org/item/FRX3" data-cke-saved-href="http://www.redcrossstore.org/item/FRX3">The Red Cross FRX3 Eton Emergency Radio</a> contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Eton has <a href="http://www.etoncorp.com/en/products?f%5B0%5D=field_product_category%3A18" data-cke-saved-href="http://www.etoncorp.com/en/products?f%5B0%5D=field_product_category%3A18">other survival devices</a> of greater and lesser complexity as well.</p>
+<p><em>Note: This article originally appeared on <a href="http://news.wjct.org/post/tech-help-you-get-through-storm" target="_blank">WJCTNews.org</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: The Tech To Help You Get Through The Storm" data-link="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: The Tech To Help You Get Through The Storm" data-link="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: How Can I Safely Shop Online?</title>
+		<link>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/</link>
+		<comments>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#comments</comments>
+		<pubDate>Thu, 16 Jul 2015 12:47:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10146</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" />Andrew writes, &#8220;It seems like every week there&#8217;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&#8221; You&#8217;re <a href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/credit_cards_flickr-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sean MacEntee / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><strong>Andrew writes, &ldquo;It seems like every week there&rsquo;s another scary news story about a big bank or a major company getting hacked. Is there any way to safely shop online, or should I just stay off the internet altogether?&rdquo;</strong></em></p>
+<audio class="wp-audio-shortcode" id="audio-10146-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3?_=6"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3</a></audio><p><span id="more-10146"></span></p>
+<p>You&rsquo;re right, Andrew, there have been a few pretty severe hacks of some large corporations recently. Unfortunately, we probably haven&rsquo;t seen the last of them. But here&rsquo;s the thing: staying off the internet probably won&rsquo;t help you at all.</p>
+<div id="attachment_10159" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/07/credit_cards_flickr.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10159" src="//media/2015/07/credit_cards_flickr-300x169.jpg"  alt="Image credit: Sean MacEntee / Flickr" width="300" height="169"></a><p class="wp-caption-text">Image credit: Sean MacEntee / Flickr</p></div>
+<p>Most of the businesses that have been hacked lately were retail stores, and the people affected were those who had shopped in the stores&rsquo; brick and mortar locations, not online. Hackers found their way into the companies&rsquo; servers, and were able to skim credit card numbers as they were scanned into the database.</p>
+<p>Banks similarly store your information in databases that are connected to the internet. While they take security precautions, those defenses are sometimes compromised by hacking groups that have become more organized and sophisticated.</p>
+<p>You see, Andrew, you don&rsquo;t even have to be online for businesses or banks to store your information online.</p>
+<p>All of this can understandably seem pretty scary. Luckily there are systems in place to protect you if your information is stolen. The Federal Deposit Insurance Corporation, or FDIC, says that customers can only be held responsible for a maximum of $50 for a fraudulent transaction, provided they report it to their bank or credit card company quickly. In fact, most credit card companies will rarely hold someone responsible for any fraudulent charges on their card, as long as they report those charges in a timely manner.</p>
+<p>The trick is to keep an eye on your bank account and credit card statements. Be on the lookout for transactions you don&rsquo;t remember making. Remember, the sooner your report a fraudulent transaction, the more likely you are to get all of your money back.</p>
+<p>It really is okay to shop online, just as long as you use some common sense. For example, only give your credit card information to reputable online retailers. And make sure you use good, unique passwords.&nbsp;<a href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/" target="_blank">Like we&rsquo;ve said before</a>, long passwords of 15 characters or more are best. You should also avoid using easily guessable names or words for passwords. Have&nbsp;different passwords for different websites, especially the important ones like your bank, your favorite online store and your primary email account. We also recommend using a password manager like LastPass or DashLane.</p>
+<p>Stay safe, and happy shopping!</p>
+<p><em>Photo Credit: &ldquo;<a href="https://www.flickr.com/photos/smemon/12696032183" target="_blank">Credit Cards</a>&rdquo;&nbsp;by&nbsp;<a href="https://www.flickr.com/photos/smemon/" target="_blank">Sean MacEntee</a>&nbsp;is used under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Can I Safely Shop Online?" data-link="/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/ask-deemable-tech-how-can-i-safely-shop-online/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/adt_20150716_shop_safely_online.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: Why Am I Using So Much Data?</title>
+		<link>/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/</link>
+		<comments>/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/#comments</comments>
+		<pubDate>Thu, 21 May 2015 19:59:43 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data plan]]></category>
+		<category><![CDATA[data usage]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10028</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/05/iphone6_pixabay-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: JESHOOTS / Pixabay" style="float:left; margin:0 15px 15px 0;" />Donna writes, &#8220;I share a data plan with my family. I&#8217;m the biggest user of data, but I&#8217;m also the least tech savvy. I do very little downloading! I mostly just check emails. If someone sends me a link and <a href="/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/05/iphone6_pixabay-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: JESHOOTS / Pixabay" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-10028-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150521_using_so_much_data.mp3?_=7"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150521_using_so_much_data.mp3">http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150521_using_so_much_data.mp3</a></audio><div id="attachment_10029" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/05/iphone6_pixabay.jpg" class="gallery_colorbox"><img class="wp-image-10029 size-medium" src="//media/2015/05/iphone6_pixabay-300x200.jpg"  alt="Image credit: JESHOOTS / Pixabay" width="300" height="200"></a><p class="wp-caption-text">Image credit: JESHOOTS / Pixabay</p></div>
+<p><strong>Donna writes, &ldquo;I share a data plan with my family. I&rsquo;m the biggest user of data, but I&rsquo;m also the least tech savvy. I do very little downloading! I mostly just check emails. If someone sends me a link and I open it, am I downloading? Sometimes I use my iPhone as a hotspot for my laptop. Is that downloading? Why am I using so much data?&rdquo;</strong></p>
+<p>Any time your phone gets information over the Internet, Donna, that counts against your data plan. This includes reading an email, opening a link from that email, and using your phone as a hotspot so your laptop can connect to the Internet.</p>
+<p>In fact, that last one is one of the most data-intensive activities you can do with your phone. Your laptop is a powerful machine that can request a lot of data in a hurry, especially if you have more than one website open at a time. All of the images, ads and videos on those sites are being downloaded through your phone?s connection, which can eat up a lot of data really fast. This is why most websites offer lightweight versions that are optimized for browsing on phones and mobile devices.</p>
+<p>Other activities that can use a lot of data include streaming music through apps like Spotify and Pandora, downloading podcasts, and even sharing those vacation pictures you snapped with your friends on Facebook or Instagram. If you do a lot of driving, navigation apps like Google Maps and Apple Maps can also use a lot of data downloading directions and maps.</p>
+<p>The sneakiest drainers of data plans we&rsquo;ve found are free games. While you downloaded basically all of the data for those games when you first got them from the app store, that didn&rsquo;t include those annoying little ads you see while you&rsquo;re playing them. Those ads are downloaded while you&rsquo;re running the app, chewing up your data plan in the process.</p>
+<p>It may seem like everyone is after your data plan, but luckily there is a way to stop them: Wi-Fi. When your phone is connected to a wireless network, it uses Wi-Fi to download things instead of your cell data. We recommend turning off your cell data and using Wi-Fi any time you&rsquo;re at home or work. If you don&rsquo;t have a home wireless network, you may want to consider <a href="http://deemable.com/2014/05/glen-asks-set-home-wi-fi-network/" target="_blank">setting one up</a>. This will cost some money, but it will almost definitely be cheaper than paying overage charges to your carrier.</p>
+<p>Also, all wireless providers offer <a href="http://deemable.com/2014/09/angela-asks-can-monthly-usage-smartphone/" target="_blank">a special phone number you can call or text to see what your current monthly usage is</a>. Find out what yours is and take advantage of it before you get slapped with fees!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Why Am I Using So Much Data?" data-link="/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Why Am I Using So Much Data?" data-link="/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150521_using_so_much_data.mp3" length="3421934" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: How Does Facebook Suggest People I May Know?</title>
+		<link>/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/</link>
+		<comments>/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/#comments</comments>
+		<pubDate>Thu, 07 May 2015 17:17:56 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9994</guid>
+		<description><![CDATA[Karen writes, &#8220;I met someone for the first time in a meeting the other day. A few hours later, she showed up on my Facebook page as &#8216;someone I might know.&#8217; I&#8217;ve also noticed that people sometimes pop up in <a href="/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-9994-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150507_facebook_someone_you_know.mp3?_=8"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150507_facebook_someone_you_know.mp3">http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150507_facebook_someone_you_know.mp3</a></audio><div id="attachment_10001" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/05/facebook_icon.png" class="gallery_colorbox"><img class="size-medium wp-image-10001" src="//media/2015/05/facebook_icon-300x300.png"  alt="Image credit: Facebook" width="300" height="300"></a><p class="wp-caption-text">Image credit: Facebook</p></div>
+<p>Karen writes, &ldquo;I met someone for the first time in a meeting the other day. A few hours later, she showed up on my Facebook page as &lsquo;someone I might know.&rsquo; I&rsquo;ve also noticed that people sometimes pop up in this feed shortly after sending me emails. How does Facebook know about these interactions? Or am I just being paranoid?&rdquo;</p>
+<p>You&rsquo;re not being paranoid, Karen. From what we can tell, Facebook has someone spying on you at all times. That secret spy is [insert dramatic music here]: your smartphone!</p>
+<p>We would bet dollars to donuts that you not only have an iPhone or an Android phone, but that you also have the Facebook app installed and that you have location services enabled on your phone. If that is the case, your phone is allowing the Facebook app to occasionally check your location, which the app does to see if you?re near any other Facebook users. This is one way Facebook knows to suggest people you&rsquo;ve come into contact with.</p>
+<p>However, this doesn?t mean that the app will suggest you be friends with every random person you pass on the street. Facebook is smarter than that. Even though you met this person for the first time the other day, the two of you presumably have things in common: you have similar jobs, you work in the same industry, you know some of the same people, etc. You are in what Facebook considers to be a &ldquo;network.&rdquo;</p>
+<p>Your colleague probably also had the app installed on her smartphone. When Facebook saw that the two of you, who are in the same network, spent an hour in the same location, it thought, &ldquo;These people know each other! They should be Facebook friends!&rdquo; And so she popped us as &ldquo;someone you may know.&rdquo;</p>
+<p>You mentioned that Facebook also seems to know when you&rsquo;ve emailed someone, and will suggest that you be friends with that person. You&rsquo;ll be happy to know that Facebook isn&rsquo;t reading your emails. What it is reading is your smartphone&rsquo;s contact list, another thing the app has access to. You most likely have your contacts synced with your email, so when you email a new person they are added to your phone&rsquo;s list. Facebook sees this, and again thinks that person is &ldquo;someone you may know.&rdquo;</p>
+<p>These aren&rsquo;t the only methods Facebook uses to suggest new friends. According to Facebook&rsquo;s website, they &ldquo;show you people based on mutual friends, work and education information, networks you&rsquo;re part of, contacts you&rsquo;ve imported and many other factors.&rdquo;</p>
+<p>If you don&rsquo;t want Facebook to have access to this information on your smartphone, your best bet is to just uninstall the app. In fact, that is your only option if you have an Android phone. If you have an iPhone, though, you can change what the Facebook app has permission to see.</p>
+<p>Here&rsquo;s how you can revoke Facebook&rsquo;s permissions on iOs:</p>
+<ul><li>Open the <strong>Settings</strong> app</li>
+</ul><ul><li>Scroll down to the <strong>Facebook</strong> app</li>
+</ul><ul><li>Tap the toggle next to <strong>Contacts</strong> to turn that permission on or off</li>
+</ul><ul><li>Tap <strong>Settings</strong></li>
+</ul><ul><li>Tap <strong>Location</strong>, and choose <strong>&ldquo;Never&rdquo;</strong></li>
+</ul><p>Now the Facebook app should not have access to your phone&rsquo;s contact list or location.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Does Facebook Suggest People I May Know?" data-link="/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Does Facebook Suggest People I May Know?" data-link="/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/05/ask-deemable-tech-how-does-facebook-suggest-people-i-may-know/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/05/adt_20150507_facebook_someone_you_know.mp3" length="3453209" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: Reverse Image Searching</title>
+		<link>/2015/04/ask-deemable-tech-reverse-image-searching/</link>
+		<comments>/2015/04/ask-deemable-tech-reverse-image-searching/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 12:18:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google image search]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[reverse image search]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9908</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" />Lori asks, &#8220;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find <a href="/2015/04/ask-deemable-tech-reverse-image-searching/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/04/ask-deemable-tech-reverse-image-searching/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-9908-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3?_=9"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3">http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3</a></audio><div id="attachment_9914" style="width: 460px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/04/google_reverse_image_search.jpg" class="gallery_colorbox"><img class="wp-image-9914" src="//media/2015/04/google_reverse_image_search-300x167.jpg"  alt="Google's &quot;search by image&quot; page." width="450" height="251"></a><p class="wp-caption-text">Credit: Google</p></div>
+<p><em><strong>Lori asks, &ldquo;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find a larger size of image?&rdquo;</strong></em></p>
+<p>As a matter of fact there is, Lori. It&rsquo;s called Google!</p>
+<p>You probably already know that you can use Google to search for images through their Google Images site, but there is a function of it that a lot of people miss. On the right side of that search bar is a camera icon which&nbsp;opens Google?s &ldquo;Search by Image&rdquo; page. This is commonly called &ldquo;reverse image searching.&rdquo;</p>
+<p>Click that icon and a pop-up will appear. In that window you will have a few options:</p>
+<ol><li>You can drag an image to it from your computer;</li>
+<li>Browse to an image on your hard drive;</li>
+<li>Or paste the web address of an image you found on the internet into it.</li>
+</ol><p>Once you&rsquo;ve done one of those things, Google will search for other similar images. It is actually pretty good at finding different sizes of the same image, so you are in luck. It will also show you what Google calls &ldquo;visually similar images,&rdquo; so you might see other pictures of old barns in addition to the one you were looking for.</p>
+<p>Speaking of similar images, when you do a regular Google Image search, it&rsquo;s going to show you a page with dozens of images on it as a result. You can actually use this page to do even more image searching. Click on any of the resulting, pictures and you&rsquo;ll see some related images plus a link above them that says &ldquo;search by image.&rdquo; You can actually click that and launch a new search based on the image you just expanded.</p>
+<p>That should help you find the image you&rsquo;re looking for, Lori, but there is something else you need to think about before you put it on your site: who took the picture that you like so much, and is it free for you to use?</p>
+<p>People often assume that just because you found an image on the internet it is free for anyone to use. However, this is not the case. Most images have owners, and unless those images are specifically licensed under Creative Commons or are in the public domain, you need to obtain written permission to use them. The only exception to this rule is if you&rsquo;re using them for educational purposes or some other very specific reasons. That&rsquo;s known as &ldquo;fair use.&rdquo; What counts as fair use can get complicated, so you should always just try emailing the person that originally took the picture and asking them if you can use it. If you found the picture on an image sharing social media site like Flickr, the photographer usually isn&rsquo;t hard to find.</p>
+<p>There are also lots of websites offering Creative Commons images, which are basically totally free to use as long as you credit them properly. The easiest way to find them is to use the Creative Commons search engine at <a href="http://search.creativecommons.org/" target="_blank">search.creativecommons.org</a>. It can search both Flickr and Google Image Search, as well as several other sites.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/04/ask-deemable-tech-reverse-image-searching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3" length="3396914" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Matthew asks, &#8220;How can I make my stereo wireless?&#8221;</title>
+		<link>/2015/02/matthew-asks-can-make-stereo-wireless/</link>
+		<comments>/2015/02/matthew-asks-can-make-stereo-wireless/#comments</comments>
+		<pubDate>Thu, 12 Feb 2015 20:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Bluetooth Wireless]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[stereo]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9596</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/02/stereo_knobs-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Jitter Buffer / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I have a fantastic sound system that I love, but it&#8217;s from the &#8217;90s and isn&#8217;t wireless. I&#8217;ve been looking at the wireless sound systems, but they are really expensive and all sound terrible. Is there any way to <a href="/2015/02/matthew-asks-can-make-stereo-wireless/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/matthew-asks-can-make-stereo-wireless/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/02/stereo_knobs-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Jitter Buffer / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-9596-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3?_=10"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3</a></audio><div id="attachment_9597" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/02/stereo_knobs.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9597" src="//media/2015/02/stereo_knobs-300x208.jpg"  alt="Image credit: Jitter Buffer / Flickr" width="300" height="208"></a><p class="wp-caption-text">Image credit: Jitter Buffer / Flickr</p></div>
+<p><strong>Q: </strong>I have a fantastic sound system that I love, but it&rsquo;s from the &rsquo;90s and isn&rsquo;t wireless. I&rsquo;ve been looking at the wireless sound systems, but they are really expensive and all sound terrible. Is there any way to make my current system wireless?<span id="more-9596"></span></p>
+<p><strong>A: </strong>We&rsquo;re almost certain that you can add wireless connectivity to your existing stereo system, Matthew.</p>
+<p>By wireless, we are specifically referring to Bluetooth wireless audio that would let you pair your computer or smartphone with your stereo to listen to your music on that device. There&rsquo;s probably some way you can hook up Wi-Fi to your sound system, and there&rsquo;s plenty of other kinds of wireless connectors too. But the most widely supported standard is Bluetooth.</p>
+<p>If your system has an auxiliary input or an RCA jack input, you should be able to find a Bluetooth receiver that will work with it. There are a lot of receivers for home and car stereo systems that cost anywhere between $5 and $50. Most come with the cables you need to connect them, but check the package (or the description, if you&rsquo;re shopping online) to make sure. You usually have to give these receivers some power by plugging them into the wall or into the DC jack on your car.</p>
+<p>Speaking of cars, most of the Bluetooth receivers for automobiles even come with a microphone so you can use your new connection for hands-free phone calls with your smartphone.</p>
+<p>Once everything is plugged in, you would just pair your device with the receiver. This is the process of connecting your device to the receiver using Bluetooth, and will probably be explained in the device&rsquo;s manual. This is a pretty straightforward process that usually only takes a few taps to get through.</p>
+<p>One thing to be aware of is that you&rsquo;ll probably want to make sure you keep your device within roughly 30 feet of your stereo. You may suffer from Bluetooth connectivity issues if it is farther away than that. Some Bluetooth receivers can go a longer distance, but you will lose quality the farther away you are.</p>
+<p>You mentioned that your stereo system is from the &rsquo;90s, so it&rsquo;s safe to assume that it doesn&rsquo;t have an iPod adapter. If it did, there are a lot of Bluetooth receivers that plug into 30-pin connectors (the old, larger iPod connectors) out there as well. These run between $15 and $30. Just plug one into that connector, and you&rsquo;ll be able to pair it with any smartphone or computer that has Bluetooth.</p>
+<p>Find the right receiver for you, plug it in, pair your device, and voila! You&rsquo;ve got a wireless stereo! Turn on the tunes, and jam away.</p>
+<p><em>Photo credit: &ldquo;<a href="https://www.flickr.com/photos/ph0t0s/4827098640/" target="_blank">ITT Touring 120</a>&rdquo; by <a href="https://www.flickr.com/photos/ph0t0s/" target="_blank">Jitter Buffer</a> is user under&nbsp;<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Matthew asks, "How can I make my stereo wireless?"' data-link="/2015/02/matthew-asks-can-make-stereo-wireless/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Matthew asks, "How can I make my stereo wireless?"' data-link="/2015/02/matthew-asks-can-make-stereo-wireless/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/matthew-asks-can-make-stereo-wireless/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Madelyn asks, &#8220;How can I make a photo slideshow in Windows?&#8221;</title>
+		<link>/2014/12/madelyn-asks-can-make-photo-slideshow-windows/</link>
+		<comments>/2014/12/madelyn-asks-can-make-photo-slideshow-windows/#comments</comments>
+		<pubDate>Thu, 18 Dec 2014 11:49:07 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[slideshow]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows movie maker]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9427</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/12/windows_movie_maker_logo-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Microsoft" style="float:left; margin:0 15px 15px 0;" />Q: I want to make a photo slideshow with music for my friend&#8217;s upcoming 60th birthday party. Is there an easy way to make one in Windows? A: You&#8217;re in luck, Madelyn, because there is an easy (and free) piece <a href="/2014/12/madelyn-asks-can-make-photo-slideshow-windows/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/12/madelyn-asks-can-make-photo-slideshow-windows/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/12/windows_movie_maker_logo-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Microsoft" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p138237-embed" src="http://www.prx.org/p/138237/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I want to make a photo slideshow with music for my friend&rsquo;s upcoming 60th birthday party. Is there an easy way to make one in Windows?<span id="more-9427"></span></p>
+<div id="attachment_9431" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/12/windows_movie_maker_logo.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9431" src="//media/2014/12/windows_movie_maker_logo-300x300.jpg"  alt="Image credit: Microsoft" width="300" height="300"></a><p class="wp-caption-text">Image credit: Microsoft</p></div>
+<p><strong>A: </strong>You&rsquo;re in luck, Madelyn, because there is an easy (and free) piece of software you can use called Windows Movie Maker. This program, which is made by Microsoft, comes pre-installed on some PCs, so check in your start menu to see if you have it. If you don&rsquo;t already have it, you can download it from Microsoft&rsquo;s site <a href="http://windows.microsoft.com/en-us/windows/get-movie-maker-download" target="_blank"><strong>here</strong></a>.</p>
+<p>When you open Windows Movie Maker, you&rsquo;ll see a big box that says &ldquo;Click here to browse for photos and videos&rdquo;. You can import your photos through that menu, or you can just drag and drop them into that box from any folder on your computer.</p>
+<p>Once you have some photos imported, that box will transform into a timeline where they are arranged sequentially. You can drop and drop photos around on the timeline to rearrange them. To add music, simply click the &ldquo;Add Music&rdquo; button at the top.</p>
+<p>From our experience, the really time-consuming part of making a slideshow is getting your photos synchronized to the music you pick. Luckily, this is where Windows Movie Maker really shines. Look for the &ldquo;Fit to Music&rdquo; button in the &ldquo;Project&rdquo; tab at the top of the screen &ndash; this will automatically change the length of your slideshow pictures so they fit perfectly to the length of your music.</p>
+<p>Once you&rsquo;ve put the finishing touches on your slideshow, Windows Movie Maker gives you a few different options for presenting it: save the project as a file, upload it to YouTube, or burn it to a DVD.</p>
+<p>If you can hook your laptop to your friend&rsquo;s TV, either saving the slideshow as a file you can play from your computer or putting it on YouTube is the easiest way to show it to your friends. If you go this route, we highly recommend connecting your laptop using an HDMI cable, because they&rsquo;re easy to connect and will give you great picture and sound. Most modern laptops have HDMI outputs, and almost all HDTVs have HDMI inputs. You can purchase an HDMI cable from basically any store that sells electronics.</p>
+<p>Or, if your laptop or the TV doesn&rsquo;t have HDMI, you can always burn a DVD.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Madelyn asks, "How can I make a photo slideshow in Windows?"' data-link="/2014/12/madelyn-asks-can-make-photo-slideshow-windows/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Madelyn asks, "How can I make a photo slideshow in Windows?"' data-link="/2014/12/madelyn-asks-can-make-photo-slideshow-windows/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/12/madelyn-asks-can-make-photo-slideshow-windows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Osler asks, &#8220;Why is my &#8216;virtual memory&#8217; too low?&#8221;</title>
+		<link>/2014/11/osler-asks-virtual-memory-low/</link>
+		<comments>/2014/11/osler-asks-virtual-memory-low/#comments</comments>
+		<pubDate>Thu, 20 Nov 2014 20:35:08 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[hard drive]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[RAM]]></category>
+		<category><![CDATA[virtual memory]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9396</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/11/ram_memory-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" />Q: I often get a message from my laptop saying that the virtual memory is too low and that the computer will adjust it. Why is this happening almost four to five times a week? A: Thanks for the question, <a href="/2014/11/osler-asks-virtual-memory-low/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/11/osler-asks-virtual-memory-low/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/11/ram_memory-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p136015-embed" src="http://www.prx.org/p/136015/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> I often get a message from my laptop saying that the virtual memory is too low and that the computer will adjust it. Why is this happening almost four to five times a week?<span id="more-9396"></span></p>
+<p><strong>A:</strong> Thanks for the question, Osler! Before we explain what &ldquo;virtual memory&rdquo; is, we&rsquo;re going to just go ahead and tell you what your problem is: your hard drive is too full. Consider uninstalling a few programs you no longer need on your laptop, and moving large multimedia files off of your computer and onto an external hard drive. Computer games and video files are especially notorious for taking up a lot of hard drive space.</p>
+<div id="attachment_9397" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/11/ram_memory.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9397" src="//media/2014/11/ram_memory-300x225.jpg"  alt="Image credit: Wikimedia Commons" width="300" height="225"></a><p class="wp-caption-text">Image credit: Wikimedia Commons</p></div>
+<p>If you&rsquo;re not sure what is eating up the most room on your computer, we recommend using a program called <a href="https://windirstat.info/" target="_blank">WinDirStat</a>. It does a fantastic job of showing you which files and programs are taking up the most space, so you can then delete the ones you don&rsquo;t need any more or move them to an external hard drive. Once you clear off some of those files, you should stop getting those annoying messages.</p>
+<p>Now onto what virtual memory is. Your laptop has two main ways to store information: RAM (often referred to as &ldquo;memory&rdquo;) and the hard drive. Accessing the RAM is really fast, so your computer will try to store as many running programs and streaming videos as possible there.</p>
+<p>The thing about RAM, though, is that you often don&rsquo;t have that much of it &ndash; your computer probably only has two, four or maybe eight gigabytes of it. When it comes to hard drive space, on the other hand, your computer may have 500 or even 1000 gigabytes of that. When your computer runs low on RAM, it will use the slower hard drive to augment the memory. This is known as virtual memory.</p>
+<p>Basically, your computer carves off chunks of whatever it was try to put in the real memory, and puts it into the virtual memory on your hard drive instead. But this won&rsquo;t work very well if you&rsquo;re low on hard drive space. At that point, your system is constantly trying to swap things between the RAM and the hard dive in tiny bits, and your computer can really grind to a halt.</p>
+<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/11/osler-asks-virtual-memory-low/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shelly asks, &#8220;How do I move to a new email address?&#8221;</title>
+		<link>/2014/11/shelly-asks-move-new-email-address/</link>
+		<comments>/2014/11/shelly-asks-move-new-email-address/#comments</comments>
+		<pubDate>Thu, 06 Nov 2014 21:39:52 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Comcast]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9363</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/11/email_at_symbol-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: OpenClips / Pixabay" style="float:left; margin:0 15px 15px 0;" />Q: I have an email conundrum. I have had Comcast internet for years but have decided to switch to another provider because I don&#8217;t get online that much or watch cable. The problem is that I don&#8217;t want to lose <a href="/2014/11/shelly-asks-move-new-email-address/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/11/shelly-asks-move-new-email-address/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/11/email_at_symbol-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: OpenClips / Pixabay" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p134864-embed" src="http://www.prx.org/p/134864/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I have an email conundrum. I have had Comcast internet for years but have decided to switch to another provider because I don&rsquo;t get online that much or watch cable. The problem is that I don&rsquo;t want to lose my Comcast email address. Is there a way to keep my same address even if I don&rsquo;t have Comcast?<span id="more-9363"></span></p>
+<div id="attachment_9365" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/11/email_at_symbol.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9365" src="//media/2014/11/email_at_symbol-300x284.jpg"  alt="Image credit: OpenClips / Pixabay" width="300" height="284"></a><p class="wp-caption-text">Image credit: OpenClips / Pixabay</p></div>
+<p><strong>A: </strong>Unfortunately, Shelly, email addresses are not like phone numbers: you don&rsquo;t get to keep them if you switch providers. But we think we can make losing your email address a little less painful.</p>
+<p>There are a ton of free email services out there that are not tied to internet providers. And, as it turns out, most of the free ones are better than the ones you pay for. These include Yahoo Mail, Outlook, and Mac.com. Far and away the most popular, though, is Gmail.</p>
+<p>Gmail is also our personal favorite, because it&rsquo;s easy to use, has a lot of features, and (most important for you) it interacts well with other email providers. For instance, you can import all of your contacts from your old email account into your new Gmail account.</p>
+<p>This process pretty easy. Once you have signed up for Gmail, click the settings icon (it looks like a gear), click &ldquo;Settings&rdquo;, go to the &ldquo;Account and Import&rdquo; section and click the &ldquo;Import Mail and Contacts&rdquo; button. Then just follow the instructions.</p>
+<p>Of course, you&rsquo;re going to want to send a message from your old email address to all of your contacts letting them know that you&rsquo;re switching to a different one. We would also recommend setting up email forwarding on your old address a few weeks before you cancel that account. This will automatically send new messages from your old address to an email address you specify (for example, your new Gmail address). That way, as messages come through, you can respond from your new account and let people know to begin sending emails there.</p>
+<p>The hardest part about switching email addresses will be updating all of the online accounts you currently have linked to your email (e.g. your bank account, Facebook, etc). Unfortunately, Shelly, there isn&rsquo;t a quick and easy fix for this &ndash; you&rsquo;re going to have to simply log in into all of those accounts and change them by hand.</p>
+<p>This might seem like an arduous task, but we think it will be worth it in the end to have an email account that is free, can be accessed from anywhere, and isn&rsquo;t tied to whether or not you want cable.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Shelly asks, "How do I move to a new email address?"' data-link="/2014/11/shelly-asks-move-new-email-address/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Shelly asks, "How do I move to a new email address?"' data-link="/2014/11/shelly-asks-move-new-email-address/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/11/shelly-asks-move-new-email-address/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Eva writes, &#8220;Help! I called tech support but got a scam artist instead!&#8221;</title>
+		<link>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/</link>
+		<comments>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/#comments</comments>
+		<pubDate>Thu, 30 Oct 2014 12:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9345</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" />Q: Recently I called what I thought was an HP support number with a printer problem. In fact, the number connected me to a scammer! He ran a program to scan my computer and then claimed I had been hacked. <a href="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/scam-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scam Computer Keys Showing Swindles And Fraud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p134121-embed" src="http://www.prx.org/p/134121/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Recently I called what I thought was an HP support number with a printer problem. In fact, the number connected me to a scammer! He ran a program to scan my computer and then claimed I had been hacked. I realized something was off when he asked me for $350 to fix it, so I hung up. I am worried that my computer is now at risk. Help!<span id="more-9345"></span></p>
+<p><strong><a href="http://deemable.com/media/2014/10/scam.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9348" src="//media/2014/10/scam-300x225.jpg"  alt="Scam Computer Keys Showing Swindles And Fraud" width="300" height="225"></a>A: </strong>Eva, we are incredibly glad you realized what was happening before you handed that guy $350. Calling the real HP support line will of course cost you nothing. Unfortunately, scam artists have flooded Google&rsquo;s search results so that if you searched for &ldquo;help with HP printers,&rdquo; for instance, you would see a bunch of sites that claim to be HP&rsquo;s official support page but aren&rsquo;t. The one and only HP tech support website is support.hp.com. If you forget that, the real website address can always be found in the manual that came with your printer.</p>
+<p>Some people have reported receiving unsolicited phone calls from people claiming to be HP support. HP is not going to call you unless you called them first! You can call HP directly at 1-800-HP-INVENT to confirm the identity of anyone claiming to be from tech support.</p>
+<p>Most of these scammers are out to make money, Eva, but some of them may really be up to no good and could try to hack your computer. That&rsquo;s why we&rsquo;re concerned about the fact that he apparently gained access to your machine. We can&rsquo;t know for sure how much he was able to do, but if he was able to install and run programs all bets are off. He might have installed some sort of key-logger which is sending everything you do on the computer to hackers, or a back door which will allow him to access your computer anytime he wants to.</p>
+<p>And here&rsquo;s the really bad news: anti-virus software probably won&rsquo;t help you, because someone logged into your computer could easily disable it. The only one surefire way to make sure your computer is safe to reset it to its factory defaults. The documentation that came with your computer will tell you how to perform a reset to factory default, or you can look it up online. You will want to make sure you get any important photos or documents off of your computer before doing this.</p>
+<p>The factory reset will make sure the computer itself is clean, but you also need to protect your personal data online and change all of the passwords as well. Assume that all of your important accounts (email, bank accounts, Facebook, etc.) are at risk whether you&rsquo;ve logged into them recently or not.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Eva writes, "Help! I called tech support but got a scam artist instead!"' data-link="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Eva writes, "Help! I called tech support but got a scam artist instead!"' data-link="/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/eva-writes-help-called-tech-support-got-scam-artist-instead/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Nancy asks, &#8220;Can Macs get viruses?&#8221;</title>
+		<link>/2014/10/nancy-asks-can-macs-get-viruses/</link>
+		<comments>/2014/10/nancy-asks-can-macs-get-viruses/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 00:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9325</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop? A: If you&#8217;re <a href="/2014/10/nancy-asks-can-macs-get-viruses/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/nancy-asks-can-macs-get-viruses/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p132861-embed" src="http://www.prx.org/p/132861/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop?<span id="more-9325"></span></p>
+<p><strong>A: </strong>If you&rsquo;re like us, Nancy, you&rsquo;ve probably heard a lot of people say that Macs don&rsquo;t get viruses. While this isn&rsquo;t entirely true, there is a lot to back this claim up. Macs are safer on average, and it has to do with a couple of factors.</p>
+<div id="attachment_9326" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/mac_glow.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9326" src="//media/2014/10/mac_glow-300x210.jpg"  alt="Image credit: Ricky Romero / Flickr" width="300" height="210"></a><p class="wp-caption-text">Image credit: Ricky Romero / Flickr</p></div>
+<p>When hackers write a virus or a piece of malware, their goal is to make money. The most efficient way to make money is to get the virus on as many computers as they can. Apple has always had a pretty low market share in the world of home computers, usually around 10 percent. So, if you were trying to write a virus, what would make the most sense: writing it for the majority of computers running a version of Windows, or writing it for the small number of Macs?</p>
+<p>Also, Mac OS X is based on Unix, which (without getting into all the nerdy technical details) makes it much harder to hack than Windows. However, this does not mean that Macs are unhackable.</p>
+<p>You may have heard about the recently-discovered bug called Shellshock, which can let a hacker gain unauthorized access to computers running Mac OS or Linux. Although it impacts very few Mac users, it is just one of several bugs and security vulnerabilities that have been discovered in Mac OS X lately. Apple does a fairly good job of patching these up once they&rsquo;ve been discovered, but it usually takes a little while.</p>
+<p>To answer your question, Nancy: we actually wouldn&rsquo;t recommend installing any antivirus software, unless you are using your computer to run a business. This may sound strange considering what we just said about recent bugs, but it has to do with the cost-to-benefit ratio. As we said, the chance of you getting a virus is very low. When you take those odds into account with the cost of antivirus software, and the amount of resources that software takes making the computer slower and less productive, it just doesn&rsquo;t make sense to invest that much into it.</p>
+<p>We do recommend, though, that you install antivirus software if you use your computer to run a business, especially if you work in the medical field or if the data on your computer is incredibly sensitive. Avast and Kasperky both make highly rated antivirus software for Mac OS X. Avast is free, and Kasperky starts at $39.95.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/nancy-asks-can-macs-get-viruses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brady asks, &#8220;Should my electronics be afraid of lightning?&#8221;</title>
+		<link>/2014/10/brady-asks-electronics-afraid-lightning/</link>
+		<comments>/2014/10/brady-asks-electronics-afraid-lightning/#comments</comments>
+		<pubDate>Sun, 05 Oct 2014 16:22:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Electronics]]></category>
+		<category><![CDATA[Lightning]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Surge Protector]]></category>
+		<category><![CDATA[Uninterruptible Power Supply]]></category>
+		<category><![CDATA[UPS]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9250</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/lightning-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sprogs / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: What&#8217;s the best way to protect my electronics from lightning? Should I always unplug them? How can I tell if lightning has ruined my stuff? A: We&#8217;re based in Florida, land of the thunderstorm, so we really see where <a href="/2014/10/brady-asks-electronics-afraid-lightning/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/brady-asks-electronics-afraid-lightning/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/lightning-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Sprogs / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p136936-embed" src="http://www.prx.org/p/136936/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> What&rsquo;s the best way to protect my electronics from lightning? Should I always unplug them? How can I tell if lightning has ruined my stuff?<span id="more-9250"></span></p>
+<p><strong>A:</strong> We&rsquo;re based in Florida, land of the thunderstorm, so we really see where you&rsquo;re coming from, Brady.</p>
+<p>We personally like to take every precaution to protect our expensive electronics from lightning. All of our electronics are on surge protectors and all of our computers are on UPS&rsquo;s &ndash; uninterruptible power supplies &ndash; which are battery backups that keep the computers running long enough to let you shut them down properly when the power goes out.</p>
+<div id="attachment_9254" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/lightning.jpg" class="gallery_colorbox"><img class="wp-image-9254 size-medium" src="//media/2014/10/lightning-300x200.jpg"  alt="Image credit: Sprogs / Flickr" width="300" height="200"></a><p class="wp-caption-text">Image credit: Sprogs / Flickr</p></div>
+<p>A typical lightning bolt contains about 15 million volts of electricity, and it instantly heats up the air around it to 60,000 degrees Fahrenheit. Simply put, you do not mess around with lightning. The biggest surge protector in the world will not guarantee that your electronics will be safe in a thunderstorm, but it is still a good idea to plug your electronics into one. Plus, nearby strikes can cause voltage spikes, which a surge protector will protect you against most of the time.</p>
+<p>Now, not just any surge protector will do the job. You have to make sure that it is rated high enough to absorb that extra energy. You want a surge protector that is rated to at least 600 joules or higher (it will say this on the box and on the surge protector itself). The more devices you&rsquo;re going to plug into it, the higher you want the surge protector to be rated.</p>
+<p>Unfortunately, there is not much you can do if your house and electronics are directly hit by lightning. To be truly safe, you would need to unplug everything in your home before a storm. Houses don&rsquo;t get hit directly by lightning that often, but when it does happen it is going to fry just about everything that is plugged in.</p>
+<p>Direct lightning damage usually isn&rsquo;t subtle &ndash; things won&rsquo;t work or they will be obviously messed up. If there has been a nearby surge, though, it might not actually leave smoke coming out of your electronics. You might not even notice the damage at first, but then, a few days or weeks later, you&rsquo;ll start having inexpiable problems that never go away. If you&rsquo;re having ongoing trouble with your electronics after a thunderstorm, it&rsquo;s not crazy to think that it could have been caused by a surge.</p>
+<p>In any event, lightning is incredibly dangerous. Your best line of defense is to unplug things when you know a serious storm is coming. When things are plugged in, try to give them some protection with an uninterruptible power supply and a surge protector so you won&rsquo;t be caught off guard.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Brady asks, "Should my electronics be afraid of lightning?"' data-link="/2014/10/brady-asks-electronics-afraid-lightning/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Brady asks, "Should my electronics be afraid of lightning?"' data-link="/2014/10/brady-asks-electronics-afraid-lightning/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/brady-asks-electronics-afraid-lightning/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Angela asks, &#8220;How can I check my monthly usage on my smartphone?&#8221;</title>
+		<link>/2014/09/angela-asks-can-monthly-usage-smartphone/</link>
+		<comments>/2014/09/angela-asks-can-monthly-usage-smartphone/#comments</comments>
+		<pubDate>Thu, 25 Sep 2014 10:39:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[data usage]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9225</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/09/iphone_data_screen-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="You can see your iPhone usage under the &quot;Cellular&quot; menu in the Settings app.
+
+Image credit: Annie Black / WJCT" style="float:left; margin:0 15px 15px 0;" />Q: How can I keep up with my monthly usage on my iPhone? I want to be able to find out how much data and how many texts I have left. A: There&#8217;s nothing worse than going over your monthly <a href="/2014/09/angela-asks-can-monthly-usage-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/09/angela-asks-can-monthly-usage-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/09/iphone_data_screen-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="You can see your iPhone usage under the &quot;Cellular&quot; menu in the Settings app.
+
+Image credit: Annie Black / WJCT" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p131063-embed" src="http://www.prx.org/p/131063/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>How can I keep up with my monthly usage on my iPhone? I want to be able to find out how much data and how many texts I have left.<span id="more-9225"></span></p>
+<p><strong>A: </strong>There&rsquo;s nothing worse than going over your monthly limit and getting slapped with a huge phone bill. Fortunately, checking your usage is easy, so there&rsquo;s no need for nasty surprises. Virtually all smartphones, including the iPhone, have built-in tools that monitor monthly data usage.</p>
+<div id="attachment_9226" style="width: 251px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/09/iphone_data_screen.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9226" src="//media/2014/09/iphone_data_screen-241x300.jpg"  alt='You can see your iPhone usage under the "Cellular" menu in the Settings app. Image credit: Annie Black / WJCT' width="241" height="300"></a><p class="wp-caption-text">You can see your iPhone usage under the &ldquo;Cellular&rdquo; menu in the Settings app.<br>Image credit: Annie Black / WJCT</p></div>
+<p>Just open the Settings app and tap &ldquo;Cellular,&rdquo; and you will see your usage. Of course, your iPhone doesn&rsquo;t automatically know when your billing cycle begins, so you&rsquo;ll need to reset it at the beginning of the cycle. At the bottom of that &ldquo;Cellular&rdquo; menu, there is a button that says &ldquo;Reset Statistics.&rdquo; Hit this on the first day of your billing cycle and the tracking on your iPhone should be fairly accurate.</p>
+<p>For Android phones, just open up Settings and tap &ldquo;Data Usage.&rdquo; You can also set your billing cycle on this screen, and you don&rsquo;t even have to wait until the beginning of the cycle to change this setting.</p>
+<p>There&rsquo;s actually another way to check your usage, no matter what kind of smartphone you have, that is as simple as making a phone call. Each of the major U.S. cell phone carriers has a free service which will automatically send you a text message with your current usage details when you dial a special number. Checking your monthly usage this way may be more accurate in some cases, since the information is coming straight from your cell phone carrier.</p>
+<p>For Verizon, dial <strong>#DATA</strong>.</p>
+<p>For AT&amp;T, dial <strong>*DATA#</strong>.</p>
+<p>For T-Mobile, dial <strong>#WEB#</strong>.</p>
+<p>Sprint is the only one that works differently. They don&rsquo;t send you a text, but there is an automated hotline that will tell you the information. Dial <strong>*4</strong> to get to it.</p>
+<p>You can keep your monthly data usage to a minimum by waiting until you&rsquo;ve got a Wi-Fi connection to watch videos or download big apps. When you&rsquo;re connected to Wi-Fi, you aren&rsquo;t dipping into your data plan.</p>
+<p>Another way you may be able to save data is by using what are called &ldquo;zero rated&rdquo; apps, which are now being offered by many carriers. Even though &ldquo;zero rated&rdquo; apps use data, they don&rsquo;t count towards your monthly data cap. For instance, on T-Mobile, music streaming apps like Pandora, iTunes Radio and Spotify are &ldquo;zero rated&rdquo; so they won&rsquo;t eat into your precious monthly data usage. Different carriers have different policies and different apps, so be sure to check with whoever your carrier is.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Angela asks, "How can I check my monthly usage on my smartphone?"' data-link="/2014/09/angela-asks-can-monthly-usage-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Angela asks, "How can I check my monthly usage on my smartphone?"' data-link="/2014/09/angela-asks-can-monthly-usage-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/09/angela-asks-can-monthly-usage-smartphone/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Anna asks, &#8220;Are my iCloud photos safe?&#8221;</title>
+		<link>/2014/09/anna-asks-icloud-photos-safe/</link>
+		<comments>/2014/09/anna-asks-icloud-photos-safe/#comments</comments>
+		<pubDate>Thu, 11 Sep 2014 10:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9175</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/09/icloud_logo-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="icloud_logo" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;ve heard in the news that hackers were able to download private pictures from the iCloud accounts of celebrities. I use an iPhone, and I think it has iCloud. Are my photos safe? A: We have bad news for <a href="/2014/09/anna-asks-icloud-photos-safe/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/09/anna-asks-icloud-photos-safe/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/09/icloud_logo-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="icloud_logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p130114-embed" src="http://www.prx.org/p/130114/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;ve heard in the news that hackers were able to download private pictures from the iCloud accounts of celebrities. I use an iPhone, and I think it has iCloud. Are my photos safe?<span id="more-9175"></span></p>
+<p><strong>A: </strong>We have bad news for you, Anna. Your photos probably are not safe &ndash; statistically speaking, at least.</p>
+<p>If you&rsquo;re like most people, you use the same password for multiple websites and accounts, including your iCloud account. It&rsquo;s probably also a very simple password that is easy to remember. If so, then your photos and other data are at risk.</p>
+<div id="attachment_9176" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/09/icloud_logo.jpg" class="gallery_colorbox"><img class="wp-image-9176 size-medium" src="//media/2014/09/icloud_logo-300x228.jpg"  alt="icloud_logo" width="300" height="228"></a><p class="wp-caption-text">Image credit: Apple</p></div>
+<p>iCloud is the online backup service that Apple provides for iPhones, iPods and iPads. When it is turned on, iCloud automatically backs up your photos, files and settings over the internet to Apple&rsquo;s servers. The first thing you should do is look to see if you have iCloud turned on in the first place. We say this because you actually have to opt in to using iCloud, it is not on by default.</p>
+<p>When you set up your device, you were given the option to leave iCloud off or turn it on. If you chose to turn it on, you can most definitely turn it off now. Just go to the Settings app, tap the iCloud logo, and you can either turn off the options under Photos or go to the bottom and tap Delete Account.</p>
+<p>Unfortunately, the major problem here is not how secure the site is, but how secure your passwords are. iCloud is about as vulnerable to hackers as most websites and services are, especially if users do not use long, secure passwords. You want to make sure that your password contains at least 15 characters, and is complicated and unique. Also, make sure that you don&rsquo;t use your iCloud password anywhere else.</p>
+<p>The best thing to do to protect your account, though, is to turn on two-factor authentication. This makes it so that even if someone has your password, they would need to also have your phone to log in. When you turn two-factor authentication on, Apple will send you a text message with a special pin code in it when you try to sign in, and require you to enter that pin code to complete the process.</p>
+<p>To active two-factor authentication, go to <a href="https://appleid.apple.com/" target="_blank">appleid.apple.com</a>, select Manage Your Apple ID and sign in. Then select Password and Security. Under the heading Two-Step Verification, select Get Started and follow the instructions.</p>
+<p>By choosing a long, complicated password and turning on two-factor authentication, you can help to protect your private pictures and information from hackers.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Anna asks, "Are my iCloud photos safe?"' data-link="/2014/09/anna-asks-icloud-photos-safe/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Anna asks, "Are my iCloud photos safe?"' data-link="/2014/09/anna-asks-icloud-photos-safe/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/09/anna-asks-icloud-photos-safe/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mara asks, &#8220;How can I block calls on my smartphone?&#8221;</title>
+		<link>/2014/08/mara-asks-can-block-calls-smartphone/</link>
+		<comments>/2014/08/mara-asks-can-block-calls-smartphone/#comments</comments>
+		<pubDate>Fri, 22 Aug 2014 02:47:19 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphone]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9133</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_annoying_caller_block_calls-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_annoying_caller_block_calls" style="float:left; margin:0 15px 15px 0;" />Q: Help me Deemable Tech, you&#8217;re my only hope! I keep getting calls on my smartphone from a strange number. When I pick up, no one is there. Is there any way I can block this annoyance? A: We&#8217;ve got <a href="/2014/08/mara-asks-can-block-calls-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/mara-asks-can-block-calls-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_annoying_caller_block_calls-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_annoying_caller_block_calls" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p128086-embed" src="http://www.prx.org/p/128086/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> Help me Deemable Tech, you&rsquo;re my only hope! I keep getting calls on my smartphone from a strange number. When I pick up, no one is there. Is there any way I can block this annoyance?<span id="more-9133"></span></p>
+<p><strong>A:</strong> We&rsquo;ve got good news for you, Mara: most smartphones these days have solid call blocking features.</p>
+<p><strong>Blocking Calls On Android</strong></p>
+<p><a href="http://deemable.com/media/2014/08/dt_annoying_caller_block_calls.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9134" src="//media/2014/08/dt_annoying_caller_block_calls-200x300.jpg"  alt="dt_annoying_caller_block_calls" width="200" height="300"></a>Most Android phones, depending on the model and carrier, should have some built-in features that will help you block calls. In the Settings menu, look for a sub-menu named &ldquo;Call&rdquo; or something similar. Tap that, and you will find a &ldquo;Blocked Calls&rdquo; menu. Some phones (like the Samsung Galaxy S3) also give you the option to simply block all unknown numbers.</p>
+<p>If blocking a phone number entirely seems too drastic for you, there is an alternative. When you&rsquo;re viewing a contact on most Android phones, there is a settings option to send calls from that contact straight to your voicemail.</p>
+<p>There are also a lot of call-blocking apps available in the Google Play Store, which you can find by searching &ldquo;call blocker.&rdquo; We recommend the free app Mr. Number, because it makes blocking calls and performing reverse phone number lookups easy. It also displays where unwanted calls are coming from, which is a nice bonus.</p>
+<p><strong>Blocking Calls On iPhone</strong></p>
+<p>Before the release of iOS 7, it wasn&rsquo;t possible to block calls on an iPhone. Now it&rsquo;s a built in feature.</p>
+<p>To block calls from one of your contacts, open their contact card and scroll to the &ldquo;Block This Caller&rdquo; link at the bottom. Tapping that will allow you to block that person&rsquo;s phone calls, Facetime calls and text messages.</p>
+<p>If you want to block someone who is not in your contact list, open the Phone app and go to the &ldquo;Recent Phone Calls&rdquo; list. Find the phone number you want to block, and find the icon next to the number that looks like a circle with a lowercase &ldquo;i&rdquo; in it. Tap that, and scroll to the bottom and to find the &ldquo;Block This Caller&rdquo; link.</p>
+<p>If you&rsquo;re still running an older version of iOS, like iOS 6, you won&rsquo;t have this feature. Unfortunately, there also aren&rsquo;t any apps that you can use to block calls, because iPhone apps don&rsquo;t have access to the dialer. To work around this, you could create a contact for an unwanted number with a name like &ldquo;Ignore This,&rdquo; and download a silent ringtone for that number. However, we recommend just upgrading to iOS 7 if your phone supports it.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Mara asks, "How can I block calls on my smartphone?"' data-link="/2014/08/mara-asks-can-block-calls-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Mara asks, "How can I block calls on my smartphone?"' data-link="/2014/08/mara-asks-can-block-calls-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/mara-asks-can-block-calls-smartphone/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Eileen asks, &#8220;How can I find out where a website is hosted and who the owner is?&#8221;</title>
+		<link>/2014/08/eileen-asks-can-find-website-hosted-owner/</link>
+		<comments>/2014/08/eileen-asks-can-find-website-hosted-owner/#comments</comments>
+		<pubDate>Thu, 07 Aug 2014 10:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Domain names]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Registrar]]></category>
+		<category><![CDATA[Web hosting]]></category>
+		<category><![CDATA[WhoIs search]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9095</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/whois-150x150.png" class="attachment-thumbnail wp-post-image" alt="whois" style="float:left; margin:0 15px 15px 0;" />Q: I got my cell phone number about seven years ago. The problem is that the previous owner&#8217;s name and my phone number figure prominently on a charitable organization&#8217;s website, and I have been getting calls for that organization for <a href="/2014/08/eileen-asks-can-find-website-hosted-owner/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/eileen-asks-can-find-website-hosted-owner/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/whois-150x150.png" class="attachment-thumbnail wp-post-image" alt="whois" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p126495-embed" src="http://www.prx.org/p/126495/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> I got my cell phone number about seven years ago. The problem is that the previous owner&rsquo;s name and my phone number figure prominently on a charitable organization&rsquo;s website, and I have been getting calls for that organization for years. I just called all of the numbers on the site, and all are either not working, or not associated with that organization. Is there any way I can find out where the website is hosted and who to contact about getting my phone number removed?<span id="more-9095"></span></p>
+<p><strong>A:</strong> That sounds like it&rsquo;s a very frustrating problem, Eileen, but luckily there is something you can try: a WhoIs search. A WhoIs search is a way of retrieving the domain name contact information from the registrar, and using that to find the web host.</p>
+<div id="attachment_9096" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/08/whois.png" class="gallery_colorbox"><img class="wp-image-9096 size-medium" src="//media/2014/08/whois-300x225.png"  alt="whois" width="300" height="225"></a><p class="wp-caption-text">Image credit: Sean Birch</p></div>
+<p>Now, that probably just sounded like a bunch of tech gobbledygook, so let us take a moment to explain a couple of things. A domain name is the name that serves as the website&rsquo;s address (for example, &ldquo;deemable.com&rdquo; is the domain name for our site). A registrar is basically a company that a person would buy a domain name from. In the process of selling a domain name, the registrar would take a buyer&rsquo;s contact information (including their name, business address, email address and phone number) and store it all in a publicly accessible database. A WhoIs search will allow you to search through that database.</p>
+<p>There are a lot of websites that offer WhoIs search tools, but two of the most reliable ones are <a href="http://networksolutions.com/whois" target="_blank">networksolutions.com/whois</a> and <a href="http://whois.domaintools.com/" target="_blank">whois.domaintools.com</a>. Enter the domain name of the website you&rsquo;re trying to find information for, and you&rsquo;ll get a large chunk of text which includes addresses and phone numbers for the people managing that site. Then it&rsquo;s time to start calling and sending emails, Eileen.</p>
+<p>Assuming, that is, that the information from the registrar is up to date. With a small charitable organization like the one you&rsquo;re talking about, you might run the risk of that info being outdated. If this is the case, you can attempt to find the web hosting company for the website (the company that keeps the website on their actual physical servers) and ask for their assistance. Sometimes the registrar and the web host for a website are the same company, but this is not always true. Unfortunately, when they are two different companies, finding the web host can be less straightforward than finding the domain name owner. This might require professional help.</p>
+<p>If all of that wasn&rsquo;t tricky enough to manage, there is no guarantee that the people who own and run the website will remove your phone number from the site when you actually get in touch with them. If they ignore you or refuse to help, you only other option may be legal action. That&rsquo;s why we would recommend asking <em>really</em> nicely, Eileen.</p>
+<p>It often seems like our personal information is completely out of our control on the Internet, but it&rsquo;s usually possible to manage what&rsquo;s out there if you stay calm and be patient.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Eileen asks, "How can I find out where a website is hosted and who the owner is?"' data-link="/2014/08/eileen-asks-can-find-website-hosted-owner/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Eileen asks, "How can I find out where a website is hosted and who the owner is?"' data-link="/2014/08/eileen-asks-can-find-website-hosted-owner/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/eileen-asks-can-find-website-hosted-owner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Norman asks, &#8220;How can I accept credit card payments using my smartphone?&#8221;</title>
+		<link>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/</link>
+		<comments>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/#comments</comments>
+		<pubDate>Thu, 31 Jul 2014 16:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Credit Cards]]></category>
+		<category><![CDATA[Intuit GoPayment]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<category><![CDATA[PayPal Here]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Square]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9081</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m looking at opening a food truck. I&#8217;ve seen other food trucks and hot dogs stands taking credit cards on their phones. How can I do that? What kind of phone do I have to have, and does it <a href="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/square-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9082" data-orig-file="/media/2014/07/square.jpg" data-orig-size="1602,1402" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="square" data-image-description="" data-medium-file="/media/2014/07/square-300x262.jpg" data-large-file="/media/2014/07/square-1024x896.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p126234-embed" src="http://www.prx.org/p/126234/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m looking at opening a food truck. I&rsquo;ve seen other food trucks and hot dogs stands taking credit cards on their phones. How can I do that? What kind of phone do I have to have, and does it cost a lot of money?<span id="more-9081"></span></p>
+<p><strong>A: </strong>Smartphones have opened up a whole new way for mobile vendors to accept credit card payments. Gone are the days of having to use one of those bulky carbon copy imprinters with hefty fees, high transactions costs and no way to prove if the credit card you were charging was even a real credit card.</p>
+<p>You have a few different options that you can choose from, Norman, but the three most popular are Square, PayPal Here and Intuit GoPayment. All three are small devices that plug into the headphone jack of your iPhone or Android phone.</p>
+
+<a href="/media/2014/07/square.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/square-150x150.jpg"  class="attachment-thumbnail" alt="Square pioneered mobile credit card payments with their credit card reader.
+
+Image credit: Square" data-attachment-id="9082" data-orig-file="/media/2014/07/square.jpg" data-orig-size="1602,1402" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="square" data-image-description="" data-medium-file="/media/2014/07/square-300x262.jpg" data-large-file="/media/2014/07/square-1024x896.jpg"></a>
+<a href="/media/2014/07/paypal_here_hand.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/paypal_here_hand-150x150.jpg"  class="attachment-thumbnail" alt="PayPal, one of the first online transaction companies, got into the mobile payment game with the PayPal Here.
+
+Image credit: PayPal" data-attachment-id="9083" data-orig-file="/media/2014/07/paypal_here_hand.jpg" data-orig-size="530,530" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="paypal_here_hand" data-image-description="" data-medium-file="/media/2014/07/paypal_here_hand-300x300.jpg" data-large-file="/media/2014/07/paypal_here_hand.jpg"></a>
+<a href="/media/2014/07/intuit_gopayment.jpg" class="gallery_colorbox"><img width="150" height="150" src="/media/2014/07/intuit_gopayment-150x150.jpg"  class="attachment-thumbnail" alt="Intuit, makers of Quicken and QuickBooks, also makes the GoPayment credit card reader.
+
+Image credit: Intuit" data-attachment-id="9084" data-orig-file="/media/2014/07/intuit_gopayment.jpg" data-orig-size="1440,1592" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":""}' data-image-title="intuit_gopayment" data-image-description="" data-medium-file="/media/2014/07/intuit_gopayment-271x300.jpg" data-large-file="/media/2014/07/intuit_gopayment-926x1024.jpg"></a>
+
+<p><strong>Square</strong></p>
+<p><a href="https://squareup.com/" target="_blank">Square</a> pioneered mobile credit card processing with their small, square (hence the name) credit card readers. Once you get your Square reader and download and install the free Square Register app, you&rsquo;ll be ready to start accepting credit cards. You can even add your entire inventory to the app, and use it as your point of sale terminal right there on your phone. Transactions you ring up before 5 p.m. are credited to your bank account the following business day. Square charges 2.75% per swipe.</p>
+<p><strong>PayPal</strong></p>
+<p>PayPal, the company that pioneered online credit card transactions, entered the mobile game a bit later than Square with their credit card reader, a blue triangle known as the <a href="https://www.paypal.com/webapps/mpp/credit-card-reader" target="_blank">PayPal Here.</a> PayPal Here also offers a point of sale app to go along with the device. Money from real world transactions made using this device is sent directly to your PayPal account. From there the money can be spent online or transferred to your bank account. PayPal Here charges 2.7% per swipe.</p>
+<p><strong>Intuit GoPayment</strong></p>
+<p>Intuit, the company that makes Quicken account software, makes the <a href="http://payments.intuit.com/mobile-credit-card-processing/" target="_blank">Intuit GoPayment</a> card reader and app. It&rsquo;s about the same shape as a roll of quarters, but a bit shorter. While the GoPayment is physical the biggest one we&rsquo;ve seen, it charges less per transaction than Square or PayPal Here: 2.4% per swipe. The Intuit QuickBooks GoPayment app also integrates with Quicken and many other small business apps.</p>
+<p>As the mobile payment industry keeps growing, more and more companies are starting to jump in. Amazon recently debuted&nbsp;a mobile credit card reader. Almost all of the traditional credit card processors like BluePay, Verifone and Chase have also launched their own readers. Even office supply retailer Staples has gotten in on the action.</p>
+<p>You have a lot of options to choose from, Norman, and you can get just about all of them for free with no contract. Our advice is that you try all of them until you find the one that fits your needs the best.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Norman asks, "How can I accept credit card payments using my smartphone?"' data-link="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Norman asks, "How can I accept credit card payments using my smartphone?"' data-link="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Frank asks, &#8220;Are scam artists calling me?&#8221;</title>
+		<link>/2014/07/frank-asks-scam-artists-calling/</link>
+		<comments>/2014/07/frank-asks-scam-artists-calling/#comments</comments>
+		<pubDate>Thu, 24 Jul 2014 10:38:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[scams]]></category>
+		<category><![CDATA[spam email]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9069</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9070" data-orig-file="/media/2014/07/blocked_call.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="blocked_call" data-image-description="" data-medium-file="/media/2014/07/blocked_call-300x225.jpg" data-large-file="/media/2014/07/blocked_call.jpg" />Q: The other day I got a phone a call from someone who claimed to be from Microsoft. He told me my antivirus software was out of a date, and that they would update it for me for free. He <a href="/2014/07/frank-asks-scam-artists-calling/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/frank-asks-scam-artists-calling/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9070" data-orig-file="/media/2014/07/blocked_call.jpg" data-orig-size="640,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="blocked_call" data-image-description="" data-medium-file="/media/2014/07/blocked_call-300x225.jpg" data-large-file="/media/2014/07/blocked_call.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p125567-embed" src="http://www.prx.org/p/125567/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>The other day I got a phone a call from someone who claimed to be from Microsoft. He told me my antivirus software was out of a date, and that they would update it for me for free. He wanted me to go to a website and download a program that would let him control my computer so he could update it. I decided to wait until I heard back from you to see if this was legit or not. What do you think?<span id="more-9069"></span></p>
+<div id="attachment_9070" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/blocked_call.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9070" src="//media/2014/07/blocked_call-300x225.jpg"  alt="Image Credit: Tap Call" width="300" height="225"></a><p class="wp-caption-text">Image Credit: Tap Call</p></div>
+<p><strong>A: </strong>There&rsquo;s no question about it, Frank, this is a scam. The cost of having people at Microsoft call all of their users about their antivirus software would be astronomical. Plus, how would they have gotten your phone number in the first place? You made the right choice to not believe them. Unfortunately, many other people will be the victims of these types of scam artists.</p>
+<p>If they had gotten control of your computer, they would have installed software to turn it into a spam sending machine. Your computer would have started cranking out thousands of emails trying to convince people to buy herbal supplements and who knows what else. And, of course, the &ldquo;Prince of Nigeria&rdquo; probably would have used it to send out some &ldquo;important&rdquo; emails. These scammers could have even used the information on your computer to steal your identity.</p>
+<p>What should you do if you mistakenly do let someone have control of your computer, and you suspect them of not being who they say they are? The first thing you would need to do is unplug your computer from the Internet. Pull the cord out of the wall; turn off your Wi-Fi; do whatever it takes.</p>
+<p>The next step would be to format your hard drive and reinstall Windows. You could try to uninstall programs and run your antivirus software, but the best bet would be to wipe it and start with a clean slate. This may sound pretty severe, but remember: these are criminals who, at the very least, are using your computer to send spam.</p>
+<p>There&rsquo;s a possibility that these scam artists may call you back after you&rsquo;ve reinstalled Windows. You have shut off their money-making spam machine, and they&rsquo;ll probably be upset about it. They might even threaten you to get you to turn it back on. Depending on what they have done, we would recommend contacting your Internet service provider and/or the police.</p>
+<p>We should clarify that if <em>you</em> called Microsoft or a local IT company, and they needed access to your computer to help you with a problem that <em>you</em> called them about, you should be able to trust them. But if you receive an unsolicited call like this, you have no reason to believe that the person on the phone is actually who they say they are.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/frank-asks-scam-artists-calling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trent asks, &#8220;How do I wipe my smartphone?&#8221;</title>
+		<link>/2014/07/trent-asks-wipe-smartphone/</link>
+		<comments>/2014/07/trent-asks-wipe-smartphone/#comments</comments>
+		<pubDate>Thu, 10 Jul 2014 10:38:44 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apple iPhone]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9022</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/samsung-galaxy-s5-7193-041-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Josh Miller / CNET" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9023" data-orig-file="/media/2014/07/samsung-galaxy-s5-7193-041.jpg" data-orig-size="770,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1396870570&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0166666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="samsung-galaxy-s5-7193-041" data-image-description="" data-medium-file="/media/2014/07/samsung-galaxy-s5-7193-041-300x168.jpg" data-large-file="/media/2014/07/samsung-galaxy-s5-7193-041.jpg" />Q: I am giving my old phone to a friend. How do I make sure I&#8217;ve gotten all my private data off it first? A: That&#8217;s a great question, Trent, and one that everyone who owns a smartphone probably needs <a href="/2014/07/trent-asks-wipe-smartphone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/trent-asks-wipe-smartphone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/samsung-galaxy-s5-7193-041-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Josh Miller / CNET" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9023" data-orig-file="/media/2014/07/samsung-galaxy-s5-7193-041.jpg" data-orig-size="770,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1396870570&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0166666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="samsung-galaxy-s5-7193-041" data-image-description="" data-medium-file="/media/2014/07/samsung-galaxy-s5-7193-041-300x168.jpg" data-large-file="/media/2014/07/samsung-galaxy-s5-7193-041.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p123927-embed" src="http://www.prx.org/p/123927/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I am giving my old phone to a friend. How do I make sure I&rsquo;ve gotten all my private data off it first?<span id="more-9022"></span></p>
+<p><strong>A: </strong>That&rsquo;s a great question, Trent, and one that everyone who owns a smartphone probably needs to know the answer to. Our smartphones hold all kinds of personal data, like our contact list, browser history and even our credit card information. Before you give your phone to someone, exchange it for a different model or even throw it away, you need to make sure you wipe all of this information off of it first.</p>
+<div id="attachment_9023" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/samsung-galaxy-s5-7193-041.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9023" src="//media/2014/07/samsung-galaxy-s5-7193-041-300x168.jpg"  alt="Image credit: Josh Miller / CNET" width="300" height="168"></a><p class="wp-caption-text">Image credit: Josh Miller / CNET</p></div>
+<p>Fortunately, every smartphone comes with the ability to reset it to what the manufacturers refer to as &ldquo;factory settings&rdquo;. This wipes the device completely, and turns it into a blank slate just like the day you bought it. Of course, you need to make sure you perform a full backup of your phone before you even think about wiping it.</p>
+<p>To do a factory reset on an iPhone, you&rsquo;ll need to open the &ldquo;Settings&rdquo; app, tap &ldquo;General&rdquo; and find the &ldquo;Reset&rdquo; button at the bottom of that screen. Tap this and you&rsquo;ll see a few options including &ldquo;Erase All Content and Settings,&rdquo; which is the one you want. If you tap this, a message will pop up asking you to confirm that you really want to do this because it will erase everything. Hit yes and the reset begins.</p>
+<p>The process for resetting Android phones can differ from model to model, but most of them are pretty similar. For example, to wipe a Samsung Galaxy smartphone, you would just go to the &ldquo;Settings&rdquo; menu, tap &ldquo;Backup and Reset&rdquo; and hit the &ldquo;Factory Data Reset&rdquo; option. Be sure to read through the manual of your specific smartphone to find the directions.</p>
+<p>Your phone will take a minute or two to reset to factory settings. Once it&rsquo;s done, it should be just like you&rsquo;re turning it on for the first time. Now you can give away your phone without worrying about your private information falling into the wrong hands.</p>
+<p>There&rsquo;s one more thing we should mention if your smartphone has a removable SD card. Resetting the phone to factory settings will not erase the data on that card, so you&rsquo;ll need to erase the files off of it separately. If your phone comes with a file manager app, you can do it through that. You can also connect your phone to your computer, open the SD card and drag the files to the trash. Or you can keep it simple and just remove the SD card from the phone.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Trent asks, "How do I wipe my smartphone?"' data-link="/2014/07/trent-asks-wipe-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Trent asks, "How do I wipe my smartphone?"' data-link="/2014/07/trent-asks-wipe-smartphone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/trent-asks-wipe-smartphone/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Hector asks, &#8220;Do I have to eject USB drives?&#8221;</title>
+		<link>/2014/07/hector-asks-eject-usb-drives/</link>
+		<comments>/2014/07/hector-asks-eject-usb-drives/#comments</comments>
+		<pubDate>Thu, 03 Jul 2014 10:38:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[flash memory]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[USB drives]]></category>
+		<category><![CDATA[USB flash drive]]></category>
+		<category><![CDATA[USB thumb drive]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9008</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9009" data-orig-file="/media/2014/07/flash_drive.jpg" data-orig-size="610,458" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="flash_drive" data-image-description="" data-medium-file="/media/2014/07/flash_drive-300x225.jpg" data-large-file="/media/2014/07/flash_drive.jpg" />Q: Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&#8217;t eject the drive, and it could cause damage if I don&#8217;t eject it. I usually ignore this message and it hasn&#8217;t caused me <a href="/2014/07/hector-asks-eject-usb-drives/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/hector-asks-eject-usb-drives/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" data-attachment-id="9009" data-orig-file="/media/2014/07/flash_drive.jpg" data-orig-size="610,458" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="flash_drive" data-image-description="" data-medium-file="/media/2014/07/flash_drive-300x225.jpg" data-large-file="/media/2014/07/flash_drive.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p123307-embed" src="http://www.prx.org/p/123307/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&rsquo;t eject the drive, and it could cause damage if I don&rsquo;t eject it. I usually ignore this message and it hasn&rsquo;t caused me any issues yet. Is this really a problem?<span id="more-9008"></span></p>
+<p><strong><a href="http://deemable.com/media/2014/07/flash_drive.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9009" src="//media/2014/07/flash_drive-300x225.jpg"  alt="flash_drive" width="300" height="225"></a>A: </strong>We&rsquo;ll admit it, Hector, we&rsquo;ve occasionally done the same thing. There&rsquo;s nothing more irritating than waiting for a computer to eject a thumb drive when you&rsquo;ve got to be somewhere. What&rsquo;s worse is trying to eject a drive only to have the computer tell you that it&rsquo;s &ldquo;busy.&rdquo; Busy doing what? Getting a cup of coffee?</p>
+<p>As annoying as it can be, the truth is you really should eject all USB devices before you unplug them. This is especially true for external hard drives, as the sudden loss of power can cause physical damage to the spinning discs inside them. That doesn&rsquo;t have to happen too many times for the hard drive to fail, taking all that data with it.</p>
+<p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
+<p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
+<p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
+<p>Just remember, Hector: you must eject before you disconnect!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Amanda asks, &#8220;How can I restrict in-app purchases on my iPad?&#8221;</title>
+		<link>/2014/06/amanda-asks-can-restrict-app-purchases-ipad/</link>
+		<comments>/2014/06/amanda-asks-can-restrict-app-purchases-ipad/#comments</comments>
+		<pubDate>Thu, 12 Jun 2014 19:18:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple iPad]]></category>
+		<category><![CDATA[Apple iPhone]]></category>
+		<category><![CDATA[in-app purchases]]></category>
+		<category><![CDATA[parental controls]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[restrictions]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8862</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/child_ipad-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Brad Flickinger / Flickr" style="float:left; margin:0 15px 15px 0;" data-attachment-id="8863" data-orig-file="/media/2014/06/child_ipad.jpg" data-orig-size="792,582" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="child_ipad" data-image-description="" data-medium-file="/media/2014/06/child_ipad-300x220.jpg" data-large-file="/media/2014/06/child_ipad.jpg" />Q: Our family recently got our first iPad. We want the kids to be allowed to use it, but I am worried that they will get into trouble with it. Many of the games on the iPad ask you to <a href="/2014/06/amanda-asks-can-restrict-app-purchases-ipad/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/amanda-asks-can-restrict-app-purchases-ipad/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/child_ipad-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Brad Flickinger / Flickr" style="float:left; margin:0 15px 15px 0;" data-attachment-id="8863" data-orig-file="/media/2014/06/child_ipad.jpg" data-orig-size="792,582" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="child_ipad" data-image-description="" data-medium-file="/media/2014/06/child_ipad-300x220.jpg" data-large-file="/media/2014/06/child_ipad.jpg" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p121195-embed" src="http://www.prx.org/p/121195/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Our family recently got our first iPad. We want the kids to be allowed to use it, but I am worried that they will get into trouble with it. Many of the games on the iPad ask you to buy things. I don&rsquo;t want my kids running up a big credit card bill! Is there a way to stop this from happening?<span id="more-8862"></span></p>
+<p><strong>A:</strong> Great question, Amanda. In-app purchases are an issue with smartphones and tablets that not nearly enough parents are aware of. In fact, we&rsquo;ve heard news stories about kids accidentally running up thousands of dollars in charges in their favorite mobile game. Fortunately, iPhones and iPads both come with built-in tools that allow parents to control what their kids are getting into.</p>
+<div id="attachment_8863" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/child_ipad.jpg" class="gallery_colorbox"><img class="wp-image-8863 size-medium" src="//media/2014/06/child_ipad-300x220.jpg"  alt="Image credit: Brad Flickinger / Flickr" width="300" height="220"></a><p class="wp-caption-text">Image credit: Brad Flickinger / Flickr</p></div>
+<p>Open the Settings icon on your iPad, and look for &ldquo;Restrictions&rdquo; under &ldquo;General&rdquo;. Tap &ldquo;enable restrictions&rdquo; and you&rsquo;ll be asked to create a passcode. Be sure to use a different passcode than the one you use to lock your device, since your kids probably already know that code.</p>
+<p>After you&rsquo;ve created the passcode, you&rsquo;ll see a list of features you can restrict access to, including in-app purchases, Safari and even the camera. Tap the button next to &ldquo;in-app purchases&rdquo; and any other feature you want to be restricted (that button will be green when the feature isn&rsquo;t restricted, and white when the restriction is on). This will turn off these features.</p>
+<p>Now keep in mind, Amanda, that when <em>you</em> enter that passcode to make an in-app purchase, the restriction will be turned off for 15 minutes by default. If you&rsquo;re worried that you might put down your iPad and one of your kids might rush over and start buying things within that window, you can set it to ask for the passcode every single time. Go back to the &ldquo;Restrictions&rdquo; screen, re-enter your code and scroll down to the option that says &ldquo;Require password&rdquo;. Tap that and select &ldquo;Immediately&rdquo;. Now the iPad will require the passcode every time anyone tries to make an in-app purchase.</p>
+<p>Android devices also have the power to restrict in-app purchases. On your Android tablet or smartphone, open the Play Store (the app you use to download other apps) and go to the settings menu. There you will see an option that says &ldquo;Use password to restrict purchases&rdquo;.</p>
+<p>Android doesn&rsquo;t have as many built-in parental control features as iOS does, but there are a ton of great parental control apps out there. You can find them by searching &ldquo;parental controls&rdquo; in the Play Store.</p>
+<p>Whether you&rsquo;ve got a table or a smartphone, iOS or Android, there are a many easy-to-use options to allow your family to safely enjoy their new toy.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Amanda asks, "How can I restrict in-app purchases on my iPad?"' data-link="/2014/06/amanda-asks-can-restrict-app-purchases-ipad/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Amanda asks, "How can I restrict in-app purchases on my iPad?"' data-link="/2014/06/amanda-asks-can-restrict-app-purchases-ipad/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/amanda-asks-can-restrict-app-purchases-ipad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

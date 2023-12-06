@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Vtech</title>
+	<atom:link href="/tag/vtech/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#104 Lasers We Have Seen On High</title>
+		<link>/2015/12/104-lasers-we-e-seen-on-high/</link>
+		<comments>/2015/12/104-lasers-we-e-seen-on-high/#comments</comments>
+		<pubDate>Sat, 19 Dec 2015 17:26:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[Project Fi]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[Vtech]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10375</guid>
+		<description><![CDATA[This week, Ray, Tom and Sean look at the dangers of over-the-top Christmas decorations, wonder when a tablet is too big, and try to solve the mystery of Bitcoin&#8217;s creator. By the way, we don&#8217;t just have a subreddit page <a href="/2015/12/104-lasers-we-e-seen-on-high/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/12/104-lasers-we-e-seen-on-high/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week, Ray, Tom and Sean look at the dangers of over-the-top Christmas decorations, wonder when a tablet is too big, and try to solve the mystery of Bitcoin&rsquo;s creator.</p>
+<p><span id="more-10375"></span></p>
+<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="http://deemable.com/reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
+<p>And make sure to&nbsp;subscribe to the show and leave a review&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;and&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10375-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3">http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>C130 pilots blinded by Christmas decorations</h3>
+<p>Are your Christmas decorations sufficiently over-the-top this year? Apparently if you&rsquo;re not blinding low-flying planes, you aren?t really trying.</p>
+<p>In mid-November, the crew of a Coast Guard C130 plane over Sacramento radioed that it was being blinded by a laser light &ndash; a distressingly common &lsquo;prank&rsquo; that has dangerous consequences for pilots. However, when Sacramento police tracked down the source of the laser, it was not a prankster, but a home Christmas light display.</p>
+<p><a href="http://www.nbclosangeles.com/investigations/Warning-Issued-About-Popular-Holiday-Decoration-360986471.html" target="_blank">NBC Los Angeles reports that a Christmas light display projector called the Star Shower</a> was the culprit. The Star Shower uses hundreds of pinpoint laser lights to simulate a surface covered with lights. It comes with a warning to point it only at solid surfaces, not the sky, and not to use it within ten miles of an airport. However, it appears that it is easy for someone attempting to project it up onto the wall of their home to allow the projector to accidentally beam lights into the sky, and the cockpit of passing planes. Homeowners using this product are advised to exercise caution.</p>
+<h3>Google ProjectFi gives customers the gift of Lego</h3>
+<p>You guys will remember we had long time listener Ardis on a few episodes ago to talk about <a href="http://deemable.com/2015/11/102-we-dont-need-no-stinkin-producer/" target="_blank">his experience using Google?s ProjectFi cellular service</a>. Well Ardis informed us last week that Google had sent him an interesting gift in the mail: a Lego kit that could be assembled into a charging stand for his Nexus device.</p>
+<p><a href="http://www.theverge.com/2015/11/26/9804216/google-project-fi-lego-kit" target="_blank">The Verge</a> reports that a number of ProjectFi subscribers have been reporting receiving the kits, along with a note that says ?Thank you for your support, let?s build on this.? It is not known if the kit will go out to all ProjectFi subscribers or not.</p>
+<h3>Samsung unveils new giant tablet</h3>
+<p>It seems like the giant tablet arms race has officially begun. Apple has released the 12.9 inch iPad Pro to compete with Microsoft?s Surface Pro, which is a measly 12.3 inches. So they&rsquo;re the winner, right? Not even close.</p>
+<p>Samsung has jumped into the game with the Samsung Galaxy View, a &ldquo;tablet&rdquo; with a massive 18.5 inch screen. The only problem is, no one knows quite what to do with this monstrosity. In an Engadget piece entitled <a href="http://www.engadget.com/2015/11/19/samsung-galaxy-view-wtf/" target="_blank">I just don&rsquo;t understand why Samsung?s Galaxy View exists</a>, tech writer Nathan Ingraham says that &ldquo;Because it&rsquo;s a giant tablet, you need to be close to get your videos playing, but because it&rsquo;s so giant you naturally want to be a little farther away than your arm&rsquo;s reach.&rdquo; Samsung seems to want to position the tablet as a media playing device, but if this is a portable TV, it is one without a remote.</p>
+<p>$599 is not a bad price for an elephantine tablet, but it?s very pricey for a small flatscreen. And when your screen is over 18 inches, you are definitely getting into flatscreen territory.</p>
+<h3>When drones are outlawed, only outlaws will have drones</h3>
+<p>A warning to drone enthusiasts: get in the way of the police, and they may take away your toys. According to<a href="http://arstechnica.com/tech-policy/2015/11/man-whose-drone-got-too-close-to-lapd-helicopter-given-three-years-probation/" target="_blank"> a report by Ars Technica</a>, Martin Sheldon of Los Angeles was caught after allegedly buzzing a police helicopter with his drone over Sunset Boulevard. He was charged with interfering with a police investigation. He has now been sentenced. In addition to community service and probation, Sheldon must turn over his drone and is banned from owning or operating a remote-controlled airplane, helicopter, or drone for a period of three years.</p>
+<h3>Hackers steal massive trove of children&rsquo;s data from Vtech</h3>
+<p>Another major data breach is in the news lately. In November high tech toymaker Vtech reported that hackers got into its servers and stole the personal information of over ten million users, half of whom were children. The rest are parents.</p>
+<p><a href="http://gizmodo.com/the-horrifying-vtech-hack-let-someone-download-thousand-1745321580" target="_blank">Gizmodo reports that the data includes first names, genders, and birthdays of over six million children.</a> But if that wasn?t scary enough, the cache of leaked data also contains 190 gigabytes of photos from Vtech?s kid connect service, most likely containing headshots of kids who used the video chat service to talk with their parents.</p>
+<p>The hack has been catastrophically damaging to Vtech, which has suspended of their stock on the Hong Kong stock exchange after word got out that they had been transmitting customer data completely unencrypted.</p>
+<h3>Is Australian entrepreneur actually the creator of Bitcoin? Eh, probably not.</h3>
+<p>Bitcoin fascinates people for at least two reasons: one is the digital cryptocurrency itself, but two is because nobody knows the true identity of the person who really invented it. The inventor was known on online listservs as Satoshi Nakamoto, but this is undoubtedly just an alias. Last year a major Newsweek investigation featured a California man named Dorian Nakamoto as Satoshi, but this was later proven false.</p>
+<p>Well this month the media is at it again, as both <a href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/" target="_blank">Wired</a> and <a href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692" target="_blank">Gizmodo</a> published stories claiming that an Australian entrepreneur named Craig Wright, in partnership with a Florida man named Dave Kleiman, was probably the secretive inventory of Bitcoin. The stories were based on documents leaked to the outlets by an anonymous source including unsent emails in which Wright admitted to being Nakamoto.</p>
+<p>However, since the media have been burnt by false leads before, so both outlets hedged their bets, with Wired writing, ?Either Wright invented bitcoin, or he?s a brilliant hoaxer who very badly wants us to believe he did.?<br>
+That was a smart thing to say, because things got weird in a hurry. The day after the stories were published, the Australian Federal Police raided Wright?s home and office, <a href="http://www.theguardian.com/technology/2015/dec/09/bitcoin-founder-craig-wrights-home-raided-by-australian-police" target="_blank">according to the Guardian</a>, executing a warrant on tax issues unrelated to the Bitcoin story.</p>
+<p>Since then, <a href="http://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/" target="_blank">Wired reports</a>, more holes have appeared in the story, casting doubt on whether or not Craig Wright really has two PhDs or whether his company in fact owns one of the world?s most powerful privately-owned supercomputers. Wright does, however, appear to own millions in Bitcoin, a point in his favor that is hard to explain away.</p>
+<p>A post on a listserv supposedly from Satoshi Nakamoto denied that Craig Wright was him the day after the original stories ran, however there was no way to verify.</p>
+<p>The full story is still unfolding and appears to involve either an extortion scheme or a hoaxer pretending to extort himself.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/104-lasers-we-e-seen-on-high/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3" length="28883674" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

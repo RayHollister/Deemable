@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; defragmentation</title>
+	<atom:link href="/tag/defragmentation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Neila asks, &#8220;How do you defrag your hard drive in Windows 8.1?&#8221;</title>
+		<link>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/</link>
+		<comments>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/#comments</comments>
+		<pubDate>Thu, 26 Mar 2015 22:09:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[defrag]]></category>
+		<category><![CDATA[defragmentation]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9834</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/03/defrag-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Lance Fisher/Flickr" style="float:left; margin:0 15px 15px 0;" />Q: How do you defrag a computer running Windows 8.1? I can&#8217;t figure out how to do it on my new laptop. A: For those of us who have been using personal computers for the past 20 or so years, <a href="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/03/defrag-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Lance Fisher/Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q:</strong> How do you defrag a computer running Windows 8.1? I can&rsquo;t figure out how to do it on my new laptop.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-9834-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3">http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3</a></audio><p><span id="more-9834"></span></p>
+<p><strong>A:</strong> For those of us who have been using personal computers for the past 20 or so years, defragmenting your hard drive used to just be part of life. When you defrag a hard drive, you&rsquo;re basically re-organizing the data on it so that it will run faster and more efficiently.</p>
+<p>When your hard drive stores data, it puts it anywhere there is space available, so it may sometimes put pieces of the same file in several different places instead of right next to each other. Imagine opening a file cabinet and just throwing paperwork into it. You would never be able to find anything if you did that, but your computer <em>can</em> keep track of where it put things even if they are all over the place. This works well, but things can become really messy after a while. This will make the computer start to run slow as it searches through your data. Running a defrag will reorganize everything.</p>
+<div id="attachment_9836" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/03/defrag.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9836" src="//media/2015/03/defrag-300x270.jpg"  alt="Credit: Lance Fisher/Flickr" width="300" height="270"></a><p class="wp-caption-text">Credit: Lance Fisher/Flickr</p></div>
+<p>When we received your question, Neila, we realized that we couldn&rsquo;t even remember the last time we defragged a computer. Beginning with Windows 7, Microsoft has built automatic defragmentation into the Windows operating system, so you don&rsquo;t have to worry about running it yourself. However, you can still run it manually if you want. On Windows Vista or 7, look for a program called <strong>Disk Defragmenter</strong>. On Windows 8, it is called <strong>Optimize Drive</strong>; you can find it by pressing the Start button on your keyboarding and typing in &ldquo;optimize drive.&rdquo;</p>
+<p>Apple has built similar automatic defragmentation into Mac OS X, but that operating system doesn&rsquo;t offer you a manual way to optimize your hard drive. There are third-party defrag programs available, but we don&rsquo;t recommend them because they often cause more problems than they fix. If your Mac is running slow, you should try restarting it and clearing off space on your hard drive instead.</p>
+<p>One last note: if you have a Solid State Drive (SSD) instead of a classic hard drive, we don&rsquo;t recommend performing a defrag. It doesn&rsquo;t provide any real benefit on an SSD, and it can actually reduce the drive&rsquo;s lifespan.</p>
+<p><em>Photo credit: <a href="http://www.flickr.com/photos/lancefisher/139614269/in/photolist-7fd9cs-dkysz-5sAseR-8nu58y-41htTN-4jYJ8E-4jUFcZ-8Xws5G-4cnkue-DoQ4J-3QT1w4-3T6riF-5zLX1N-5zGEAr-5zGEra-5zLWqL-5zLWfS-5zLW7U-5zLVYA-5zGDyV" target="_blank" data-cke-saved-href="http://www.flickr.com/photos/lancefisher/139614269/in/photolist-7fd9cs-dkysz-5sAseR-8nu58y-41htTN-4jYJ8E-4jUFcZ-8Xws5G-4cnkue-DoQ4J-3QT1w4-3T6riF-5zLX1N-5zGEAr-5zGEra-5zLWqL-5zLWfS-5zLW7U-5zLVYA-5zGDyV">&ldquo;defrag&rdquo;</a> by <a href="http://www.flickr.com/photos/lancefisher/" target="_blank" data-cke-saved-href="http://www.flickr.com/photos/lancefisher/">Lance Fisher</a>&nbsp;is used under&nbsp;<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" data-cke-saved-href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Neila asks, "How do you defrag your hard drive in Windows 8.1?"' data-link="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Neila asks, "How do you defrag your hard drive in Windows 8.1?"' data-link="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3" length="3512423" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Network</title>
+	<atom:link href="/tag/network/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The 4G Hoax</title>
+		<link>/2011/06/the-4g-hoax/</link>
+		<comments>/2011/06/the-4g-hoax/#comments</comments>
+		<pubDate>Thu, 23 Jun 2011 19:19:21 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[4G]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[HSPA]]></category>
+		<category><![CDATA[LTE]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Sprint]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[wireless]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3692</guid>
+		<description><![CDATA[Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &#8220;America&#8217;s largest 4G network.&#8221; Then Verizon entered the picture with its own 4G network which they <a href="/2011/06/the-4g-hoax/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/the-4g-hoax/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: center"><img class="aligncenter" src="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" alt="" width="366" height="205"></p>
+<p>Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &ldquo;America&rsquo;s largest 4G network.&rdquo; Then Verizon entered the picture with its own 4G network which they announced as the largest and fastest in the United States. AT&amp;T, of course, eventually released its own 4G network to keep up with the competition, but in hindsight, none of these telecommunications giants have a network that can <em>truly</em> be called 4G.&nbsp;In actuality, what these companies are offering is basically a 3.5G network. A marketing ploy. A hoax&hellip;</p>
+<p>In November of 2010, the global wireless standards-setting organization, called&nbsp;the International Telecommunication Union,&nbsp;defined 4G as a network that is capable of download speeds of 100 megabits per second (Mbps).&nbsp;While all of the supposed 4G networks out there are clear improvements to the current 3G networks that offer speeds between 500 kbps to 1.5 Mbps, none of them conform to the International Telecommunication Union&rsquo;s 4G definition. Even more perplexing, each carrier has its own 4G network based on different technologies:</p>
+<ul><li>Sprint offers a 4G network based on Wi-MAX technology.</li>
+<li>T-Mobile offers a 4G network based on an expansion of its 3G-HSPA+ network.</li>
+<li>Verizon offers a 4G network based on Long Term Evolution (LTE) technology.</li>
+<li>AT&amp;T offers a 4G network similar to T-Mobile&rsquo;s expanded 3G-HSPA+ network and is set to launch their own LTE 4G network sometime this year.</li>
+</ul><p>On Wednesday, however, Congress introduced a bill that would hopefully clear up some of the confusion between all of the different 4G offerings. Initiated by the ranking member of the House Subcommittee on Communications and Technology, Rep. Anna Eshoo (D-CA), the Next Generation Wireless Disclosure Act would force wireless carriers to provide specific information about coverage, reliability, speed, pricing, and the type of technology used by the service. A side-by-side comparison of the top 10 competing networks&rsquo; speeds and prices would also be available to consumers,&nbsp;and the bill would get the FCC to work with the wireless providers to establish a guaranteed, minimum speed standard for 4G.</p>
+<p>With all confusion and technical jargon aside, the bill is a great proposal to help consumers make better choices. Eshoo explained,&nbsp;&ldquo;Consumers need to know the truth about the speeds they&rsquo;re actually getting. My legislation is simple?it will establish guidelines for understanding what 4G speed really is, and ensure that consumers have all the information they need to make an informed decision.&rdquo;</p>
+<p>You can learn more about 4G in the video below:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/qdzEzBlVULY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" target="_blank">Photo</a> by <a title="Goldman" href="http://money.cnn.com/2010/12/01/technology/4g_myth/index.htm?iid=EL" target="_blank">David Goldman</a> via <a title="CNN" href="http://www.cnn.com/" target="_blank">CNN</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/the-4g-hoax/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PlayStation Network Goes Down</title>
+		<link>/2011/04/playstation-network-goes-down/</link>
+		<comments>/2011/04/playstation-network-goes-down/#comments</comments>
+		<pubDate>Sat, 23 Apr 2011 00:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Call of Duty]]></category>
+		<category><![CDATA[COD]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[NetFlix]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Outage]]></category>
+		<category><![CDATA[PlayStation]]></category>
+		<category><![CDATA[PlayStation 3]]></category>
+		<category><![CDATA[PSN]]></category>
+		<category><![CDATA[Sony]]></category>
+		<category><![CDATA[Zombies]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2695</guid>
+		<description><![CDATA[Nazi Zombies, you are free to roam the earth for a little while longer as Sony&#8217;s PlayStation Network has been out of service since 4/20. The PlayStation Network is Sony&#8217;s equivalent to Xbox LIVE, which allows for PlayStation 3 users <a href="/2011/04/playstation-network-goes-down/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/playstation-network-goes-down/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: left"><img class="aligncenter" src="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" alt="" width="660" height="309"></p>
+<p style="text-align: left">Nazi Zombies, you are free to roam the earth for a little while longer  as Sony&rsquo;s PlayStation Network has been out of service since 4/20.</p>
+<p>The PlayStation Network is Sony&rsquo;s equivalent to Xbox LIVE, which allows for PlayStation 3 users to download games, download or stream movies and music, and have access to other services. More importantly, the network serves as the infrastructure for people to connect and play each other in multiplayer games such as Call of Duty. Oddly enough, the  network failure happened to coincide with the release of several  brand  new games including Mortal Kombat, Portal 2, SOCOM 4, and  inFAMOUS 2&rsquo;s beta release. While access to the network is free, content such as Netflix must be paid for by users, leaving them wondering whether they will be reimbursed if the outage lasts any longer.</p>
+<p>A little over a year ago, Sony users of the non-slim PS3 had a <a title="similar outage" href="http://blog.us.playstation.com/2010/03/01/latest-info-on-playstation-network-status/" target="_blank">similar outage</a> on their PlayStation Network that was &ldquo;caused by a bug in the clock functionality incorporated in the system.&rdquo; Patrick Seybold, the Senior Director of Corporate Communications &amp; Social Media, posted a message yesterday on Sony&rsquo;s <a title="PSN Blog" href="http://blog.us.playstation.com/2011/04/21/latest-update-on-psn-outage/" target="_blank">PlayStation Blog</a> that said, &ldquo;While we are investigating the cause of the Network outage, we wanted to  alert you that it may be a full day or two before we&rsquo;re able to get  the&nbsp;service completely back up and running. Thank you very much for your  patience while we work to resolve this matter. Please stay tuned  to&nbsp;this space for more details, and we&rsquo;ll update you again as soon as we  can.&rdquo;</p>
+<p>While there are an estimated 70 million users on the network worldwide, Sony is unable to clarify how many people are currently affected by the outage. However, players from all over the world have taken their Zombie rage to  popular social media sites like Twitter and Facebook to express their  displeasure with Sony. Got some spare time since you can&rsquo;t own some newbs? Check out some of the tweets found by a quick search of <a href="http://twitter.com/#!/search/%23PSN" target="_blank">#PSN on Twitter.</a></p>
+<p>&ndash; Update 4/23 &ndash;</p>
+<p>Patrick Seybold has made <a title="post" href="http://blog.us.playstation.com/2011/04/22/update-on-playstation-network-qriocity-services/" target="_blank">another post</a> on the PlayStation Blog regarding the ongoing issue:</p>
+<p>&ldquo;An external intrusion on our system has affected our PlayStation Network  and Qriocity services. In order to conduct a thorough investigation and  to verify the smooth and secure operation of our network services going  forward, we turned off PlayStation Network &amp; Qriocity services on  the evening of Wednesday, April 20th. Providing quality entertainment  services to our customers and partners is our utmost priority. We are  doing all we can to resolve this situation quickly, and we once again  thank you for your patience. We will continue to update you promptly as  we have additional information to share.&rdquo;<a title="Photo" href="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" target="_blank"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://www.wired.com/images_blogs/gadgetlab/2010/03/psn.jpg" target="_blank">Photo</a> by <a title="Charlie Sorrel" href="http://www.wired.com/gadgetlab/author/mistercharlie/" target="_blank">Charlie Sorrel</a> via <a title="Wired" href="http://www.wired.com/" target="_blank">Wired</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="PlayStation Network Goes Down" data-link="/2011/04/playstation-network-goes-down/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="PlayStation Network Goes Down" data-link="/2011/04/playstation-network-goes-down/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/playstation-network-goes-down/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>The Battle Over Net Neutrality</title>
+		<link>/2011/04/the-battle-over-net-neutrality/</link>
+		<comments>/2011/04/the-battle-over-net-neutrality/#comments</comments>
+		<pubDate>Wed, 13 Apr 2011 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[Net]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Neutrality]]></category>
+		<category><![CDATA[Open]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2405</guid>
+		<description><![CDATA[The internet was designed to be an open and freely flowing network of communication. Sure, there are some sites that are blocked due to their content, but for the most part, you can access what you want whenever you feel <a href="/2011/04/the-battle-over-net-neutrality/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/the-battle-over-net-neutrality/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://turbo.inquisitr.com/wp-content/2011/01/net-neutrality.jpg" class="gallery_colorbox"><img class="aligncenter" src="http://schrier.files.wordpress.com/2010/05/net-neutrality.jpg"  alt="" width="424" height="354"></a>The internet was designed to be an open and freely flowing network of communication. Sure, there are some sites that are blocked due to their content, but for the most part, you can access what you want whenever you feel the need. However, this could all change within the next few years depending on one heavily debated issue: Network Neutrality.</p>
+<p>In December of 2010, the Federal Communications Commission (FCC) voted  three-to-two to adopt an open-internet neutrality plan, often referred  to as Network Neutrality. Simply put, the basic principle of Net Neutrality is that high-speed internet providers should offer everyone equal access to the web, regardless of the content, data, applications, software, and platforms used while connected to broadband internet service. Therefore, Network Neutrality would continue to maintain the current status quo of internet access &ndash; do what thou wilt.</p>
+<p>Last Friday, however, the House of Representatives approved House Joint Resolution 37, which repealed the Federal Communications Commission&rsquo;s order of Net Neutrality. Opponents of Net Neutrality point to the need for stricter regulation  due to the substantial amount of bandwidth  consumed by the accelerated  growth of online video and file sharing in recent years. Critics also argue that the  government has no right to meddle in the affairs of business practices  online and that some forms of data discrimination is actually desirable.</p>
+<p>Without Network Neutrality though, broadband companies who own content providers, like Comcast who owns NBC,  would be able to block the Web sites of their competitors and  violate our freedom to information. Internet service providers would also begin to offer a tiered service model, where those who  pay to be in the top tier gain the highest quality of service, speed, and access to Web content,  while those in the lower tiers will get the short end of the stick.</p>
+<p>Although the legislation must pass through the Senate first, President Obama, who is a staunch supporter of open internet rules, has already stated that he will veto any such legislation to overturn the FCC&rsquo;s ruling. While the subject of Net Neutrality already has hit major, headache-inducing complications, this is an important issue to watch closely for the sake of our God-given right to YouTube as we please.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://turbo.inquisitr.com/wp-content/2011/01/net-neutrality.jpg" target="_blank">Photo</a> by <a href="http://www.inquisitr.com/4810/the-inquisitr-welcomes-steven-hodson-to-the-writing-team/" target="_blank">Steven Hodson</a> via <a href="http://www.inquisitr.com/" target="_blank">TheInquisitr</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Battle Over Net Neutrality" data-link="/2011/04/the-battle-over-net-neutrality/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Battle Over Net Neutrality" data-link="/2011/04/the-battle-over-net-neutrality/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/the-battle-over-net-neutrality/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; QR codes</title>
+	<atom:link href="/tag/qr-codes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Lydia asks, &#8220;What is a QR Code?&#8221;</title>
+		<link>/2013/06/lydia-asks-what-is-a-qr-code/</link>
+		<comments>/2013/06/lydia-asks-what-is-a-qr-code/#comments</comments>
+		<pubDate>Thu, 13 Jun 2013 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[NFC tags]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[smart phones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7430</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/Thine_Antique_Pen_QR_Code_medium-150x150.png" class="attachment-thumbnail wp-post-image" alt="Random QR Code" style="float:left; margin:0 15px 15px 0;" />RAY: Hi, I&#8217;m Ray Hollister, TOM: I&#8217;m Tom Braun, RAY: and we&#8217;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: TOM: Lydia writes: What is <a href="/2013/06/lydia-asks-what-is-a-qr-code/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/lydia-asks-what-is-a-qr-code/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/Thine_Antique_Pen_QR_Code_medium-150x150.png" class="attachment-thumbnail wp-post-image" alt="Random QR Code" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p98853-embed" src="http://www.prx.org/p/98853/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Lydia writes: What is a QR Code? I saw somebody at the mall looking at a movie poster with a black and white square that looked techy, and they said something about a QR code. What is that?</p>
+<p>RAY: Thanks for your question Lydia. Actually you described it pretty well. A QR code is a techy looking, black and white square. </p>
+<p>TOM: They kinda look like small crossword puzzles. What they can do is pretty cool though. The QR in QR code stands for Quick Response. They were first used in the automobile industry to help manufacturers keep track of parts. </p>
+<p>QR codes are similar to the bar codes or UPC symbols that you might see at a grocery store on the back of a can of beans. The difference is that a barcode is just one line of information, usually a twelve digit UPC number. The numbers that you see beneath the barcode are literally all that the laser scanner reads. Barcodes are one dimensional, (left to right) but QR codes are 2 dimensional: they store information left to right and up and down.</p>
+<p>RAY: Now, here&rsquo;s how this affects you, or could affect you. QR codes can have a lot of information stored in them, like website addresses, phone numbers, and other information, and you can read QR codes with a smartphone and a QR code reader app. And, a lot of companies are starting to put QR codes on their posters and in their ads in magazines and billboards. </p>
+<p>So, let&rsquo;s say you&rsquo;re looking at an ad in a magazine for a product you&rsquo;re interested in, and you&rsquo;d like to more information about it. Instead of having to enter the website&rsquo;s address in manually, or having to search the Internet for it, you could grab your phone, open your QR code reader, and snap a picture of the code, and boom you&rsquo;ve got the link to their website and it opens. Most QR codes that I&rsquo;ve seen just have a link to the website in them, but I&rsquo;ve seen a couple that real estate agents had on their brochures that had their contact information stored in them. So, when I scanned the code, I got their name, phone numbers, email addresses and website all in a note on my iPhone. I didn&rsquo;t have to write any of it down.</p>
+<p>TOM: So, QR codes could be really awesome, but they still face a lot of hurdles. The fact is that most people don&rsquo;t know what they are or how to read them. Actually, though, they&rsquo;re fairly easy to use.</p>
+<p>RAY: To use a QR code, you have to have a QR code reader on your phone. The best app I&rsquo;ve found for the iPhone is QRReader, but there are tons of QR code readers for the iPhone. Just search the app store for &ldquo;QR code reader,&rdquo; and try them out. </p>
+<p>Also, Microsoft has a similar 2D barcode called Microsoft Tag. It looks like multi-colored triangles sitting on shelves, so the appearance is much friendlier. Also, Microsoft has been pretty aggressively getting companies to start posting Tags on their ads and on their products. The Microsoft Tag app, which is available on practically ALL phones, (iPhones, Androids, Windows Phone, Blackberry, and standard feature phones) is the best one that I have found because it scans all 2D barcodes, including QR codes and Microsoft&rsquo;s Tags.</p>
+<p>TOM: There are numerous free apps in the Android play market that will allow you to read QR codes. Just search for &lsquo;QR code reader&rsquo;. Then download the app, open it up, point your camera at one of those black and white squares, and watch the magic happen.</p>
+<p>RAY: To hear more answers to questions like this one, visit our website at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to our full length show, and all of our previous radio segments.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister&hellip;</p>
+<p>TOM: and I&rsquo;m Tom Braun</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Lydia asks, "What is a QR Code?"' data-link="/2013/06/lydia-asks-what-is-a-qr-code/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Lydia asks, "What is a QR Code?"' data-link="/2013/06/lydia-asks-what-is-a-qr-code/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/lydia-asks-what-is-a-qr-code/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 40 &#8211; We&#8217;re iWatching You</title>
+		<link>/2013/06/episode-40-were-iwatching-you/</link>
+		<comments>/2013/06/episode-40-were-iwatching-you/#comments</comments>
+		<pubDate>Mon, 10 Jun 2013 02:09:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[computer problems]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[nsa leak]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7387</guid>
+		<description><![CDATA[Today on Deemable Tech we help Lydia understand what a QR code is and how to use it, we help &#8220;other&#8221; Ray with his monitor problem, Michael has a &#8220;foggy&#8221; camera on his iPhone, and we help Mary figure out <a href="/2013/06/episode-40-were-iwatching-you/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/06/episode-40-were-iwatching-you/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Today on Deemable Tech we help Lydia understand what a QR code is and how to use it, we help &ldquo;other&rdquo; Ray with his monitor problem, Michael has a &ldquo;foggy&rdquo; camera on his iPhone, and we help Mary figure out why her laptop uses all of her WiFi hotspot in an hour. Then, we have a conversation about the NSA leak, and Apple&rsquo;s upcoming World Wide Developer Conference.</p>
+<p>We didn&rsquo;t even mention it on the show, but this week&rsquo;s episode is somewhat special. It&rsquo;s the one year anniversary of Deemable Tech! Also, it&rsquo;s our 40th episode. So, that&rsquo;s something.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/_c2m4GMXoxU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-7387-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3">Episode 40 &ndash; We&rsquo;re iWatching You</a></p>
+<p>DRAFT TRANSCRIPT</p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and this is Deemable Tech, tech help worth listening to.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p>TOM: And, by audible.com &ndash; Deemable Tech listeners can get a FREE audiobook download at audibletrial.com/Deemable Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>RAY: And, from All Florida Insurance Options, an authorized Progressive agency, helping people shop for insurance at 904-757-3288 or at their office in Highland Square on Dunn Avenue in North Jacksonville.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>TOM: Lydia writes: What is a QR Code? I saw somebody at the mall looking at a movie poster with a black and white square that looked techy, and they said something about a QR code. What is that?<br>
+RAY: Thanks for your question Lydia. Actually you described it pretty well. A QR code is a techy looking, black and white square.<br>
+TOM: They kinda look like small crossword puzzles. What they can do is pretty cool though. The QR in QR code stands for Quick Response. They were first used in the automobile industry to help manufacturers keep track of parts.<br>
+QR codes are similar to the bar codes or UPC symbols that you might see at a grocery store on the back of a can of beans. The difference is that a barcode is just one line of information, usually a twelve digit UPC number. The numbers that you see beneath the barcode are literally all that the laser scanner reads. Barcodes are one dimensional, (left to right) but QR codes are 2 dimensional: they store information left to right and up and down.<br>
+RAY: Now, here&rsquo;s how this affects you, or could affect you. QR codes can have a lot of information stored in them, like website addresses, phone numbers, and other information, and you can read QR codes with a smartphone and a QR code reader app. And, a lot of companies are starting to put QR codes on their posters and in their ads in magazines and billboards.<br>
+So, let&rsquo;s say you&rsquo;re looking at an ad in a magazine for a product you&rsquo;re interested in, and you&rsquo;d like to more information about it. Instead of having to enter the website&rsquo;s address in manually, or having to search the Internet for it, you could grab your phone, open your QR code reader, and snap a picture of the code, and boom you&rsquo;ve got the link to their website and it opens. Most QR codes that I&rsquo;ve seen just have a link to the website in them, but I&rsquo;ve seen a couple that real estate agents had on their brochures that had their contact information stored in them. So, when I scanned the code, I got their name, phone numbers, email addresses and website all in a note on my iPhone. I didn&rsquo;t have to write any of it down.<br>
+TOM: So, QR codes could be really awesome, but they still face a lot of hurdles. The fact is that most people don&rsquo;t know what they are or how to read them. Actually, though, they&rsquo;re fairly easy to use.<br>
+RAY: To use a QR code, you have to have a QR code reader on your phone. The best app I&rsquo;ve found for the iPhone is QRReader, but there are tons of QR code readers for the iPhone. Just search the app store for &ldquo;QR code reader,&rdquo; and try them out.<br>
+Also, Microsoft has a similar 2D barcode called Microsoft Tag. It looks like multi-colored triangles sitting on shelves, so the appearance is much friendlier. Also, Microsoft has been pretty aggressively getting companies to start posting Tags on their ads and on their products. The Microsoft Tag app, which is available on practically ALL phones, (iPhones, Androids, Windows Phone, Blackberry, and standard feature phones) is the best one that I have found because it scans all 2D barcodes, including QR codes and Microsoft&rsquo;s Tags.<br>
+TOM: There are numerous free apps in the Android play market that will allow you to read QR codes. Just search for ?QR code reader&rsquo;. Then download the app, open it up, point your camera at one of those black and white squares, and watch the magic happen.</p>
+<p>Guys, my iPhone out camera is foggy, the in camera is perfectly clear. How do I fix? Thanks, mike</p>
+<p>Hi Ray and Tom,</p>
+<p>Sometimes the monitor fails to receive a signal when the computer wakes from sleep. The screen remains blank. Sometimes there is a single short beep. Sometimes not. The internal hardware self test and device manager show all devices working normally. Rebooting the computer fixes the problem. Any suggestions? </p>
+<p>Do I need a separate video card for ordinary (non-gaming) computer use? Maybe I could simply remove the optional video card which has only 128 MB of memory. The computer has 6 GB. Perhaps the motherboard has enough memory for ordinary (non-gaming) video use. As I remember there was a recall of NVIDIA GeForce 9300 GE cards years ago, which this computer has, but this card did not qualify at that time. Thanks. </p>
+<p>(the other) Ray </p>
+<p>Hi Ray or Tom, its Mary Davis. I currently use a hot spot for my home wifi. It gives me 5GB of data usage per month. I also have two laptops- one old, one new. I installed the hotspot using the same settings for both computers. On the old computer it works fine, I watch shows on Hulu quite a bit. On the new computer it takes about one hour to reach the 5GB mark. I&rsquo;ve asked AT&amp;T to help but they couldn&rsquo;t without me bringing everything to their store. I can&rsquo;t figure out what&rsquo;s going on. I saw your article in Folio and thought I&rsquo;d ask you. Thoughts?</p>
+<p>Thanks,<br>
+Mary <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;"></p>
+<p><a href="http://www.guardian.co.uk/world/2013/jun/09/nsa-secret-surveillance-lawmakers-live">Edward Snowden identifies himself as source of NSA leaks</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 40 - We're iWatching You" data-link="/2013/06/episode-40-were-iwatching-you/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 40 - We're iWatching You" data-link="/2013/06/episode-40-were-iwatching-you/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/06/episode-40-were-iwatching-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-06-09.mp3" length="62084075" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 7 &#8211; Backup Your Data or You&#8217;ll Catch Cyberchondria</title>
+		<link>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/</link>
+		<comments>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/#comments</comments>
+		<pubDate>Mon, 23 Jul 2012 17:15:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[cyberchondria]]></category>
+		<category><![CDATA[data backup]]></category>
+		<category><![CDATA[imap]]></category>
+		<category><![CDATA[Microsoft Tag]]></category>
+		<category><![CDATA[outlook]]></category>
+		<category><![CDATA[pop3]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[smtp]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5304</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />This week Ray Hollister, Tom Braun, Kevin Clark and Aaron Edelson beat to death how important it is to backup your data, figure out what those black and white &#8220;techie looking&#8221; squares are (QR codes) and we come down with <a href="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200">This week Ray Hollister, Tom Braun, Kevin Clark and Aaron Edelson beat to death how important it is to backup your data, figure out what those black and white &ldquo;techie looking&rdquo; squares are (QR codes) and we come down with a serious case of cyberchondria. All that and more on this episode of Deemable Tech.</p>
+<audio class="wp-audio-shortcode" id="audio-5304-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3">Deemable Tech &ndash; Episode 7 &ndash; Backup Your Data or You&rsquo;ll Catch Cyberchondria</a></p>
+<h3>Links we mentioned on the show:</h3>
+<p><a href="http://www.nlm.nih.gov/medlineplus/%20">http://www.nlm.nih.gov/medlineplus/ </a></p>
+<p><a href="http://www.cdc.gov/">http://www.cdc.gov/</a></p>
+<p><a href="http://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/">http://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/</a></p>
+<p><a href="http://www.dukehealth.org/health_library">http://www.dukehealth.org/health_library</a></p>
+<p><a href="http://tag.microsoft.com/home.aspx">http://tag.microsoft.com/home.aspx</a></p>
+<p><a href="http://qrcode.kaywa.com/">http://qrcode.kaywa.com/</a><a href="http://qrcode.kaywa.com/">/</a></p>
+<p><a href="http://www.clear.com/support/faq/clear-email/email/setting-up-and-accessing-clear">http://www.clear.com/support/faq/clear-email/email/setting-up-and-accessing-clear</a></p>
+<p><a href="http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=86374">http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=86374</a></p>
+<h3>Today&rsquo;s Bumper Music:</h3>
+<p><a href="http://www.youtube.com/watch?v=4OmvPf4ALRs">Double Rainbow Chiptune Cover &ndash; Robinerd</a></p>
+<p style="padding-left: 30px;"><a title="http://www.youtube.com/watch?v=MX0D4oZwCsA" dir="ltr" href="http://www.youtube.com/watch?v=MX0D4oZwCsA" rel="nofollow" target="_blank">Songify This : DOUBLE RAINBOW SONG!!</a></p>
+<p><a href="http://www.youtube.com/watch?v=frbCqDSaS5I">Bed Intruder Chiptune Cover &ndash; Robinerd</a></p>
+<p style="padding-left: 30px;"><a href="http://www.youtube.com/watch?v=frbCqDSaS5I">Auto-Tune the News : iTunes Version &ndash; Bed Intruder Song</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 7 - Backup Your Data or You'll Catch Cyberchondria" data-link="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 7 - Backup Your Data or You'll Catch Cyberchondria" data-link="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3" length="54290088" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

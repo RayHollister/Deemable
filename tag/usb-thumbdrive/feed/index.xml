@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; USB Thumbdrive</title>
+	<atom:link href="/tag/usb-thumbdrive/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Prem asks, &#8220;How can I recover files from a corrupt USB drive?&#8221;</title>
+		<link>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/</link>
+		<comments>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/#comments</comments>
+		<pubDate>Thu, 17 Oct 2013 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[data backup]]></category>
+		<category><![CDATA[Data Recovery]]></category>
+		<category><![CDATA[online backup]]></category>
+		<category><![CDATA[The Cloud]]></category>
+		<category><![CDATA[USB Thumbdrive]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8365</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/usb_drives-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: USBMemoryDirect.com / Flickr" style="float:left; margin:0 15px 15px 0;" />Q:&#160;I have a number of important files and folders on an 8 GB USB drive, but now I can&#8217;t open the files and I get error messages instead. I think the drive is corrupted or damaged. I really need these <a href="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/usb_drives-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: USBMemoryDirect.com / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p104971-embed" src="http://www.prx.org/p/104971/embed.js?size=small"></script></p>
+<p><strong>Q:&nbsp;</strong>I have a number of important files and folders on an 8 GB USB drive, but now I can&rsquo;t open the files and I get error messages instead. I think the drive is corrupted or damaged. I really need these files! Help!</p>
+<div id="attachment_8366" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/10/usb_drives.png" class="gallery_colorbox"><img class="size-medium wp-image-8366" alt="Image Credit: USBMemoryDirect.com / Flickr" src="//media/2013/10/usb_drives-300x193.png"  width="300" height="193"></a><p class="wp-caption-text">Image Credit: USBMemoryDirect.com / Flickr</p></div>
+<p><strong>A:&nbsp;</strong>Take a deep breath,&nbsp;Prem, we&rsquo;re going to steer you in the right direction. This is not a fun situation to be in, though. There&rsquo;s no way to guarantee that you can recover your files. This is why it is so important to keep your files in a safe place and back them up.</p>
+<p>For starters, never keep the only copy of your files on a USB drive! They&rsquo;re cheap and can be corrupted easily, and they can also easily get lost, dropped and stepped on.</p>
+<p>We always recommend keeping three copies of important files: one on your computer&rsquo;s hard drive; one on a backup external drive; and one more in The Cloud.</p>
+<p>Backing up to The Cloud basically means backing up your data online. This is actually very simple to do. You just need to download and install a cloud storage program like&nbsp;<a href="https://www.dropbox.com/" data-cke-saved-href="https://www.dropbox.com/">DropBox</a>,&nbsp;<a href="http://drive.google.com/" data-cke-saved-href="http://drive.google.com/">Google Drive</a>&nbsp;or&nbsp;<a href="http://pogoplug.com/" data-cke-saved-href="http://pogoplug.com/">PogoPlug</a>. All of these programs give you some storage (usually about 5 GB) for free. You can then pay a yearly subscription fee to get more.</p>
+<p>For our money,&nbsp;DropBox&nbsp;is the best and the easiest Cloud backup and storage solution. With&nbsp;DropBox&nbsp;installed, you don&rsquo;t even need a program to store your files on the Cloud ?&nbsp;DropBox&nbsp;simply creates a&nbsp;DropBox&nbsp;folder on your computer. Drag your files into that folder, and they will be uploaded to the&nbsp;DropBox&nbsp;Cloud. It doesn&rsquo;t get easier than that! And there&rsquo;s nothing to stop you from starting to save your important files online today.</p>
+<p>But let&rsquo;s get back to your situation,&nbsp;Prem. The good news is that since your computer can still see the USB drive, the drive is most likely only logically corrupted. In other words, the data has gotten scrambled somehow but there is nothing physically wrong with the drive. With any luck, a good recovery program can get most of the data back.</p>
+<p>There are numerous free data recovery programs available online, and there&rsquo;s even one built right into your computer. Windows PCs have a built in Check Disk utility that will analyze and attempt to repair your USB drive. You can learn more about using it on&nbsp;<a href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/" data-cke-saved-href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/">the Microsoft site</a>.</p>
+<p>If that doesn&rsquo;t work, the next step is to try a free third party recovery program.&nbsp;<a href="http://www.cgsecurity.org/wiki/TestDisk" data-cke-saved-href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk</a>&nbsp;is a well-regarded program, but it is somewhat advanced and must be run from the command line. Other good ones are&nbsp;<a href="http://www.piriform.com/recuva/download" data-cke-saved-href="http://www.piriform.com/recuva/download">Recuva</a>,&nbsp;<a href="http://diskdigger.org/" data-cke-saved-href="http://diskdigger.org/">Disk Digger</a>,&nbsp;<a href="http://www.pcinspector.de/default.htm" data-cke-saved-href="http://www.pcinspector.de/default.htm">PC Inspector</a>&nbsp;and&nbsp;<a href="http://www.snapfiles.com/get/restoration.html" data-cke-saved-href="http://www.snapfiles.com/get/restoration.html">Restoration</a>.</p>
+<p>Sadly, there is no perfect recovery program, which means you may need to download a few and try them. After each pass be sure to check your data and copy anything that has become usable to your hard drive. By doing so, you can hopefully retrieve most of the vital data on your USB drive.</p>
+<p>If that still doesn&rsquo;t get the job done, there are paid services that specialize in data recovery. You can find them online by doing a search for &ldquo;USB data recovery&rdquo;. Good luck! And remember: Backup! Backup! Backup!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

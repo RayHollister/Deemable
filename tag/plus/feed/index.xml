@@ -1,0 +1,63 @@
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
+
+Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes/template.php on line 555
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Plus</title>
+	<atom:link href="/tag/plus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Is Google+ the Next Facebook?</title>
+		<link>/2011/06/is-google-the-next-facebook/</link>
+		<comments>/2011/06/is-google-the-next-facebook/#comments</comments>
+		<pubDate>Thu, 30 Jun 2011 19:47:12 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Buzz]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Larry Page]]></category>
+		<category><![CDATA[Plus]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Wave]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3746</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2011/06/Google+-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google+" style="float:left; margin:0 15px 15px 0;" />Facebook has caused a worldwide revolution in social media, and Google may have finally developed a similar product that can rival their nemesis. Google&#8217;s response to Facebook, Google+, was launched on Tuesday to a select number of people as a <a href="/2011/06/is-google-the-next-facebook/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/is-google-the-next-facebook/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/06/Google+-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google+" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: center"><a href="http://deemable.com/wp-content/uploads/2011/06/Google+.jpg"><br></a><a href="http://deemable.com/wp-content/uploads/2011/06/Google+.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-3747" src="http://deemable.com/wp-content/uploads/2011/06/Google+.jpg"  alt="" width="545" height="371"></a></p>
+<p>Facebook has caused a worldwide <a title="Facebook" href="http://deemable.com/stuff/2011/04/the-facebook-empire/" target="_blank">revolution in social media</a>, and Google may have finally developed a similar product that can rival their <a title="Facebook vs Google War" href="http://money.cnn.com/2011/05/12/technology/facebook_google/index.htm" target="_blank">nemesis</a>. Google&rsquo;s response to Facebook, Google+, was launched on Tuesday to a select number of people as a &ldquo;social field test&rdquo; &ndash; meaning Google+ is not in the public beta release stage yet.&nbsp;<em>Plus</em> is the first major launch by Larry Page,&nbsp;Google&rsquo;s co-founder and new Chief Executive Officer since April.</p>
+<p>Google has had prior hiccups entering the social media game with failed products like Google Buzz, Google Orkut, and Google Wave, so it&rsquo;s no surprise that&nbsp;the search giant&rsquo;s latest attempt at a social media avenue has generated mixed feelings from its users.&nbsp;Some are receptive of the features offered in the Facebook alternative, most notably the ability to create &ldquo;Circles&rdquo; &ndash; an easier way to maintain and group contacts. Other features are described by <a title="Reuters" href="http://blogs.reuters.com/mediafile/2011/06/28/google-dont-call-it-the-facebook-killer-for-now/" target="_blank">Reuters</a> below:</p>
+<blockquote><p>Google+ will have some obviously-essential features for a social network ? a news component called the Stream, a search/alert component called Sparks which will serve up different results on your interests than a plain vanilla Google search. There is also the ability to share with people who aren&rsquo;t signed up for the service ? which addresses the problem of opt-in-itis.</p>
+<p>But at first blush the most intriguing aspect of Google+ seems to be the granularity with which you can pigeonhole your friends, acquaintances, family, contacts and whomever into the exact right slot in your social web. It&rsquo;s a seemingly obvious problem to solve and one which Facebook hasn&rsquo;t, perhaps, because it hasn&rsquo;t seen the need to ? ?groups? notwithstanding.</p></blockquote>
+<p>Critics, however, are saying that <em>Plus </em>is not differentiated enough from its competition and is basically a&nbsp;<a title="Facebook clone" href="http://www.businessinsider.com/google-plus-and-facebook-similarities-2011-6#" target="_blank">replica of Facebook</a>, and not many people are interested in maintaining multiple social media outlets.</p>
+<p>One thing is clear though, Google+ is generating <em>a lot</em> of buzz. The VP of Social at Google, Vic Gundotra,&nbsp;&nbsp;<a title="Vic" href="https://plus.google.com/107117483540235115863/posts/PhJFJqLyRnm" target="_blank">posted on <em>Plus</em></a>, &ldquo;We&rsquo;ve shut down invite mechanism for the night. Insane demand. We need to do this carefully, and in a controlled way. Thank you all for your interest!&rdquo; While the platform has a loooooooong way to go before it can compete with Facebook, the company claims that <em>Plus </em>is&nbsp;not a Facebook Killer but an overall improvement of the Google experience. <a title="Fast Company" href="http://www.fastcompany.com/1763832/google-plus" target="_blank">Fast Company writes</a>, &ldquo;Google+ is one element in a much larger strategy the company launched last year to gradually shift all of Google&ndash;Search, YouTube, Places, etc&mdash;from standalone tools to a set of services that operate much more socially.&rdquo;</p>
+<p>So for now, users who weren&rsquo;t granted an invite (like myself) can browse Business Insider&rsquo;s&nbsp;<a title="Tour" href="http://www.businessinsider.com/google-plus-tour-2011-6#after-you-receive-your-invite-head-to-plusgooglecom-once-you-log-in-with-your-google-account-youll-see-this-gray-box-fill-out-the-information-and-select-join-note-google-gives-you-the-option-to-get-personalized-ads-based-on-your-google-profile-uncheck-the-box-if-you-dont-want-that-1" target="_blank">top-to-bottom tour</a> of Google+ and can play around on the Google+&nbsp;<a title="Demo" href="http://www.google.com/intl/en-US/+/demo/" target="_blank">demo site</a> to take a look at the social media site while its still in its infancy.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Google+ Circles Photo" href="http://deemable.com/wp-content/uploads/2011/06/Google+.jpg" target="_blank">Photo</a> by <a title="Google+" href="http://www.google.com/intl/en-US/+/demo/" target="_blank">Google</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Is Google+ the Next Facebook?" data-link="/2011/06/is-google-the-next-facebook/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Is Google+ the Next Facebook?" data-link="/2011/06/is-google-the-next-facebook/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/is-google-the-next-facebook/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

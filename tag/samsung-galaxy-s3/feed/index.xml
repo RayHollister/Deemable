@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Samsung Galaxy S3</title>
+	<atom:link href="/tag/samsung-galaxy-s3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 35 &#8211; Ray Grows Extra Arms</title>
+		<link>/2013/04/episode-35-ray-grows-extra-arms/</link>
+		<comments>/2013/04/episode-35-ray-grows-extra-arms/#comments</comments>
+		<pubDate>Mon, 08 Apr 2013 03:52:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[IE]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[Samsung Galaxy S3]]></category>
+		<category><![CDATA[web browser]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7108</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" />Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&#8217;s episode we talk about how to keep your phone <a href="/2013/04/episode-35-ray-grows-extra-arms/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/episode-35-ray-grows-extra-arms/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/04/RaysExtraArms.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7114" alt="Rays Extra Arms" src="//media/2013/04/RaysExtraArms-300x225.jpg"  width="300" height="225"></a>Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&rsquo;s episode we talk about how to keep your phone data usage low, how to download a new browser, how to install Adobe Acrobat even if you can&rsquo;t see the installation page, and whether you should buy an bigger iPhone 4S or 5.</p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also, make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-7108-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" target="_blank">Download Episode 35 &ndash; Ray Grows Extra Arms</a></p>
+<p><span id="more-7108"></span></p>
+<h3>TRANSCRIPT</h3>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">And, by audible.com &ndash; get a FREE audiobook download at <a href="http://www.audibletrial.com/Deemable">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p dir="ltr">TOM: Today on the show, we&rsquo;re going to going to talk about to keep your phone&rsquo;s data plan usage low, and</p>
+<p dir="ltr">RAY: how to figure out what browser you&rsquo;re using and what a browser even is, but first.</p>
+<p dir="ltr">One Spark, &nbsp;April 17 &ndash; 21, 2013 register to vote at beonespark.com</p>
+<p dir="ltr">The reason we are doing OneSpark is because we want to launch a full fledged public radio show. But to do that, we need money. It takes a lot of money to run a public radio show, and even more to launch one. So, hopefully, if a lot of folks vote for us, we&rsquo;ll get a bit of money from the One Spark crowd fund, but even if we don&rsquo;t hopefully a lot of people will find out about us, and we&rsquo;ll be able to help them out!</p>
+<p dir="ltr">*WALK THROUGH THE PROCESS*</p>
+<p dir="ltr">You can hear Deemable Tech on WJCT 89.9 FM in Jacksonville, FL, now you can also hear it on&nbsp;WCWP 88.1 FM in Brookville, NY! Welcome to any listeners from Brookville.</p>
+<p>&nbsp;Questions</p>
+<p dir="ltr">TOM: Michelle asks, I was wondering about ways to lower my data usage on my iPhone. I always seem to go over my limit, and then I am slapped with another monthly charge. What things can I turn ?off? or put away unless I need them, and how do I do it?</p>
+<p dir="ltr">RAY: Thanks for your question, Michelle. iPhones and Android phones can eat up a data plan like a 5 year old with an unattended candy bowl. Unless you&rsquo;re on an unlimited data plan, you have to keep an eye on what your phone is downloading and sending, or it&rsquo;ll end up taking a bite out of your wallet.</p>
+<p dir="ltr">Periodically check your cellular data usage on your iPhone by opening your Settings app, and tapping General, Usage and then Cellular Usage at the bottom. On that screen you can see how much data your phone has sent and received. Each month, at the end of your billing cycle, tap the Reset Statistics button to clear out the counters and start over.</p>
+<p dir="ltr">TOM: Well, Ray, that&rsquo;s good information about how to keep track of how much data you&rsquo;re using on an iPhone, but Michelle wanted to know how to reduce the amount of data she&rsquo;s using on an iPhone. Come on man, stay focused!</p>
+<p dir="ltr">RAY: Well, you&rsquo;re right, but the first step to any diet is keeping track of how much you&rsquo;re consuming, or so I&rsquo;ve heard. Knowing how much data you&rsquo;re using in the first place will help to stay you on track. Now, here&rsquo;s a few tips to keep your cellular data usage low. First of all, don&rsquo;t download or stream any video or audio unless you are connected to a Wi-Fi network. Those NPR, Netflix, Hulu and PBS Kids apps will devour your cellular data. I&rsquo;m not saying don&rsquo;t use them! They&rsquo;re great apps. Just make sure to use them when you are connected to a Wi-Fi network if you&rsquo;re trying to save your cellular data.</p>
+<p dir="ltr">TOM: And, if you have streaming video or music that you just have to watch or listen to over 3G or 4G, go for the Non-HD version or the lower quality version. That will save you a bunch of data, too. If you use Spotify, make your playlists Available Offline so that the next time you&rsquo;re away from home they&rsquo;ll play from your phone instead of over the Internet.</p>
+<p dir="ltr">RAY: The same thing is true for Amazon Cloud Player and the Podcast app; make sure to download your songs and new podcast episodes to your device before you leave the house. Also, and it&rsquo;s probably obvious, but make sure to only download new apps and updates when you are on a Wi-Fi network too.</p>
+<p dir="ltr">TOM: Also, try reducing the number of times that your phone downloads new email. On the iPhone, open your Settings app and tap ?Mail, Contacts, Calendars? and then, Fetch New Data. Turn off Push, and change Fetch to Manually or, at most, Hourly.</p>
+<p dir="ltr">RAY: Finally, If you see that you&rsquo;re getting close to your limit, or you just want to save your data plan for later in the month, turn your cellular data off. On the iPhone go to the General menu under Settings, tap Cellular and then tap the Cellular Data on/off switch. You&rsquo;ll still get phone calls and text messages, but you won&rsquo;t be able to browse the web and none of your apps will access the Internet either unless you are connected to a Wi-Fi network. You can also turn off Cellular data for specific built-in functions like iTunes, FaceTime, and Personal Hotspot in that same menu.</p>
+<p dir="ltr">Now Tom, we&rsquo;re talking about the iPhone here, but do you have any tips for Android users to save on their data plan?</p>
+<p dir="ltr">TOM: Well, Android phones have a lot of the same features. You can, for instance disable mobile data and only use data when you&rsquo;re on WiFi. But there&rsquo;s something even cooler that Android phones with version 4.0 or better can do. Open up your settings and go to the Data Usage menu. There is a checkbox there that says ?limit mobile data usage&rsquo;. Check that and it will put a default cap of 5 GB. You can change the cap by touching the data usage graph below that option.</p>
+<p dir="ltr">Alternatively, there is an option to have it alert you when you reach a certain amount of data. So Android gives you a lot of great options for monitoring your data usage.</p>
+<p dir="ltr">Individual Android apps also often have settings that will restrict them from using data unless you&rsquo;re on wi-fi.</p>
+<p dir="ltr">In fact, I&rsquo;d almost say that Android has more options for data saving than the iPhone does. What a surprise huh?</p>
+<p dir="ltr">RAY: Yeah, BIG surprise.</p>
+<p dir="ltr">RAY: Drew asked&nbsp;If I use Lastpass on my PC for an email account that I also have on my mobile phone can I still use that email account on my phone without Lastpass &hellip;</p>
+<p dir="ltr">In other words that long password that Lastpass generates on my PC for that email account is that the password that I would have to use on my phone even if I don&rsquo;t have Lastpass on it? Also if I uninstall Lastpass what will happen to all my passwords that were generated with Lastpass? Do I have to go in and change all my passwords to something that I can remember before I uninstall? Thanks!</p>
+<p dir="ltr">TOM: No Drew, thank you.</p>
+<p dir="ltr">LastPass is a great tool, but it does generate passwords that are difficult for humans to remember. Really, that&rsquo;s the point of LastPass, which is to generate passwords that are hard to crack. So unless you set it otherwise, LastPass generates passwords of long strings of random numbers and characters, which makes it difficult to remember them. But that&rsquo;s okay, LastPass remembers them for you. Unless you get rid of LastPass or don&rsquo;t have LastPass on your device.</p>
+<p dir="ltr">RAY: Then Drew, you have to remember those passwords yourself.</p>
+<p dir="ltr">TOM: Right, Ray. LastPass is strictly a password database. It remembers the passwords you set, and it can suggest new passwords when you need them, but it does not actually control the passwords for any site.</p>
+<p dir="ltr">So if you used LastPass to generate a password, all it does is suggest its usual string of random characters and then remember that string. If you used LastPass to generate the password for your email account, that password is the password for your email account until YOU change it. Deleting LastPass will not affect that password.</p>
+<p dir="ltr">RAY: So if you delete LastPass, that super-complicated password is STILL your email account password, AND you now have to remember it. And that seems like a bad idea.</p>
+<p dir="ltr">TOM: Bingo. I use LastPass when I have to create new accounts on the web. It generates 14 characters of gobbledygook for each individual website. There&rsquo;s no WAY I&rsquo;m going to be able to remember those passwords on my own.</p>
+<p dir="ltr">So if you plan to delete LastPass, I strongly advise that you go to your email account and change your password to something you can remember on your own. And you need to do that for every account or app you have a LastPass generated password for.</p>
+<p dir="ltr">Depending on how long you&rsquo;ve been using LastPass, that could be a lot of passwords. So Drew, I strongly recommend that you do not delete LastPass. What I mean by that is, don&rsquo;t get rid of your LastPass account. Even if you stop using it, even if you uninstall the app on your phone or the plugin on your browser, keep the password to your account handy. Because one of these days you&rsquo;re likely to need to get in there and look up a password to some obscure website which you have forgotten.</p>
+<p dir="ltr">RAY: And just to be clear, opening up the LastPass password vault, finding your stored email account and changing the password there will NOT change the password on your email account! It just changes the password LastPass remembers for your email account. Which will now be wrong.</p>
+<p dir="ltr">TOM: Right.</p>
+<p dir="ltr">RAY: No, wrong.</p>
+<p dir="ltr">TOM: No, I mean ?right&rsquo; as in, ?you are correct&rsquo;.</p>
+<p dir="ltr">RAY: Oh, right. I mean, correct.</p>
+<p dir="ltr">TOM: Another thing you can do is that LastPass allows you to export your password database. Just open up the LastPass password vault, click the down arrow by your account name and click ?export&rsquo;. It will then walk &nbsp;you through the steps to save all your LastPass stored passwords somewhere else.</p>
+<p dir="ltr">RAY: So, if Drew wants to change his email password to something he can remember so he can type it on his phone, what should he do?</p>
+<p dir="ltr">TOM: Well, the easiest way would be to access your email through your browser with the LastPass plugin running. Go to your account on your email website and change the password there to something you can remember. LastPass should automatically detect that you have changed the password and remember the new password.</p>
+<p dir="ltr">If it does not, then you need to manually go into the LastPass password vault and change your password so that it matches.</p>
+<p dir="ltr">Right, Ray?</p>
+<p dir="ltr">RAY: Correct.</p>
+<p>&nbsp;</p>
+<p dir="ltr">TOM: Christine asks, I have been having trouble getting on the Internet lately because of pop-up error messages. My friend Jeff, who usually fixes my computer, says the problem is my ?browser&rsquo; and keeps trying to get me to use something called ?Firefox&rsquo;. I&rsquo;m used to the normal way I get online. Do I really need to change?</p>
+<p dir="ltr">RAY: It would be nice if the Internet worked and looked the same for everybody, Christine!</p>
+<p dir="ltr">TOM: But that would be too easy! It&rsquo;s a little more complicated than that.</p>
+<p dir="ltr">Any program you use to view web pages is called a ?browser&rsquo;. The browser that comes pre-installed on Windows is Internet Explorer, or IE for short. It&rsquo;s the most popular browser in the world. But, there&rsquo;s a catch.</p>
+<p dir="ltr">RAY: Yep. Different versions of Windows, like Windows XP, Vista or Windows 8, come with different versions of IE. For instance, if you still have Windows XP then you may be running the version of IE that came with it, version 6.</p>
+<p dir="ltr">TOM: But Internet Explorer is now on version 10! So IE 6 is way out of date.</p>
+<p dir="ltr">RAY: If you have an old version of IE, some web pages may look wrong or not load correctly. You may see bugs or weird pop-ups like you described, Christine. You are also in danger from all kinds of malware and online attacks through loopholes that were fixed in later versions.</p>
+<p dir="ltr">TOM: To find out what version you have you need to bring up the ?About Internet Explorer&rsquo; screen. Depending on what version you are running, that will be under the Help menu, or under the menu that comes up when you click the little gear icon. They&rsquo;re both at the top of the screen.</p>
+<p dir="ltr">Then you should install the latest version available for your version of Windows. On Windows XP you can get up to Version 8, and for newer versions of Windows you can get version 10. Having the latest version of IE will likely fix many of the problems you are having. Plus, it&rsquo;s just safer.</p>
+<p dir="ltr">RAY: Okay Tom, but Christine said her her friend Jeff is trying to get her to switch to Firefox? Why should she change to Firefox?</p>
+<p dir="ltr">TOM: Ray, do you know the classic nerd joke about Internet Explorer?</p>
+<p dir="ltr">RAY: Refresh my memory.</p>
+<p dir="ltr">TOM: Internet Explorer is the best browser&hellip; for downloading another browser.</p>
+<p dir="ltr">RAY: *vamps*</p>
+<p dir="ltr">TOM: The point Christine, is that there are lots of different web browsers besides Internet Explorer. There&rsquo;s Firefox, Chrome and Opera. Those are just some of the bigger ones. There are literally dozens out there.</p>
+<p dir="ltr">Other browsers offer a lot of different features and are often faster, so techies who want more control over their internet experience almost always use something else.</p>
+<p dir="ltr">For instance, with Firefox you can download ?add-ons&rsquo; for the browser, that do cool things like block ads, let you download YouTube videos to your computer, display the weather at the top of the screen and more.</p>
+<p dir="ltr">RAY: Google&rsquo;s Chrome browser is quickly gaining popularity. Chrome is known for being really fast, which is nice. But its killer feature, is that you can synchronize all your copies of Chrome on any computer, tablet or phone. Any changes you make to one copy are automatically made to the other copies. You can also access web pages that you had open on other machines.</p>
+<p dir="ltr">TOM: I love that feature. It&rsquo;s so nice to be able to open a web page at work that I had opened earlier on my computer at home.</p>
+<p dir="ltr">It&rsquo;s also worth mentioning that most browsers other than IE conform more closely to the standards for displaying web pages, so web sites may display better on Firefox, Chrome or Safari.</p>
+<p dir="ltr">RAY: Unless you&rsquo;re visiting a lot of Microsoft sites: often those sites won&rsquo;t work correctly on anything but Internet Explorer.</p>
+<p><b id="internal-source-marker_0.20903730113059282">TOM: But the good news is that you can have two browsers at once, and switch back and forth between them anytime you like. So there&rsquo;s no harm in downloading Firefox and giving it a try. It will get your friend Jeff off your back, and hey, you might even like it!</b></p>
+<p><b id="internal-source-marker_0.5217118344735354">&mdash;&ndash;</b></p>
+<p dir="ltr">Lynn asked, I typed this once before but not sure if it went through. I have an Asus laptop and have check on explore 8 and chrome but do not find java or it&rsquo;s owner under either. I have Kaspersky and it uses Javascript. Could it be it never got installed? The laptop is about 2 yrs old, but I don&rsquo;t use it much.</p>
+<p>&mdash;&ndash;</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Also, make sure to come out to One Spark April 17-21, and make sure to come by and visit Deemable Tech&rsquo;s booth at Ignite Adecco on Bay and Main Street, and make sure to vote for Deemable Tech we&rsquo;re number 253. If you haven&rsquo;t already registered to vote, go to beonespark.com and register now to vote.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
+<p dir="ltr">Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/episode-35-ray-grows-extra-arms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" length="53291050" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

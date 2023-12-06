@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; HDMI</title>
+	<atom:link href="/tag/hdmi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Aaron asks, &#8220;How can I connect my laptop to my TV?&#8221;</title>
+		<link>/2013/12/aaron-asks-can-connect-laptop-tv/</link>
+		<comments>/2013/12/aaron-asks-can-connect-laptop-tv/#comments</comments>
+		<pubDate>Thu, 19 Dec 2013 11:40:49 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[HD TVs]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Roku]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8497</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/12/laptop_to_tv-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Alan Levine / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: What is the best way to hook my laptop up to my TV? A: Thinking of cutting the cord, Aaron? With Netflix and Hulu Plus you can get most of the shows you watch on TV without cable. Or <a href="/2013/12/aaron-asks-can-connect-laptop-tv/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/12/aaron-asks-can-connect-laptop-tv/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/12/laptop_to_tv-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: Alan Levine / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p107737-embed" src="http://www.prx.org/p/107737/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>What is the best way to hook my laptop up to my TV?<span id="more-8497"></span></p>
+<div id="attachment_8498" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/12/laptop_to_tv.png" class="gallery_colorbox"><img class="size-medium wp-image-8498" src="//media/2013/12/laptop_to_tv-300x250.png"  alt="Image Credit: Alan Levine / Flickr" width="300" height="250"></a><p class="wp-caption-text">Image Credit: Alan Levine / Flickr</p></div>
+<p><strong>A: </strong>Thinking of cutting the cord, Aaron? With Netflix and Hulu Plus you can get most of the shows you watch on TV without cable. Or maybe you want to use your TV to show the baby videos stored on your laptop? Either way there are a few options.</p>
+<p>If you have an HDMI port on both your laptop and your TV, the simplest approach may be to connect them using an HDMI cable. Most, but not all, laptops now support HDMI and virtually every modern TV does. A word of caution: don&rsquo;t go to your local big box store to buy HDMI cables &ndash; they are way overpriced! You can find them online for literally a quarter of the price (we&rsquo;re talking $10 vs. $40).</p>
+<p>Once you have a cable connecting both the laptop and the TV, you need to select the HDMI input on your television. Then, if you are using a PC, you may have to tell your laptop to send the signal to the TV. This is usually accomplished by pressing the &ldquo;function&rdquo; or &ldquo;FN&rdquo; key and one of the F keys at the top of the keyboard.</p>
+<p>Now, if you don&rsquo;t want to cover your living room with HDMI cables, there are also a lot of wireless solutions out there. However, your choices depend on what kind of laptop you have and what you want to do with it. For instance, Intel has a very nice bit of technology to mirror your PC or Mac called WiDi (which stands for &ldquo;Wireless Display&rdquo;). Unfortunately it is not very widely available, and typically you&rsquo;ll only find it on high-end Intel laptops.</p>
+<p>Several manufacturers also make small boxes which enable wireless streaming from your laptop to your television. Apple TV and Roku are two of the most widely known. Either one can stream from a Mac or PC, and from Netflix, Hulu Plus and a variety of other services. They each cost around $100 (depending on which version of the Roku you buy). If we were answering your question six months ago, we would tell you to get one of these.</p>
+<p>You see, there&rsquo;s now another solution that&rsquo;s a lot cheaper. Google sells a small gadget called the Chromecast which plugs into the HDMI port on your TV. It then connects to your home WiFi network. Once it&rsquo;s set up, you can stream video from your laptop through the Google Chrome browser (it supports YouTube, Netflix, Hulu Plus and Pandora), and it will mirror any page you have open in the browser. And here&rsquo;s kicker: it&rsquo;s only $30.</p>
+<p>However, you should know that there are some limitations. Since the Chromecast only streams what you can view through the Chrome browser, it most likely won&rsquo;t work with video you have stored locally on your hard drive. So, it may not be the best solution if you are looking to show off your baby videos.</p>
+<p>But, again, for $30 it may be worth a shot. If it doesn&rsquo;t work out, there&rsquo;s always the HDMI cable.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Aaron asks, "How can I connect my laptop to my TV?"' data-link="/2013/12/aaron-asks-can-connect-laptop-tv/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Aaron asks, "How can I connect my laptop to my TV?"' data-link="/2013/12/aaron-asks-can-connect-laptop-tv/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/aaron-asks-can-connect-laptop-tv/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

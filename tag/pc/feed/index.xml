@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; pc</title>
+	<atom:link href="/tag/pc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 37 &#8211; More Evil Printers!</title>
+		<link>/2013/05/episode-37-more-evil-printers/</link>
+		<comments>/2013/05/episode-37-more-evil-printers/#comments</comments>
+		<pubDate>Mon, 06 May 2013 03:38:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Printer trouble]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7312</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" />This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand <a href="/2013/05/episode-37-more-evil-printers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/episode-37-more-evil-printers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/WhyYouCantPrintThat-150x150.png" class="attachment-thumbnail wp-post-image" alt="Graph via Something of that Ilk." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_7314" style="width: 375px" class="wp-caption alignright"><a href="http://www.somethingofthatilk.com/index.php?id=454"><img class=" wp-image-7314 " title="Printers. Can't live with them, can't beat them with a baseball bat." alt="Graph via Something of that Ilk." src="//media/2013/05/WhyYouCantPrintThat.png" width="365" height="282"></a><p class="wp-caption-text">Graph via <a href="http://www.somethingofthatilk.com/index.php?id=454">Something of that Ilk</a>.</p></div>
+<p>This week on the Deemable Tech podcast, the bowels of hell reopened and spat out more fun printer questions! Also, Ray and Tom helped a listener understand what to look for in a new computer, and helped another listener understand why her phone is better at being a computer than her computer is. All that and more on this week&rsquo;s episode of Deemable Tech.</p>
+<p><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-7312-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3</a></audio><br><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3">Episode 37 &ndash; More Evil Printers!</a></p>
+<p><strong>ROUGH TRANSCRIPT</strong></p>
+<p>RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p>TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at questions@deemable.com.</p>
+<p>RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/" target="_blank">asmallorange.com</a>.</p>
+<p>And, by audible.com &ndash; get a FREE audiobook download at <a href="http://audibletrial.com/Deemable" target="_blank">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p>TOM: This week on the podcast we&rsquo;re talking about&hellip; what are we talking about, Ray?</p>
+<p>RAY: Well Tom, this week we&rsquo;re going to talk about how to shop for laptops, but first we&rsquo;re going to talk about your favorite topic.</p>
+<p>TOM: What&rsquo;s that?</p>
+<p>RAY: Printers!</p>
+<p>TOM: NOOOOOOOOOOOO!!!!</p>
+<p>RAY: Listeners from last week&rsquo;s podcast may remember that Tom has an &ndash; aversion &ndash; to printers.</p>
+<p>TOM: They are from the devil and should be burned.</p>
+<p>RAY: Well, people still have questions about printers. Let&rsquo;s see if we can help the nice people out.</p>
+<p>TOM: Oookay&hellip;</p>
+<p>Melissa asks, my HP Photosmart C5100 printer says that I need to insert a new ink cartridge (the pink) even though we already have. It won&rsquo;t let me choose black and white printing either, which it usually does when one color is out. I&rsquo;ve tried two different pink ink cartridges so I know that isn&rsquo;t the problem.</p>
+<p>RAY: Printers are probably the most-hated pieces of technology ever created, and at no time are they more hated than when they pop up the dreaded ?Ink Cartridge(s) Are Empty&rdquo; error message. Fortunately, with your model, you can override that error message without hacking into the printer. It does take a few steps though. Here&rsquo;s how to get rid of that pesky error message.</p>
+<p>Before you start this, you should bookmark this page or open it on another device. You have to reboot your computer during this process, and since you can&rsquo;t use your printer you&rsquo;ll need a way to get back to this information. A fast easy way to bookmark this page is to press Ctrl-D on your keyboard. That will start the save this page as a bookmark dialogue in almost every web browser. Now that you have that saved, you can move on.</p>
+<p>First, if the computer and the printer isn&rsquo;t turned on and plugged in, go ahead and do that now. This will sound ironic in a minute, but trust me, it&rsquo;s important.<br>
+Now, disconnect the Ethernet Cable or the USB cable from the back of the printer. (Disconnect both if you have them both plugged in for some reason.)<br>
+Restart your computer. (Make sure you&rsquo;ve already bookmarked this page before you do that so you can easily get back here after the computer restarts.)<br>
+Once the computer is back on, and with the printer still turned on, unplug the power cord from the printer.<br>
+Now, wait 30 seconds. Listen to Her Majesty, by The Beatles to kill the time. (Technically, it&rsquo;s only 23 seconds long but by the time you fire up the CD or record player or YouTube, you&rsquo;ll have burnt those extra 7 seconds.)<br>
+Put all your CDs or records back in the closet, or stop watching cat videos on YouTube.<br>
+Insert the power cord back into the printer, and turn the printer on.<br>
+Clear any error messages.<br>
+Now, you shouldn&rsquo;t have that pesky error message in your face, and you should be able to go back to printing. Until the next time.</p>
+<p>If that doesn&rsquo;t work, try repeating these steps again, but perhaps try substituting Her Majesty for one of these videos. They won&rsquo;t improve your odds, but they&rsquo;ll probably make you laugh, and you might forget about your evil printer for a little bit.</p>
+<p>Joe D. writes,</p>
+<p>Hello Ray and Tom,</p>
+<p>I also have a printer problem but not related to operation. It&rsquo;s the cost of operation. We have been using 2 Canon inkjet printers for the past 4-5 years &ndash; the entire time my kids were in college they used these printers. While the printers were very cheap to purchase, they have been very expensive to operate (granted that&rsquo;s subjective). I am not sure which costed more &ndash; the college tuition or the ink for the printers! I recently started looking for replacement printers with the goal of getting the operational price down, but there is so little information on this, it&rsquo;s hard to determine what models are cheapest to run. While I realize that all-in-one inkjets aren&rsquo;t the least expensive to operate, I really would like to find the least expensive in this category while still getting decent print quality and speed for occasional home use only. Thanks for any help you can provide.</p>
+<p>RAY: Lauren writes, Hi guys,</p>
+<p>So I&rsquo;m in the market for a new laptop. (After much wailing and gnashing of teeth over my still new-ish old one which went kaput for absolutely no reason other than that it hates me. I&rsquo;m only a teensy bit bitter.)</p>
+<p>I&rsquo;m not a gamer so I don&rsquo;t foresee needing tons of bells &amp; whistles, but I do want to stream video on things like YouTube, watch TV shows on Hulu, chat on Skype and store pictures and music. I&rsquo;m pretty sure I don&rsquo;t want a Chromebook.</p>
+<p>Can you give some pointers about:</p>
+<p>processors (does it really matter which kind?)</p>
+<p>GB Memory (is there a basic number to shoot for? Like 4? 4 sounds good&hellip;)</p>
+<p>GB Hard Drive (same as memory; basic ballpark for functionality?)</p>
+<p>Thanks! If you&rsquo;ve already covered this in a different show never mind&hellip; <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;"></p>
+<p>RAY: No Chromebook? Aw, come on, that&rsquo;s no fun.</p>
+<p>TOM: The lady has spoken Ray. No Chromebooks. I mean, I can see where she&rsquo;s coming from. Would you necessarily want your Chromebook to be your only computer?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Well, so Lauren&rsquo;s in the market for a Windows-based laptop. These can be pretty murky waters to navigate for the casual buyer. But she&rsquo;s asking the right questions.</p>
+<p>RAY: Oh yeah. First of all, she&rsquo;s not hung up on brands that really don&rsquo;t matter. So many times when I ask someone who is having problems what kind of computer they have they tell me ?HP&rdquo; or ?Dell.&rdquo; Those are just brand-names!</p>
+<p>TOM: Right. That&rsquo;s like if you go to your mechanic because you&rsquo;re having car problems and when they ask what kind of car you have you say ?Ford.&rdquo;</p>
+<p>RAY: When you&rsquo;re shopping for a car you look at things like whether it&rsquo;s manual or automatic, how many cylinders the engine has, what kind of MPG it gets.</p>
+<p>You&rsquo;ve got to do the same thing when you&rsquo;re fixing a computer, or in this case, shopping for one. You need to know what numbers matter, and what they mean.</p>
+<p>TOM: Lauren&rsquo;s email hit on several of the important ones. Why don&rsquo;t we make a quick list of things you need to know about your laptop and then we can dive into more detail on some of them.</p>
+<p>Windows or Mac (or Chromebook)*</p>
+<p>Amount of RAM (in Gigabytes)</p>
+<p>Processor</p>
+<p>Who made it?</p>
+<p>How many cores?</p>
+<p>How fast?</p>
+<p>Size of hard drive (in Gigabytes)</p>
+<p>Type of hard drive (SSD vs. SATA)</p>
+<p>32 bit or 64 bit*</p>
+<p>Screen resolution*</p>
+<p>Slots (USB/HDMI/Ethernet/Card Reader)*</p>
+<p>*(elaborate)</p>
+<p>TOM: Ray, I love your explanation of RAM versus hard drive space. Can I use it?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Thanks! So as Ray has elegantly put it, if you think of your computer like your desk at the office, then RAM is like the size of your desktop. If you have a really large desk you can work on a lot of things at once. If you have a small desk, you can maybe only work on one or two things at a time. Am I doing okay so far Ray?</p>
+<p>RAY: *vamps*</p>
+<p>TOM: Now your hard drive space is like the filing cabinet next to your desk. Stuff you&rsquo;re not working on right now goes in there. The bigger your filing cabinet, the more notes and papers and stuff you can stash away in it.</p>
+<p>To bring this back to computers: if you have a computer with a big hard drive but a small amount of RAM, that&rsquo;s like having a big filing cabinet with an itty-bitty desk. You can save lots of your old folders, but you may only be able to get one out at a time.</p>
+<p>You can fill that big hard drive up with music and video and programs and games, but you can probably only actually run one or two programs simultaneously.</p>
+<p>RAY: Even if you&rsquo;re not a power user, having a decent amount of RAM is a good idea. More RAM simply makes the computing experience better. Your operating system will run more smoothly, programs will open and close faster, and you&rsquo;re a lot less likely to run into mysterious slow-downs as your computer keeps running out of places to put things.</p>
+<p>TOM: Right. So what&rsquo;s a good amount of RAM, Ray? Lauren suggested four. Is that enough?</p>
+<p>RAY: I think you definitely want at least four. Right now if you have four gigs most things will run smoothly. Two gigs or one gig is definitely too little. If you can get six or eight, though, I&rsquo;d say go for it. That will future-proof your laptop a little bit.</p>
+<p>TOM: Newer programs and operating systems almost always want more RAM.</p>
+<p>RAY: Absolutely.</p>
+<p>TOM: Now hard drives are also measured in gigs, but instead of a few gigs they usually have hundreds of gigs, or even a terabyte.</p>
+<p>RAY: A terabyte being a thousand gigs.</p>
+<p>TOM: Bingo. Remember, this is your filing cabinet. Or, if you like downloading movies, this is your DVD shelf. The bigger your shelf is, the more movies you can store.</p>
+<p>Hard drive space is really cheap. If you get a laptop with a normal, SATA hard drive, I wouldn&rsquo;t get anything less than 500 gigabytes. It shouldn&rsquo;t cost you that much and it should be enough space to keep the average user happy for a long time.</p>
+<p>RAY: But if Lauren is really into music and movies, I might recommend getting a full terabyte.</p>
+<p>TOM: True.</p>
+<p>RAY: Also, some newer laptops come with SSD hard drives instead of or in addition to the classic SATA drive. SSD drives cost more per gig, so you&rsquo;re probably looking at getting a 50-100 gigabyte drive for the same price.</p>
+<p>TOM: That&rsquo;s not nearly as much space. What&rsquo;s the advantage of an SSD drive?</p>
+<p>RAY: Well a) they are much faster and b) they can take more of a beating. Oh and c), they&rsquo;re smaller. So your really thin laptop is likely to have one because they take up less physical space and aren&rsquo;t likely to be jostled when you carry the laptop around.</p>
+<p>TOM: But with a fifty gig hard drive, your computer will barely have space for its operating system. You&rsquo;re not going to be downloading many movies.</p>
+<p>RAY: A lot of high-end laptops now offer a small SSD drive and a larger SATA hard drive next to it. That way you get speed and size.</p>
+<p>TOM: But if you&rsquo;re looking at laptops on a budget, you&rsquo;re probably looking at standard SATA hard drives. And in that case, you want a few hundred gigabytes at least in my opinion.</p>
+<p>RAY: Definitely.</p>
+<p>TOM: OK, so let&rsquo;s talk about processors.</p>
+<p>Processors are a complicated subject. You get into things like busses and transistor counts and onboard cache, stuff that no normal human being should have to think about.</p>
+<p>But here are a few guidelines. All processors have a clock speed, which is a really big number. Bigger numbers mean faster clock speeds. Clock speed is NOT the final word on how good a processor is, but it helps when you&rsquo;re comparing two processors to each other.</p>
+<p>There are also cores. Almost all processors these days are multi-core. What that means is that they have two processors in one chip. Or four. Or eight. The more cores that are on the chip, the more processes the computer can accomplish simultaneously.</p>
+<p>Finally, the brand matters. For all intents and purposes, if you&rsquo;re buying a laptop, it should say Intel Inside. Intel still dominates the personal computer market and the fact is they still make a mean CPU.</p>
+<p>RAY: Right. So let&rsquo;s recap. When Lauren is shopping for a laptop she should consider RAM</p>
+<p>TOM: 4 gigs or more</p>
+<p>RAY: hard drive size</p>
+<p>TOM: at least 500 gigabytes for a normal hard drive</p>
+<p>RAY: and processor</p>
+<p>TOM: Intel Inside!</p>
+<p>RAY: So Lauren, I hope that helps you out.</p>
+<p>Hi guys! Loving the show!</p>
+<p>I have a question for you guys today that is more knowledge-based than needing help.<br>
+I recently was working on ordering something online from Africa. I worked on it simultaneously on my laptop and my iPhone. My laptop just kept taking so long, and my iPhone was able to make everything happen and complete all of the page refreshes the way that it was supposed to. Why is my cell phone so much better at being a computer than my laptop?</p>
+<p>Thanks! Geri</p>
+<p>And the other Geri asked,</p>
+<p>I bought a used iPhone from a friend. I have ATT go phone unlimited talk, text, web. I can access wifi from anywhere on my phone. I can text and receive plain messages.<br>
+I can&rsquo;t however send or receive texts with photos or videos. They won&rsquo;t send and they don&rsquo;t show up when I receive. The text doesn&rsquo;t even show up either. My friend has an earlier iPhone 3 and she has all capabilities.<br>
+Is there a fix? thanks.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.<br>
+Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 37 - More Evil Printers!" data-link="/2013/05/episode-37-more-evil-printers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/episode-37-more-evil-printers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-05-06.mp3" length="40725943" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Transitions: Intel&#8217;s New 3-D Transistor</title>
+		<link>/2011/05/transitions-intels-new-3-d-transistor/</link>
+		<comments>/2011/05/transitions-intels-new-3-d-transistor/#comments</comments>
+		<pubDate>Thu, 05 May 2011 23:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3-D]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[desktop]]></category>
+		<category><![CDATA[intel]]></category>
+		<category><![CDATA[ivy bridge]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[processor]]></category>
+		<category><![CDATA[transistor]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2956</guid>
+		<description><![CDATA[3-D Tri-Gate. While it might sound like a mix between Trident gum and the Watergate scandal, Tri-Gate is actually a revolutionary 3-D transistor designed by Intel that will soon be put into high-volume manufacturing. As the microscopic building block of <a href="/2011/05/transitions-intels-new-3-d-transistor/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/transitions-intels-new-3-d-transistor/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://images.fastcompany.com/upload/3dchips.jpg" alt="" width="417" height="243"></p>
+<p>3-D Tri-Gate. While it might sound like a mix between Trident gum and the Watergate scandal, Tri-Gate is actually a revolutionary 3-D transistor designed by Intel that will soon be put into high-volume manufacturing. As the microscopic building block of modern electronics, transistors are semiconductor devices that are used to switch and amplify electronic signals.</p>
+<p>For decades, the 2-D planar transistor structure has powered nearly every electronics device, and now, Intel has announced that it will be putting their new 3-D transistors into high-volume production at the 22-nanometer node in an Intel processor &ndash; simply known as &ldquo;Ivy Bridge&rdquo;. The Tri-Gate transistors will help Intel keep pace with Moore&rsquo;s Law, named after Intel&rsquo;s co-founder, Gordon Moore, which describes a trend in computing hardware in which the number of transistors that can be placed on an integrated circuit doubles nearly every two years. This is a <em>huge </em>breakthrough in transistor technology.</p>
+<p>You may be asking, &ldquo;Why should I care?&rdquo; Well, the new 3-D Tri-Gate transistors will be <em>much</em> faster, <em>much</em> smaller, and consume up to 50% less power. Intel, the largest provider of PC processors, says that the new 3-D  transistors are so small that more than 100 million could fit on the  head of a pin. Ivy Bridge is also said to be 37% more efficient than the best  of Intel&rsquo;s current chips at low voltage, and could help Intel break  into the mobile arena of smartphones and tablets. Although the mass production of Ivy Bridge won&rsquo;t begin until later this   year or early next year, Intel began demonstrating prototypes of   computers and servers running the new 3-D chip yesterday at a news   conference. We are now witnessing the future of technology in transition!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://www.fastcompany.com/1751732/why-youll-care-about-intels-3-d-chip-invention-mobile-battery-life" target="_blank">Photo</a> by <a title="Kit Eaton" href="http://www.fastcompany.com/user/kit-eaton" target="_blank">Kit Eaton</a> via <a title="Fast Company" href="http://www.fastcompany.com/" target="_blank">Fast Company</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/transitions-intels-new-3-d-transistor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

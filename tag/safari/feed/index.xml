@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Safari</title>
+	<atom:link href="/tag/safari/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Christine asks, &#8220;Should I change web browsers?&#8221;</title>
+		<link>/2013/04/christine-asks-should-i-change-web-browsers/</link>
+		<comments>/2013/04/christine-asks-should-i-change-web-browsers/#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 13:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7295</guid>
+		<description><![CDATA[What Internet browser do you use? There are dozens to choose from, and many offer unique features. So which one is best for you? Ray Hollister and Tom Braun, the hosts of Deemable Tech, have the answer on this week&#8217;s <a href="/2013/04/christine-asks-should-i-change-web-browsers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/christine-asks-should-i-change-web-browsers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>What Internet browser do you use? There are dozens to choose from, and many offer unique features. So which one is best for you? Ray Hollister and Tom Braun, the hosts of Deemable Tech, have the answer on this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p96277-embed" src="http://www.prx.org/p/96277/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Christine asks, I have been having trouble getting on the Internet lately because of pop-up error messages. My friend Jeff, who usually fixes my computer, says the problem is my &lsquo;browser&rsquo; and keeps trying to get me to use something called &lsquo;Firefox&rsquo;. I&rsquo;m used to the normal way I get online. Do I really need to change?</p>
+<p>RAY: It would be nice if the Internet worked and looked the same for everybody, Christine!</p>
+<p>TOM: But that would be too easy! It&rsquo;s a little more complicated than that.</p>
+<p>Any program you use to view web pages is called a &lsquo;browser&rsquo;. The browser that comes pre-installed on Windows is Internet Explorer, or IE for short. It&rsquo;s the most popular browser in the world. But, there&rsquo;s a catch.</p>
+<p>RAY: Yep. Different versions of Windows, like Windows XP, Vista or Windows 8, come with different versions of IE. For instance, if you still have Windows XP then you may be running the version of IE that came with it, version 6.</p>
+<p>TOM: But Internet Explorer is now on version 10! So IE 6 is way out of date.</p>
+<p>RAY: If you have an old version of IE, some web pages may look wrong or not load correctly. You may see bugs or weird pop-ups like you described, Christine. You are also in danger from all kinds of malware and online attacks through loopholes that were fixed in later versions.</p>
+<p>TOM: To find out what version you have you need to bring up the &lsquo;About Internet Explorer&rsquo; screen. Depending on what version you are running, that will be under the Help menu, or under the menu that comes up when you click the little gear icon. They&rsquo;re both at the top of the screen.</p>
+<p>Then you should install the latest version available for your version of Windows. On Windows XP you can get up to Version 8, and for newer versions of Windows you can get version 10. Having the latest version of IE will likely fix many of the problems you are having. Plus, it&rsquo;s just safer.</p>
+<p>RAY: Okay Tom, but Christine said her her friend Jeff is trying to get her to switch to Firefox? Why should she change to Firefox?</p>
+<p>TOM: Well there are lots of different web browsers besides Internet Explorer. There&rsquo;s Firefox, Chrome and Opera. Those are just some of the bigger ones. There are literally dozens out there.</p>
+<p>Other browsers offer a lot of different features and are often faster, so techies who want more control over their internet experience almost always use something else.</p>
+<p>For instance, with Firefox you can download &lsquo;add-ons&rsquo; for the browser, that do cool things like block ads, let you download YouTube videos to your computer, display the weather at the top of the screen and more.</p>
+<p>RAY: Google&rsquo;s Chrome browser is quickly gaining popularity. Chrome is known for being really fast, which is nice. But its killer feature, is that you can synchronize all your copies of Chrome on any computer, tablet or phone. Any changes you make to one copy are automatically made to the other copies. You can also access web pages that you had open on other machines.</p>
+<p>TOM: I love that feature. It&rsquo;s so nice to be able to open a web page at work that I had opened earlier on my computer at home.</p>
+<p>It&rsquo;s also worth mentioning that most browsers other than IE conform more closely to the standards for displaying web pages, so web sites may display better on Firefox, Chrome or Safari.</p>
+<p>RAY: Unless you&rsquo;re visiting a lot of Microsoft sites: often those sites won&rsquo;t work correctly on anything but Internet Explorer.</p>
+<p>TOM: But the good news is that you can have two browsers at once, and switch back and forth between them anytime you like. So there&rsquo;s no harm in downloading Firefox and giving it a try. It will get your friend Jeff off your back, and hey, you might even like it!</p>
+<p>RAY: To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister,</p>
+<p>TOM: And I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/226934/internet_browsers_medium.jpg" title="Web Browser logos - So many choices!"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Christine asks, "Should I change web browsers?"' data-link="/2013/04/christine-asks-should-i-change-web-browsers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Christine asks, "Should I change web browsers?"' data-link="/2013/04/christine-asks-should-i-change-web-browsers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/christine-asks-should-i-change-web-browsers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Disable Java Now! [HOW TO]</title>
+		<link>/2013/03/disable-java-now/</link>
+		<comments>/2013/03/disable-java-now/#comments</comments>
+		<pubDate>Thu, 21 Mar 2013 01:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Disable Java]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Homeland Security]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[Safari]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6985</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" />If you heard today&#8217;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, now! If you didn&#8217;t hear today&#8217;s Deemable Tech segment, you should listen to it, and well, you read <a href="/2013/03/disable-java-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/disable-java-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p94226-embed" src="http://www.prx.org/p/94226/embed.js?size=small"></script></p>
+<p><a href="http://deemable.com/media/2013/03/JustSayNoToJava.png" class="gallery_colorbox"><img class="size-medium wp-image-6989 alignright" title="You need to disable Java now." alt="" src="//media/2013/03/JustSayNoToJava-300x300.png"  width="200" height="200"></a></p>
+<p>If you heard today&rsquo;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, <em>now! </em>If you didn&rsquo;t hear today&rsquo;s Deemable Tech segment, you should listen to it, and well, you read the last sentence, so now you know too. It&rsquo;s not just our opinion, either. The&nbsp;Department of <a href="http://www.us-cert.gov/ncas/alerts/TA13-010A">Homeland Security put out an urgent advisory</a> in January for everyone to disable Java <em>now,</em>&nbsp;unless it is absolutely necessary for you to use it. What you need to know now is how to disable Java, <em>now</em>.</p>
+<p><span id="more-6985"></span></p>
+<p>Keep in mind, if you regularly&nbsp;visit a website that uses Java, that website will not work once you disable Java. To reenable Java, simply follow the directions again, and enable Java instead of disabling it. Also, you should probably call and complain to the company that owns the website, and&nbsp;ask them to stop using Java.</p>
+<p>Sadly, most people are still using Internet Explorer, so we&rsquo;ll start with that.</p>
+<h4>Internet Explorer 8 through 10</h4>
+<p>(If you are using anything older than Internet Explorer 8, you need to upgrade! Try one of the browsers listed below, except for Safari.)</p>
+<p>Click on the <strong>Tools</strong> menu at the top, and choose <strong>Manage Add-ons</strong>. On the left of the window that pops up, select <strong>All Add-ons</strong> from the drop down under the heading <strong>Show</strong>. Then, scroll down and disable anything that says ?<strong>Oracle America, Inc.</strong>? next to it. Finally, restart your browser.</p>
+<h4>Chrome</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;chrome://plugins&rdquo; (do not type the quotation marks). Then, press <strong>Enter</strong>. In the new tab that opens, look for the the item(s) with <strong>Java</strong>&nbsp;in the name. Click the blue <strong>Disable</strong> link below it. Finally, restart your browser.</p>
+<h4>Firefox</h4>
+<p>If you don&rsquo;t see the menu bar, (File, Edit, View, etc.) at the top of the page, first click the orange Firefox button at the top-left. Then go to <strong>Options</strong> and click&nbsp;<strong>Menu Bar</strong>.</p>
+<p>Open the <strong>Tools</strong> menu, and click <strong>Add-ons</strong>. &nbsp;On the tab that appears, click <strong>Plug-ins </strong>on the left. Scroll down the list on the right-hand side until you see something that begins&nbsp;<strong>Java (TM) Platform&hellip;</strong>&nbsp;Click the&nbsp;<strong>Disable</strong>&nbsp;button to the right of the listing. Finally, restart your browser.</p>
+<h4>Opera</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;opera:plugins&rdquo; (do not type the quotation marks). Then, press&nbsp;<strong>Enter</strong>. In the new tab that opens, look for the the item(s) with&nbsp;<strong>Java </strong>in the name. Click the blue&nbsp;<strong>Disable</strong>&nbsp;link to the right. Finally, restart your browser.</p>
+<h4>Safari</h4>
+<p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
+<p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
+<p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="http://deemable.com/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Codecademy</title>
+	<atom:link href="/tag/codecademy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Lynda asks, &#8220;How can my child learn how to make smartphone games?&#8221;</title>
+		<link>/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/</link>
+		<comments>/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/#comments</comments>
+		<pubDate>Thu, 30 May 2013 13:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Codecademy]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7421</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/06/kidprogrammer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Lynda asks, &quot;How can my child learn how to make smartphone games?&quot;" style="float:left; margin:0 15px 15px 0;" />RAY: Hi, I&#8217;m Ray Hollister, TOM: I&#8217;m Tom Braun, RAY: and we&#8217;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: TOM: Lynda asks: My son <a href="/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/06/kidprogrammer-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Lynda asks, &quot;How can my child learn how to make smartphone games?&quot;" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p98644-embed" src="http://www.prx.org/p/98644/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Lynda asks: My son wants to make computer games for the iPhone and Android phones. What does he need to do to get started? He&rsquo;s only 12 so college is still a few years off. Should he wait until college to start?</p>
+<p>RAY: Great question, Lynda. If he&rsquo;s interested now, there&rsquo;s no need to wait. Kids are learning how to ?code? &ndash; or write computer programs &ndash; as young as five and six, but really twelve is about the perfect age to start coding. He should probably start with basic web programming, for a good foundation, but he doesn&rsquo;t have to. There are tons of free resources online that will teach him how to code.</p>
+<p>TOM: The first site we would suggest trying is Codecademy (all one word). At Codecademy you can sign up for free, short daily courses to study six different tracks: HTML and CSS (the core web fundamentals), Javascript and JQuery, PHP, Python, Ruby, and APIs.</p>
+<p>RAY: Now, If all that sounds Greek, just understand that these are the guts of most of the web. Almost all of the websites that you know and love are built with one or more of these languages. So, while your kid won&rsquo;t be able to build smart phone apps yet, he will be able to create apps for the web, and those skills are very transferable to other programming languages. Also, if he signs up at CodeYear.com, Codecademy will send him an email every day to prompt him to start his course and keep him on track. So, if he isn&rsquo;t exactly a self-starter, this is a great place to get him started.</p>
+<p>TOM: There are some other options to get him started as well. Khan Academy teaches the basic concepts of computer programming, although you won&rsquo;t find much material that teaches actual coding. Code Racer is a free, fun, interactive game where you race against others to figure out the right code to build a website. It only teaches HTML and CSS, which are the absolute fundamentals, but its a lot of fun to play. Code Racer&rsquo;s parent site, Treehouse, also has great training videos and exercises to learn all of the same languages that Codecademy teaches, plus iOS and Android. However, the courses on Treehouse are not free.</p>
+<p>RAY: Once he knows the basics, he should check out Stanford University&rsquo;s Udacity, MIT OpenCourseWare, and the multi-university partnered Coursera. All of the universities provide many, if not all of their computer science courses online for free, but you&rsquo;ll still have to fork out the big bucks if you want him to have a shiny piece of paper to go along with that education.</p>
+<p>TOM: For iOS and Android development, some of the best resources are available for free, right from Apple and Google. If he has a Mac, he can download Xcode 4 from Apple. It is not available for any other operating system, though. Android is unsurprisingly more open. He can download the Android SDK (which stands for Software Development Kit) for Mac, Windows or Linux. Once he has those programs, he can start playing with sample code and tutorials, and even see what his app would look like on an iPhone, iPad or Android device.</p>
+<p>RAY: Don&rsquo;t be surprised if he suddenly loses interest, though. Coding can be overwhelming at first. Encourage him to try it out, and to commit to learning it for a month. After he&rsquo;s done it for a solid month, he&rsquo;ll know if it&rsquo;s something he really enjoys. That&rsquo;s why I recommend starting out with CodeYear. Tell him to let us know the first time he says, &ldquo;Hello World!&rdquo;</p>
+<p>RAY: To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes, and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister&hellip;</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Lynda asks, "How can my child learn how to make smartphone games?"' data-link="/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Lynda asks, "How can my child learn how to make smartphone games?"' data-link="/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/lynda-asks-how-can-my-child-learn-how-to-make-smartphone-games/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

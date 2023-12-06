@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Firefox</title>
+	<atom:link href="/tag/firefox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Browser Extensions</title>
+		<link>/2016/05/browser-extensions/</link>
+		<comments>/2016/05/browser-extensions/#comments</comments>
+		<pubDate>Thu, 19 May 2016 16:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[add-ons]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10568</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" />Steve writes, &#8220;When I&#8217;m on the internet, I constantly see things pop up on the screen that say &#8216;Check for malware now&#8217; or &#8216;You&#8217;re missing drivers, click to update.&#8217; Should I click on it? The way things are nowadays, I&#8217;m <a href="/2016/05/browser-extensions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/browser-extensions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong><a href="http://deemable.com/media/2016/05/browser_extensions.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10569" src="//media/2016/05/browser_extensions-300x228.jpg"  alt="browser_extensions" width="300" height="228"></a>Steve writes, &ldquo;When I&rsquo;m on the internet, I constantly see things pop up on the screen that say &lsquo;Check for malware now&rsquo; or &lsquo;You&rsquo;re missing drivers, click to update.&rsquo; Should I click on it? The way things are nowadays, I&rsquo;m afraid to try!&rdquo;&nbsp;</strong><span id="more-10568"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10568-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3</a></audio><p>Don&rsquo;t click on it, Steve! As our friend Admiral Ackbar would say:</p>
+<p><img class="aligncenter" src="http://i.giphy.com/3ornka9rAaKRA2Rkac.gif" alt="It's a trap!"></p>
+<p>What you&rsquo;re seeing is a pop-up ad designed to trick you into visiting a spam website or downloading harmful malware.</p>
+<p>Internet pop-ups will disguise themselves as all kinds of stuff to get you to click on them. Spammers have gotten pretty good at making pop-ups look like legitimate error messages, so sometimes it can be hard to tell it&rsquo;s a pop-up until it?s too late. Our advice is to install a pop-up blocker extension for your browser.</p>
+<p>Extensions (also known as add-ons) are little programs you can install on some web browsers which give them extra features. There are a lot of extensions for the Mozilla Firefox and Google Chrome browsers, including effective pop-up blockers.</p>
+<p><a href="https://adblockplus.org/" target="_blank">Adblock Plus</a> is one of the most popular pop-up blockers, and is available for both Firefox and Chrome. It not only kills 98 percent of pop-up ads, but also removes most of the in-page ads from many websites. Try it out, and hopefully you&rsquo;ll never see another one of those pesky fake error messages again.</p>
+<p>But we wouldn&rsquo;t stop there with browser extensions. You can trick out your browser in a number of cool ways. Some of our favorites include:</p>
+<ul><li>Lazarus: Form Recovery &ndash; Remembers what you were typing in an online form, in case something happens while you&rsquo;re filling one out and you lose everything. (<a href="https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno?hl=en" target="_blank">Lazarus for Chome</a>) (<a href="https://addons.mozilla.org/en-uS/firefox/addon/lazarus-form-recovery/" target="_blank">Lazarus for Firefox</a>)</li>
+</ul><ul><li><span style="line-height: 1.5;">Panic Button &ndash; Immediately hides all of your open browser tabs with a single click. We&rsquo;re not saying that it comes in really handy for when your boss walks by, but we&rsquo;d have to imagine it would. (<a href="https://chrome.google.com/webstore/detail/panicbutton/faminaibgiklngmfpfbhmokfmnglamcm?hl=en" target="_blank">Panic Button for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/panic-button/" target="_blank">Panic Button for Firefox</a>)</span></li>
+</ul><ul><li>LastPass<span style="line-height: 1.5;"> &ndash; One of our favorite password managers. Stores all of your passwords, generates complex new ones, and automatically fills in login fields for you. (<a href="https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US" target="_blank">LastPass for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/" target="_blank">LastPass for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Honey &ndash; Automatically finds coupon codes and sales for many popular online stores. (<a href="https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-US" target="_blank">Honey for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/honey/" target="_blank">Honey for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
+</ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
+<p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3" length="3484145" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#94 Windows 10 Is Out But We’re Still Sticking With Windows 9</title>
+		<link>/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/</link>
+		<comments>/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 22:36:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Fiat Chrysler]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Plus]]></category>
+		<category><![CDATA[Internet.org]]></category>
+		<category><![CDATA[Smart Guns]]></category>
+		<category><![CDATA[Stephen Hawking]]></category>
+		<category><![CDATA[Steve Wozniak]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10183</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/07/Windows10cropped-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="So much for Windows 10 fun. Now Ray has to reinstall Windows 8.1 just so he can upgrade it to 10, so he can reinstall Windows 10!" style="float:left; margin:0 15px 15px 0;" />Killer robots, self-aware robots, cars, guns and Android phones getting hacked into and the death of another Google product? Yeah, that sounds like a typical Deemable Tech episode. If you?re listening to Deemable Tech on the&#160;website, make sure to&#160;subscribe to <a href="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/07/Windows10cropped-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="So much for Windows 10 fun. Now Ray has to reinstall Windows 8.1 just so he can upgrade it to 10, so he can reinstall Windows 10!" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_10185" style="width: 310px" class="wp-caption alignright"><img class="size-medium wp-image-10185" src="//media/2015/07/Windows10cropped-300x212.jpg" alt="So much for Windows 10 fun. Now Ray has to reinstall Windows 8.1 just so he can upgrade it to 10, so he can reinstall Windows 10!" width="300" height="212"><p class="wp-caption-text">So much for Windows 10 fun. Now Ray has to reinstall Windows 8.1 just so he can upgrade it to 10, so he can reinstall Windows 10!</p></div>
+<p>Killer robots, self-aware robots, cars, guns and Android phones getting hacked into and the death of another Google product? Yeah, that sounds like a typical Deemable Tech episode.</p>
+<p>If you?re listening to Deemable Tech on the&nbsp;website, make sure to&nbsp;subscribe to the show <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;or&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>.&nbsp;And, while you?re there, leave a review. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We?re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<audio class="wp-audio-shortcode" id="audio-10183-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3</a></audio><h1>THIS WEEK?S RUNDOWN</h1>
+<h3><strong>Windows 10 is released.</strong></h3>
+<p>Our top story this week is the long-awaited release of Microsoft?s Windows 10. In an unprecedented move, Microsoft has made the new Windows available as a free upgrade to anyone who had Windows 7, 8 or 8.1. The upgrade became available to download for most of those folks starting on Wednesday.</p>
+<p>With Windows 10, Microsoft hopes to reunite its fractured userbase, many of whom are still stuck way back on Windows XP. Windows 10 will feature continuous upgrades and may be the last major windows version for the foreseeable future. To lure back customers scared off by the controversial Windows 8, Windows 10 brings back the Start Button and does away with the charms menu.</p>
+<p>Other new features include the integration of Microsoft?s Siri-like virtual assistant Cortana, the brand new Edge web browser, virtual desktops, and Mission Control, which gives you an overview of all the apps you have running.</p>
+<p>Ray Hollister has bravely volunteered to install Windows the 10th on the dual boot partition of his MacBook, so let?s dive right in.</p>
+<p>The beauty of Windows 10 is that you can&rsquo;t install Windows 10 as a fresh, clean install. Except you can. But you can&rsquo;t.</p>
+<p><a href="http://www.forbes.com/sites/antonyleather/2015/07/30/windows-10-updating-reinstalling-and-activation-guide-essential-advice-to-avoid-problems/">Forbes &ndash; Windows 10 Updating, Reinstalling And Activation Guide: Essential Advice To Avoid Problems</a></p>
+<p><a href="http://www.theverge.com/2015/7/29/9058825/windows-10-macbook-how-to-install-osx">The Verge &ndash; How to get Windows 10 on your Mac</a></p>
+<h3><strong>CEO of Mozilla Firefox complains in an open letter that Windows 10 upgrade resets default web browser</strong></h3>
+<p>Mozilla CEO Chris Beard is one person who is less than pleased with Windows 10. It appears that when you do an upgrade with ?Express Settings? that <a href="http://arstechnica.com/information-technology/2015/07/windows-10-upgrade-resets-your-default-browser-to-edge-mozilla-is-very-unhappy/">it will default your browser to Microsoft?s Edge browser</a>, even if you had Firefox selected by default before. Even worse, in Windows 10 the default browser is now buried down in the settings control panel, meaning that it is difficult to find for non-technical users. Microsoft defends the changes as making the upgrade ?simple and cohesive? for users and says that they may make ?improvements? in the future.</p>
+<h3><strong>Facebook builds an Internet drone</strong></h3>
+<p>The BBC is reporting that <a href="http://www.bbc.com/news/technology-33728704">Facebook has built a drone</a>, with the wingspan of a Boeing 737 that will fly as high as 90,000 feet and for up to 90 days at a time to provide wireless Internet access at up to 10 Gigabits per second.</p>
+<p>The drone will communicate via a laser beam that can hit a target the size of a dime more than 10 miles away. The lasers will connect the drones together and to the ground.</p>
+<p>This is part of Facebook&rsquo;s Internet.org project to bring Internet access to the developing world. No word on whether this will be like Internet.org&rsquo;s last launch which only included access to a few sites, which caused a bit of a backlash since the access gave an unfair advantage to those sites.</p>
+<p>Facebook will be testing the drones later this year in the United States.</p>
+<h3><strong>Google+ dies a slow and painful death</strong></h3>
+<p>Google?s ill-fated Facebook competitor, Google+, courted a lot of controversy in 2013 when Google started requiring users to create a Google+ profile to comment on YouTube. This week on the official Google blog, <a href="http://googleblog.blogspot.com/2015/07/everything-in-its-right-place.html">the search giant announced that they would be hitting the ?undo? button on that policy</a>. They said that a Google account would be all you need to share content, create contacts, comment on YouTube, and more, across all of Google. This change will reportedly be rolled out ?in the coming months.? This announcement comes on the heels of Google splitting Google+ in two, with Google Photos becoming its own stand-alone service and app.</p>
+<h3><strong>Killer Robots</strong></h3>
+<p>I posted this on our Facebook page, <a href="https://www.facebook.com/Deemable">facebook.com/Deemable</a>, but it bears repeating. As a general rule, everyone here at Deemable Tech is anti-killer robots.</p>
+<p>Unless, as I said, the uprising has already happened, in which case, let me rephrase that: How may we serve you, robot masters?</p>
+<p>I bring this all up because Elon Musk (you know, Iron Man, the guy who brought you PayPal, Tesla, SpaceX, the Hyperloop, and who plans to die on Mars) and Steve Wozniak, (the reason why you have a computer at your desk, smartphone in your pocket and ultimately why you&rsquo;re listening to this podcast) and Stephen Hawking (who you&rsquo;ll know as the guy who played poker with Data, Albert Einstein and Isaac Newton.) and have joined a letter calling for the banning of autonomous weapons.</p>
+<p>We talked about a weaponized drone last week that had a gun attached to it, well imagine an autonomous drone with a gun. The icons aren&rsquo;t as concerned about them throwing a revolution and killing humanity as they are concerned about another cold war arms race where every country tries to build bigger, better faster killing machines. But considering a <a href="http://www.slashgear.com/nao-robot-becomes-self-aware-very-briefly-20393569/">robot recently demonstrated self awareness</a>, perhaps they should be concerned about a robot uprising too.</p>
+<h3><strong>Hacking Smart Rifles</strong></h3>
+<p>Speaking of things that shouldn&rsquo;t be connected to the Internet, like killer robots. As much as I love my connected light bulbs, switches and thermostat, The Internet of things is not necessarily a good thing. Not everything should be connected to the Internet. Case in point, smart guns. In case you didn&rsquo;t know, <a href="http://tracking-point.com/">TrackingPoint makes an smart rifle</a> that almost anyone can use to hit a bullseye up to a mile away. The gun, which sells for $13,000, has a computer screen for a scope where you can enter wind speed, ammunition weight and distance. The computer calculates the correct aim and after you pull the trigger, it waits until you have the shot lined up perfectly before firing the gun.</p>
+<p>The Mirror is reporting that a couple of <a href="http://www.mirror.co.uk/news/technology-science/technology/hackers-force-gun-blast-wrong-6171684">married hackers have hacked the gun wirelessly to shoot 2.5 feet away from the intended target</a>. They also managed to get it to disable the firing pin, making the gun unable to fire.</p>
+<h3><strong>Android hack</strong></h3>
+<p>Speaking of hacks, <a href="http://news.wjct.org/post/major-flaw-android-phones-would-let-hackers-just-text">NPR is reporting that the security firm Zimperium says there&rsquo;s a &ldquo;gaping hole&rdquo; in Android</a> that would allow hackers to take over your phone, and all they need is your phone number.</p>
+<p>The app Hangouts automatically processes videos when they are received by text message. So, all a hacker has to do is send a video with malware inside it and send it to your phone. Since Hangouts instantly processes the videos, there&rsquo;s nothing you can do to stop it.</p>
+<p>Google has released a patch and manufacturers have been notified, but we&rsquo;ll see how long it takes for them to get the update sent out to users.</p>
+<h3><strong>Fiat Chrysler follow-up</strong></h3>
+<p>Last week we reported that if you had a Jeep Cherokee with Fiat Chrysler?s ?uConnect? system, hackers could remotely take control of your vehicle and destroy everyone that you hold dear. It turns out that this was a source of some concern to Chrysler Fiat, as they have issued an official recall for 1.4 million vehicles to patch the issue. Affected models include certain Dodge Rams, Dodge Vipers, Dodge Chargers, Dodge Challengers, Chrysler 200s and 300s, and of course Jeep Grand Cherokees, all model year 2013 or later. If you are driving one of those vehicles you should check to see if your specific model is affected. The recall does not actually require the vehicles to be taken to the dealer: affected owners will receive a USB device which can be used to load the patch into their uConnect systems.</p>
+<p><a href="http://www.wired.com/2015/07/gadget-hacks-gm-cars-locate-unlock-start/"><strong>Wired &ndash; This Gadget Hacks GM Cars to Locate, Unlock, and Start Them</strong></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#94 Windows 10 Is Out But We?re Still Sticking With Windows 9" data-link="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#94 Windows 10 Is Out But We?re Still Sticking With Windows 9" data-link="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3" length="38005829" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Bill asks, &#8220;Is there any way I can completely block pop-up ads?&#8221;</title>
+		<link>/2013/08/bill-asks-way-can-completely-block-pop-ads/</link>
+		<comments>/2013/08/bill-asks-way-can-completely-block-pop-ads/#comments</comments>
+		<pubDate>Thu, 22 Aug 2013 20:54:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[pop-up ads]]></category>
+		<category><![CDATA[pop-up blocker]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8085</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/08/pop_up_ads-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ah, the good ole days! Fortunately pop-up ads are much fewer and farther between now, but how do you make them go away completely?
+
+Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;" />Q: Is there any way to completely block pop-up ads while running Chrome or Internet Explorer? I have turned on the built-in pop-up blocker on both, but that doesn&#8217;t stop them on many of the sites I visit. What is <a href="/2013/08/bill-asks-way-can-completely-block-pop-ads/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/08/bill-asks-way-can-completely-block-pop-ads/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/08/pop_up_ads-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ah, the good ole days! Fortunately pop-up ads are much fewer and farther between now, but how do you make them go away completely?
+
+Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p101949-embed" src="http://www.prx.org/p/101949/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> Is there any way to completely block pop-up ads while running Chrome or Internet Explorer? I have turned on the built-in pop-up blocker on both, but that doesn&rsquo;t stop them on many of the sites I visit. What is up with that? I have to wonder what the point of blocking pop-ups is when so many get through anyway, slowing down the page loading to the point that it reminds me of being on dial-up.</p>
+<p><strong>A:</strong> To be honest, Bill, it&rsquo;s been so long since we have dealt with a pop-up that we had forgotten Chrome and Internet Explorer even had settings to block them. To turn on the pop-up blocker in Chrome, click the button at the top right of the screen that has three horizontal lines. Then click on &ldquo;Settings,&rdquo; and search for &ldquo;pop-ups&rdquo; in the search box. In Internet Explorer, click on &ldquo;Tools&rdquo; and then go to &ldquo;Internet Options.&rdquo; There you can find the setting under the &ldquo;Privacy&rdquo; tab. Recent versions of Firefox have this option too, and you can find it under the Firefox settings.</p>
+<div id="attachment_8086" style="width: 530px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2013/08/pop_up_ads.jpg" class="gallery_colorbox"><img class=" wp-image-8086 " alt="Ah, the good ole days! Fortunately pop-up ads are much fewer and farther between now, but how do you make them go away completely? Image credit: Minesweeper / Wikipedia" src="//media/2013/08/pop_up_ads.jpg"  width="520" height="398"></a><p class="wp-caption-text">Ah, the good ole days! Fortunately pop-up ads are much fewer and farther between now, but how do you make them go away completely?<br>Image credit: Minesweeper / Wikipedia</p></div>
+<p>But as you say, Bill, these settings don&rsquo;t always work. Why is that? Well, you have to understand that pop-up blocking is like an arms race. Every time there&rsquo;s some new advance in pop-up blocker technology, the people making the pop-up ads just get smarter.</p>
+<p>To make things even more complicated, browser-makers can&rsquo;t simply ban all pop-ups. There are lots of legitimate uses for pop-ups &ndash; in fact, half of the websites on the Internet would stop working without them.</p>
+<p>Now, the other way to deal with pop-up ads is with what Firefox calls &ldquo;extensions&rdquo;. Extensions are small programs you can download which add features to your browser, including more effective pop-up blocking. Extensions also work for Chrome and Internet Explorer, where they&rsquo;re known as &ldquo;plug-ins&rdquo; and &ldquo;add-ons&rdquo;, respectively.</p>
+<p>One of the most popular ones is <a href="https://adblockplus.org/">Ad Block Plus</a>, which is available for both Firefox and Chrome. It&rsquo;s an industrial strength pop-up killer, and we&rsquo;ve found it effectively blocks most pop-ups. Another good plug-in we&rsquo;ve found for Chrome is called <a href="https://chrome.google.com/webstore/detail/better-pop-up-blocker/nmpeeekfhbmikbdhlpjbfmnpgcbeggic?hl=en">Better Pop-Up Blocker</a>. You can find either one of these by just searching for it in Google. Try keywords like &ldquo;Chrome pop-up blocker&rdquo;, and you should get some very helpful results.</p>
+<p>Your options are more limited on Internet Explorer, but there is an add-on called <a href="http://download.cnet.com/Smart-Popup-Blocker/3000-7786_4-10282837.html">Smart Pop-up Blocker</a> that will block most pop-ups. It&rsquo;s not 100%, but it&rsquo;s the best that we could find.</p>
+<p>Regardless of what your favorite browser is, if you&rsquo;re getting fed-up with annoying ads on the websites you frequent, there are tools out there that can make your web-browsing experience a little smoother.</p>
+<p>Now that we&rsquo;ve gotten that out of the way, it&rsquo;s time for a friendly little PSA about pop-up blocking. Many of your favorite free websites are ad-supported, so when you visit one of those sites and you&rsquo;ve got a pop-up blocker running, you may avoid seeing that annoying pop-up ad but you&rsquo;ve also cost that site some ad revenue. So be sure to deploy your pop-up blocker judiciously.</p>
+<p>This is such a big issue that the ever-popular Ad Block Plus actually has a setting called &ldquo;allow non-intrusive advertising&rdquo; which is on by default. As the name suggest, this allows many of the less annoying ads through. But keep in mind that the ones that it does block &ndash; the really annoying ones &ndash; may be real money makers for small, independent websites. Ad Block Plus gives you the option to allow pop-ups for certain websites to remedy this. Other pop-up blockers should, at minimum, allow you to turn them on and off.</p>
+<p>Please pop-up block responsibly! Ads may be annoying, but they help keep the web free.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/bill-asks-way-can-completely-block-pop-ads/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Episode 35 &#8211; Ray Grows Extra Arms</title>
+		<link>/2013/04/episode-35-ray-grows-extra-arms/</link>
+		<comments>/2013/04/episode-35-ray-grows-extra-arms/#comments</comments>
+		<pubDate>Mon, 08 Apr 2013 03:52:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[IE]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[Password management]]></category>
+		<category><![CDATA[Samsung Galaxy S3]]></category>
+		<category><![CDATA[web browser]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7108</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" />Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&#8217;s episode we talk about how to keep your phone <a href="/2013/04/episode-35-ray-grows-extra-arms/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/episode-35-ray-grows-extra-arms/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/04/RaysExtraArms-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s Extra Arms" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/04/RaysExtraArms.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7114" alt="Rays Extra Arms" src="//media/2013/04/RaysExtraArms-300x225.jpg"  width="300" height="225"></a>Sean was out of the studio, so Ray tried to play sound engineer and host. He almost pulled it off, but mostly through the magic of post production editing. On today&rsquo;s episode we talk about how to keep your phone data usage low, how to download a new browser, how to install Adobe Acrobat even if you can&rsquo;t see the installation page, and whether you should buy an bigger iPhone 4S or 5.</p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also, make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<audio class="wp-audio-shortcode" id="audio-7108-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" target="_blank">Download Episode 35 &ndash; Ray Grows Extra Arms</a></p>
+<p><span id="more-7108"></span></p>
+<h3>TRANSCRIPT</h3>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech, technology worth talking about, and tech help worth listening to.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? Give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">RAY: This week&rsquo;s episode of the Deemable Tech podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">And, by audible.com &ndash; get a FREE audiobook download at <a href="http://www.audibletrial.com/Deemable">audibletrial.com/Deemable</a> Over 100,000 titles to choose from for your iPhone, Android, Kindle or mp3 player.</p>
+<p dir="ltr">TOM: Today on the show, we&rsquo;re going to going to talk about to keep your phone&rsquo;s data plan usage low, and</p>
+<p dir="ltr">RAY: how to figure out what browser you&rsquo;re using and what a browser even is, but first.</p>
+<p dir="ltr">One Spark, &nbsp;April 17 &ndash; 21, 2013 register to vote at beonespark.com</p>
+<p dir="ltr">The reason we are doing OneSpark is because we want to launch a full fledged public radio show. But to do that, we need money. It takes a lot of money to run a public radio show, and even more to launch one. So, hopefully, if a lot of folks vote for us, we&rsquo;ll get a bit of money from the One Spark crowd fund, but even if we don&rsquo;t hopefully a lot of people will find out about us, and we&rsquo;ll be able to help them out!</p>
+<p dir="ltr">*WALK THROUGH THE PROCESS*</p>
+<p dir="ltr">You can hear Deemable Tech on WJCT 89.9 FM in Jacksonville, FL, now you can also hear it on&nbsp;WCWP 88.1 FM in Brookville, NY! Welcome to any listeners from Brookville.</p>
+<p>&nbsp;Questions</p>
+<p dir="ltr">TOM: Michelle asks, I was wondering about ways to lower my data usage on my iPhone. I always seem to go over my limit, and then I am slapped with another monthly charge. What things can I turn ?off? or put away unless I need them, and how do I do it?</p>
+<p dir="ltr">RAY: Thanks for your question, Michelle. iPhones and Android phones can eat up a data plan like a 5 year old with an unattended candy bowl. Unless you&rsquo;re on an unlimited data plan, you have to keep an eye on what your phone is downloading and sending, or it&rsquo;ll end up taking a bite out of your wallet.</p>
+<p dir="ltr">Periodically check your cellular data usage on your iPhone by opening your Settings app, and tapping General, Usage and then Cellular Usage at the bottom. On that screen you can see how much data your phone has sent and received. Each month, at the end of your billing cycle, tap the Reset Statistics button to clear out the counters and start over.</p>
+<p dir="ltr">TOM: Well, Ray, that&rsquo;s good information about how to keep track of how much data you&rsquo;re using on an iPhone, but Michelle wanted to know how to reduce the amount of data she&rsquo;s using on an iPhone. Come on man, stay focused!</p>
+<p dir="ltr">RAY: Well, you&rsquo;re right, but the first step to any diet is keeping track of how much you&rsquo;re consuming, or so I&rsquo;ve heard. Knowing how much data you&rsquo;re using in the first place will help to stay you on track. Now, here&rsquo;s a few tips to keep your cellular data usage low. First of all, don&rsquo;t download or stream any video or audio unless you are connected to a Wi-Fi network. Those NPR, Netflix, Hulu and PBS Kids apps will devour your cellular data. I&rsquo;m not saying don&rsquo;t use them! They&rsquo;re great apps. Just make sure to use them when you are connected to a Wi-Fi network if you&rsquo;re trying to save your cellular data.</p>
+<p dir="ltr">TOM: And, if you have streaming video or music that you just have to watch or listen to over 3G or 4G, go for the Non-HD version or the lower quality version. That will save you a bunch of data, too. If you use Spotify, make your playlists Available Offline so that the next time you&rsquo;re away from home they&rsquo;ll play from your phone instead of over the Internet.</p>
+<p dir="ltr">RAY: The same thing is true for Amazon Cloud Player and the Podcast app; make sure to download your songs and new podcast episodes to your device before you leave the house. Also, and it&rsquo;s probably obvious, but make sure to only download new apps and updates when you are on a Wi-Fi network too.</p>
+<p dir="ltr">TOM: Also, try reducing the number of times that your phone downloads new email. On the iPhone, open your Settings app and tap ?Mail, Contacts, Calendars? and then, Fetch New Data. Turn off Push, and change Fetch to Manually or, at most, Hourly.</p>
+<p dir="ltr">RAY: Finally, If you see that you&rsquo;re getting close to your limit, or you just want to save your data plan for later in the month, turn your cellular data off. On the iPhone go to the General menu under Settings, tap Cellular and then tap the Cellular Data on/off switch. You&rsquo;ll still get phone calls and text messages, but you won&rsquo;t be able to browse the web and none of your apps will access the Internet either unless you are connected to a Wi-Fi network. You can also turn off Cellular data for specific built-in functions like iTunes, FaceTime, and Personal Hotspot in that same menu.</p>
+<p dir="ltr">Now Tom, we&rsquo;re talking about the iPhone here, but do you have any tips for Android users to save on their data plan?</p>
+<p dir="ltr">TOM: Well, Android phones have a lot of the same features. You can, for instance disable mobile data and only use data when you&rsquo;re on WiFi. But there&rsquo;s something even cooler that Android phones with version 4.0 or better can do. Open up your settings and go to the Data Usage menu. There is a checkbox there that says ?limit mobile data usage&rsquo;. Check that and it will put a default cap of 5 GB. You can change the cap by touching the data usage graph below that option.</p>
+<p dir="ltr">Alternatively, there is an option to have it alert you when you reach a certain amount of data. So Android gives you a lot of great options for monitoring your data usage.</p>
+<p dir="ltr">Individual Android apps also often have settings that will restrict them from using data unless you&rsquo;re on wi-fi.</p>
+<p dir="ltr">In fact, I&rsquo;d almost say that Android has more options for data saving than the iPhone does. What a surprise huh?</p>
+<p dir="ltr">RAY: Yeah, BIG surprise.</p>
+<p dir="ltr">RAY: Drew asked&nbsp;If I use Lastpass on my PC for an email account that I also have on my mobile phone can I still use that email account on my phone without Lastpass &hellip;</p>
+<p dir="ltr">In other words that long password that Lastpass generates on my PC for that email account is that the password that I would have to use on my phone even if I don&rsquo;t have Lastpass on it? Also if I uninstall Lastpass what will happen to all my passwords that were generated with Lastpass? Do I have to go in and change all my passwords to something that I can remember before I uninstall? Thanks!</p>
+<p dir="ltr">TOM: No Drew, thank you.</p>
+<p dir="ltr">LastPass is a great tool, but it does generate passwords that are difficult for humans to remember. Really, that&rsquo;s the point of LastPass, which is to generate passwords that are hard to crack. So unless you set it otherwise, LastPass generates passwords of long strings of random numbers and characters, which makes it difficult to remember them. But that&rsquo;s okay, LastPass remembers them for you. Unless you get rid of LastPass or don&rsquo;t have LastPass on your device.</p>
+<p dir="ltr">RAY: Then Drew, you have to remember those passwords yourself.</p>
+<p dir="ltr">TOM: Right, Ray. LastPass is strictly a password database. It remembers the passwords you set, and it can suggest new passwords when you need them, but it does not actually control the passwords for any site.</p>
+<p dir="ltr">So if you used LastPass to generate a password, all it does is suggest its usual string of random characters and then remember that string. If you used LastPass to generate the password for your email account, that password is the password for your email account until YOU change it. Deleting LastPass will not affect that password.</p>
+<p dir="ltr">RAY: So if you delete LastPass, that super-complicated password is STILL your email account password, AND you now have to remember it. And that seems like a bad idea.</p>
+<p dir="ltr">TOM: Bingo. I use LastPass when I have to create new accounts on the web. It generates 14 characters of gobbledygook for each individual website. There&rsquo;s no WAY I&rsquo;m going to be able to remember those passwords on my own.</p>
+<p dir="ltr">So if you plan to delete LastPass, I strongly advise that you go to your email account and change your password to something you can remember on your own. And you need to do that for every account or app you have a LastPass generated password for.</p>
+<p dir="ltr">Depending on how long you&rsquo;ve been using LastPass, that could be a lot of passwords. So Drew, I strongly recommend that you do not delete LastPass. What I mean by that is, don&rsquo;t get rid of your LastPass account. Even if you stop using it, even if you uninstall the app on your phone or the plugin on your browser, keep the password to your account handy. Because one of these days you&rsquo;re likely to need to get in there and look up a password to some obscure website which you have forgotten.</p>
+<p dir="ltr">RAY: And just to be clear, opening up the LastPass password vault, finding your stored email account and changing the password there will NOT change the password on your email account! It just changes the password LastPass remembers for your email account. Which will now be wrong.</p>
+<p dir="ltr">TOM: Right.</p>
+<p dir="ltr">RAY: No, wrong.</p>
+<p dir="ltr">TOM: No, I mean ?right&rsquo; as in, ?you are correct&rsquo;.</p>
+<p dir="ltr">RAY: Oh, right. I mean, correct.</p>
+<p dir="ltr">TOM: Another thing you can do is that LastPass allows you to export your password database. Just open up the LastPass password vault, click the down arrow by your account name and click ?export&rsquo;. It will then walk &nbsp;you through the steps to save all your LastPass stored passwords somewhere else.</p>
+<p dir="ltr">RAY: So, if Drew wants to change his email password to something he can remember so he can type it on his phone, what should he do?</p>
+<p dir="ltr">TOM: Well, the easiest way would be to access your email through your browser with the LastPass plugin running. Go to your account on your email website and change the password there to something you can remember. LastPass should automatically detect that you have changed the password and remember the new password.</p>
+<p dir="ltr">If it does not, then you need to manually go into the LastPass password vault and change your password so that it matches.</p>
+<p dir="ltr">Right, Ray?</p>
+<p dir="ltr">RAY: Correct.</p>
+<p>&nbsp;</p>
+<p dir="ltr">TOM: Christine asks, I have been having trouble getting on the Internet lately because of pop-up error messages. My friend Jeff, who usually fixes my computer, says the problem is my ?browser&rsquo; and keeps trying to get me to use something called ?Firefox&rsquo;. I&rsquo;m used to the normal way I get online. Do I really need to change?</p>
+<p dir="ltr">RAY: It would be nice if the Internet worked and looked the same for everybody, Christine!</p>
+<p dir="ltr">TOM: But that would be too easy! It&rsquo;s a little more complicated than that.</p>
+<p dir="ltr">Any program you use to view web pages is called a ?browser&rsquo;. The browser that comes pre-installed on Windows is Internet Explorer, or IE for short. It&rsquo;s the most popular browser in the world. But, there&rsquo;s a catch.</p>
+<p dir="ltr">RAY: Yep. Different versions of Windows, like Windows XP, Vista or Windows 8, come with different versions of IE. For instance, if you still have Windows XP then you may be running the version of IE that came with it, version 6.</p>
+<p dir="ltr">TOM: But Internet Explorer is now on version 10! So IE 6 is way out of date.</p>
+<p dir="ltr">RAY: If you have an old version of IE, some web pages may look wrong or not load correctly. You may see bugs or weird pop-ups like you described, Christine. You are also in danger from all kinds of malware and online attacks through loopholes that were fixed in later versions.</p>
+<p dir="ltr">TOM: To find out what version you have you need to bring up the ?About Internet Explorer&rsquo; screen. Depending on what version you are running, that will be under the Help menu, or under the menu that comes up when you click the little gear icon. They&rsquo;re both at the top of the screen.</p>
+<p dir="ltr">Then you should install the latest version available for your version of Windows. On Windows XP you can get up to Version 8, and for newer versions of Windows you can get version 10. Having the latest version of IE will likely fix many of the problems you are having. Plus, it&rsquo;s just safer.</p>
+<p dir="ltr">RAY: Okay Tom, but Christine said her her friend Jeff is trying to get her to switch to Firefox? Why should she change to Firefox?</p>
+<p dir="ltr">TOM: Ray, do you know the classic nerd joke about Internet Explorer?</p>
+<p dir="ltr">RAY: Refresh my memory.</p>
+<p dir="ltr">TOM: Internet Explorer is the best browser&hellip; for downloading another browser.</p>
+<p dir="ltr">RAY: *vamps*</p>
+<p dir="ltr">TOM: The point Christine, is that there are lots of different web browsers besides Internet Explorer. There&rsquo;s Firefox, Chrome and Opera. Those are just some of the bigger ones. There are literally dozens out there.</p>
+<p dir="ltr">Other browsers offer a lot of different features and are often faster, so techies who want more control over their internet experience almost always use something else.</p>
+<p dir="ltr">For instance, with Firefox you can download ?add-ons&rsquo; for the browser, that do cool things like block ads, let you download YouTube videos to your computer, display the weather at the top of the screen and more.</p>
+<p dir="ltr">RAY: Google&rsquo;s Chrome browser is quickly gaining popularity. Chrome is known for being really fast, which is nice. But its killer feature, is that you can synchronize all your copies of Chrome on any computer, tablet or phone. Any changes you make to one copy are automatically made to the other copies. You can also access web pages that you had open on other machines.</p>
+<p dir="ltr">TOM: I love that feature. It&rsquo;s so nice to be able to open a web page at work that I had opened earlier on my computer at home.</p>
+<p dir="ltr">It&rsquo;s also worth mentioning that most browsers other than IE conform more closely to the standards for displaying web pages, so web sites may display better on Firefox, Chrome or Safari.</p>
+<p dir="ltr">RAY: Unless you&rsquo;re visiting a lot of Microsoft sites: often those sites won&rsquo;t work correctly on anything but Internet Explorer.</p>
+<p><b id="internal-source-marker_0.20903730113059282">TOM: But the good news is that you can have two browsers at once, and switch back and forth between them anytime you like. So there&rsquo;s no harm in downloading Firefox and giving it a try. It will get your friend Jeff off your back, and hey, you might even like it!</b></p>
+<p><b id="internal-source-marker_0.5217118344735354">&mdash;&ndash;</b></p>
+<p dir="ltr">Lynn asked, I typed this once before but not sure if it went through. I have an Asus laptop and have check on explore 8 and chrome but do not find java or it&rsquo;s owner under either. I have Kaspersky and it uses Javascript. Could it be it never got installed? The laptop is about 2 yrs old, but I don&rsquo;t use it much.</p>
+<p>&mdash;&ndash;</p>
+<p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes or point your favorite podcast app to dmbl.co/pod.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Also, make sure to come out to One Spark April 17-21, and make sure to come by and visit Deemable Tech&rsquo;s booth at Ignite Adecco on Bay and Main Street, and make sure to vote for Deemable Tech we&rsquo;re number 253. If you haven&rsquo;t already registered to vote, go to beonespark.com and register now to vote.</p>
+<p><b><b>&nbsp;</b></b></p>
+<p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
+<p dir="ltr">Thanks for listening. Have a great week.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/episode-35-ray-grows-extra-arms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-04-08.mp3" length="53291050" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Disable Java Now! [HOW TO]</title>
+		<link>/2013/03/disable-java-now/</link>
+		<comments>/2013/03/disable-java-now/#comments</comments>
+		<pubDate>Thu, 21 Mar 2013 01:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Disable Java]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Homeland Security]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[Safari]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6985</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" />If you heard today&#8217;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, now! If you didn&#8217;t hear today&#8217;s Deemable Tech segment, you should listen to it, and well, you read <a href="/2013/03/disable-java-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/disable-java-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p94226-embed" src="http://www.prx.org/p/94226/embed.js?size=small"></script></p>
+<p><a href="http://deemable.com/media/2013/03/JustSayNoToJava.png" class="gallery_colorbox"><img class="size-medium wp-image-6989 alignright" title="You need to disable Java now." alt="" src="//media/2013/03/JustSayNoToJava-300x300.png"  width="200" height="200"></a></p>
+<p>If you heard today&rsquo;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, <em>now! </em>If you didn&rsquo;t hear today&rsquo;s Deemable Tech segment, you should listen to it, and well, you read the last sentence, so now you know too. It&rsquo;s not just our opinion, either. The&nbsp;Department of <a href="http://www.us-cert.gov/ncas/alerts/TA13-010A">Homeland Security put out an urgent advisory</a> in January for everyone to disable Java <em>now,</em>&nbsp;unless it is absolutely necessary for you to use it. What you need to know now is how to disable Java, <em>now</em>.</p>
+<p><span id="more-6985"></span></p>
+<p>Keep in mind, if you regularly&nbsp;visit a website that uses Java, that website will not work once you disable Java. To reenable Java, simply follow the directions again, and enable Java instead of disabling it. Also, you should probably call and complain to the company that owns the website, and&nbsp;ask them to stop using Java.</p>
+<p>Sadly, most people are still using Internet Explorer, so we&rsquo;ll start with that.</p>
+<h4>Internet Explorer 8 through 10</h4>
+<p>(If you are using anything older than Internet Explorer 8, you need to upgrade! Try one of the browsers listed below, except for Safari.)</p>
+<p>Click on the <strong>Tools</strong> menu at the top, and choose <strong>Manage Add-ons</strong>. On the left of the window that pops up, select <strong>All Add-ons</strong> from the drop down under the heading <strong>Show</strong>. Then, scroll down and disable anything that says ?<strong>Oracle America, Inc.</strong>? next to it. Finally, restart your browser.</p>
+<h4>Chrome</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;chrome://plugins&rdquo; (do not type the quotation marks). Then, press <strong>Enter</strong>. In the new tab that opens, look for the the item(s) with <strong>Java</strong>&nbsp;in the name. Click the blue <strong>Disable</strong> link below it. Finally, restart your browser.</p>
+<h4>Firefox</h4>
+<p>If you don&rsquo;t see the menu bar, (File, Edit, View, etc.) at the top of the page, first click the orange Firefox button at the top-left. Then go to <strong>Options</strong> and click&nbsp;<strong>Menu Bar</strong>.</p>
+<p>Open the <strong>Tools</strong> menu, and click <strong>Add-ons</strong>. &nbsp;On the tab that appears, click <strong>Plug-ins </strong>on the left. Scroll down the list on the right-hand side until you see something that begins&nbsp;<strong>Java (TM) Platform&hellip;</strong>&nbsp;Click the&nbsp;<strong>Disable</strong>&nbsp;button to the right of the listing. Finally, restart your browser.</p>
+<h4>Opera</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;opera:plugins&rdquo; (do not type the quotation marks). Then, press&nbsp;<strong>Enter</strong>. In the new tab that opens, look for the the item(s) with&nbsp;<strong>Java </strong>in the name. Click the blue&nbsp;<strong>Disable</strong>&nbsp;link to the right. Finally, restart your browser.</p>
+<h4>Safari</h4>
+<p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
+<p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
+<p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="http://deemable.com/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Tsu.co</title>
+	<atom:link href="/tag/tsu-co/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#102 We Don’t Need No Stinkin’ Producer</title>
+		<link>/2015/11/102-we-dont-need-no-stinkin-producer/</link>
+		<comments>/2015/11/102-we-dont-need-no-stinkin-producer/#comments</comments>
+		<pubDate>Sat, 07 Nov 2015 22:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[CIA]]></category>
+		<category><![CDATA[Comcast]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Project Fi]]></category>
+		<category><![CDATA[Tsu.co]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10340</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/11/IMG_6602-e1446948765227-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ardis loves his new Nexus 6P on Google Project Fi." style="float:left; margin:0 15px 15px 0;" />It&#8217;s Sean Birch&#8217;s turn to venture through&#160;the Pacific Northwest, so he is out of the studio for this&#160;week and next. (When&#8217;s Ray&#8217;s turn? #justsayin.) But Ray and Tom press on none-the-less. The Deemable Duo&#160;were joined by long-time listener Ardis Meade <a href="/2015/11/102-we-dont-need-no-stinkin-producer/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/11/102-we-dont-need-no-stinkin-producer/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/11/IMG_6602-e1446948765227-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ardis loves his new Nexus 6P on Google Project Fi." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_10345" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/11/IMG_6602-e1446948765227.jpg" class="gallery_colorbox"><img class="size-medium wp-image-10345" src="//media/2015/11/IMG_6602-e1446948765227-300x300.jpg"  alt="Ardis loves his new Nexus 6P on Google Project Fi." width="300" height="300"></a><p class="wp-caption-text">Ardis loves his new Nexus 6P on Google Project Fi.</p></div>
+<p>It&rsquo;s Sean Birch&rsquo;s turn to venture through&nbsp;the Pacific Northwest, so he is out of the studio for this&nbsp;week and next. (When&rsquo;s Ray&rsquo;s turn? #justsayin.) But Ray and Tom press on none-the-less. The <a href="http://deemable.com/2013/02/episode-29-the-deemable-duo-rises/" target="_blank">Deemable Duo</a>&nbsp;were joined by long-time listener Ardis Meade who showed us his new phone, the Nexus 6P and told us all about his phone carrier, Google Project Fi. Very interesting stuff if you&rsquo;re in the market for a new phone or a new carrier. Stick around after the news for that.</p>
+<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="http://deemable.com/reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
+<p>And make sure to&nbsp;subscribe to the show and leave a review&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;and&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10340-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://mediad.publicbroadcasting.net/p/wjct/files/201511/DeemableTech_2015-11-06.mp3?_=1"></source><a href="http://mediad.publicbroadcasting.net/p/wjct/files/201511/DeemableTech_2015-11-06.mp3">http://mediad.publicbroadcasting.net/p/wjct/files/201511/DeemableTech_2015-11-06.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>Turns Out Disney Isn&rsquo;t That Bad After All</h3>
+<p><a href="http://gawker.com/teen-stoner-who-reportedly-hacked-cia-head-i-am-pre-1737375743?utm_expid=66866090-62._DVNDEZYQh2S4K00ZSnKcw.0&amp;utm_referrer=https%3A%2F%2Fwww.google.com%2F#_ga=1.120775688.1425775626.1429542769"><span style="font-weight: 400;">CNN reports that one Star Wars superfan with terminal cancer got to screen the film early</span></a><span style="font-weight: 400;">. Daniel Fleetwood is a 32-year-old who lives in Spring, Texas and a Star Wars enthusiast who camped out to see new releases of the films and collected Star Wars paraphernalia. He is also dying of spindle cell sarcoma and is not expected to live to see the official release date of the new Star Wars film Episode VII: The Force Awakens. Hashtag &nbsp;ForceForDaniel promoted by actors Mark Hamill and John Boyega persuaded director J.J. Abrams and Disney studio execs to let Fleetwood view an early edit of the film according to a spokesperson from Disney Studios. </span></p>
+<p><span style="font-weight: 400;">The film will be released to the public on December 18th.</span></p>
+<h3>Chrome OS And Android OS To&nbsp;Become One</h3>
+<p><a href="http://arstechnica.com/gadgets/2015/10/wsj-google-to-merge-chrome-os-into-android-unveil-unified-os-next-year/"><span style="font-weight: 400;">The Wall Street Journal reports</span></a><span style="font-weight: 400;"> that Google is planning to merge ChromeOS and Android OS starting in 2017, with a beta appearing next year. The first Chromebooks came out back in 2011. At the time, the idea that Google would release an OS that wasn?t Android created quite a stir. However Chromebooks soon made inroads thanks to their super-cheap, basic, and lightweight SKUs. Chromebooks have an OS that is essentially the Chrome browser plus a couple of simple add-ons. The Chrome app store has never really taken off, but the OS has delivered on its promises of being lightweight and receiving constant, invisible updates. While Android is also a relatively lightweight OS it works entirely differently from ChromeOS, and its update process is much more laborious. How the two operating systems will merge remains to be seen.</span></p>
+<h3>Facebook Kicks More Competition To The Curb</h3>
+<p><span style="font-weight: 400;">Facebook, and practically all companies on the web, stay in business from ad revenue. The more you are on the website, the more money they make. Yep, that&rsquo;s right, Facebook is making bank from all those pictures of your kids and stupid quizzes you fill out. </span></p>
+<p><span style="font-weight: 400;">Well, another social media network, Tsu.co, decided to share its revenue with the users. The more that people view your content, the more money you make. And you make money off of inviting people to join Tsu.co. You make money off of the posts that the people you invited posted. If that sounds like a pyramid scheme, it&rsquo;s because it basically is.</span></p>
+<p><span style="font-weight: 400;">And much like any other new social network that has started since Facebook took dominance, (Instagram, Pinterest, Vine, etc.) Tsu.co is trying to grow by letting its users share posts on Facebook. </span></p>
+<p><span style="font-weight: 400;">This worked, right up until Facebook blocked them. Unlike how Facebook made YouTube videos look like crap on Facebook to make its own video platform stand out, Mashable is reporting that </span><a href="http://mashable.com/2015/11/06/facebook-blocks-tsu-co/#8CtVa4h.3uq6"><span style="font-weight: 400;">Facebook went with the nuclear option</span></a><span style="font-weight: 400;">. Users cannot even mention the website on Facebook. If you type Tsu.co into a post or comment, Facebook will not allowed it to be posted.</span></p>
+<p><span style="font-weight: 400;">Facebook says it&rsquo;s because users posting links to Tsu.co are engaging in spammy behavior and Tsu.co encourages it. I will say after checking out Tsu.co, it doesn&rsquo;t seem very spammy. It&rsquo;s mostly the same type of posts I see on almost every social network: cats, muscle-heads, news, cats ? you get it. </span></p>
+<h3>Don&rsquo;t Buy Things From The Guy In The Back Alley</h3>
+<p><a href="http://gizmodo.com/newly-discovered-breed-of-android-malware-is-almost-imp-1740938991"><span style="font-weight: 400;">Gizmodo reports</span></a><span style="font-weight: 400;"> that a security research blog claims that in third-party Android stores, popular apps like Candy Crush, Facebook, Google Now, Twitter, WhatsApp, and more are infected with adware that gives itself root access to a user?s device. It appears that hackers are taking popular apps and repacking them with their own malicious Trojans and uploading them to these other stores. Right now the Trojans do nothing but serve up ads, but with root access much nastier things are possible. So far, no Trojanized apps have been found in the official Google Play store. So as always, people, you sideload apps at your own risk. Playing outside the official sandbox is still the #1 way to get your device infected with malware. Be very certain that you trust an app?s maker before you sideload it.</span></p>
+<h3>One More Reason To Hate Comcast</h3>
+<p><span style="font-weight: 400;">If you live in Little Rock, Arkansas; Houma, LaPlace and Shreveport, Louisiana; Chattanooga, Greenville, Johnson City/Gray, Tennessee; or Galax, Virginia you&rsquo;re about to have one more reason to hate Comcast. DSLReports says that the lucky customers in those cities will </span><a href="http://www.dslreports.com/shownews/Comcast-Dramatically-Expanding-Usage-Cap-Areas-December-1-135551"><span style="font-weight: 400;">no longer have unlimited Internet on Comcast</span></a><span style="font-weight: 400;">, but instead will have a cap of 300 GB per month starting in December. If you go over, you will be hit with $10 per 50 GB over the limit. </span></p>
+<p><span style="font-weight: 400;">Why is Comcast doing this, you ask? They say it is for ?fairness and providing a more flexible policy to our customers? </span></p>
+<p><span style="font-weight: 400;">According to the email DSLReports obtained, Comcast believes &ldquo;that 300 GB is more than enough to meet your Internet usage needs.&rdquo;</span></p>
+<p><span style="font-weight: 400;">All hope is not lost though. You can still get unlimited Internet from Comcast in those markets. All you have to do is pay $35 more each month for unlimited Internet than you were already paying for unlimited Internet.</span></p>
+<h3>Teen Stoners Hack CIA Director&rsquo;s Email. Yeah, It&rsquo;s That Easy</h3>
+<p><span style="font-weight: 400;">A pair of teenage hackers who enjoy ?recreational pot smoking? are apparently on a hacking roll, </span><a href="http://gizmodo.com/teen-hackers-strike-again-leak-info-of-government-em-1740871626"><span style="font-weight: 400;">according to Gizmodo</span></a><span style="font-weight: 400;">. Calling themselves CWA, short for ?Crackas With Attitude,? they </span><a href="http://gawker.com/teen-stoner-who-reportedly-hacked-cia-head-i-am-pre-1737375743?utm_expid=66866090-62._DVNDEZYQh2S4K00ZSnKcw.0&amp;utm_referrer=https%3A%2F%2Fwww.google.com%2F#_ga=1.120775688.1425775626.1429542769"><span style="font-weight: 400;">hacked CIA director John Brennan?s AOL email account last month</span></a><span style="font-weight: 400;">. This week they did one better, posting the contact information of 34,000 government employees online, including the phone numbers of FBI agents. So far it appears that all the data leaked is legitimate. </span></p>
+<p><span style="font-weight: 400;">The hackers have been communicating at times with the press, often via disposable Twitter accounts. Asked how he felt about hacking the government, one of them told Gawker, ?since only 13 i am pretty hype about it.? He also said he had no problem with being labeled a ?teen stoner?, saying that he felt that ?it just kinda describes us in away.?</span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#102 We Don?t Need No Stinkin? Producer" data-link="/2015/11/102-we-dont-need-no-stinkin-producer/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#102 We Don?t Need No Stinkin? Producer" data-link="/2015/11/102-we-dont-need-no-stinkin-producer/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/102-we-dont-need-no-stinkin-producer/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://mediad.publicbroadcasting.net/p/wjct/files/201511/DeemableTech_2015-11-06.mp3" length="57158140" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

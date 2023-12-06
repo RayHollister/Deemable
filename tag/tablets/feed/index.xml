@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; tablets</title>
+	<atom:link href="/tag/tablets/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#104 Lasers We Have Seen On High</title>
+		<link>/2015/12/104-lasers-we-e-seen-on-high/</link>
+		<comments>/2015/12/104-lasers-we-e-seen-on-high/#comments</comments>
+		<pubDate>Sat, 19 Dec 2015 17:26:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[Project Fi]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[Vtech]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10375</guid>
+		<description><![CDATA[This week, Ray, Tom and Sean look at the dangers of over-the-top Christmas decorations, wonder when a tablet is too big, and try to solve the mystery of Bitcoin&#8217;s creator. By the way, we don&#8217;t just have a subreddit page <a href="/2015/12/104-lasers-we-e-seen-on-high/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/12/104-lasers-we-e-seen-on-high/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week, Ray, Tom and Sean look at the dangers of over-the-top Christmas decorations, wonder when a tablet is too big, and try to solve the mystery of Bitcoin&rsquo;s creator.</p>
+<p><span id="more-10375"></span></p>
+<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="http://deemable.com/reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
+<p>And make sure to&nbsp;subscribe to the show and leave a review&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;and&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>. The more subscribers we have and reviews we get, the more people will find our show.</p>
+<p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10375-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3">http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>C130 pilots blinded by Christmas decorations</h3>
+<p>Are your Christmas decorations sufficiently over-the-top this year? Apparently if you&rsquo;re not blinding low-flying planes, you aren?t really trying.</p>
+<p>In mid-November, the crew of a Coast Guard C130 plane over Sacramento radioed that it was being blinded by a laser light &ndash; a distressingly common &lsquo;prank&rsquo; that has dangerous consequences for pilots. However, when Sacramento police tracked down the source of the laser, it was not a prankster, but a home Christmas light display.</p>
+<p><a href="http://www.nbclosangeles.com/investigations/Warning-Issued-About-Popular-Holiday-Decoration-360986471.html" target="_blank">NBC Los Angeles reports that a Christmas light display projector called the Star Shower</a> was the culprit. The Star Shower uses hundreds of pinpoint laser lights to simulate a surface covered with lights. It comes with a warning to point it only at solid surfaces, not the sky, and not to use it within ten miles of an airport. However, it appears that it is easy for someone attempting to project it up onto the wall of their home to allow the projector to accidentally beam lights into the sky, and the cockpit of passing planes. Homeowners using this product are advised to exercise caution.</p>
+<h3>Google ProjectFi gives customers the gift of Lego</h3>
+<p>You guys will remember we had long time listener Ardis on a few episodes ago to talk about <a href="http://deemable.com/2015/11/102-we-dont-need-no-stinkin-producer/" target="_blank">his experience using Google?s ProjectFi cellular service</a>. Well Ardis informed us last week that Google had sent him an interesting gift in the mail: a Lego kit that could be assembled into a charging stand for his Nexus device.</p>
+<p><a href="http://www.theverge.com/2015/11/26/9804216/google-project-fi-lego-kit" target="_blank">The Verge</a> reports that a number of ProjectFi subscribers have been reporting receiving the kits, along with a note that says ?Thank you for your support, let?s build on this.? It is not known if the kit will go out to all ProjectFi subscribers or not.</p>
+<h3>Samsung unveils new giant tablet</h3>
+<p>It seems like the giant tablet arms race has officially begun. Apple has released the 12.9 inch iPad Pro to compete with Microsoft?s Surface Pro, which is a measly 12.3 inches. So they&rsquo;re the winner, right? Not even close.</p>
+<p>Samsung has jumped into the game with the Samsung Galaxy View, a &ldquo;tablet&rdquo; with a massive 18.5 inch screen. The only problem is, no one knows quite what to do with this monstrosity. In an Engadget piece entitled <a href="http://www.engadget.com/2015/11/19/samsung-galaxy-view-wtf/" target="_blank">I just don&rsquo;t understand why Samsung?s Galaxy View exists</a>, tech writer Nathan Ingraham says that &ldquo;Because it&rsquo;s a giant tablet, you need to be close to get your videos playing, but because it&rsquo;s so giant you naturally want to be a little farther away than your arm&rsquo;s reach.&rdquo; Samsung seems to want to position the tablet as a media playing device, but if this is a portable TV, it is one without a remote.</p>
+<p>$599 is not a bad price for an elephantine tablet, but it?s very pricey for a small flatscreen. And when your screen is over 18 inches, you are definitely getting into flatscreen territory.</p>
+<h3>When drones are outlawed, only outlaws will have drones</h3>
+<p>A warning to drone enthusiasts: get in the way of the police, and they may take away your toys. According to<a href="http://arstechnica.com/tech-policy/2015/11/man-whose-drone-got-too-close-to-lapd-helicopter-given-three-years-probation/" target="_blank"> a report by Ars Technica</a>, Martin Sheldon of Los Angeles was caught after allegedly buzzing a police helicopter with his drone over Sunset Boulevard. He was charged with interfering with a police investigation. He has now been sentenced. In addition to community service and probation, Sheldon must turn over his drone and is banned from owning or operating a remote-controlled airplane, helicopter, or drone for a period of three years.</p>
+<h3>Hackers steal massive trove of children&rsquo;s data from Vtech</h3>
+<p>Another major data breach is in the news lately. In November high tech toymaker Vtech reported that hackers got into its servers and stole the personal information of over ten million users, half of whom were children. The rest are parents.</p>
+<p><a href="http://gizmodo.com/the-horrifying-vtech-hack-let-someone-download-thousand-1745321580" target="_blank">Gizmodo reports that the data includes first names, genders, and birthdays of over six million children.</a> But if that wasn?t scary enough, the cache of leaked data also contains 190 gigabytes of photos from Vtech?s kid connect service, most likely containing headshots of kids who used the video chat service to talk with their parents.</p>
+<p>The hack has been catastrophically damaging to Vtech, which has suspended of their stock on the Hong Kong stock exchange after word got out that they had been transmitting customer data completely unencrypted.</p>
+<h3>Is Australian entrepreneur actually the creator of Bitcoin? Eh, probably not.</h3>
+<p>Bitcoin fascinates people for at least two reasons: one is the digital cryptocurrency itself, but two is because nobody knows the true identity of the person who really invented it. The inventor was known on online listservs as Satoshi Nakamoto, but this is undoubtedly just an alias. Last year a major Newsweek investigation featured a California man named Dorian Nakamoto as Satoshi, but this was later proven false.</p>
+<p>Well this month the media is at it again, as both <a href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/" target="_blank">Wired</a> and <a href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692" target="_blank">Gizmodo</a> published stories claiming that an Australian entrepreneur named Craig Wright, in partnership with a Florida man named Dave Kleiman, was probably the secretive inventory of Bitcoin. The stories were based on documents leaked to the outlets by an anonymous source including unsent emails in which Wright admitted to being Nakamoto.</p>
+<p>However, since the media have been burnt by false leads before, so both outlets hedged their bets, with Wired writing, ?Either Wright invented bitcoin, or he?s a brilliant hoaxer who very badly wants us to believe he did.?<br>
+That was a smart thing to say, because things got weird in a hurry. The day after the stories were published, the Australian Federal Police raided Wright?s home and office, <a href="http://www.theguardian.com/technology/2015/dec/09/bitcoin-founder-craig-wrights-home-raided-by-australian-police" target="_blank">according to the Guardian</a>, executing a warrant on tax issues unrelated to the Bitcoin story.</p>
+<p>Since then, <a href="http://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/" target="_blank">Wired reports</a>, more holes have appeared in the story, casting doubt on whether or not Craig Wright really has two PhDs or whether his company in fact owns one of the world?s most powerful privately-owned supercomputers. Wright does, however, appear to own millions in Bitcoin, a point in his favor that is hard to explain away.</p>
+<p>A post on a listserv supposedly from Satoshi Nakamoto denied that Craig Wright was him the day after the original stories ran, however there was no way to verify.</p>
+<p>The full story is still unfolding and appears to involve either an extortion scheme or a hoaxer pretending to extort himself.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/104-lasers-we-e-seen-on-high/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/12/DeemableTech_2015-12-15.mp3" length="28883674" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Deemable Tech Tips: Protecting Your New Device, and What to Do With Your Old One</title>
+		<link>/2014/12/tips-protecting-new-device-old-one/</link>
+		<comments>/2014/12/tips-protecting-new-device-old-one/#comments</comments>
+		<pubDate>Sun, 28 Dec 2014 15:14:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[case]]></category>
+		<category><![CDATA[e-waste]]></category>
+		<category><![CDATA[ecycling]]></category>
+		<category><![CDATA[Griffin]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Lifeproof]]></category>
+		<category><![CDATA[Otterbox]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[tech tips]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9453</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/12/iphone_otterbox-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="An iPhone 4 in an Otterbox Impact case. Image credit: gisuser / Flickr" style="float:left; margin:0 15px 15px 0;" />If you&#8217;re like us, you probably got a shiny new smartphone or tablet&#160;for the holidays. Here are our tips for keeping that device looking brand new, and few ideas for what you can do with your old one. Protect Your <a href="/2014/12/tips-protecting-new-device-old-one/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/12/tips-protecting-new-device-old-one/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/12/iphone_otterbox-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="An iPhone 4 in an Otterbox Impact case. Image credit: gisuser / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>If you&rsquo;re like us, you probably got a shiny new smartphone or tablet&nbsp;for the holidays. Here are our tips for keeping that device looking brand new, and few ideas for what you can do with your old one.<span id="more-9453"></span></p>
+<p><strong><span style="text-decoration: underline;">Protect Your New Device</span></strong></p>
+<div id="attachment_9504" style="width: 255px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/12/iphone_otterbox.jpg" class="gallery_colorbox"><img class="wp-image-9504" src="//media/2014/12/iphone_otterbox-183x300.jpg"  alt="An iPhone 4 in an Otterbox Impact case. Image credit: gisuser / Flickr" width="245" height="400"></a><p class="wp-caption-text">An iPhone 4 in an Otterbox Impact case. Image credit: gisuser / Flickr</p></div>
+<p>The first thing you should do with your new device&nbsp;is put a case on it. We can&rsquo;t stress how important this is. It breaks our hearts to see people with gadgets that came out not even a month ago, and they&rsquo;ve already broken the screen.</p>
+<p>There are a ton of different kinds of cases out there. If you&rsquo;re really concerned about protecting your device, we recommend a hefty case&nbsp;from companies like Otterbox, Lifeproof or Griffin. Both brands offer cases that are rated for protecting against drops from normal heights and have material to keep your screen&nbsp;scratch-free. Some of them even claim to be waterproof.</p>
+<p>If you don&rsquo;t want to hide your fancy new smartphone or tablet, a number of companies sell thin, clear plastic cases. These will not offer the same level of protection as an Otterbox case, but they will be better than nothing. Look around online or head to pretty much any store that sells electronics to find one that best fits your needs.</p>
+<p>If you decide not to get a case (or even if you do), you should seriously consider buying an extended warranty for your device.&nbsp;For most electronics, we don&rsquo;t feel like extended warranties are worth the money. However, they are a godsend for smartphones, especially if they cover accidents</p>
+<p>Whether you get an extended warranty or not, take the time right now to figure out how long your warranty will last. A year is pretty standard for a new smartphone, but be sure to double check. It also helps to mark that date on your calendar or set a reminder. If your device starts acting funny, you can make sure&nbsp;to get it taken care of before that timer runs out.</p>
+<p>With a good warranty, the device maker will often send you a new one before you mail back your old one so that you don&rsquo;t have to be device-less&nbsp;for any longer than necessary.</p>
+<p><b><span style="text-decoration: underline;">What to Do With Your Old One</span></b></p>
+<p>If you&rsquo;re not planning to keep your old smartphone or tablet as a backup or for archival purposes, you should consider selling it or recycling it.</p>
+<p>To get the best price, you&rsquo;ll want to sell it on Craigslist or eBay. The downside to Craigslist is that you have to meet strangers from the internet in real-life. The downside the eBay is that you have to go to Post Office or the UPS store. You can try searching through other auctions and online for a good idea of how much your device is worth in the condition it is in.</p>
+<p>If&nbsp;you have a fairly new gadget like an iPhone 5 or Samsung Galaxy 4, you could also check out places like Amazon and Gazelle. They will buy your phone online and pay you fast.&nbsp;Or you can&nbsp;trade in your iPhone at the Apple Store, Best Buy, Game Stop and Target. You won&rsquo;t get as much selling your iPhone or Android phone to the big companies, but you&rsquo;ll get rid of it fast and get your money fast.&nbsp;So, if convenience is what matters to you, that&rsquo;s the route we would go.</p>
+<p>If you have a smartphone that you think is too old to sell, or you just want to do something nice for others, there are a lot of charitable organizations that can make good use of your old device.</p>
+<p>If your phone can at least still make phone calls, you can drop it off at any Verizon Wireless store and they will get it into the hands of someone who needs it. Through their program&nbsp;HopeLine, they collect phones and give them to victims of domestic abuse.</p>
+<p>If your phone is completely dead, there are charities that accept electronics that can recycle them and get money to go towards their efforts. As always, make sure that you trust the charity you are giving to.</p>
+<p>Also, many cities have e-waste recycling centers for computers and other electronics. Try looking on your city&rsquo;s website to see if there is one near you.</p>
+<p>No matter what you decide to do with your old device, you need to make sure you wipe its memory and reset it to factory default if possible. The last thing you want is for your personal information to fall into the wrong hands. Your device should have come with instructions on how to reset it. We&rsquo;ve got full details on how to do it for iPhones, iPads and Android phones in <a title="Trent asks, ?How do I wipe my smartphone??" href="http://deemable.com/2014/07/trent-asks-wipe-smartphone/" target="_blank"><strong>this article</strong></a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Protecting Your New Device, and What to Do With Your Old One" data-link="/2014/12/tips-protecting-new-device-old-one/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Protecting Your New Device, and What to Do With Your Old One" data-link="/2014/12/tips-protecting-new-device-old-one/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/12/tips-protecting-new-device-old-one/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Meghan asks, &#8220;Why won&#8217;t my Kindle battery charge?&#8221;</title>
+		<link>/2014/06/meghan-asks-kindle-battery-isnt-charging/</link>
+		<comments>/2014/06/meghan-asks-kindle-battery-isnt-charging/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8935</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/kindle_fire-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="kindle_fire" style="float:left; margin:0 15px 15px 0;" />Q:&#160;We have a Kindle Fire that is approximately 2 years old. It has completely lost its ability to charge. I tried multiple chargers with no avail. I used to be able to tilt the charger upward and get it to <a href="/2014/06/meghan-asks-kindle-battery-isnt-charging/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/meghan-asks-kindle-battery-isnt-charging/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/kindle_fire-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="kindle_fire" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><b>Q:&nbsp;</b>We have a Kindle Fire that is approximately 2 years old. It has completely lost its ability to charge. I tried multiple chargers with no avail. I used to be able to tilt the charger upward and get it to charge, but that is no longer working. Is there anything we can do?<span id="more-8935"></span> <a href="http://deemable.com/media/2014/06/kindle_fire.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-8950" src="//media/2014/06/kindle_fire-300x201.jpg"  alt="kindle_fire" width="300" height="201"></a></p>
+<p><strong>A:</strong>&nbsp;Bad news&nbsp;Meghan: it&rsquo;s time for a new tablet. This one is toast. The connection to the battery is probably broken or the battery is bad. In fact, if the power is not getting to the battery properly that can kill the battery anyway. So if you only had one problem before, now you have two problems. And, more bad news, most Kindle Fire tablets do not have replaceable batteries.</p>
+<p>Kindle Fires have a standard one year warranty so unfortunately that won&rsquo;t help you. You might be able to take it to someone to get it repaired, but do you really want to spend money on this? You can get a new Kindle Fire for $119.00 and a previous generation version for only $73.00. You could easily spend that on the repair bill.</p>
+<p>If you are feeling really crafty, you can get a replacement battery for about $50, but I&rsquo;ll tell you, they are not easy to replace.</p>
+<p>If you liked your Kindle Fire I would just order a new one, or look at other cheap tablets. There are a lot on the market right now.</p>
+<p>Don&rsquo;t think of it as losing a tablet so much as&hellip; gaining a newer tablet? At any rate, good luck!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/meghan-asks-kindle-battery-isnt-charging/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Casey asks, &#8220;Should I buy a tablet or an eReader?&#8221;</title>
+		<link>/2014/01/casey-asks-buy-tablet-ereader/</link>
+		<comments>/2014/01/casey-asks-buy-tablet-ereader/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 11:45:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apple iPad]]></category>
+		<category><![CDATA[eBooks]]></category>
+		<category><![CDATA[eReaders]]></category>
+		<category><![CDATA[Google Nexus 7]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[Nook]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8526</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/01/kindle_ipad-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: kodomut / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I enjoy reading and want to start reading more eBooks, but I don&#8217;t know if I should get a tablet or an eReader. Do you have any suggestions? A: That&#8217;s a tough one, Casey! Tablets like the iPad, the <a href="/2014/01/casey-asks-buy-tablet-ereader/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/01/casey-asks-buy-tablet-ereader/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/01/kindle_ipad-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: kodomut / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p108970-embed" src="http://www.prx.org/p/108970/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I enjoy reading and want to start reading more eBooks, but I don&rsquo;t know if I should get a tablet or an eReader. Do you have any suggestions?<span id="more-8526"></span></p>
+<div id="attachment_8527" style="width: 373px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/01/kindle_ipad.jpg" class="gallery_colorbox"><img class=" wp-image-8527    " src="//media/2014/01/kindle_ipad.jpg"  alt="Image credit: kodomut / Flickr" width="363" height="203"></a><p class="wp-caption-text">Image credit: kodomut / Flickr</p></div>
+<p><strong>A: </strong>That&rsquo;s a tough one, Casey! Tablets like the iPad, the Nexus and the Kindle Fire can make great eReaders in addition to everything else they do. But dedicated eReaders like the regular Kindle or the Nook are tailored to the reading experience. There are definitely major differences between the two.</p>
+<p>The most obvious difference is the screen. Tablets have backlit screens, while Kindles and Nooks have e-ink screens which are lit from the front or not at all. Some people find a backlit screen to be hard on their eyes over long periods of time, but a backlit screen is a plus if you&rsquo;re reading in the dark. Some eReaders like the Kindle Paperwhite and the Nook GlowLight also have built-in lighting, but they are front lit so the light doesn&rsquo;t shine in your eyes.</p>
+<p>If you enjoy reading at the beach, an eReader is your best bet. Direct sunlight will wash out a backlit screen, making it hard to read (even in the shade you may have glare issues). If you&rsquo;re reading mostly indoors or on an airplane this won&rsquo;t be a problem for you.</p>
+<p>A great thing about the e-ink screens on dedicated eReaders is that it doesn&rsquo;t even feel like you&rsquo;re looking at a screen. A good eReader very closely mirrors the experience of reading a good old fashioned paperback.</p>
+<p>On the flip side, if you want to read magazines, comic books, graphic novels, or just non-fiction books with photos or charts, you&rsquo;ll really want to get a tablet. eReaders only have black-and-white screens. And while e-ink screens are great for reading, they don&rsquo;t come anywhere near the picture quality you&rsquo;ll find on tablets. Reading full color comic books on your retina display tablet is really a treat.</p>
+<p>Another thing you need to consider is battery life. Most tablets will last you eight hours or so. eReaders, on the other hand, can last for <i>weeks</i> between charges. On a long plane ride, a dedicated eReader will last you way longer than a tablet.</p>
+<p>A bigger consideration for many people is price. The cheapest Nexus 7 tablet is $229, while the cheapest iPad, the iPad Mini, starts at $399. The Kindle starts as low as $69, as long as you don&rsquo;t mind seeing ads on your screensaver. What will make the higher price worth it for some people is that you can do a lot more than just read books on your iPad. Tablets can run apps, play games, check email and surf the web.</p>
+<p>So, getting back to your question, which one should you choose? Well, if you&rsquo;re a casual reader who wants to read some books and run apps then look into getting a tablet. They make good eReaders and they do a lot of other fun stuff too.</p>
+<p>Zealous readers or people who like taking books to the beach should consider a dedicated reading device like the Kindle. Not only will it be easier to read outdoors, but it will only cost $69 to replace when you accidentally drop it in a tide pool.</p>
+<p>Speaking of which, whatever device you decide to buy, do yourself a favor and get a case!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Casey asks, "Should I buy a tablet or an eReader?"' data-link="/2014/01/casey-asks-buy-tablet-ereader/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Casey asks, "Should I buy a tablet or an eReader?"' data-link="/2014/01/casey-asks-buy-tablet-ereader/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/casey-asks-buy-tablet-ereader/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>#52 Spin The Battery</title>
+		<link>/2013/10/52-spin-battery/</link>
+		<comments>/2013/10/52-spin-battery/#comments</comments>
+		<pubDate>Sun, 13 Oct 2013 15:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[USB drives]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8362</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/SpinTheBattery-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Yeah, it&#039;s a bottle, but you get the picture." style="float:left; margin:0 15px 15px 0;" />&#160; This week on Deemable Tech Tom and Ray answered questions about what to do if your Windows is upside down, how to delete multiple emails on your iPhone, how to print from your tablet, what to do if you <a href="/2013/10/52-spin-battery/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/52-spin-battery/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/SpinTheBattery-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Yeah, it&#039;s a bottle, but you get the picture." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>&nbsp;</p>
+<div style="min-height: 200px;"><img class="alignleft wp-image-8376" alt="Yeah, it's a bottle, but you get the idea." src="//media/2013/10/SpinTheBattery.gif" width="300" height="180">This week on Deemable Tech Tom and Ray answered questions about what to do if your Windows is upside down, how to delete multiple emails on your iPhone, how to print from your tablet, what to do if you have a corrupted USB drive, and more.</div>
+<audio class="wp-audio-shortcode" id="audio-8362-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3">#52 Spin The Battery</a></p>
+<p>TRANSCRIPT</p>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p dir="ltr">TOM: I&rsquo;m Tom Braun,</p>
+<p dir="ltr">RAY: and this is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">TOM: Today on the show we&rsquo;re going to answer your questions about what to do if your Windows is upside down,</p>
+<p dir="ltr">RAY: How to delete multiple emails on your iPhone,</p>
+<p dir="ltr">TOM: How to print from your tablet,</p>
+<p dir="ltr">RAY: And what to do if you have a corrupted USB drive. But first &ndash;</p>
+<p dir="ltr">TOM: Ray, have you been to the Google homepage recently?</p>
+<p dir="ltr">RAY: Sure?</p>
+<p dir="ltr">TOM: Have you by chance noticed the blue bar across the top? Actually it&rsquo;s been across the top of Google+, Google Drive, Google Play and several other Google sites.</p>
+<p dir="ltr">RAY: Yeah, I&rsquo;ve seen it, but I just clicked OK or dismissed it or whatever.</p>
+<p dir="ltr">TOM: That&rsquo;s exactly what they want you to do.</p>
+<p dir="ltr">RAY: So what have they changed?</p>
+<p dir="ltr">TOM: Basically, Google wants to do what Facebook did a couple years&nbsp;ago and show ads&nbsp;to your friends based on things you&rsquo;ve +1&rsquo;d or rated highly. So if I bought the new Daft Punk album on Google Play Music, you might see an ad that says &ldquo;Tom Braun recommends Daft Punk&rsquo;s Random Access Memories.&rdquo; Or something like that.</p>
+<p dir="ltr">RAY: Oh wonderful. So now anything I plus can be advertised to other people on Google?</p>
+<p dir="ltr">TOM: Well, there is a way out. Next time you see that blue bar, actually click on the link to see the new terms and conditions. Or you can go to <a href="http://www.google.com/settings/ads">http://www.google.com/settings/ads</a>. Then select the option to ?opt out&rsquo; of Google&rsquo;s so-called ?interest based ads&rsquo;. There will be a pop-up that tries to talk you out of it, but persevere.</p>
+<p dir="ltr">RAY: Why would anyone want to be part of Google&rsquo;s ad program?</p>
+<p dir="ltr">TOM: Well they&rsquo;re counting on people to just not care enough to opt out. And if you don&rsquo;t, then don&rsquo;t. But folks should be aware that it&rsquo;s happening and no how to get out of it.</p>
+<p>RAY: Absolutely. Alright, let&rsquo;s take some questions. What&rsquo;s our first question, Tom?</p>
+<p dir="ltr"><strong>Prem writes</strong>, one of my 8 GB USB drive (with about 4 GB, very important data files in many folders) is corrupted&nbsp;or damaged. I can see all the folders but soon the computer goes to non-responding mode and cannot open any folder or files. What is the best data recovery software one can download and use or is there software&nbsp;i&nbsp;can purchase&nbsp;to recover the data from this USB drive? I do not want to send it outside for data recovery. Please help. Please note the types of files in folders are: word files, pdf&nbsp;files, images of checks, and saved e-files. Looking forward for your response.</p>
+<p dir="ltr">TOM: Hi Prem, thanks for your question. Having corrupted or inaccessible data is not a fun situation to be in. We can give you a couple of suggestions, but there&rsquo;s no guarantee that you will be able to get your data back. I know you don&rsquo;t want to send the drive out for data recovery services, but that is the #1 best way to make sure that you can salvage whatever you can from the drive. It&rsquo;s not as expensive as you might think, either. There are places that will do a basic recovery for as little as $60.</p>
+<p dir="ltr">RAY: The good news is, your computer can still see the USB drive. If you couldn&rsquo;t access the drive at all you would be out of luck.</p>
+<p dir="ltr">TOM: Right, most likely the drive is only logically corrupted. In other words, the data has gotten scrambled somehow but there is nothing physically wrong with the drive.</p>
+<p dir="ltr">Now, I hate to say this because it&rsquo;s like telling you to close the barn door after the horse has escaped, but backup, backup, backup! Always keep your important files in at least two places.</p>
+<p dir="ltr">RAY: In fact, keep them in three places. One on your USB drive, one on your hard drive, and one in the cloud. You definitely don&rsquo;t want to keep something only on a flash memory drive, though.</p>
+<p dir="ltr">Those little USB flash drives are not very reliable. They use the cheapest memory possible to keep the price down. Additionally, even if the drive doesn&rsquo;t become corrupted, it&rsquo;s very easy to lose or damage! I can&rsquo;t begin to count how many times I&rsquo;ve been unable to find a USB drive, and then later it turned up at the bottom of some drawer. Those things are easy to lose. You could leave it at the coffee shop. It could fall out of your pocket. It could get stepped on.</p>
+<p dir="ltr">You should never rely on a USB drive as the sole copy of your files.</p>
+<p dir="ltr">Anyway, enough lecturing. Tom, how can we help Prem recover those files?</p>
+<p dir="ltr">TOM: First things first, just in case, try plugging your USB drive into another computer. I have personally encountered cases before where one computer could read a drive but another couldn&rsquo;t. That probably won&rsquo;t solve your problem in this case, but it&rsquo;s worth trying.</p>
+<p dir="ltr">Also, make sure that you do not attempt to update files on the USB drive, delete them, or add them. Doing any of these things will make changes to the drive. This is known as ?writing&rsquo; to the drive. At this point every ?write&rsquo; to the drive pushes it further towards irrecoverable oblivion!</p>
+<p dir="ltr">Before we dive into the recovery tools that are available, let&rsquo;s use the ones you already have. You didn&rsquo;t specify but I assume you&rsquo;re using Windows. Windows actually has its own, fairly powerful recovery tool. But you&rsquo;ll need to run it from the command line.</p>
+<p dir="ltr">Click the start button and then search for ?cmd&rsquo; and hit enter. This will bring up a black box with white text. Do you know the letter of your USB drive? It&rsquo;s probably something like D, E or F.</p>
+<p dir="ltr">At the command line, type CHKDSK&nbsp;and the letter of your drive followed by /r. So for example, CHKDSK&nbsp;d /r. CHKDSK is a windows utility that will scan your damaged drive and attempt to figure out what&rsquo;s wrong. The /r option tells it to attempt to repair any problems it finds. Run that and then check your drive and see if it&rsquo;s recovered any files. If it has, be sure to immediately copy them to your hard drive!</p>
+<p dir="ltr">If you still don&rsquo;t have all your files, there are several free recovery programs out there. You might as well try as many as you can. Get everything you can from one program and then try the next.</p>
+<p dir="ltr">The first program we found was <a href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk</a>. TestDisk is an open-source program, so it&rsquo;s not extremely user-friendly. In fact you will have to run it from the Windows command prompt. But it&rsquo;s pretty good according to <a href="http://lifehacker.com/5951822/how-can-i-recover-data-from-a-dead-or-erased-hard-drive">LifeHacker</a>. There is documentation at the link in the show notes.</p>
+<p dir="ltr">Another program is <a href="http://www.icare-recovery.com/data-recovery-free.html">iCare Data Recovery Free</a>. It&rsquo;s got some positive reviews. You&rsquo;ll want to use the Format Recovery option. The user interface is barebones, but <a href="http://www.icare-recovery.com/drs-features-tutorial.html">there is a tutorial</a>. We will provide a link to it in the show notes.</p>
+<p dir="ltr">There are lots of other recovery programs. Three others that we found are <a href="http://diskdigger.org/">Disk Digger</a>, <a href="http://www.pcinspector.de/default.htm">PC Inspector</a> and <a href="http://www.snapfiles.com/get/restoration.html">Restoration</a>.</p>
+<p dir="ltr">Again, you can try more than one. Bear in mind, though, that as these programs have to ?write&rsquo; to the drive that as you continue to use them the drive will become increasingly unusable.</p>
+<p dir="ltr">When you&rsquo;ve recovered your files, you may be able to recover the USB drive too. Try formatting it. If the problem is merely some corrupt data, this will wipe it clean and you&rsquo;ll have a usable drive once more. Be sure not to keep the only copy of important files on it in the future, though!</p>
+<p dir="ltr">Okay, Prem. Hopefully some of these programs work for you. Good luck!</p>
+<p dir="ltr"><strong>Jan wrote in</strong>: I purchased my iPhone this year but have years&rsquo; worth of previous&nbsp;emails stored. How can I delete&nbsp;without having to delete&nbsp;one at a time? How can I sync my iPhone email and my computer email so that I don&rsquo;t have to delete on both? How can I store photos sent via text messaging? Thanks!</p>
+<p dir="ltr"><strong>Morgan writes</strong>, Hi, I have been having&nbsp;something really strange happen to my Galaxy S3. I will be using it and suddenly the screen will flicker and then it will shut down. It won&rsquo;t turn back on until I plug it in, even if it was charged&nbsp;very recently. I am worried that something is very wrong with my phone. Help!</p>
+<p dir="ltr">RAY: That&rsquo;s scary!</p>
+<p dir="ltr">TOM: Yeah, it is a scary-sounding problem. In fact I&rsquo;m pretty sure I know what&rsquo;s going on, and it&rsquo;s a good-news-bad-news type of situation.</p>
+<p dir="ltr">RAY: OK, what&rsquo;s the bad news?</p>
+<p dir="ltr">TOM: The bad news is that it is almost certainly a hardware problem. Something is physically wrong with Morgan&rsquo;s phone.</p>
+<p dir="ltr">RAY: Well that sucks! I hope the good news is really good!</p>
+<p dir="ltr">TOM: It&rsquo;s pretty good. The part of your phone that has probably gone bad is the easiest part to replace, and relatively inexpensive. I&rsquo;m talking about the battery. My guess is that Morgan needs a new battery. And there&rsquo;s an easy way to test that.</p>
+<p dir="ltr">Okay Morgan, here&rsquo;s what I want you to do: peel the back plate off of your phone and dig out that battery. Set it on a flat surface in front of you, like a table or desk.</p>
+<p dir="ltr">RAY: Okay?</p>
+<p dir="ltr">TOM: Now, spin it!</p>
+<p dir="ltr">RAY: What?</p>
+<p dir="ltr">TOM: Batteries are flat, or at least they are supposed&nbsp;to be. A good battery won&rsquo;t spin. However when a battery goes bad, at least in the case of the Galaxy S3, it may develop a slight bulge. If your battery spins on one side or the other, that means that side is now curved. You&rsquo;ve got a bulgy battery. Time for a new one!</p>
+<p dir="ltr">Fortunately, replacement batteries start for as low as $9.99 on Amazon.com. If you&rsquo;re still under warranty, you can take the phone to the store you bought it at, show them your cool battery trick, and they&rsquo;ll probably replace it for free.</p>
+<p dir="ltr"><strong>Morton asks:</strong>&nbsp;I recently bought an ASUS Transformer Pad (tablet), model #TF300T. I use it in conjunction with Wi-Fi connections to the internet.</p>
+<p dir="ltr">I would like to know if there is any SIMPLE printer on the market which I can use with this Tablet (Made in Taiwan). Right now the only access to printing is a friend&rsquo;s Wi-Fi-enabled Lap Top which has a printer attached.</p>
+<p dir="ltr">My tablet is an ANDROID-based tablet, and all printers I see are only compatible with WINDOWS or MAC.</p>
+<p dir="ltr">RAY: Go to <a href="https://www.google.com/cloudprint/learn/">https://www.google.com/cloudprint/learn/</a>&nbsp;or just look for the Cloud Print Ready. Or if you want to buy an AirPrint ready printer that isn&rsquo;t Cloud Print Ready, there is an app called <a href="https://play.google.com/store/apps/details?id=net.jsecurity.printbot&amp;hl=en">PrintBot</a>&nbsp;which will let you print from an Android device to an AirPrint ready printer.</p>
+<p><strong>Susanna wrote in</strong>: I have a new laptop, and I am planning on selling my old laptop. I have Adobe Creative Suite for on my old Mac laptop and I want to move it to my new Mac. Is there anything I need to do to put it on my new laptop or can I just install it?</p>
+<p>Adobe only lets you activate the software on as many computers as you have paid for; with a single license for Adobe software you may install it on two computers. So, if you do not deactivate&nbsp;it on the first computer and you only have paid for one license, you will not be able to install it on any other computers.</p>
+<p>To deactivate the software from your computer:</p>
+<p>Make sure the computer that has the software installed is connected to the Internet.<br>
+Choose Help &gt; Deactivate in the product you wish to deactivate. If you have a suite then choosing one of the products will Deactivate the entire suite.<br>
+Select Deactivate Permanently</p>
+<p>If you unfortunately already sold your old laptop, you&rsquo;re not out of luck, but you will have to contact Adobe directly to deactivate it so that you can activate it on another computer.</p>
+<p><a href="http://helpx.adobe.com/x-productkb/policy-pricing/activation-deactivation-products.html">http://helpx.adobe.com/x-productkb/policy-pricing/activation-deactivation-products.html</a></p>
+<p><strong>Richard writes</strong>, My cats walked on my computer one day and now my Dell laptop boots up upside down and to get it right I have to press the windows key and the p button, then when I stop duplicate screen mode, the screen reverts to normal. How can I get it to boot up right?<br>
+TOM: Geez, and I thought my cat was bad because he gets on top of the bookshelf.<br>
+RAY: Like any cat, this cat knows a good prank when he sees it.<br>
+TOM: Hahahah! Not to worry Richard, this is a very easy fix. On some versions of Windows some genius at Microsoft thought it was a good idea to have a hot-key combination that changes the orientation of your screen.<br>
+Now I can see why very occasionally you might want to flip your screen 90 degrees, but I can&rsquo;t imagine doing it often enough that you would need a short sequence of keystrokes to do it. Basically, Microsoft created the ultimate hotkey shortcut for pranksters.<br>
+RAY: Or cats.<br>
+TOM: Right. To change the orientation of&nbsp;your screen, once you&rsquo;ve logged in upside-down, hold down CTRL+ALT+UP ARROW and that ought to right&nbsp;your screen. CTRL+ALT+ANY ARROW KEY will change your screen so it&rsquo;s facing the direction of the arrow.<br>
+Now you know, so do us a favor: once you change your screen back, don&rsquo;t use this knowledge for evil.<br>
+RAY: If that doesn&rsquo;t work, you can also do it manually through the Control Panel.</p>
+<ul><li>Click the Start menu and open &ldquo;Control Panel.&rdquo;</li>
+<li>Click &ldquo;Adjust Screen Resolution&rdquo;</li>
+<li>Click to open the &ldquo;Orientation&rdquo; menu.</li>
+<li>Choose from : &ldquo;Landscape,&rdquo; &ldquo;Portrait,&rdquo; &ldquo;Landscape (Flipped)&rdquo; and &ldquo;Portrait (Flipped)&rdquo; Click your desired orientation option to have Windows display a thumbnail preview of what it will look like.</li>
+<li>Click &ldquo;Apply,&rdquo; then click &ldquo;Keep Changes&rdquo; or &ldquo;Revert&rdquo; to revert to the original orientation.</li>
+</ul><p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/52-spin-battery/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3" length="28799341" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Joe asks, &#8220;Is there a cheaper alternative to inkjet printers?&#8221;</title>
+		<link>/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/</link>
+		<comments>/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/#comments</comments>
+		<pubDate>Thu, 16 May 2013 15:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[couponing]]></category>
+		<category><![CDATA[ink jet]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[laser printers]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7358</guid>
+		<description><![CDATA[RAY: Hi, I&#8217;m Ray Hollister, TOM: I&#8217;m Tom Braun, RAY: and we&#8217;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: TOM: Joe asks, I have <a href="/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p97086-embed" src="http://www.prx.org/p/97086/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Joe asks, I have a printer problem but not with how it works: it&rsquo;s the cost of operation. We bought two inkjet printers for my kids to use in college.</p>
+<p>While the printers were very cheap to purchase, they have been very expensive to operate. I am not sure which cost more &ndash; college tuition or the ink for the printers! Now that the kids have graduated, I would really like to find a printer that&rsquo;s inexpensive to run and has decent print quality for occasional home use. Any ideas?</p>
+<p>RAY: Great question, Joe.</p>
+<p>Inkjet printers are often cheap to buy, but they are notoriously expensive to maintain. When I was working for a certain office supply company years ago, I learned that the companies that make the printers actually make their money off selling the ink.</p>
+<p>But here&rsquo;s a question for you, Joe: how much do you really need to print?</p>
+<p>That question may sound crazy but, do you have a mobile device that could replace whatever you are using the printer for? In my house, we hardly print anything anymore because we have an iPad. You would be surprised at how much a tablet or good smartphone will replace printing stuff out.</p>
+<p>TOM: Wow, so a good argument for buying that shiny new tablet is to save on printer costs!</p>
+<p>RAY: Absolutely!</p>
+<p>Remember going to MapQuest and printing out directions before you went on a trip? A device with built-in GPS can take care of that.</p>
+<p>And, one of the main selling points for inkjets is that they are fantastic for printing out high resolution color pictures. But how often do you really need to do that? Again, that&rsquo;s something that a lot of folks who own tablets and smartphones don&rsquo;t need because the pictures look better on the mobile device, and if you want to show them off, most of them have a way you can show the pictures on your high def television screen.</p>
+<p>TOM: And if you do need to print some pictures, your local print shop can probably do a much better job and do it cheaper, all things being equal.</p>
+<p>RAY: Right.</p>
+<p>Now, my wife really only uses our printer for couponing and the occasional form that has to printed out and signed. You don&rsquo;t need a color printer for that. So, she did some research and discovered that the cheapest solution was actually a black-and-white laser printer. You can get a consumer grade laser printer for around $1-200, and the cartridges, comparably, are insanely cheap.</p>
+<p>TOM: Really?</p>
+<p>RAY: Yeah, they run you about $50, but they last for thousands and thousands of pages instead of the only 200-500 prints you&rsquo;ll get out of most inkjet printer cartridges.</p>
+<p>You know, the next time you go into your office Joe, take look around at the printers and see if they are inkjets or laser printers. I&rsquo;ll bet you the majority are black-and-white laser printers because businesses know that these are the most cost-effective printers.</p>
+<p>So, if you do print a lot, I would ask how often you need to print in color. And, if the answer is not often, get a black and white laser printer, because it&rsquo;s gonna be your best bet for the money.</p>
+<p>Unless you&rsquo;re a photographer or you print out a lot of color pages and you really need to have control over how they print, a color inkjet printer is probably not a good investment.</p>
+<p>But if you just need to do basic printing, I recommend getting a black-and-white laser printer. You&rsquo;ll get a great cost-per-page, and it&rsquo;s usually a lot faster!</p>
+<p>TOM: That is great news Ray!</p>
+<p>RAY: Why is that?</p>
+<p>TOM: I finally have a legitimate excuse to go out and buy that $500 tablet I&rsquo;ve been looking at!</p>
+<p>RAY: Oh, brother.</p>
+<p>To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes, and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister&hellip;</p>
+<p>TOM. And I&rsquo;m Tom Braun.</p>
+<p><img alt="" src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/229338/Canon_S520_ink_jet_printer_-_opened_medium.jpg"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Joe asks, "Is there a cheaper alternative to inkjet printers?"' data-link="/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Joe asks, "Is there a cheaper alternative to inkjet printers?"' data-link="/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/joe-asks-is-there-a-cheaper-alternative-to-inkjet-printers/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Sherry asks &#8220;How can I keep my son safe on the Internet on his tablet?&#8221;</title>
+		<link>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/</link>
+		<comments>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#comments</comments>
+		<pubDate>Thu, 17 Jan 2013 14:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Kids Mail]]></category>
+		<category><![CDATA[Kids Place]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7213</guid>
+		<description><![CDATA[Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&#8217;t supposed to? The hosts of Deemable Tech, Ray <a href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Sherry wants to know how she can make sure her son is safe of the Internet. Is there an app or email service that would prevent him from seeing things he isn&rsquo;t supposed to? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p90848-embed" src="http://www.prx.org/p/90848/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:<br>
+Sherry writes: Hey guys!<br>
+We bought a Polaroid tablet for my 11 year-old son for Christmas. We picked it up for only $50 on Woot! Is there a way that we can control which websites he can access on it?<br>
+An additional question would be: What are the best options for kid safe e-mail? I just Googled it and found this one: http://www.kidsemail.org/ </p>
+<p>TOM: $50? Nice deal Sherry! Well played indeed.<br>
+Let&rsquo;s answer her last question first. Email for your kids &ndash; how do you control it? </p>
+<p>RAY: Well Tom, Sherry mentioned Kids Email. Kids Email is a subscription based email service that allows you to monitor and control who your kid is exchanging emails with. It has an Android app called KMail. It has some nice features like only allowing your kid to receive emails from an approved contact list, filtering out swear words and copying you on every email. </p>
+<p>TOM: Honestly, Ray, I feel like Sherry could achieve most of the same results by just making sure you have the password to your kid&rsquo;s email account. She can then see what emails he&rsquo;s receiving and what emails he&rsquo;s sending. </p>
+<p>Sherry, be upfront with your kid about the fact that you&rsquo;ll be monitoring his emails. Tell him you&rsquo;ll be checking periodically and as time goes on if you feel he&rsquo;s emailing responsibly you&rsquo;ll feel comfortable checking less and less.<br>
+That&rsquo;s what I would do. </p>
+<p>RAY: Now as far as general parental controls: while Android has virtually no parental controls built into the operating system, there are plenty of free or cheap third party apps on the Play Market which will give you a lot of control over how your tablet gets used. </p>
+<p>TOM: Speaking of the Play Market, why don&rsquo;t you go ahead and open up that app. Maybe the first thing you want to do is restrict what apps your kid can download. Open up the settings and scroll down to &ldquo;Set or change PIN.&rdquo; Go ahead and set a PIN code. Then check the box that says &ldquo;Use PIN for purchases.&rdquo; Now no one who doesn&rsquo;t know your PIN can use your phone to download apps. </p>
+<p>RAY: Now you can go further with apps that basically offer a very limited ?sandbox&rsquo; for your kid to play in. For example, there is a free third party app called Kids Place that basically creates a separate desktop for your kid. Once inside the Kids Place desktop, he only has access to apps you have specified. </p>
+<p>Maybe most importantly, Kids Place blocks in-app purchases. Some parents have run into trouble when they check their monthly credit card statements and see that their kids have spent hundreds of dollars on virtual fuzzy hats for their game character. </p>
+<p>Kids Place blocks that from happening, and I think that&rsquo;s a big bonus. Just search for &ldquo;Kids Place&rdquo; on the Play Market. </p>
+<p>TOM: Now Kids Place is really designed to block internet access entirely. If you want limited access for your kid, there are other options. </p>
+<p>But first you should be aware that there is really no way in the world to guarantee that your child stays out of trouble on the internet. New web sites spring up all the time, people come up with new tools and workarounds for existing blocks, and it&rsquo;s impossible for even the most zealous content controls to find and block them all. Plus, if your kid puts his mind to it he&rsquo;s eventually going to find his way around those blocks anyway. </p>
+<p>Unfortunately, that&rsquo;s the reality of the situation on today&rsquo;s internet. </p>
+<p>You might notice a theme here: No program can take the place of personally monitoring your son&rsquo;s internet and email use. I know when I was eleven I knew how to get into things on the computer that I wasn&rsquo;t supposed to. Your kid probably does too. </p>
+<p>TOM: We talked about this in more detail on our podcast this week. So be sure to check it out on Deemable.com. That&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast. </p>
+<p>RAY: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com. For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211222/BoyTablet_medium.png" title="How can we keep our kids safe on the Internet if they have their own devices?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sherry asks "How can I keep my son safe on the Internet on his tablet?"' data-link="/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/sherry-asks-how-can-i-keep-my-son-safe-on-the-internet-on-his-tablet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 20 &#8211; What&#8217;s Black and White and Read All Over?</title>
+		<link>/2012/11/episode-20-whats-black-and-white-and-read-all-over/</link>
+		<comments>/2012/11/episode-20-whats-black-and-white-and-read-all-over/#comments</comments>
+		<pubDate>Mon, 12 Nov 2012 17:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[eReaders]]></category>
+		<category><![CDATA[external hard drive]]></category>
+		<category><![CDATA[Glympse]]></category>
+		<category><![CDATA[Google Search]]></category>
+		<category><![CDATA[help with my computer]]></category>
+		<category><![CDATA[iPhone 4S]]></category>
+		<category><![CDATA[network hard drive]]></category>
+		<category><![CDATA[optical character recognition]]></category>
+		<category><![CDATA[Rebirth of the Eagle]]></category>
+		<category><![CDATA[Samsung Galaxy SIII Mini]]></category>
+		<category><![CDATA[Small smart phones]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[TextGrabber]]></category>
+		<category><![CDATA[Wi-Fi router resetting]]></category>
+		<category><![CDATA[wireless router problems]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6001</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/11/EagleHardDecision-150x150.png" class="attachment-thumbnail wp-post-image" alt="The Eagle Must Make A Hard Decision" style="float:left; margin:0 15px 15px 0;" />Deemable Tech &#8211; Episode 20 &#8211; What&#8217;s Black and White and Read All Over? On today&#8217;s episode Tom got all the laughs, and Ray got all the crickets. There&#8217;s bad jokes, good apps, bad smart phones, and an eagle going <a href="/2012/11/episode-20-whats-black-and-white-and-read-all-over/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/episode-20-whats-black-and-white-and-read-all-over/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/11/EagleHardDecision-150x150.png" class="attachment-thumbnail wp-post-image" alt="The Eagle Must Make A Hard Decision" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/11/EagleHardDecision.png" class="gallery_colorbox"><img class="alignright size-medium wp-image-6010" title="The Eagle Must Make A Hard Decision" src="//media/2012/11/EagleHardDecision-300x229.png"  alt="" width="300" height="229"></a></p>
+<audio class="wp-audio-shortcode" id="audio-6001-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-11.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-11.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-11.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-11.mp3">Deemable Tech &ndash; Episode 20 &ndash; What&rsquo;s Black and White and Read All Over?</a></p>
+<p>On today&rsquo;s episode Tom got all the laughs, and Ray got all the crickets. There&rsquo;s bad jokes, good apps, bad smart phones, and an eagle going through a midlife crisis.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="itpc://feeds.feedburner.com/DeemableTech" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="" width="160" height="59"></a></p>
+<p>Make sure to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="pcast://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Which is better? eReaders or tablets?</li>
+<li>How do I setup an external&nbsp;hard drive&nbsp;as a network drive?</li>
+<li>I want a small smartphone. What do you recommend?</li>
+<li>Why do I have to keep resetting my wireless router?</li>
+</ul><h3>Debunkable</h3>
+<ul><li>Do eagles go through a midlife crisis, too?</li>
+</ul><div>Had a friend forwarded you something from the Internet that seemed to good to be true? Gotten a crazy chain email from Aunt Thelma? Send it our way and we&rsquo;ll take a look at it. Our email address is&nbsp;<a href="mailto:debunkable@deemable.com">debunkable@deemable.com</a>.</div>
+<h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://techpp.com/2012/07/11/10-of-the-best-feature-phones/">10 of the best feature phones</a></li>
+<li><a href="http://us.gizmodo.com/5943072/after-iphone-5-the-only-small-phones-left-are-all-horrible">Gizmodo &ndash; After iPhone 5 the Only Small Phones Left Are All Horrible</a></li>
+<li><a href="http://www.apple.com/iphone/specs.html">iPhone 4S</a></li>
+<li><a href="http://reviews.cnet.com/smartphones/samsung-galaxy-s3-mini/4505-6452_7-35484855.html">Galaxy S III Mini</a></li>
+<li><a href="http://www.phonearena.com/news/Motorola-DROID-RAZR-M-vs-the-competition-size-comparison_id34172">Droid Razr M</a></li>
+<li><a href="http://www.glympse.com/what_is_glympse">Glympse</a></li>
+<li><a href="http://medhelperapp.com/">Medhelper</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/textgrabber-+-translator/id438475005?mt=8" target="_blank" rel="external nofollow">TextGrabber</a></li>
+<li><a href="http://www.google.com/mobile/google-mobile-app/">Google Search App on iPhone</a></li>
+<li><a title="Lifehacker How can I fix my Wi-Fi router so I don't have to keep resetting it?" href="http://m.lifehacker.com/5910788/why-do-i-have-to-keep-resetting-my-router-and-how-can-i-fix-it">Lifehacker &ndash; Why do I have to keep resetting my Wi-Fi router, and how can I fix it?</a></li>
+<li><a title="DD-WRT | Unleash your router" href="http://www.dd-wrt.com/site/index">DD-WRT &ndash;&nbsp;Linux based&nbsp;alternative OpenSource firmware suitable for a great variety of WLAN routers</a></li>
+<li><a href="http://www.snopes.com/critters/wild/eaglerebirth.asp">Snopes &ndash; Eagle Rebirth</a></li>
+<li><a href="http://www.truthorfiction.com/rumors/b/baldeagle.htm">Truth or Fiction? Eagle</a></li>
+<li><a href="http://www.hoax-slayer.com/rebirth-of-the-eagle-hoax.shtml">Hoax Slayer &ndash; Rebirth of the Eagle Hoax</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 20 - What's Black and White and Read All Over?" data-link="/2012/11/episode-20-whats-black-and-white-and-read-all-over/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 20 - What's Black and White and Read All Over?" data-link="/2012/11/episode-20-whats-black-and-white-and-read-all-over/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/episode-20-whats-black-and-white-and-read-all-over/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-11-11.mp3" length="50552163" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

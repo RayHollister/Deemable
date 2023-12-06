@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; RAM</title>
+	<atom:link href="/tag/ram/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Osler asks, &#8220;Why is my &#8216;virtual memory&#8217; too low?&#8221;</title>
+		<link>/2014/11/osler-asks-virtual-memory-low/</link>
+		<comments>/2014/11/osler-asks-virtual-memory-low/#comments</comments>
+		<pubDate>Thu, 20 Nov 2014 20:35:08 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[hard drive]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[RAM]]></category>
+		<category><![CDATA[virtual memory]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9396</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/11/ram_memory-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" />Q: I often get a message from my laptop saying that the virtual memory is too low and that the computer will adjust it. Why is this happening almost four to five times a week? A: Thanks for the question, <a href="/2014/11/osler-asks-virtual-memory-low/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/11/osler-asks-virtual-memory-low/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/11/ram_memory-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Wikimedia Commons" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p136015-embed" src="http://www.prx.org/p/136015/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> I often get a message from my laptop saying that the virtual memory is too low and that the computer will adjust it. Why is this happening almost four to five times a week?<span id="more-9396"></span></p>
+<p><strong>A:</strong> Thanks for the question, Osler! Before we explain what &ldquo;virtual memory&rdquo; is, we&rsquo;re going to just go ahead and tell you what your problem is: your hard drive is too full. Consider uninstalling a few programs you no longer need on your laptop, and moving large multimedia files off of your computer and onto an external hard drive. Computer games and video files are especially notorious for taking up a lot of hard drive space.</p>
+<div id="attachment_9397" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/11/ram_memory.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9397" src="//media/2014/11/ram_memory-300x225.jpg"  alt="Image credit: Wikimedia Commons" width="300" height="225"></a><p class="wp-caption-text">Image credit: Wikimedia Commons</p></div>
+<p>If you&rsquo;re not sure what is eating up the most room on your computer, we recommend using a program called <a href="https://windirstat.info/" target="_blank">WinDirStat</a>. It does a fantastic job of showing you which files and programs are taking up the most space, so you can then delete the ones you don&rsquo;t need any more or move them to an external hard drive. Once you clear off some of those files, you should stop getting those annoying messages.</p>
+<p>Now onto what virtual memory is. Your laptop has two main ways to store information: RAM (often referred to as &ldquo;memory&rdquo;) and the hard drive. Accessing the RAM is really fast, so your computer will try to store as many running programs and streaming videos as possible there.</p>
+<p>The thing about RAM, though, is that you often don&rsquo;t have that much of it &ndash; your computer probably only has two, four or maybe eight gigabytes of it. When it comes to hard drive space, on the other hand, your computer may have 500 or even 1000 gigabytes of that. When your computer runs low on RAM, it will use the slower hard drive to augment the memory. This is known as virtual memory.</p>
+<p>Basically, your computer carves off chunks of whatever it was try to put in the real memory, and puts it into the virtual memory on your hard drive instead. But this won&rsquo;t work very well if you&rsquo;re low on hard drive space. At that point, your system is constantly trying to swap things between the RAM and the hard dive in tiny bits, and your computer can really grind to a halt.</p>
+<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/11/osler-asks-virtual-memory-low/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

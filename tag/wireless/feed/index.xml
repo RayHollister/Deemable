@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; wireless</title>
+	<atom:link href="/tag/wireless/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Gregory asks &#8220;Which is safer: wired or wireless?&#8221;</title>
+		<link>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/</link>
+		<comments>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/#comments</comments>
+		<pubDate>Thu, 15 Nov 2012 14:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[ethernet]]></category>
+		<category><![CDATA[free Wi-Fi]]></category>
+		<category><![CDATA[WEP]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless]]></category>
+		<category><![CDATA[WPA]]></category>
+		<category><![CDATA[WPA2]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7177</guid>
+		<description><![CDATA[Is it safe to use Wi-Fi in a hotel lobby, or would you be better off to pay for the wired internet in your room? Hosts of Deemable Tech, Ray Hollister and Tom Braun, have the answer. Take a listen <a href="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Is it safe to use Wi-Fi in a hotel lobby, or would you be better off to pay for the wired internet in your room? Hosts of Deemable Tech, Ray Hollister and Tom Braun, have the answer. Take a listen to this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p90798-embed" src="http://www.prx.org/p/90798/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM:I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>Gregory writes, How much more secure is a wired Internet connection vs a wireless connection?</p>
+<p>TOM: OK, so there are basically two ways to get your computer online, which as Gregory has pointed out are &lsquo;wired&rsquo; and &lsquo;wireless&rsquo;. &lsquo; Wireles&rsquo;s of course means your computer is not physically plugged into anything. &lsquo;Wired&rsquo; means you literally have one of those CAT5 cables that looks like a thick blue phone line plugged into your computer.</p>
+<p>Now, realize there are several different types of connections that we call &lsquo;wireless&rsquo;. You have good old-fashioned wi-fi, which is the type your router at home broadcasts. But you could also be talking about 3g or 4g connections through your cellular service.</p>
+<p>RAY: Okay, but out of all these which would you say would be the MOST secure?</p>
+<p>TOM: Well, that would definitely be a wired connection. There&rsquo;s no way for someone to intercept the signal without physically cutting the cable and splicing in. But honestly you can never assume that you&rsquo;re absolutely secure. Just because someone isn&rsquo;t intercepting your signal doesn&rsquo;t mean they don&rsquo;t have other means of compromising your security.</p>
+<p>I&rsquo;m not trying to make our listeners paranoid here, but I don&rsquo;t want anyone to assume that simply because you&rsquo;re plugged directly into a hardline that you cannot be hacked.</p>
+<p>But if you&rsquo;re on a wireless connection it is definitely easier for someone nearby to intercept your signal.</p>
+<p>RAY: So what about someone on a 3g or 4g connection, how secure are they?</p>
+<p>TOM: I&rsquo;m gonna go out on a limb and say that a cellular connection is pretty secure. It&rsquo;s going to be at least as secure as an ordinary cellphone call. Now we all know there are ways of hacking those, but if a white van is following you around with advanced cellular signal-breaking equipment, you&rsquo;ve got bigger problems. Or you&rsquo;re on an episode of &lsquo;Person of Interest&rsquo;.</p>
+<p>RAY: For ordinary wifi you have secured and unsecured connections. A secured wifi connection is one where you have to enter a password to login. There are several flavors but the only one you need to remember is WPA-2. If your router doesn&rsquo;t have that, use WPA. So, make sure when you&rsquo;re setting up your home router that you do turn on WPA-2 and set a password, or if you if you already have your wifi setup, go into your router settings and add a WPA-2 password.</p>
+<p>TOM: You also have open wifi connections. Now let me be very clear: an open wi-fi connection is absolutely unsecure. There are readily available programs that allow people to steal your login and password to Facebook, Gmail and other sites if you access them over an open wifi connection.</p>
+<p>So I would be real leery of open wi-fi especially if you are doing business stuff. Make sure if you are in a coffee shop using their wifi that it requires a password to connect. Otherwise you are leaving yourself wide open.</p>
+<p>Now, even secured wireless networks can be broken. So if you are doing something that requires a high degree of security, I would stay off public wifi in general.</p>
+<p>RAY: So, in summary, wired is the most secure, than cellular, then secured wifi, and unsecured wifi is the worst. But, you&rsquo;re never really totally secure regardless of what type of connection you use.</p>
+<p>TOM: Exactly! And that&rsquo;s your daily dose of paranoia, brought to you by Deemable Tech.</p>
+<p>RAY: To hear more answers to questions like Gregory&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at 1-888-972-9868, or you can send us an email at questions@deemable.com.</p>
+<p>RAY: For Deemable Tech I&rsquo;m Ray Hollister,</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<p><img title="Wired Versus Wireless." alt="" src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211162/WiredVsWireless_medium.png"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Gregory asks "Which is safer: wired or wireless?"' data-link="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Gregory asks "Which is safer: wired or wireless?"' data-link="/2012/11/gregory-asks-which-is-safer-wired-or-wireless/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/gregory-asks-which-is-safer-wired-or-wireless/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The 4G Hoax</title>
+		<link>/2011/06/the-4g-hoax/</link>
+		<comments>/2011/06/the-4g-hoax/#comments</comments>
+		<pubDate>Thu, 23 Jun 2011 19:19:21 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[4G]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[HSPA]]></category>
+		<category><![CDATA[LTE]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Sprint]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[wireless]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3692</guid>
+		<description><![CDATA[Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &#8220;America&#8217;s largest 4G network.&#8221; Then Verizon entered the picture with its own 4G network which they <a href="/2011/06/the-4g-hoax/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/the-4g-hoax/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: center"><img class="aligncenter" src="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" alt="" width="366" height="205"></p>
+<p>Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &ldquo;America&rsquo;s largest 4G network.&rdquo; Then Verizon entered the picture with its own 4G network which they announced as the largest and fastest in the United States. AT&amp;T, of course, eventually released its own 4G network to keep up with the competition, but in hindsight, none of these telecommunications giants have a network that can <em>truly</em> be called 4G.&nbsp;In actuality, what these companies are offering is basically a 3.5G network. A marketing ploy. A hoax&hellip;</p>
+<p>In November of 2010, the global wireless standards-setting organization, called&nbsp;the International Telecommunication Union,&nbsp;defined 4G as a network that is capable of download speeds of 100 megabits per second (Mbps).&nbsp;While all of the supposed 4G networks out there are clear improvements to the current 3G networks that offer speeds between 500 kbps to 1.5 Mbps, none of them conform to the International Telecommunication Union&rsquo;s 4G definition. Even more perplexing, each carrier has its own 4G network based on different technologies:</p>
+<ul><li>Sprint offers a 4G network based on Wi-MAX technology.</li>
+<li>T-Mobile offers a 4G network based on an expansion of its 3G-HSPA+ network.</li>
+<li>Verizon offers a 4G network based on Long Term Evolution (LTE) technology.</li>
+<li>AT&amp;T offers a 4G network similar to T-Mobile&rsquo;s expanded 3G-HSPA+ network and is set to launch their own LTE 4G network sometime this year.</li>
+</ul><p>On Wednesday, however, Congress introduced a bill that would hopefully clear up some of the confusion between all of the different 4G offerings. Initiated by the ranking member of the House Subcommittee on Communications and Technology, Rep. Anna Eshoo (D-CA), the Next Generation Wireless Disclosure Act would force wireless carriers to provide specific information about coverage, reliability, speed, pricing, and the type of technology used by the service. A side-by-side comparison of the top 10 competing networks&rsquo; speeds and prices would also be available to consumers,&nbsp;and the bill would get the FCC to work with the wireless providers to establish a guaranteed, minimum speed standard for 4G.</p>
+<p>With all confusion and technical jargon aside, the bill is a great proposal to help consumers make better choices. Eshoo explained,&nbsp;&ldquo;Consumers need to know the truth about the speeds they&rsquo;re actually getting. My legislation is simple?it will establish guidelines for understanding what 4G speed really is, and ensure that consumers have all the information they need to make an informed decision.&rdquo;</p>
+<p>You can learn more about 4G in the video below:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/qdzEzBlVULY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" target="_blank">Photo</a> by <a title="Goldman" href="http://money.cnn.com/2010/12/01/technology/4g_myth/index.htm?iid=EL" target="_blank">David Goldman</a> via <a title="CNN" href="http://www.cnn.com/" target="_blank">CNN</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/the-4g-hoax/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

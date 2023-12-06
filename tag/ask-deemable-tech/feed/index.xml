@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Ask Deemable Tech</title>
+	<atom:link href="/tag/ask-deemable-tech/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Wi-Fi Assist</title>
+		<link>/2016/06/ask-deemable-tech-wi-fi-assist/</link>
+		<comments>/2016/06/ask-deemable-tech-wi-fi-assist/#comments</comments>
+		<pubDate>Thu, 16 Jun 2016 18:53:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[Wi-Fi Assist]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10604</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/07/iphone_wi-fi-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone_wi-fi" style="float:left; margin:0 15px 15px 0;" />Walter writes, &#8220;I read a story about a teenager who ran up a $2,000 phone bill because they thought they were using Wi-Fi but they were actually on the cellular network. I didn&#8217;t catch the whole story, but I know <a href="/2016/06/ask-deemable-tech-wi-fi-assist/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/06/ask-deemable-tech-wi-fi-assist/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/07/iphone_wi-fi-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="iphone_wi-fi" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><em><a href="http://deemable.com/media/2016/07/iphone_wi-fi.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10622" src="//media/2016/07/iphone_wi-fi-300x150.jpg"  alt="iphone_wi-fi" width="300" height="150"></a>Walter writes, &ldquo;I read a story about a teenager who ran up a $2,000 phone bill because they thought they were using Wi-Fi but they were actually on the cellular network. I didn&rsquo;t catch the whole story, but I know it had something to do with iPhones. Do you know what&rsquo;s going on?&rdquo;</em></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10604-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3">http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3</a></audio><p>We heard about that story too, Walter, and all we can say is, &ldquo;Yikes!&rdquo;</p>
+<p>It sounds like it wasn?t entirely the kid&rsquo;s fault, though. There&rsquo;s a new feature in iOS 9 called <strong>Wi-Fi Assist</strong> that was at least partially responsible.</p>
+<p>Wi-Fi Assist helps to make sure you have a solid data connection when you&rsquo;re using Wi-Fi, even if your Wi-Fi connection is really weak. For example, if you&rsquo;re in a part of your house that is far away from your wireless router, Wi-Fi Assist will automatically switch your phone over to 4G cellular data to keep you connected to the internet.</p>
+<p>This is great for people who have unlimited data plans, but it could run up your bill pretty quickly if you have a data cap and you&rsquo;re not paying attention to how much you&rsquo;re using.</p>
+<hr><p>For tips on keeping your data usage low, check out our other articles <a href="http://deemable.com/2013/04/michelle-asks-how-can-i-lower-my-data-usage-on-my-iphone/" target="_blank">here</a>, <a href="http://deemable.com/2014/09/angela-asks-can-monthly-usage-smartphone/" target="_blank">here</a> and <a href="http://deemable.com/2015/05/ask-deemable-tech-why-am-i-using-so-much-data/" target="_blank">here</a>.</p>
+<hr><p style="text-align: left;">If you&rsquo;re worried about Wi-Fi Assist eating up your data, here&rsquo;s how to turn it off:</p>
+<ul><li style="text-align: left;">Open the Settings app</li>
+<li style="text-align: left;">Tap Cellular</li>
+<li style="text-align: left;">Scroll all the to the bottom of that menu</li>
+<li style="text-align: left;">Tap the toggle button next to Wi-Fi Assist</li>
+</ul><p>In the Cellular menu, you&rsquo;ll also see a list of all of the apps on your phone that use cellular data. Next to each one is a toggle button to turn data for it on or off. It&rsquo;s a good idea to look through this list to see if there are any using data that don&rsquo;t need to be, especially ones you rarely use anymore.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Wi-Fi Assist" data-link="/2016/06/ask-deemable-tech-wi-fi-assist/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Wi-Fi Assist" data-link="/2016/06/ask-deemable-tech-wi-fi-assist/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/06/ask-deemable-tech-wi-fi-assist/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/06/adt20160616.mp3" length="3184244" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: The Tech To Help You Get Through The Storm</title>
+		<link>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/</link>
+		<comments>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/#comments</comments>
+		<pubDate>Thu, 10 Sep 2015 12:28:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[hurricane preparedness]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10274</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/09/RedCrossEtonFRX3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" style="float:left; margin:0 15px 15px 0;" />As you prepare for hurricane season, don&#8217;t forget about your technology. Make sure to download apps now that can make it easier to get through the storm, and make sure to have what you need to keep your devices running <a href="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/09/RedCrossEtonFRX3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>As you prepare for hurricane season, don&rsquo;t forget about your technology. Make sure to download apps now that can make it easier to get through the storm, and make sure to have what you need to keep your devices running during and after the storm.</p>
+<p><span id="more-10274"></span></p>
+<audio class="wp-audio-shortcode" id="audio-10274-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3">http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3</a></audio><div id="attachment_10275" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/09/RedCrossEtonFRX3.jpg" class="gallery_colorbox"><img class="wp-image-10275 size-medium" src="//media/2015/09/RedCrossEtonFRX3-300x169.jpg"  alt="The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton" width="300" height="169"></a><p class="wp-caption-text">The Red Cross FRX3 Eton Emergency Radio contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Image credit: Eton</p></div>
+<p><strong>Apps</strong></p>
+<p>There are countless weather apps on the Apple App Store and the Google Play Store. &nbsp;<a href="https://mobile.yahoo.com/weather/" data-cke-saved-href="https://mobile.yahoo.com/weather/">Yahoo Weather</a>, <a href="http://downloads.accuweather.com/" data-cke-saved-href="http://downloads.accuweather.com/"><span data-scaytid="1" data-scayt_word="Accuweather">Accuweather</span></a>, <a href="http://www.weather.com/apps" data-cke-saved-href="http://www.weather.com/apps">The Weather Channel</a>, <a href="http://getweatherbug.com/" data-cke-saved-href="http://getweatherbug.com/"><span data-scaytid="2" data-scayt_word="WeatherBug">WeatherBug</span></a> and <a href="http://www.wunderground.com/weather-app" data-cke-saved-href="http://www.wunderground.com/weather-app">Weather Underground</a> all do a fine job of providing up-to-date weather alerts and information.</p>
+<p><span data-scaytid="3" data-scayt_word="News4Jax?s">News4Jax&rsquo;s</span> <a href="http://www.news4jax.com/22092112" data-cke-saved-href="http://www.news4jax.com/22092112"><span data-scaytid="4" data-scayt_word="WJXT">WJXT</span>: The Weather Authority</a> app provides weather alerts and forecasts specifically for Northeast Florida. The <a href="http://www.coj.net/mobile-apps/mobile-apps-list/jaxready.aspx" data-cke-saved-href="http://www.coj.net/mobile-apps/mobile-apps-list/jaxready.aspx"><span data-scaytid="5" data-scayt_word="JaxReady">JaxReady</span> app</a> provides evacuation information for Jacksonville residents. The Florida Public Radio Emergency Network&rsquo;s new app,&nbsp;<a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/florida-storms/id1011397030?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/florida-storms/id1011397030?mt=8" target="_blank" rel="external nofollow">Florida Storms</a>, provides weather and storm tracking and forecasting information, preparedness checklists, evacuation routes and a live audio stream from 89.9 FM or your local Florida public radio station.</p>
+<p><a href="http://www.redcross.org/mobile-apps/hurricane-app" data-cke-saved-href="http://www.redcross.org/mobile-apps/hurricane-app">The Red Cross Hurricane App</a> helps you plan before the storm, gives updates during the storm and provides information on how to recover after the storm has passed. <a href="http://www.redcross.org/mobile-apps/first-aid-app" data-cke-saved-href="http://www.redcross.org/mobile-apps/first-aid-app">The Red Cross First Aid App</a> has information and videos to help you handle common first aid emergencies that might arise during a disaster.</p>
+<p>If you&rsquo;re stuck in a precarious position, you may need to get information out fast to someone who can help. <a href="http://www.redpanicbutton.com/" data-cke-saved-href="http://www.redpanicbutton.com/">Red Panic Button</a> is an app that can send out an urgent text message, tweet, Facebook message and email with a link to your location on Google Maps.</p>
+<p><a href="http://www.fema.gov/mobile-app" data-cke-saved-href="http://www.fema.gov/mobile-app">FEMA&rsquo;s mobile app</a> can help you find shelters and disaster recovery centers. It also provides tips to survive a disaster and can be used to apply for aid after the storm.</p>
+<p><strong>External Batteries</strong></p>
+<p>An external battery with a USB port will keep your devices working for a while until the power comes back on.</p>
+<p>When shopping for a USB battery backup, look for the mAh, or milliAmpere-hour, rating. The mAh is a measurement of how much energy the battery can store. The more mAh, the better. Choose a battery backup that has more mAh than the device that needs to be charged.</p>
+<p>The iPhone 6 has a 1,810 mAh battery and the iPad&rsquo;s battery has 8,827 mAh. A quick search on the web will usually tell you how much mAh your device&rsquo;s battery has in it. For a list of recommendations, Lifehacker has put together a list of <a href="http://lifehacker.com/five-best-external-battery-packs-509802431" data-cke-saved-href="http://lifehacker.com/five-best-external-battery-packs-509802431">five of the best battery packs</a>.</p>
+<p><strong>Battery Chargers</strong></p>
+<p>There are a few options that can keep those external batteries and devices charged if the power is out for more than a few hours. Hand crank chargers are devices that turn your arm energy into battery power. There are also <a href="https://www.k-tor.com/pedal-powered-generator/" data-cke-saved-href="https://www.k-tor.com/pedal-powered-generator/">pedal-powered generators</a> that use your feet to make energy, <a href="http://www.amazon.com/Best-Sellers-Electronics-Cell-Phone-Solar-Chargers/zgbs/electronics/2407762011" data-cke-saved-href="http://www.amazon.com/Best-Sellers-Electronics-Cell-Phone-Solar-Chargers/zgbs/electronics/2407762011">solar chargers</a> that use energy from the sun to charge your phone, <a href="http://www.macworld.com/article/2086548/review-seven-off-the-grid-chargers-for-your-portable-devices.html" data-cke-saved-href="http://www.macworld.com/article/2086548/review-seven-off-the-grid-chargers-for-your-portable-devices.html">fuel cells that turn water into electricity</a> and <a href="http://powerpractical.com/products/powerpot5-thermoelectric-generator" data-cke-saved-href="http://powerpractical.com/products/powerpot5-thermoelectric-generator">heat-powered generators</a> that use the thermal energy from cooking to charge a battery.</p>
+<p><strong>Radios, Flashlights</strong></p>
+<p>Of course, if the Internet and cell phone service goes out your apps won&rsquo;t much provide information. In case that happens, make sure you have a working, battery-powered radio. Tune your radio to WJCT 89.9 FM, the official emergency weather station for Northeast Florida and extreme Southeast Georgia.</p>
+<p>Also, make sure to have battery-powered flashlights. Newer LED flashlights provide more light and last much longer than the older incandescent flashlights.</p>
+<p><strong>All-In-One</strong></p>
+<p>The ideal solution would be one device that had it all: a flashlight, radio, external battery and a way to charge the battery or an electronic device if the power goes out. Fortunately, Eton and the Red Cross have made that device. <a href="http://www.redcrossstore.org/item/FRX3" data-cke-saved-href="http://www.redcrossstore.org/item/FRX3">The Red Cross FRX3 Eton Emergency Radio</a> contains a solar panel and hand turbine charger, rechargeable battery, AM/FM radio, NOAA weather band radio, LED red flashing beacon and LED flashlight. Eton has <a href="http://www.etoncorp.com/en/products?f%5B0%5D=field_product_category%3A18" data-cke-saved-href="http://www.etoncorp.com/en/products?f%5B0%5D=field_product_category%3A18">other survival devices</a> of greater and lesser complexity as well.</p>
+<p><em>Note: This article originally appeared on <a href="http://news.wjct.org/post/tech-help-you-get-through-storm" target="_blank">WJCTNews.org</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: The Tech To Help You Get Through The Storm" data-link="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: The Tech To Help You Get Through The Storm" data-link="/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/09/ask-deemable-tech-the-tech-to-help-you-get-through-the-storm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/09/adt_20150910_storm_tech.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ask Deemable Tech: Reverse Image Searching</title>
+		<link>/2015/04/ask-deemable-tech-reverse-image-searching/</link>
+		<comments>/2015/04/ask-deemable-tech-reverse-image-searching/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 12:18:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google image search]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[reverse image search]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9908</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" />Lori asks, &#8220;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find <a href="/2015/04/ask-deemable-tech-reverse-image-searching/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/04/ask-deemable-tech-reverse-image-searching/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-9908-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3">http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3</a></audio><div id="attachment_9914" style="width: 460px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/04/google_reverse_image_search.jpg" class="gallery_colorbox"><img class="wp-image-9914" src="//media/2015/04/google_reverse_image_search-300x167.jpg"  alt="Google's &quot;search by image&quot; page." width="450" height="251"></a><p class="wp-caption-text">Credit: Google</p></div>
+<p><em><strong>Lori asks, &ldquo;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find a larger size of image?&rdquo;</strong></em></p>
+<p>As a matter of fact there is, Lori. It&rsquo;s called Google!</p>
+<p>You probably already know that you can use Google to search for images through their Google Images site, but there is a function of it that a lot of people miss. On the right side of that search bar is a camera icon which&nbsp;opens Google?s &ldquo;Search by Image&rdquo; page. This is commonly called &ldquo;reverse image searching.&rdquo;</p>
+<p>Click that icon and a pop-up will appear. In that window you will have a few options:</p>
+<ol><li>You can drag an image to it from your computer;</li>
+<li>Browse to an image on your hard drive;</li>
+<li>Or paste the web address of an image you found on the internet into it.</li>
+</ol><p>Once you&rsquo;ve done one of those things, Google will search for other similar images. It is actually pretty good at finding different sizes of the same image, so you are in luck. It will also show you what Google calls &ldquo;visually similar images,&rdquo; so you might see other pictures of old barns in addition to the one you were looking for.</p>
+<p>Speaking of similar images, when you do a regular Google Image search, it&rsquo;s going to show you a page with dozens of images on it as a result. You can actually use this page to do even more image searching. Click on any of the resulting, pictures and you&rsquo;ll see some related images plus a link above them that says &ldquo;search by image.&rdquo; You can actually click that and launch a new search based on the image you just expanded.</p>
+<p>That should help you find the image you&rsquo;re looking for, Lori, but there is something else you need to think about before you put it on your site: who took the picture that you like so much, and is it free for you to use?</p>
+<p>People often assume that just because you found an image on the internet it is free for anyone to use. However, this is not the case. Most images have owners, and unless those images are specifically licensed under Creative Commons or are in the public domain, you need to obtain written permission to use them. The only exception to this rule is if you&rsquo;re using them for educational purposes or some other very specific reasons. That&rsquo;s known as &ldquo;fair use.&rdquo; What counts as fair use can get complicated, so you should always just try emailing the person that originally took the picture and asking them if you can use it. If you found the picture on an image sharing social media site like Flickr, the photographer usually isn&rsquo;t hard to find.</p>
+<p>There are also lots of websites offering Creative Commons images, which are basically totally free to use as long as you credit them properly. The easiest way to find them is to use the Creative Commons search engine at <a href="http://search.creativecommons.org/" target="_blank">search.creativecommons.org</a>. It can search both Flickr and Google Image Search, as well as several other sites.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/04/ask-deemable-tech-reverse-image-searching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3" length="3396914" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Neila asks, &#8220;How do you defrag your hard drive in Windows 8.1?&#8221;</title>
+		<link>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/</link>
+		<comments>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/#comments</comments>
+		<pubDate>Thu, 26 Mar 2015 22:09:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[defrag]]></category>
+		<category><![CDATA[defragmentation]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9834</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/03/defrag-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Lance Fisher/Flickr" style="float:left; margin:0 15px 15px 0;" />Q: How do you defrag a computer running Windows 8.1? I can&#8217;t figure out how to do it on my new laptop. A: For those of us who have been using personal computers for the past 20 or so years, <a href="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/03/defrag-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: Lance Fisher/Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong>Q:</strong> How do you defrag a computer running Windows 8.1? I can&rsquo;t figure out how to do it on my new laptop.</p>
+<audio class="wp-audio-shortcode" id="audio-9834-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3">http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3</a></audio><p><span id="more-9834"></span></p>
+<p><strong>A:</strong> For those of us who have been using personal computers for the past 20 or so years, defragmenting your hard drive used to just be part of life. When you defrag a hard drive, you&rsquo;re basically re-organizing the data on it so that it will run faster and more efficiently.</p>
+<p>When your hard drive stores data, it puts it anywhere there is space available, so it may sometimes put pieces of the same file in several different places instead of right next to each other. Imagine opening a file cabinet and just throwing paperwork into it. You would never be able to find anything if you did that, but your computer <em>can</em> keep track of where it put things even if they are all over the place. This works well, but things can become really messy after a while. This will make the computer start to run slow as it searches through your data. Running a defrag will reorganize everything.</p>
+<div id="attachment_9836" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/03/defrag.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9836" src="//media/2015/03/defrag-300x270.jpg"  alt="Credit: Lance Fisher/Flickr" width="300" height="270"></a><p class="wp-caption-text">Credit: Lance Fisher/Flickr</p></div>
+<p>When we received your question, Neila, we realized that we couldn&rsquo;t even remember the last time we defragged a computer. Beginning with Windows 7, Microsoft has built automatic defragmentation into the Windows operating system, so you don&rsquo;t have to worry about running it yourself. However, you can still run it manually if you want. On Windows Vista or 7, look for a program called <strong>Disk Defragmenter</strong>. On Windows 8, it is called <strong>Optimize Drive</strong>; you can find it by pressing the Start button on your keyboarding and typing in &ldquo;optimize drive.&rdquo;</p>
+<p>Apple has built similar automatic defragmentation into Mac OS X, but that operating system doesn&rsquo;t offer you a manual way to optimize your hard drive. There are third-party defrag programs available, but we don&rsquo;t recommend them because they often cause more problems than they fix. If your Mac is running slow, you should try restarting it and clearing off space on your hard drive instead.</p>
+<p>One last note: if you have a Solid State Drive (SSD) instead of a classic hard drive, we don&rsquo;t recommend performing a defrag. It doesn&rsquo;t provide any real benefit on an SSD, and it can actually reduce the drive&rsquo;s lifespan.</p>
+<p><em>Photo credit: <a href="http://www.flickr.com/photos/lancefisher/139614269/in/photolist-7fd9cs-dkysz-5sAseR-8nu58y-41htTN-4jYJ8E-4jUFcZ-8Xws5G-4cnkue-DoQ4J-3QT1w4-3T6riF-5zLX1N-5zGEAr-5zGEra-5zLWqL-5zLWfS-5zLW7U-5zLVYA-5zGDyV" target="_blank" data-cke-saved-href="http://www.flickr.com/photos/lancefisher/139614269/in/photolist-7fd9cs-dkysz-5sAseR-8nu58y-41htTN-4jYJ8E-4jUFcZ-8Xws5G-4cnkue-DoQ4J-3QT1w4-3T6riF-5zLX1N-5zGEAr-5zGEra-5zLWqL-5zLWfS-5zLW7U-5zLVYA-5zGDyV">&ldquo;defrag&rdquo;</a> by <a href="http://www.flickr.com/photos/lancefisher/" target="_blank" data-cke-saved-href="http://www.flickr.com/photos/lancefisher/">Lance Fisher</a>&nbsp;is used under&nbsp;<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" data-cke-saved-href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Neila asks, "How do you defrag your hard drive in Windows 8.1?"' data-link="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Neila asks, "How do you defrag your hard drive in Windows 8.1?"' data-link="/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/neila-asks-how-do-you-defrag-your-hard-drive-in-windows-8-1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/03/adt_20150326_defrag.mp3" length="3512423" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Janet asks, &#8220;Why does my antivirus software want my personal information?&#8221;</title>
+		<link>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/</link>
+		<comments>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/#comments</comments>
+		<pubDate>Thu, 12 Mar 2015 18:50:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[End User License Agreements]]></category>
+		<category><![CDATA[McAffee]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9791</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/03/eula_tablet-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I was preparing to install McAffee&#8217;s antivirus program, but the user agreement gave me pause. It states that McAffee will &#8220;take any personal and sensitive information they wish that is personally identifiable and share it with their providers.&#8221; Does <a href="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/03/eula_tablet-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><audio class="wp-audio-shortcode" id="audio-9791-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3?_=5"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3">http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3</a></audio><div id="attachment_9793" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/03/eula_tablet.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9793" src="//media/2015/03/eula_tablet-300x225.jpg"  alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" width="300" height="225"></a><p class="wp-caption-text">Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr</p></div>
+<p><strong>Q: </strong>I was preparing to install McAffee&rsquo;s antivirus program, but the user agreement gave me pause. It states that McAffee will &ldquo;take any personal and sensitive information they wish that is personally identifiable and share it with their providers.&rdquo; Does all antivirus software collect such information?<span id="more-9791"></span></p>
+<p><strong>A: </strong>Congratulations, Janet, you are the one person out of a million who actually reads the End User License Agreement (or EULA, in geek-speak). That&rsquo;s the document that most people don&rsquo;t bother to look through before clicking &ldquo;I Agree&rdquo; when installing software.</p>
+<p>McAffee&rsquo;s EULA states that they will collect your name, email address and any payment information you gave them, as well as stats about your computer, how much you used their software and how often you downloaded updates. It also does note that all of this is &ldquo;personally identifiable data.&rdquo;</p>
+<p>While that does seem worrisome, think about what McAffee is trying to do. They&rsquo;re gathering data from millions of different computers to try to identify new types of viruses and malware, so they actually need to know all about your computer. And if you bought the software from them, they will need your payment information. We think that this makes sense. We also realize that most other antivirus programs are probably going to do the same thing.</p>
+<p>This does, however, bring up the fact that EULAs are notorious for being full of weird, alarming stuff. For example, the Apple iTunes EULA contains a clause forbidding you from using it for &ldquo;the development, design, manufacture or production of nuclear missiles, or chemical or biological weapons.&rdquo; It&rsquo;s okay if you&rsquo;ve missed this, considering that the iTunes EULA is 56 pages long.</p>
+<p>There is actually a lot of controversy about how legally binding End User License Agreements really are, with some U.S. courts upholding them while others don&rsquo;t. You agree to them at your own risk, but if you don&rsquo;t want to agree to them, you won&rsquo;t ever be able to install software, sign up for most websites or use most mobile devices. Some people think there should be restrictions on EULAs, and if you agree, you can write your Congressperson about it.</p>
+<p>But for now Janet, the best thing we can recommend is to just cross your fingers, click &ldquo;I Agree,&rdquo; and install the software.</p>
+<p><em>Photo credit: <a href="http://www.flickr.com/photos/dcmetroblogger/9438360009/in/photolist-fo34AZ-5JUJB-5JUGj-5JUDD-izwWPm-5X46r-fwQLd8-9n9tvZ-6tBqz5-b678fi-6w8F4J-89zcmr-5r5nTR-cquuR-cquu3-cqvgb-cquwQ-cquut-3pdPsn-4Wu6kd-6t7aTo-HYYxd-4gHFb6-7N73AD-4zc54w-4WsjkK-7bs2wB-8wJkqH-kQFLdr-cqvgu-4HgXop-4QoCSY" target="_blank">&ldquo;XO Tablet End User License Agreement&rdquo;</a> by <a href="http://www.flickr.com/photos/dcmetroblogger/" target="_blank">Wayan Vota</a> is used under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Janet asks, "Why does my antivirus software want my personal information?"' data-link="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Janet asks, "Why does my antivirus software want my personal information?"' data-link="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3" length="3730931" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

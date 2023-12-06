@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; LTE</title>
+	<atom:link href="/tag/lte/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The 4G Hoax</title>
+		<link>/2011/06/the-4g-hoax/</link>
+		<comments>/2011/06/the-4g-hoax/#comments</comments>
+		<pubDate>Thu, 23 Jun 2011 19:19:21 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[4G]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[HSPA]]></category>
+		<category><![CDATA[LTE]]></category>
+		<category><![CDATA[Network]]></category>
+		<category><![CDATA[Sprint]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[wireless]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3692</guid>
+		<description><![CDATA[Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &#8220;America&#8217;s largest 4G network.&#8221; Then Verizon entered the picture with its own 4G network which they <a href="/2011/06/the-4g-hoax/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/the-4g-hoax/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: center"><img class="aligncenter" src="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" alt="" width="366" height="205"></p>
+<p>Last year, Sprint was the first wireless carrier to announce a fourth generation (4G) wireless network. T-Mobile came next with what it proclaimed as &ldquo;America&rsquo;s largest 4G network.&rdquo; Then Verizon entered the picture with its own 4G network which they announced as the largest and fastest in the United States. AT&amp;T, of course, eventually released its own 4G network to keep up with the competition, but in hindsight, none of these telecommunications giants have a network that can <em>truly</em> be called 4G.&nbsp;In actuality, what these companies are offering is basically a 3.5G network. A marketing ploy. A hoax&hellip;</p>
+<p>In November of 2010, the global wireless standards-setting organization, called&nbsp;the International Telecommunication Union,&nbsp;defined 4G as a network that is capable of download speeds of 100 megabits per second (Mbps).&nbsp;While all of the supposed 4G networks out there are clear improvements to the current 3G networks that offer speeds between 500 kbps to 1.5 Mbps, none of them conform to the International Telecommunication Union&rsquo;s 4G definition. Even more perplexing, each carrier has its own 4G network based on different technologies:</p>
+<ul><li>Sprint offers a 4G network based on Wi-MAX technology.</li>
+<li>T-Mobile offers a 4G network based on an expansion of its 3G-HSPA+ network.</li>
+<li>Verizon offers a 4G network based on Long Term Evolution (LTE) technology.</li>
+<li>AT&amp;T offers a 4G network similar to T-Mobile&rsquo;s expanded 3G-HSPA+ network and is set to launch their own LTE 4G network sometime this year.</li>
+</ul><p>On Wednesday, however, Congress introduced a bill that would hopefully clear up some of the confusion between all of the different 4G offerings. Initiated by the ranking member of the House Subcommittee on Communications and Technology, Rep. Anna Eshoo (D-CA), the Next Generation Wireless Disclosure Act would force wireless carriers to provide specific information about coverage, reliability, speed, pricing, and the type of technology used by the service. A side-by-side comparison of the top 10 competing networks&rsquo; speeds and prices would also be available to consumers,&nbsp;and the bill would get the FCC to work with the wireless providers to establish a guaranteed, minimum speed standard for 4G.</p>
+<p>With all confusion and technical jargon aside, the bill is a great proposal to help consumers make better choices. Eshoo explained,&nbsp;&ldquo;Consumers need to know the truth about the speeds they&rsquo;re actually getting. My legislation is simple?it will establish guidelines for understanding what 4G speed really is, and ensure that consumers have all the information they need to make an informed decision.&rdquo;</p>
+<p>You can learn more about 4G in the video below:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/qdzEzBlVULY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://i2.cdn.turner.com/money/2010/12/01/technology/4g_myth/chart_is_it_4g_v2.top.gif" target="_blank">Photo</a> by <a title="Goldman" href="http://money.cnn.com/2010/12/01/technology/4g_myth/index.htm?iid=EL" target="_blank">David Goldman</a> via <a title="CNN" href="http://www.cnn.com/" target="_blank">CNN</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The 4G Hoax" data-link="/2011/06/the-4g-hoax/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/the-4g-hoax/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AT&#038;T-Mobile?</title>
+		<link>/2011/04/att-mobile/</link>
+		<comments>/2011/04/att-mobile/#comments</comments>
+		<pubDate>Thu, 07 Apr 2011 17:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[4G]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[LTE]]></category>
+		<category><![CDATA[smartphone]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=1842</guid>
+		<description><![CDATA[A GSM monopoly? A savvy business acquisition? A precursor to the end of times? Call it what you&#8217;d like, but AT&#38;T is offering Deutsche Telekom AG 39 billion reasons to sell T-Mobile. The potential mega-merger will face strict scrutiny over <a href="/2011/04/att-mobile/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/att-mobile/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://surfpk.com/wp-content/uploads/2011/03/ATT-Mobile-Engadget.jpeg" alt="" width="342" height="256">A GSM monopoly? A savvy business acquisition? A precursor to the end of times? Call it what you&rsquo;d like, but AT&amp;T is offering Deutsche Telekom AG 39 billion reasons to sell T-Mobile. The potential mega-merger will face strict scrutiny over the next year by the government, the media, and the public, but one thing is certain &ndash; current T-Mobile users have a cause for concern.</p>
+<p>As a satisfied customer of T-Mobile since 2002, there are two things that I believe set this cell phone provider apart from the rest, and that is their loyalty to customer service and their great pricing strategy.</p>
+<p>So what could this merger mean for us T-Mobile users? Although the networks of AT&amp;T and T-Mobile use the same underlying cellular technology, T-Mobile users who currently have 3G wireless mobile broadband service would eventually have to upgrade to AT&amp;T&rsquo;s 3G or 4G LTE (Long Term Evolution) data services. Say goodbye to $30 unlimited data plans for our beloved Smartphones, and say hello to expensive, capped data plans that charge overage fees. With a company as large as AT&amp;T, customer service is not a primary driving point for their business model and by adding an additional 33.7 million more U.S. customers, how bad could it possibly get? Look on the bright side though, fellow T-Mobilers: You would have a wider array of phones to choose from, including the coveted Apple iPhone, and a merger could lead to better network coverage throughout the States. Although we will have to wait and watch the outcome unfold, if the deal is eventually approved though, I&rsquo;ll be making sure that I&rsquo;m not one of the people left asking, &ldquo;Can you hear me now?&rdquo;</p>
+<p>&nbsp;</p>
+<p><a href="http://surfpk.com/wp-content/uploads/2011/03/ATT-Mobile-Engadget.jpeg" target="_blank">Photo</a> by <a href="http://surfpk.com/att-mobile-att-acquires-t-mobile-usa-for-39-billion/-0346" target="_blank">djshoaib</a> via <a href="http://surfpk.com/" target="_blank">Surfpk<br></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="AT&amp;amp;T-Mobile?" data-link="/2011/04/att-mobile/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="AT&amp;amp;T-Mobile?" data-link="/2011/04/att-mobile/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/att-mobile/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

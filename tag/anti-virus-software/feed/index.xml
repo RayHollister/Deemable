@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Anti-virus software</title>
+	<atom:link href="/tag/anti-virus-software/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Janet asks, &#8220;Why does my antivirus software want my personal information?&#8221;</title>
+		<link>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/</link>
+		<comments>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/#comments</comments>
+		<pubDate>Thu, 12 Mar 2015 18:50:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[End User License Agreements]]></category>
+		<category><![CDATA[McAffee]]></category>
+		<category><![CDATA[question]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9791</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/03/eula_tablet-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I was preparing to install McAffee&#8217;s antivirus program, but the user agreement gave me pause. It states that McAffee will &#8220;take any personal and sensitive information they wish that is personally identifiable and share it with their providers.&#8221; Does <a href="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/03/eula_tablet-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-9791-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3">http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3</a></audio><div id="attachment_9793" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/03/eula_tablet.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9793" src="//media/2015/03/eula_tablet-300x225.jpg"  alt="Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr" width="300" height="225"></a><p class="wp-caption-text">Most mobile devices also require you to agree to an End User License Agreement before you can use them. Photo credit: Wayan Vota/Flickr</p></div>
+<p><strong>Q: </strong>I was preparing to install McAffee&rsquo;s antivirus program, but the user agreement gave me pause. It states that McAffee will &ldquo;take any personal and sensitive information they wish that is personally identifiable and share it with their providers.&rdquo; Does all antivirus software collect such information?<span id="more-9791"></span></p>
+<p><strong>A: </strong>Congratulations, Janet, you are the one person out of a million who actually reads the End User License Agreement (or EULA, in geek-speak). That&rsquo;s the document that most people don&rsquo;t bother to look through before clicking &ldquo;I Agree&rdquo; when installing software.</p>
+<p>McAffee&rsquo;s EULA states that they will collect your name, email address and any payment information you gave them, as well as stats about your computer, how much you used their software and how often you downloaded updates. It also does note that all of this is &ldquo;personally identifiable data.&rdquo;</p>
+<p>While that does seem worrisome, think about what McAffee is trying to do. They&rsquo;re gathering data from millions of different computers to try to identify new types of viruses and malware, so they actually need to know all about your computer. And if you bought the software from them, they will need your payment information. We think that this makes sense. We also realize that most other antivirus programs are probably going to do the same thing.</p>
+<p>This does, however, bring up the fact that EULAs are notorious for being full of weird, alarming stuff. For example, the Apple iTunes EULA contains a clause forbidding you from using it for &ldquo;the development, design, manufacture or production of nuclear missiles, or chemical or biological weapons.&rdquo; It&rsquo;s okay if you&rsquo;ve missed this, considering that the iTunes EULA is 56 pages long.</p>
+<p>There is actually a lot of controversy about how legally binding End User License Agreements really are, with some U.S. courts upholding them while others don&rsquo;t. You agree to them at your own risk, but if you don&rsquo;t want to agree to them, you won&rsquo;t ever be able to install software, sign up for most websites or use most mobile devices. Some people think there should be restrictions on EULAs, and if you agree, you can write your Congressperson about it.</p>
+<p>But for now Janet, the best thing we can recommend is to just cross your fingers, click &ldquo;I Agree,&rdquo; and install the software.</p>
+<p><em>Photo credit: <a href="http://www.flickr.com/photos/dcmetroblogger/9438360009/in/photolist-fo34AZ-5JUJB-5JUGj-5JUDD-izwWPm-5X46r-fwQLd8-9n9tvZ-6tBqz5-b678fi-6w8F4J-89zcmr-5r5nTR-cquuR-cquu3-cqvgb-cquwQ-cquut-3pdPsn-4Wu6kd-6t7aTo-HYYxd-4gHFb6-7N73AD-4zc54w-4WsjkK-7bs2wB-8wJkqH-kQFLdr-cqvgu-4HgXop-4QoCSY" target="_blank">&ldquo;XO Tablet End User License Agreement&rdquo;</a> by <a href="http://www.flickr.com/photos/dcmetroblogger/" target="_blank">Wayan Vota</a> is used under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Janet asks, "Why does my antivirus software want my personal information?"' data-link="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Janet asks, "Why does my antivirus software want my personal information?"' data-link="/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/janet-asks-why-does-my-antivirus-software-want-my-personal-information/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/03/dt_2015-03-12_eulas.mp3" length="3730931" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Nancy asks, &#8220;Can Macs get viruses?&#8221;</title>
+		<link>/2014/10/nancy-asks-can-macs-get-viruses/</link>
+		<comments>/2014/10/nancy-asks-can-macs-get-viruses/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 00:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9325</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I&#8217;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop? A: If you&#8217;re <a href="/2014/10/nancy-asks-can-macs-get-viruses/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/10/nancy-asks-can-macs-get-viruses/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/10/mac_glow-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Ricky Romero / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p132861-embed" src="http://www.prx.org/p/132861/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>I&rsquo;m fairly new to Apple computers, and one of the reasons I made the switch from PC was to avoid viruses, hackers and other bad stuff. Should I install an antivirus program on my Apple laptop?<span id="more-9325"></span></p>
+<p><strong>A: </strong>If you&rsquo;re like us, Nancy, you&rsquo;ve probably heard a lot of people say that Macs don&rsquo;t get viruses. While this isn&rsquo;t entirely true, there is a lot to back this claim up. Macs are safer on average, and it has to do with a couple of factors.</p>
+<div id="attachment_9326" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/10/mac_glow.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9326" src="//media/2014/10/mac_glow-300x210.jpg"  alt="Image credit: Ricky Romero / Flickr" width="300" height="210"></a><p class="wp-caption-text">Image credit: Ricky Romero / Flickr</p></div>
+<p>When hackers write a virus or a piece of malware, their goal is to make money. The most efficient way to make money is to get the virus on as many computers as they can. Apple has always had a pretty low market share in the world of home computers, usually around 10 percent. So, if you were trying to write a virus, what would make the most sense: writing it for the majority of computers running a version of Windows, or writing it for the small number of Macs?</p>
+<p>Also, Mac OS X is based on Unix, which (without getting into all the nerdy technical details) makes it much harder to hack than Windows. However, this does not mean that Macs are unhackable.</p>
+<p>You may have heard about the recently-discovered bug called Shellshock, which can let a hacker gain unauthorized access to computers running Mac OS or Linux. Although it impacts very few Mac users, it is just one of several bugs and security vulnerabilities that have been discovered in Mac OS X lately. Apple does a fairly good job of patching these up once they&rsquo;ve been discovered, but it usually takes a little while.</p>
+<p>To answer your question, Nancy: we actually wouldn&rsquo;t recommend installing any antivirus software, unless you are using your computer to run a business. This may sound strange considering what we just said about recent bugs, but it has to do with the cost-to-benefit ratio. As we said, the chance of you getting a virus is very low. When you take those odds into account with the cost of antivirus software, and the amount of resources that software takes making the computer slower and less productive, it just doesn&rsquo;t make sense to invest that much into it.</p>
+<p>We do recommend, though, that you install antivirus software if you use your computer to run a business, especially if you work in the medical field or if the data on your computer is incredibly sensitive. Avast and Kasperky both make highly rated antivirus software for Mac OS X. Avast is free, and Kasperky starts at $39.95.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Nancy asks, "Can Macs get viruses?"' data-link="/2014/10/nancy-asks-can-macs-get-viruses/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/10/nancy-asks-can-macs-get-viruses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charles asks, &#8220;Does my smartphone have a virus?&#8221;</title>
+		<link>/2014/06/charles-asks-smartphone-virus/</link>
+		<comments>/2014/06/charles-asks-smartphone-virus/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android Apps]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8928</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" />Q: My smartphone (a Casio G&#8217;zOne) displayed a warning yesterday saying that it had a virus. I didn&#8217;t do anything as I&#8217;ve been told the warning is the actual virus.&#160;How can I tell if the phone has virus protection installed? <a href="/2014/06/charles-asks-smartphone-virus/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/charles-asks-smartphone-virus/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p141388-embed" src="http://www.prx.org/p/141388/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>My smartphone (a Casio G&rsquo;zOne) displayed a warning yesterday saying that it had a virus. I didn&rsquo;t do anything as I&rsquo;ve been told the warning is the actual virus.&nbsp;How can I tell if the phone has virus protection installed? If not, can I download it&nbsp;for the phone?</p>
+<p><span id="more-8928"></span></p>
+<div id="attachment_8948" style="width: 232px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/gzone.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8948" src="//media/2014/06/gzone-222x300.jpg"  alt="Image credit: Casio" width="222" height="300"></a><p class="wp-caption-text">Image credit: Casio</p></div>
+<p><strong>A:&nbsp;</strong>Charles, let us set your mind at ease. It is very unlikely that your smart phone has a virus. What you saw was most likely a scam &ndash; a banner ad trying to trick you into buying something or clicking on something that you shouldn&rsquo;t. Uninstall whatever app you saw that in, and you should be fine.</p>
+<p>Smartphones work differently than PCs. A program on a PC basically has the run of the computer and can do anything it wants. But an app on a smartphone gets put in a little sandbox, and it is very limited in what it can do. This makes it&nbsp;harder for a classic virus to be effective on a phone.</p>
+<p>That isn&rsquo;t to say that a smartphone could&nbsp;<em>never</em> get a virus, but we have yet to see any big ones on Android or iOS that users need to worry about. If that ever happens, we will be the first ones to let you know.</p>
+<p>If you still don&rsquo;t feel safe, you <em>can</em> download anti-virus apps that will check for bad stuff on your phone, but recent studies have found that a lot of the free ones are basically useless.&nbsp;They catch very few pieces of malware, and can slow down your phone considerably. There are also paid apps from big anti-virus companies like&nbsp;Symantec, BitDefender and Trend Micro, but these too take up a lot of memory and will affect your phone&rsquo;s performance.</p>
+<p>What you really need to watch out for aren&rsquo;t viruses, they&rsquo;re malicious apps. Apps available in the&nbsp;the Apple App Store or the Google Play Store have been screened by those companies, and are trustworthy 99.99% of the time. But if you download and install an app from an unofficial source (this is known as &ldquo;side-loading&rdquo;), you run the risk of getting something dangerous. Most people who side-load apps are trying to install free versions of games you normally have to pay for, which is basically like catnip for hackers. Our advice is to never side-load an app unless you&rsquo;re confident of what it is and know the people who made it.</p>
+<p>So, Charles, don&rsquo;t worry too much about that warning you saw. If you play it safe when you&rsquo;re surfing the web, and make sure you&rsquo;re only downloading apps from official places, you should be fine.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/charles-asks-smartphone-virus/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Sandra asks, &#8220;Is my computer infected?&#8221;</title>
+		<link>/2014/04/sandra-asks-computer-infected/</link>
+		<comments>/2014/04/sandra-asks-computer-infected/#comments</comments>
+		<pubDate>Thu, 03 Apr 2014 10:40:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Adware]]></category>
+		<category><![CDATA[anti-malware software]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Avast]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Malwarebytes]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8684</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/adware-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: DanMelinger / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: Help! I keep getting pop-up ads on my computer even when I go to websites I know don?t have ads. Does my computer have an infection? How do I get rid of it? A: Unfortunately, Sandra, seeing unusual pop-ups <a href="/2014/04/sandra-asks-computer-infected/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/sandra-asks-computer-infected/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/adware-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: DanMelinger / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p115133-embed" src="http://www.prx.org/p/115133/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Help! I keep getting pop-up ads on my computer even when I go to websites I know don?t have ads. Does my computer have an infection? How do I get rid of it?<span id="more-8684"></span></p>
+<p><strong>A: </strong>Unfortunately, Sandra, seeing unusual pop-ups like this is a sure-fire sign that you&rsquo;ve got uninvited guests on your hard drive.</p>
+<div id="attachment_8685" style="width: 332px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/04/adware.jpg" class="gallery_colorbox"><img class=" wp-image-8685   " src="//media/2014/04/adware.jpg"  alt="Credit: DanMelinger / Flickr" width="322" height="257"></a><p class="wp-caption-text">Credit: DanMelinger / Flickr</p></div>
+<p>These types of infections are what we call malware, and there are several different types. The really bad ones are called viruses (with any luck that&rsquo;s not what you have). There is also a more benign type of infection that exists mostly to put annoying pop-up ads on your screen and make money for whoever created it. We call this adware.</p>
+<p>Adware often takes the form of &ldquo;helpful&rdquo; toolbars installed on your Internet browser. Another sign that you have been infected is that when you search for things on the Internet you&rsquo;re constantly redirected to websites you didn&rsquo;t mean to go to, usually sites that are full of ads.</p>
+<p>What you need, Sandra, is a good anti-malware program. We would start by downloading <a href="www.avast.com/" target="_blank">avast! Antivirus</a>, a free antivirus program that has a great reputation. Once you have it downloaded and installed it, set it to run a &ldquo;boot-time scan.&rdquo; This will reboot your computer into a special operating system that just runs the antivirus software, which will scan your computer and then automatically start Windows. This is great because a lot of malware hides itself inside Windows so that it can avoid being detected by the antivirus software.</p>
+<p>One thing we should mention about avast! is that, while it is free, you&rsquo;ll need to register the program when you install it. It will prompt you to provide an email address the first time you run it, and ask you to confirm your license every year. The program will not protect your computer if you don&rsquo;t do this, so make sure you take the time to register.</p>
+<p>Now, antivirus software like avast! mainly focus on traditional viruses like Trojan horses, worms and similar infections, so it may not catch that pesky adware. For that, we recommend installing a second program called <a href="www.malwarebytes.org/" target="_blank">Malwarebytes Anti-Malware</a>. This free program is exceptionally good at getting rid of malware that is so new traditional antivirus software won&rsquo;t even detect it.</p>
+<p>Both of these programs should help you out, but ideally we should all try to avoid the risk of being infected in the first place. One thing that you can do to stave off adware is to pay attention when you&rsquo;re installing programs, because it will often piggyback on other software. If a program asks you if you&rsquo;d like to install a toolbar, say no!</p>
+<p>Another good way to protect yourself is to stay off of sketchy websites. If you are using the Google Chrome browser, it will alert you with a red warning screen if you click on a website that is known to host infections. You can check out some of our other tips for avoiding malicious websites in <a title="Jamie asks, ?How can I avoid malicious software and dangerous websites??" href="http://deemable.com/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" target="_blank">this article</a>.</p>
+<p>So, to sum up: pay attention when you are installing software, stay off of dangerous websites, and try out Malwarebytes Anti-Malware and avast! Antivirus.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/sandra-asks-computer-infected/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Deemable Tech March 2014 Radio Special</title>
+		<link>/2014/03/deemable-tech-march-2014-radio-special/</link>
+		<comments>/2014/03/deemable-tech-march-2014-radio-special/#comments</comments>
+		<pubDate>Sun, 30 Mar 2014 17:39:18 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Specials]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[Debunkable]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Facebook legends]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Nagware]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[Windows XP]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8670</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" />In this first of four hour-long public radio specials for 2014, Ray and Tom&#160;hear from listeners experiencing problems with their Kindles, wondering how they can have safe and secure passwords, looking for advice on what kind of tablet they should <a href="/2014/03/deemable-tech-march-2014-radio-special/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/03/deemable-tech-march-2014-radio-special/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/03/dt_ray_tom-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Stephen Jones / WJCT" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8753" style="width: 304px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/03/dt_ray_tom.jpg" class="gallery_colorbox"><img class=" wp-image-8753  " alt="Image credit: Stephen Jones / WJCT" src="//media/2014/03/dt_ray_tom.jpg"  width="294" height="230"></a><p class="wp-caption-text">Image credit: Stephen Jones / WJCT</p></div>
+<p>In this first of four hour-long public radio specials for 2014, Ray and Tom&nbsp;hear from listeners experiencing problems with their Kindles, <a title="Gary asks, ?How can I have secure, easy-to-remember passwords??" href="http://deemable.com/2013/05/greg-asks-how-can-i-have-strong-secure-passwords/">wondering how they can have safe and secure passwords</a>, looking for advice on what kind of tablet they should purchase and more.</p>
+<div>
+<p>The guys also have <a title="Support for Windows XP is Ending Soon" href="http://deemable.com/2014/03/support-windows-xp-ending-soon/">important (and timely) news regarding Windows XP</a>, share some tips on how to buy a laptop, debunk a few Facebook myths and talk about some great travel-related apps.</p>
+<p><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">March 2014 Radio Special</a></p>
+<audio class="wp-audio-shortcode" id="audio-8670-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3?_=2"></source><a href="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3">http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3</a></audio></div>
+<p>Links mentioned in the show:</p>
+<ul><li><a href="http://blog.laptopmag.com/laptop-buying-guide">Laptop Magazine &ndash;&nbsp;Laptop Buying Guide</a></li>
+<li><a href="http://www.snopes.com/computer/facebook/noreligion.asp">Snopes.com &ndash; Facebook Blocking Religious Posts</a></li>
+<li><a href="http://www.avast.com/">Avast! Anti-Virus</a></li>
+<li><a href="http://pcdecrapifier.com/">PC Decrapifier</a></li>
+<li><a href="http://www.revouninstaller.com/">Revo Uninstaller</a></li>
+<li><a href="http://www.bleepingcomputer.com/download/adwcleaner/">AdwCleaner</a></li>
+<li><a href="http://windows.microsoft.com/en-us/windows/end-support-help">Microsoft &ndash; End of Windows XP Support Guide</a></li>
+<li><a href="https://www.glympse.com/">Glympse</a></li>
+<li><a href="http://milebug.com/">MileBug</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/checkit-speedometer-speed/id662156507?mt=8" target="_blank" rel="external nofollow">CheckIt Speedometer</a></li>
+<li><a href="https://www.duolingo.com/">Duolingo</a></li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech March 2014 Radio Special" data-link="/2014/03/deemable-tech-march-2014-radio-special/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/deemable-tech-march-2014-radio-special/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/Deemable_Radio_Special_2014-03-30.mp3" length="48829064" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Jo El asks &#8220;Which antivirus software is the best?&#8221;</title>
+		<link>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/</link>
+		<comments>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/#comments</comments>
+		<pubDate>Thu, 10 Jan 2013 14:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[anti-malware software]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[freeware]]></category>
+		<category><![CDATA[torrents]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7212</guid>
+		<description><![CDATA[Jo El&#8217;s computer is infected with spyware. Which antivirus and anti-spyware software should she use? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&#8217;s Ask Deemable Tech. RAY: Hi, I&#8217;m Ray Hollister, TOM: <a href="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Jo El&rsquo;s computer is infected with spyware. Which antivirus and anti-spyware software should she use? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech. </p>
+<p><script id="prx-p91018-embed" src="http://www.prx.org/p/91018/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM:</p>
+<p>Jo El writes: I need to know what the best anti spyware, anti virus, anti EVERYTHING there is to get! My husband keeps downloading all these &ldquo;free&rdquo; programs and they just aren&rsquo;t cutting it. I was stupid and couldn&rsquo;t wait to watch The Walking Dead so I tried to watch it on (a certain website that we&rsquo;re not going to mention on the air) &hellip;.and then the problems started. The worst part is I didn&rsquo;t even see any of the show. As I was trying to get the show to play, the website kept asking me to download all these viewers. Halfway through installing the first one my brain kicked in and said, &ldquo;Don&rsquo;t do it.&rdquo; and my computer has been buggy ever since. My mp3 player skips when it plays and the internet just DRAGS. Any suggestions? Help me Deemable Tech, you&rsquo;re my only hope.</p>
+<p>RAY: Thanks for your email, Jo El. Well, I hope you have something to backup your files to, because if it&rsquo;s as bad as you are describing, I would make a copy of all of your important files to an external hard drive, and then wipe your computer and reinstall the operating system.</p>
+<p>TOM: The reason why, is because antivirus and anti-malware software work intimately with the operating system. They share several important files, and if there&rsquo;s a problem with the antivirus software, it can cause a problem with the operating system. And, if you&rsquo;ve installed multiple antivirus software programs on the same computer, they can conflict with each other. So, your best bet is to start over with a clean slate.</p>
+<p>RAY: Now, if I had to guess, I would assume that you&rsquo;re using Windows. </p>
+<p>You should have received a disc with your computer, that you can use to reinstall the operating system and restore your computer back to factory settings. If you received a disc, hopefully, you saved it with your manual. If you didn&rsquo;t, you&rsquo;re in a pickle, or a jam, or some other sort of food that would be uncomfortable to be in.</p>
+<p>TOM: Regardless, you&rsquo;re going to need some professional help.</p>
+<p>RAY: Hey!</p>
+<p>TOM: No, not you, Ray, Jo El. She&rsquo;s going to need professional help from someone like a computer repair person. Otherwise, Jo El will have to buy a Windows 7 disc, which can run anywhere from $119 to $219. </p>
+<p>RAY: So, with that great news, out of the way, let&rsquo;s get back to her original question, which was, what is the best antivirus, antispyware, antimalware, anti-&ldquo;everything-you-don&rsquo;t-want-in-your-computer&rdquo;-ware program?</p>
+<p>TOM: Well, that&rsquo;s tough. We do try to avoid subjective questions because we don&rsquo;t want to promote one product over the other, but also because we don&rsquo;t have the time, or budget to really thoroughly test the over three dozen different antivirus applications out there to see which is better. But, Laptop Magazine and PC Magazine do have the time and budget to thoroughly test them, and they both found BitDefender AntiVirus Plus 2013 to be the highest rated on their top ten lists for 2012.</p>
+<p>RAY: However, if you have Windows Vista or higher, the built-in antivirus software, Windows Security Essentials or Windows Defender is actually one of the best out there, and AVG and AVAST are a couple of great alternatives that are highly rated and free. As long as you stay out of the &ldquo;rougher neighborhoods&rdquo; of the Internet most people don&rsquo;t need to pay for a &ldquo;stronger&rdquo; antivirus software program. </p>
+<p>TOM: The moral of the story is, always think before you click. &ldquo;If it sounds too good to be true&hellip;&rdquo;</p>
+<p>RAY: To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister</p>
+<p>TOM: And, I&rsquo;m Tom Braun. </p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211510/computer-virus_medium.PNG" title="Uh oh! You've got a virus! What now?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Jo El asks "Which antivirus software is the best?"' data-link="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Jo El asks "Which antivirus software is the best?"' data-link="/2013/01/jo-el-asks-which-antivirus-software-is-the-best/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/jo-el-asks-which-antivirus-software-is-the-best/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

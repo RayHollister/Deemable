@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; zoom level</title>
+	<atom:link href="/tag/zoom-level/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Itsy Bitsy Teeny Weeny&#8230;Text &#8211; Tech Tip Tuesday</title>
+		<link>/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/</link>
+		<comments>/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/#comments</comments>
+		<pubDate>Tue, 29 Jan 2013 14:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tip Tuesday]]></category>
+		<category><![CDATA[increase text size]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<category><![CDATA[zoom level]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6724</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/DMBLZoom200-150x150.png" class="attachment-thumbnail wp-post-image" alt="Zoom Level Set at 200%" style="float:left; margin:0 15px 15px 0;" />Last week&#160;I showed you how to change the resolution of your screen, which changes the size of everything on your monitor, but what if you just want to change the size of the text? On most programs on Windows, you <a href="/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/DMBLZoom200-150x150.png" class="attachment-thumbnail wp-post-image" alt="Zoom Level Set at 200%" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/01/DMBLZoom100.png" class="gallery_colorbox"><img class="wp-image-6722 alignleft" alt="Zoom Level at 100%" src="//media/2013/01/DMBLZoom100-300x217.png"  width="210" height="152"></a></p>
+<p><a href="http://deemable.com/media/2013/01/DMBLZoom200.png" class="gallery_colorbox"><img class="alignright  wp-image-6723" alt="Zoom Level Set at 200%" src="//media/2013/01/DMBLZoom200-300x217.png"  width="210" height="152"></a>Last week&nbsp;I showed you how to <a title="Easy on the Eyes - How to Change Your Screen Resolution - Tech Tip Tuesday" href="http://http://deemable.com/2013/01/easy-on-the-eyes-how-to-change-your-screen-resolution-tech-tip-tuesday/">change the resolution of your screen</a>, which changes the size of everything on your monitor, but what if you just want to change the size of the text? On most programs on Windows, you can the zoom level by simply holding down the <strong>Ctrl</strong> button on your keyboard while you scroll the Mouse wheel button up or down. Scrolling up increases the zoom, and scrolling down decreases it. This works in Microsoft Word, Excel, PowerPoint, Outlook, and Internet Explorer. You can also control the zoom magnification level in most applications by clicking on the View menu then on the Zoom option.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Itsy Bitsy Teeny Weeny...Text - Tech Tip Tuesday" data-link="/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Itsy Bitsy Teeny Weeny...Text - Tech Tip Tuesday" data-link="/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/itsy-bitsy-teeny-weeny-text-tech-tip-tuesday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

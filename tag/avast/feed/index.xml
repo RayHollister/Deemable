@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Avast</title>
+	<atom:link href="/tag/avast/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#60 Eye on iOn</title>
+		<link>/2014/04/60-eye-ion/</link>
+		<comments>/2014/04/60-eye-ion/#comments</comments>
+		<pubDate>Mon, 14 Apr 2014 18:27:39 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Avast]]></category>
+		<category><![CDATA[Data Recovery]]></category>
+		<category><![CDATA[Does Not Compute]]></category>
+		<category><![CDATA[iOn Switching]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[VPN]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8732</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/NoTouchRequired-300x300-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: iOn Switching" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom answer your questions about VPNs (virtual private networks), recovering data from a crashed hard drive, and how you can use Avast! Anti-virus to protect your computer. The guys are then joined by Landon Metcalf from <a href="/2014/04/60-eye-ion/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/60-eye-ion/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/NoTouchRequired-300x300-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: iOn Switching" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8730" style="width: 253px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/04/NoTouchRequired-300x300.jpg" class="gallery_colorbox"><img class=" wp-image-8730  " alt="Image Credit: iOn Switching" src="//media/2014/04/NoTouchRequired-300x300.jpg"  width="243" height="243"></a><p class="wp-caption-text">Image Credit: iOn Switching</p></div>
+<p>This week Ray and Tom answer your questions about VPNs (virtual private networks), recovering data from a crashed hard drive, and how you can use <a href="http://www.avast.com/">Avast! Anti-virus</a> to protect your computer.</p>
+<p>The guys are then joined by Landon Metcalf from <a href="http://ionswitching.com/">iOn Switching</a>, a tech company based here in Jacksonville, FL. They have a fascinating new invention that lets you control your lights and other electrical devices with a wave of your hand or with your smart phone. They&rsquo;re in the middle of a <a href="https://www.kickstarter.com/projects/29929586/ion-like-magic-capacitive-control-for-your-home">Kickstarter campaign</a> right now to bring this product to market. Check out the video below to see them demonstrate it in our studio.</p>
+<p>Then producer Sean Birch joins Ray, Tom and Landon for another round of trivia questions and geeky discussion in this week&rsquo;s Does Not Compute segment.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8732-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-04-07.mp3?_=1"></source><a href="http://deemable.com/audio/DeemableTech_2014-04-07.mp3">http://deemable.com/audio/DeemableTech_2014-04-07.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-04-07.mp3">#60 Eye On iOn</a></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/qJRaU5eznmE?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#60 Eye on iOn" data-link="/2014/04/60-eye-ion/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#60 Eye on iOn" data-link="/2014/04/60-eye-ion/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/60-eye-ion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-04-07.mp3" length="52978791" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Sandra asks, &#8220;Is my computer infected?&#8221;</title>
+		<link>/2014/04/sandra-asks-computer-infected/</link>
+		<comments>/2014/04/sandra-asks-computer-infected/#comments</comments>
+		<pubDate>Thu, 03 Apr 2014 10:40:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Adware]]></category>
+		<category><![CDATA[anti-malware software]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[Avast]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Malwarebytes]]></category>
+		<category><![CDATA[radio segments]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8684</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/04/adware-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: DanMelinger / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: Help! I keep getting pop-up ads on my computer even when I go to websites I know don?t have ads. Does my computer have an infection? How do I get rid of it? A: Unfortunately, Sandra, seeing unusual pop-ups <a href="/2014/04/sandra-asks-computer-infected/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/04/sandra-asks-computer-infected/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/04/adware-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Credit: DanMelinger / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p115133-embed" src="http://www.prx.org/p/115133/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Help! I keep getting pop-up ads on my computer even when I go to websites I know don?t have ads. Does my computer have an infection? How do I get rid of it?<span id="more-8684"></span></p>
+<p><strong>A: </strong>Unfortunately, Sandra, seeing unusual pop-ups like this is a sure-fire sign that you&rsquo;ve got uninvited guests on your hard drive.</p>
+<div id="attachment_8685" style="width: 332px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/04/adware.jpg" class="gallery_colorbox"><img class=" wp-image-8685   " src="//media/2014/04/adware.jpg"  alt="Credit: DanMelinger / Flickr" width="322" height="257"></a><p class="wp-caption-text">Credit: DanMelinger / Flickr</p></div>
+<p>These types of infections are what we call malware, and there are several different types. The really bad ones are called viruses (with any luck that&rsquo;s not what you have). There is also a more benign type of infection that exists mostly to put annoying pop-up ads on your screen and make money for whoever created it. We call this adware.</p>
+<p>Adware often takes the form of &ldquo;helpful&rdquo; toolbars installed on your Internet browser. Another sign that you have been infected is that when you search for things on the Internet you&rsquo;re constantly redirected to websites you didn&rsquo;t mean to go to, usually sites that are full of ads.</p>
+<p>What you need, Sandra, is a good anti-malware program. We would start by downloading <a href="www.avast.com/" target="_blank">avast! Antivirus</a>, a free antivirus program that has a great reputation. Once you have it downloaded and installed it, set it to run a &ldquo;boot-time scan.&rdquo; This will reboot your computer into a special operating system that just runs the antivirus software, which will scan your computer and then automatically start Windows. This is great because a lot of malware hides itself inside Windows so that it can avoid being detected by the antivirus software.</p>
+<p>One thing we should mention about avast! is that, while it is free, you&rsquo;ll need to register the program when you install it. It will prompt you to provide an email address the first time you run it, and ask you to confirm your license every year. The program will not protect your computer if you don&rsquo;t do this, so make sure you take the time to register.</p>
+<p>Now, antivirus software like avast! mainly focus on traditional viruses like Trojan horses, worms and similar infections, so it may not catch that pesky adware. For that, we recommend installing a second program called <a href="www.malwarebytes.org/" target="_blank">Malwarebytes Anti-Malware</a>. This free program is exceptionally good at getting rid of malware that is so new traditional antivirus software won&rsquo;t even detect it.</p>
+<p>Both of these programs should help you out, but ideally we should all try to avoid the risk of being infected in the first place. One thing that you can do to stave off adware is to pay attention when you&rsquo;re installing programs, because it will often piggyback on other software. If a program asks you if you&rsquo;d like to install a toolbar, say no!</p>
+<p>Another good way to protect yourself is to stay off of sketchy websites. If you are using the Google Chrome browser, it will alert you with a red warning screen if you click on a website that is known to host infections. You can check out some of our other tips for avoiding malicious websites in <a title="Jamie asks, ?How can I avoid malicious software and dangerous websites??" href="http://deemable.com/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" target="_blank">this article</a>.</p>
+<p>So, to sum up: pay attention when you are installing software, stay off of dangerous websites, and try out Malwarebytes Anti-Malware and avast! Antivirus.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/sandra-asks-computer-infected/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

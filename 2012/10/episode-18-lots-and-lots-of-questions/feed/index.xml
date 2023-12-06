@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Episode 18 &#8211; Lots and Lots of Questions</title>
+	<atom:link href="/2012/10/episode-18-lots-and-lots-of-questions/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/10/episode-18-lots-and-lots-of-questions/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2012/10/episode-18-lots-and-lots-of-questions/#comment-793</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2012 17:20:41 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=5898#comment-793</guid>
+		<description><![CDATA[Well, ignore what I said about setting up Gmail as an Exchange account. &lt;a href=&quot;http://forums.macrumors.com/showthread.php?p=16522842#post16522842&quot; rel=&quot;nofollow&quot;&gt;Google has dropped Exchange support for new clients. :-( &lt;/a&gt;
+
+&lt;a href=&quot;http://www.theverge.com/2012/12/14/3767626/google-dropping-google-sync-exchange-support-for-gmail-calendar-and&quot; rel=&quot;nofollow&quot;&gt;Google makes Gmail sync harder on rival platforms by dropping Exchange ActiveSync for consumers
+&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>Well, ignore what I said about setting up Gmail as an Exchange account. <a href="http://forums.macrumors.com/showthread.php?p=16522842#post16522842" rel="nofollow">Google has dropped Exchange support for new clients. <img src="/wp-includes/images/smilies/frownie.png" alt=":-(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </a></p>
+<p><a href="http://www.theverge.com/2012/12/14/3767626/google-dropping-google-sync-exchange-support-for-gmail-calendar-and" rel="nofollow">Google makes Gmail sync harder on rival platforms by dropping Exchange ActiveSync for consumers<br />
+</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

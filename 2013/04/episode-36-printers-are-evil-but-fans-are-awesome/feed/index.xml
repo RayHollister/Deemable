@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Episode 36 &#8211; Printers Are Evil, But Fans Are Awesome!</title>
+	<atom:link href="/2013/04/episode-36-printers-are-evil-but-fans-are-awesome/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/04/episode-36-printers-are-evil-but-fans-are-awesome/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/04/episode-36-printers-are-evil-but-fans-are-awesome/#comment-856</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2013 18:51:19 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7138#comment-856</guid>
+		<description><![CDATA[Fixed! Thanks Jesso!]]></description>
+		<content:encoded><![CDATA[<p>Fixed! Thanks Jesso!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jesso</title>
+		<link>/2013/04/episode-36-printers-are-evil-but-fans-are-awesome/#comment-855</link>
+		<dc:creator><![CDATA[Jesso]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2013 18:46:48 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7138#comment-855</guid>
+		<description><![CDATA[The download link points to the 4/8 file!]]></description>
+		<content:encoded><![CDATA[<p>The download link points to the 4/8 file!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

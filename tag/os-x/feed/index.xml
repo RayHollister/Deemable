@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; OS X</title>
+	<atom:link href="/tag/os-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The Episode That Almost Wasn&#8217;t&#8230; Or Still Isn&#8217;t</title>
+		<link>/2015/04/the-episode-that-almost-wasnt-or-still-isnt/</link>
+		<comments>/2015/04/the-episode-that-almost-wasnt-or-still-isnt/#comments</comments>
+		<pubDate>Fri, 10 Apr 2015 22:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple watch]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[OS X]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9901</guid>
+		<description><![CDATA[Hey folks!&#160;We are not doing a normal podcast&#160;this week because of One Spark. Fortunately, there wasn&#8217;t much news in the tech world this week anyway. Basically everyone is sitting on their hands waiting for the Apple Watch to come out. <a href="/2015/04/the-episode-that-almost-wasnt-or-still-isnt/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/04/the-episode-that-almost-wasnt-or-still-isnt/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2015/04/TheEpisodeThatAlmostWasnt.jpg" class="gallery_colorbox"><img class="alignright wp-image-9902 size-medium" src="//media/2015/04/TheEpisodeThatAlmostWasnt-300x236.jpg"  alt="The Episode That Almost Wasnt" width="300" height="236"></a>Hey folks!&nbsp;We are not doing a normal podcast&nbsp;this week because of One Spark. Fortunately, there wasn&rsquo;t much news in the tech world this week anyway. Basically everyone is sitting on their hands waiting for the Apple Watch to come out. But, if you have a Mac or an iOS device, Ray does have some news for you that you&rsquo;ll want to hear, especially if you have an iPhone on Sprint. Enjoy&nbsp;this incredibly short, &ldquo;all Ray&rdquo; episode of Deemable Tech.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-9901-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/04/2015_04_10_podcast.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/04/2015_04_10_podcast.mp3">http://cpa.ds.npr.org/wjct/audio/2015/04/2015_04_10_podcast.mp3</a></audio><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Episode That Almost Wasn't... Or Still Isn't" data-link="/2015/04/the-episode-that-almost-wasnt-or-still-isnt/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Episode That Almost Wasn't... Or Still Isn't" data-link="/2015/04/the-episode-that-almost-wasnt-or-still-isnt/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/04/the-episode-that-almost-wasnt-or-still-isnt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/04/2015_04_10_podcast.mp3" length="4978830" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

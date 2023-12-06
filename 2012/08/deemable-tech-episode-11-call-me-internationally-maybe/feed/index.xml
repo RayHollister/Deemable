@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Episode 11 &#8211; Call Me (Internationally), Maybe?</title>
+	<atom:link href="/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Joel</title>
+		<link>/2012/08/deemable-tech-episode-11-call-me-internationally-maybe/#comment-671</link>
+		<dc:creator><![CDATA[Joel]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2012 14:39:35 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=5361#comment-671</guid>
+		<description><![CDATA[For spam text messages: if you use an Android phone, you can install avast! mobile security which features, along with many great features, a spam text message blocker/filter. It will actually ask you if you want to block any text messages received from unknown numbers.]]></description>
+		<content:encoded><![CDATA[<p>For spam text messages: if you use an Android phone, you can install avast! mobile security which features, along with many great features, a spam text message blocker/filter. It will actually ask you if you want to block any text messages received from unknown numbers.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

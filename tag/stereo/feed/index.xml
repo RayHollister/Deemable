@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; stereo</title>
+	<atom:link href="/tag/stereo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Matthew asks, &#8220;How can I make my stereo wireless?&#8221;</title>
+		<link>/2015/02/matthew-asks-can-make-stereo-wireless/</link>
+		<comments>/2015/02/matthew-asks-can-make-stereo-wireless/#comments</comments>
+		<pubDate>Thu, 12 Feb 2015 20:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Bluetooth Wireless]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[stereo]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9596</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/02/stereo_knobs-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Jitter Buffer / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I have a fantastic sound system that I love, but it&#8217;s from the &#8217;90s and isn&#8217;t wireless. I&#8217;ve been looking at the wireless sound systems, but they are really expensive and all sound terrible. Is there any way to <a href="/2015/02/matthew-asks-can-make-stereo-wireless/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/matthew-asks-can-make-stereo-wireless/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/02/stereo_knobs-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Jitter Buffer / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-9596-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3</a></audio><div id="attachment_9597" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/02/stereo_knobs.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9597" src="//media/2015/02/stereo_knobs-300x208.jpg"  alt="Image credit: Jitter Buffer / Flickr" width="300" height="208"></a><p class="wp-caption-text">Image credit: Jitter Buffer / Flickr</p></div>
+<p><strong>Q: </strong>I have a fantastic sound system that I love, but it&rsquo;s from the &rsquo;90s and isn&rsquo;t wireless. I&rsquo;ve been looking at the wireless sound systems, but they are really expensive and all sound terrible. Is there any way to make my current system wireless?<span id="more-9596"></span></p>
+<p><strong>A: </strong>We&rsquo;re almost certain that you can add wireless connectivity to your existing stereo system, Matthew.</p>
+<p>By wireless, we are specifically referring to Bluetooth wireless audio that would let you pair your computer or smartphone with your stereo to listen to your music on that device. There&rsquo;s probably some way you can hook up Wi-Fi to your sound system, and there&rsquo;s plenty of other kinds of wireless connectors too. But the most widely supported standard is Bluetooth.</p>
+<p>If your system has an auxiliary input or an RCA jack input, you should be able to find a Bluetooth receiver that will work with it. There are a lot of receivers for home and car stereo systems that cost anywhere between $5 and $50. Most come with the cables you need to connect them, but check the package (or the description, if you&rsquo;re shopping online) to make sure. You usually have to give these receivers some power by plugging them into the wall or into the DC jack on your car.</p>
+<p>Speaking of cars, most of the Bluetooth receivers for automobiles even come with a microphone so you can use your new connection for hands-free phone calls with your smartphone.</p>
+<p>Once everything is plugged in, you would just pair your device with the receiver. This is the process of connecting your device to the receiver using Bluetooth, and will probably be explained in the device&rsquo;s manual. This is a pretty straightforward process that usually only takes a few taps to get through.</p>
+<p>One thing to be aware of is that you&rsquo;ll probably want to make sure you keep your device within roughly 30 feet of your stereo. You may suffer from Bluetooth connectivity issues if it is farther away than that. Some Bluetooth receivers can go a longer distance, but you will lose quality the farther away you are.</p>
+<p>You mentioned that your stereo system is from the &rsquo;90s, so it&rsquo;s safe to assume that it doesn&rsquo;t have an iPod adapter. If it did, there are a lot of Bluetooth receivers that plug into 30-pin connectors (the old, larger iPod connectors) out there as well. These run between $15 and $30. Just plug one into that connector, and you&rsquo;ll be able to pair it with any smartphone or computer that has Bluetooth.</p>
+<p>Find the right receiver for you, plug it in, pair your device, and voila! You&rsquo;ve got a wireless stereo! Turn on the tunes, and jam away.</p>
+<p><em>Photo credit: &ldquo;<a href="https://www.flickr.com/photos/ph0t0s/4827098640/" target="_blank">ITT Touring 120</a>&rdquo; by <a href="https://www.flickr.com/photos/ph0t0s/" target="_blank">Jitter Buffer</a> is user under&nbsp;<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA 2.0.</a></em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Matthew asks, "How can I make my stereo wireless?"' data-link="/2015/02/matthew-asks-can-make-stereo-wireless/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Matthew asks, "How can I make my stereo wireless?"' data-link="/2015/02/matthew-asks-can-make-stereo-wireless/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/matthew-asks-can-make-stereo-wireless/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/dt_021115.mp3" length="3353129" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Tom Wheeler</title>
+	<atom:link href="/tag/tom-wheeler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#73 Freedom Is Just A Four-Letter Word</title>
+		<link>/2015/02/73-freedom-is-just-a-four-letter-word/</link>
+		<comments>/2015/02/73-freedom-is-just-a-four-letter-word/#comments</comments>
+		<pubDate>Fri, 27 Feb 2015 20:47:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Atari]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Mobile payments]]></category>
+		<category><![CDATA[Net Neutrality]]></category>
+		<category><![CDATA[Pebble]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<category><![CDATA[Softcard]]></category>
+		<category><![CDATA[Tom Wheeler]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9766</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/02/TomWheelerCaricature-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Tom Wheeler Caricature" style="float:left; margin:0 15px 15px 0;" />This week Ray, Tom and Sean talk about how&#160;the FCC has finally decided to step up to the plate and defend Net Neutrality, and the rest of the big stories in the tech world. Reddit is finally banning&#160;stolen pornography. Apple <a href="/2015/02/73-freedom-is-just-a-four-letter-word/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/02/73-freedom-is-just-a-four-letter-word/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/02/TomWheelerCaricature-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Tom Wheeler Caricature" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9771" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/02/TomWheelerCaricature.jpg" class="gallery_colorbox"><img class="wp-image-9771 size-medium" src="//media/2015/02/TomWheelerCaricature-300x214.jpg"  alt="Tom Wheeler Caricature" width="300" height="214"></a><p class="wp-caption-text">FCC Chairman Tom Wheeler pushed FCC to vote 3-2 in favor of Net Neutrality.</p></div>
+<p>This week Ray, Tom and Sean talk about how&nbsp;the FCC has finally decided to step up to the plate and defend Net Neutrality, and the rest of the big stories in the tech world. Reddit is finally banning&nbsp;stolen pornography. Apple is holding a super secret press event in March. (SPOILER: It&rsquo;s the Apple Watch announcement.) Pebble is Kickstarting another smartwatch. Three patients voluntarily had their arms amputated to receive bionic prosthetics. Google bought mobile payment company Softcard. And, we are one step closer to Skynet becoming self-aware, an artificial intelligence played 49 Atari games without instructions, beating the records of human players in 29 of the games.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://Deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-9766-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2015-02-27.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2015-02-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2015-02-27.mp3</a></audio><p><a title="Deemable Tech Episode #73" href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2015-02-27.mp3" target="_blank">Deemable Tech Episode #73 Freedom Is Just A Four-Letter Word</a></p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>Subscribe to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">Deemable Tech&nbsp;in iTunes</a>,&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a> or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader</a>. Make sure to leave us a review in iTunes and Stitcher. The more reviews we have the higher we?ll be listed, and the more listeners will see our show.</p>
+<h2>This Week&rsquo;s Run Down</h2>
+<h3>Reddit bans revenge&nbsp;porn.</h3>
+<p><a href="http://gizmodo.com/reddit-finally-banned-stolen-porn-1687775797">Gizmodo reports that Reddit ? has outlawed porn</a>. Wait, no. Reddit has prohibited unwanted porn. No, that&rsquo;s not right either. Reddit has banned <i>involuntary</i> pornography. Reddit announced that that it is no longer allowing pictures or videos to be posted to the site without the permission of the subjects.</p>
+<p>In a <a href="http://www.reddit.com/r/announcements/comments/2x0g9v/from_1_to_9000_communities_now_taking_steps_to/">statement on its website</a>&nbsp;reddit said:</p>
+<blockquote><p><i>No matter who you are, if a photograph, video, or digital image of you in a state of nudity, sexual excitement, or engaged in any act of sexual conduct, is posted or linked to on reddit without your permission, it is prohibited on reddit.</i></p></blockquote>
+<p>To take the photos or videos down however, you will have to report the offense to reddit. This change in policy is considered to be a direct response to the incident known as &ldquo;The Fappening,&rdquo; where a cache of leaked celebrity nudes was leaked online and posted to reddit.</p>
+<h3>Apple&rsquo;s Not Super-Secret Press Event</h3>
+<p><a href="http://www.theverge.com/2015/2/26/8115325/apple-watch-event-march-9" target="_blank">The Verge is reporting that Apple sent out press invitations to a super secret event on March 9th</a>. No one has any idea what it is about. Nah, just kidding, it&rsquo;s the Apple Watch announcement. The tagline is even &ldquo;Spring Forward,&rdquo; an obvious time reference.</p>
+<p>At the event, we are almost certain to find out what features actually ended up in the watch ? that will likely only run for 4 hours before the battery dies. The Verge is saying that there have been rumors of a new Macbook air and there may be an update on Beats Music.</p>
+<h3>Pebble Get Another Kickstart</h3>
+<p>Speaking of watches, Pebble has decided to rock the crowdfunding universe again. <a title="Pebble Time - Kickstarter" href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises" target="_blank">Pebble announced Tuesday it was launching another smartwatch</a>. This one, dubbed the Pebble Time, has a <i>color</i> e-ink display, a microphone for dictation and voice activation, and it&rsquo;s thinner than the original Pebble and more contoured to fit the wrist.</p>
+<p>The microphone only works with Android actions right now, but Pebble is working on getting it to work with iOS soon.</p>
+<h3><b>Three Men Undergo Voluntary Amputations To Receive Bionic Arms</b></h3>
+<p>Gizmodo is reporting that <a href="http://gizmodo.com/three-men-have-had-hands-amputated-and-replaced-with-bi-1687925622">three men with irreparable nerve damage have had their arms amputated and replaced with prosthetics</a> controlled directly through their nervous systems. The procedure was performed by Oskar Aszmann at the Medical University of Vienna, Austria.</p>
+<p>The prosthetic is powered and controlled by a small piece of healthy leg muscle that has been grafted into the patients? arm.</p>
+<p>What is perhaps most notable is that the three patients all volunteered to have their arms amputated to undergo this procedure. While their whole arms were previously useless due to the nerve damage, they were intact.</p>
+<h3>Google Buys&nbsp;Mobile Payment Competitor Softcard</h3>
+<p>PachydermMcGurts submitted this next story on our <a href="http://deemable.com/reddit">sub-reddit page</a>.</p>
+<p>Google looks like it is doubling-down on mobile payments. According to a report from <a href="http://www.digitaltrends.com/mobile/google-wallet-refresh-new-features-news/">DigitalTrends.com, Google has purchased competitor Softcard</a>. On February 23rd Google made the announcement that it had bought the wallet app company Softcard which was formerly named Isis, just like the terrorist group.</p>
+<p>Isis started in 2009 as a joint effort by Verizon, AT&amp;T and T-Mobile to get a foothold in the mobile payments industry. Unfortunately, in 2011, the terrorist group then known as the Islamic State in Iraq began fighting in Syria, and started being referred to as the Islamic State in Iraq and Syria, or ISIS for short. The group apparently now just want to be called the Islamic State, but&nbsp;it was called ISIS long enough in the media to completely destroy the value, if it had any, of the company&rsquo;s name.</p>
+<p>Isis, the digital wallet app company, announced in September 2014 that it was changing its name to Softcard.</p>
+<p>Google bought Softcard and work out a deal with AT&amp;T, Verizon and T-Mobile, that all new Android phones will have Google Wallet pre-installed on them.</p>
+<p>In a very ?Google? way, instead of consolidating the two services into one service. it&rsquo;s going to keep the two services separate, and wait for this, add a new service.</p>
+<p>Rumor has it that Google is going to announce Android Pay at the Google I/O next conference.</p>
+<p><a href="https://www.youtube.com/watch?v=yKdvnhBFvXY">https://www.youtube.com/watch?v=yKdvnhBFvXY</a></p>
+<h3><b>Artificial Intelligence Masters Atari Games</b></h3>
+<p>DeepMind Technologies, a tech startup that Google purchased last year, is working on artificial intelligence that will develop human-like problem solving skills. To do so, they needed to put it through exercises that have simple rules and clear standards for failure, yet still present a challenge for most people. They decided that old Atari 2600 games were perfect for this.</p>
+<p>DeepMind made the AI play through 49 different Atari 2600 games without giving it instructions for how the various games were played. When it completed the games correctly and got a high score, the AI was rewarded. It eventually beat previous AI records for 43 of the games, and even exceeded the skills of master human players for 29 of them.</p>
+<p>A DeepMind Vice President told Bloomberg that this represents &ldquo;the first time anyone has built a single learning system that learns directly from experience and manage a wide range of challenging tasks,&rdquo; and that their ultimate goal will be to use this for smart, general purpose tools.</p>
+<h2><b>THE BIG STORY</b></h2>
+<h3><b>FCC Defends Net Neutrality</b></h3>
+<p>The Verge put together a great <a href="http://www.theverge.com/2015/2/26/8115953/fcc-net-neutrality-vote-reactions">aggregation of reactions to Net Neutrality</a> from around the net. It&rsquo;s no surprise, the ISPs are NOT happy.</p>
+<p>The FCC voted today, 3-2, to classify broadband internet as a public utility under Title II. This means that, for now at least, the FCC has the ability to regulate broadband internet and enforce net neutrality.</p>
+<p>Verizon and Comcast released statements stating that they were disappointed with the ruling, while AT&amp;T issued a more ominous statement hinting that the FCC might be overruled by congress or the courts.</p>
+<p>Some Republican lawmakers have threatened legislative action to overrule the FCC. The FCC vote did fall along party lines, with the three Democrat board members voting for net neutrality and the two Republicans voting against.</p>
+<p>Tech companies were almost uniformly ecstatic, with Netflix, Kickstarter, Microsoft and Tumblr all chiming in.</p>
+<p>At the heart of the new classification are rules banning the blocking or throttling of traffic, as well as paid prioritization, and a requirement that ISPs disclose network management practices.</p>
+<p>&mdash;&ndash;</p>
+<p>Next week we are going to be tossing in some app and gadget reviews like we&rsquo;ve been promising. If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable.com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://deemable.com/reddit%60" target="_blank">deemable.com/reddit</a> will take you there.</p>
+<p><em>Photo credit: &ldquo;<a href="https://flic.kr/p/qr1HLy" target="_blank">Tom Wheeler &ndash; Caricature</a>&rdquo; by&nbsp;<a class="owner-name truncate" title="Go to DonkeyHotey's photostream" href="https://www.flickr.com/photos/donkeyhotey/" data-track="attributionNameClick" data-rapid_p="52">DonkeyHotey</a>&nbsp;is used under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>.</em></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#73 Freedom Is Just A Four-Letter Word" data-link="/2015/02/73-freedom-is-just-a-four-letter-word/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#73 Freedom Is Just A Four-Letter Word" data-link="/2015/02/73-freedom-is-just-a-four-letter-word/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/02/73-freedom-is-just-a-four-letter-word/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2015-02-27.mp3" length="39174680" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

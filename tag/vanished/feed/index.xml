@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Vanished</title>
+	<atom:link href="/tag/vanished/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Will Work For Fun?</title>
+		<link>/2011/03/will-work-for-fun/</link>
+		<comments>/2011/03/will-work-for-fun/#comments</comments>
+		<pubDate>Wed, 30 Mar 2011 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[My Nguyen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[BP]]></category>
+		<category><![CDATA[Clive Thompson]]></category>
+		<category><![CDATA[Smithsonian]]></category>
+		<category><![CDATA[Vanished]]></category>
+		<category><![CDATA[Wired.com]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=1600</guid>
+		<description><![CDATA[I recently learned that BP issued a call for proposals to fix the environmental problem that resulted from the devastating oil spill in the Gulf Coast last year. When I came across a Wired.com news item about how games are <a href="/2011/03/will-work-for-fun/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/03/will-work-for-fun/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>I recently learned that BP issued a call for proposals to fix the environmental problem that resulted from the devastating oil spill in the Gulf Coast last year. When I came across a Wired.com news item about how games are an example of positive psychology, my interest was piqued and I had a &ldquo;eureka!&rdquo; moment.&nbsp; In Clive Thompson&rsquo;s article&nbsp; entitled <a href="http://www.wired.com/magazine/2011/02/st_thompson_living_games/">?How Games Make Work Seem Like Play,?</a> Thompson discusses how by applying game design to certain problems, the competitive function of work will help provide a solution by motivating folks, who usually lack the inspiration, to tackle the world&rsquo;s biggest problems.</p>
+<p>According to Thompson, an episode within Parliament where British politicians were caught filing millions of pounds&rsquo; worth of personal expenses was dealt with by utilizing this &ldquo;work for play-method.&rdquo;&nbsp; Thompson wrote that in answer to the public&rsquo;s uproar, the government scanned hundreds of thousands of the incriminated receipts and dumped the files online.&nbsp; He also stated that the editors from The Guardian had no choice but to fight back.</p>
+<p>According to the Wired.com article, they took what was supposed to be an insurmountable task, and made it possible by creating a web app that would randomly send players a receipt.&nbsp; Thompson reported that if the receipt looked suspicious participants would write a short description of what they found and send it over to the editors of The Guardian</p>
+<p>The article stated that a leader board tracked which contributors made the most finds, and in less than four days with 20,000 players analyzing 170,000 pages worth of data.&nbsp; The Guardian&rsquo;s game plan had worked; they now had the evidence they needed to indict the guilty members of Parliament.</p>
+<p>If The Guardian could make work fun, why can&rsquo;t BP?&nbsp; Thompson says that Jane McGonigal, a game designer and author of the book, Reality is Broken, has done precisely that.&nbsp; He wrote that she co-designed a role-playing game called World Without Oil, which encourages thousands of players to brainstorm of a way to peak oil.&nbsp; Yet this positive way to get more people involved in solving world problems has not come without some opposition.&nbsp;&nbsp; There are those that call this whole work-for-fun method a classic example of the Tom Sawyer trick, where the character is able to trick others to do the work for him by showing off how much fun he is having while painting a fence.&nbsp; And there are others who think this is just one huge, corporate scam.</p>
+<p>What is so different behind this work-for-play premise than a call for proposals to fix a problem?&nbsp; Players are definitely participating because they want to and it&rsquo;s fun, whereas papers and proposals are just plain work.&nbsp; My example would be innovative school projects that would encourage you how to learn while stimulating you on a creative level.&nbsp; Rather than go about learning in a dull, dry way, teachers are trying to find new techniques in order to teach their pupils how to problem-solve without making them fall asleep.&nbsp; In the long run, you get your work done and perhaps the world will be a better place because of it, so what&rsquo;s the problem here?</p>
+<p>Following the vein of TV shows popping up on the History, Discovery, and Travel Channel?shows like Museum Secrets and Mysteries at the Museums that are addressing the infamous enigmas behind these major repositories of learning?I wasn&rsquo;t surprised when I came across another article on <a href="http://www.wired.com/magazine/2011/03/mystery-game-vanished-at-the-smithsonian/">Wired.com</a> previewing a game the folks from MIT and the Smithsonian are unleashing in April.</p>
+<p>&ldquo;Vanished invites kids and teens 11 to 14 to participate in the role of scientific detectives, although older participants can also follow along with special ?watcher? accounts,&rdquo; said Michael Anderson in his Wired.com article.</p>
+<p>Although it would be nowhere near solving the world&rsquo;s ancient mysteries, the game will provide intellectual fodder for kids to develop scientific inquiry that will hopefully further their interest in the sciences.&nbsp; Anderson says that Vanished will have middle-school students interact with scientists from the Smithsonian through video chats, and engage in various activities like peer collaboration, collecting scientific data, and participating in various gaming activities in order to unlock a larger mystery inside the project.</p>
+<p>So hey, if kids can suspend reality for a few moments within the day to pretend work is no longer dull, tedious work but play, why can&rsquo;t adults?&nbsp; Is it the fact that we are being slightly manipulated to think work is fun?is this something that should bother us? &nbsp; Or are we too old and mature for this sort of fun?</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Will Work For Fun?" data-link="/2011/03/will-work-for-fun/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Will Work For Fun?" data-link="/2011/03/will-work-for-fun/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/will-work-for-fun/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

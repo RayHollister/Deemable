@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; blogs</title>
+	<atom:link href="/tag/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The End of Blogging?</title>
+		<link>/2013/03/the-end-of-blogging/</link>
+		<comments>/2013/03/the-end-of-blogging/#comments</comments>
+		<pubDate>Fri, 15 Mar 2013 11:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Google Reader]]></category>
+		<category><![CDATA[RSS]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6954</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/AngryBloggers-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google is feeling the wrath of angry bloggers." style="float:left; margin:0 15px 15px 0;" />In a statement that has rocked the blogosphere to its core, Google has announced that as part of its annual &#8216;spring cleaning&#8217; it will be shuttering Google Reader: We have just announced on the Official Google Blog that we will <a href="/2013/03/the-end-of-blogging/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/the-end-of-blogging/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/AngryBloggers-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google is feeling the wrath of angry bloggers." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/03/AngryBloggers.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-7038" title="Google is feeling the wrath of angry bloggers." alt="" src="//media/2013/03/AngryBloggers-300x200.jpg"  width="300" height="200"></a>In a statement that has rocked the blogosphere to its core, Google has announced that as part of its annual &lsquo;spring cleaning&rsquo; <a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html" target="_blank">it will be shuttering Google Reader</a>:</p>
+<blockquote style="padding-left: 30px;"><p>We have just announced on the Official Google Blog that we will soon retire Google Reader (the actual date is July 1, 2013). We know Reader has a devoted following who will be very sad to see it go. We&rsquo;re sad too.</p>
+<p>There are two simple reasons for this: usage of Google Reader has declined, and as a company we&rsquo;re pouring all of our energy into fewer products. We think that kind of focus will make for a better user experience.</p>
+<p>To ensure a smooth transition, we&rsquo;re providing a three-month sunset period so you have sufficient time to find an alternative feed-reading solution.</p></blockquote>
+<p>The problem is, there <em>is </em>no alternate feed reading solution. Google Reader has become the alpha and omega of RSS feed aggregation.</p>
+<p>RSS readers allow you to pull content from multiple blogs and news sites (via &lsquo;feeds&rsquo;) and read them in one location. For an information omnivore like me, they are a must have: a way to parse through dozens or even hundreds of blogs daily for new content without having a bookmark for every single blog that might interest me.</p>
+<p>As <a href="http://www.businessweek.com/articles/2013-03-14/google-unplugs-google-reader-sending-its-loyal-users-elsewhere" target="_blank">BusinessWeek put it</a>:</p>
+<blockquote style="padding-left: 30px;"><p><em>But serious RSS users aren&rsquo;t into it for the luscious jpegged&nbsp;beauty. RSS feeds, taken straight, are a wall of text. That&rsquo;s useful when you want to let news wash over you, to scan screenfuls&nbsp;of headlines without waiting for extraneous pictures to load. When I want to absorb a lot of information fast-which is to say, always-I don&rsquo;t have time for Flipboard. I want exactly what Google will be taking away from me this summer.</em></p></blockquote>
+<p>Lest you think I exaggerate about the sheer volume of content I personally consume via Google Reader, here is a snapshot of the stats from my GR &lsquo;Trends&rsquo; page:</p>
+<p><a href="http://1.bp.blogspot.com/-K5uZohsrmWw/UUHpzV0E4hI/AAAAAAAAAgI/Z99VmYfnp5Q/s1600/GoogleReaderStats.jpg" class="gallery_colorbox"><img alt="" src="http://1.bp.blogspot.com/-K5uZohsrmWw/UUHpzV0E4hI/AAAAAAAAAgI/Z99VmYfnp5Q/s400/GoogleReaderStats.jpg"  width="400" height="197" border="0"></a></p>
+<p>For Google Reader users this is not at all the exception. Reader may have a smaller user-base than other Google tools, but there&rsquo;s no doubt that they are almost all power-users: bloggers, journalists, media-hawks of all stripes. There are several petitions already up at Change.org, one of which has already surpassed 50,000 signatures (<a href="https://www.change.org/petitions/google-keep-google-reader-running" target="_blank">sign it!</a>). The Google Reader support forums are <a href="http://productforums.google.com/forum/#!categories/reader/something-is-broken" target="_blank">choked with wails of agony</a>. And Reader-dependent journalists from every virtually every news organization are<a href="https://www.google.com/search?hl=en&amp;gl=us&amp;tbm=nws&amp;q=google+reader&amp;oq=google+reader&amp;gs_l=news-cc.3..43j43i53.2711.4078.0.4253.13.5.0.8.8.0.77.357.5.5.0...0.0...1ac.1.3ceXOkjiM2o" target="_blank"> noting its passing</a>.</p>
+<p>There are, of course, other RSS readers out there. The problem is, even if you don&rsquo;t use Google Reader <em>you probably actually use Google Reader</em>. Google Reader&rsquo;s powerful back-end synchronizes your feeds and the content you have and haven&rsquo;t read across multiple devices. Most feed readers currently on the market, from desktop clients to smartphone apps, take advantage of this by plugging into it. The developers of these readers will now be scrambling to come up with their own back-end solutions before the service sunsets on July 1st.</p>
+<p>Should a viable alternative not emerge, this could spell big trouble for the small blogs of the world. I read Tyler Cowen&rsquo;s &lsquo;Marginal Revolution&rsquo; blog every day and would probably remember to check it without a feed reader. But I follow other, smaller blogs, often blogs written by friends, which update irregularly. If you follow&nbsp;<a title="Tom Noir.com" href="http://www.tomnoir.com/" target="_blank">my blog</a> this is the case for you too: I don&rsquo;t update daily, so without some sort of feed you&rsquo;d have to remember to manually check this blog now and again.</p>
+<p>Again, Google Reader is not the only way to do this, but it is the <em>main</em>&nbsp;way people do it. Google Reader has been in service since 2005 and has garnered a substantial following in the intervening eight years. As one blogger <a href="https://twitter.com/siracusa/status/311984542770659328" target="_blank">tweeted</a>:</p>
+<blockquote>
+<ol><li>Drive competing services out of business with a free service (subsidized by a profitable product).</li>
+<li>Cancel free service.</li>
+<li>???</li>
+</ol></blockquote>
+<p>The implications of Google&rsquo;s cancellation of its Reader service go far beyond the loss of a useful tool, as <a href="http://www.forbes.com/sites/tomwatson/2013/03/13/googles-strange-attack-on-bloggers-and-the-public-internet-the-massive-reaction-to-reader-shutdown/" target="_blank">a Forbes blogger bitterly notes</a>:</p>
+<blockquote><p><em>Does Google understand the concept of corporate social responsibility? That seems to be the basic question around the company&rsquo;s strange decision to shut down a tiny service that serves as a major audience conduit for many thousands of bloggers, citizen journalists, and self publishers.</em></p>
+<p>Google&rsquo;s announcement today that it is destroying Google Reader, the most popular RSS syndication tool was a massive blow to the blogging community &ndash; and to most of those speaking out tonight via social media, an entirely unnecessary attack on an important corner of the public Internet by a company with more than $50 billion in revenue and a newly won reputation as a tech giant on the move.</p></blockquote>
+<p>Google&rsquo;s decision is also shaking the faith of myself and many others in the Google eco-system. If Google is willing to pull the plug on Reader, what tool or service that we use might be next to get the axe at the search giant&rsquo;s whim? Perhaps Blogger? If Google is getting out of blogs entirely I&rsquo;ll be forced to move TomNoir.com in its entirety to some other blog service.</p>
+<p>Several voices have pointed out that Google Reader is probably not very profitable for Google. It does serve up some ads, but in a minimalist fashion. Meanwhile, even if it isn&rsquo;t actively developing the service anymore it <em>does </em>have to maintain the back-end servers. So maybe it makes good business sense for Google to put the axe to reader.</p>
+<p>Or does it? Google Reader is a wildly successful product by the standards of any ordinary software company. Its user base must number in the hundreds-of-thousands, if not millions. Only to a company that measures web traffic by the hundreds of millions and even <em>billions</em> would this seem like a dismal flop. Google is viewing Reader through the same lens with which it views its other products: as a service to drive ad revenue.</p>
+<p>This is a mistake.</p>
+<p>If Google&rsquo;s give-it-away-free model doesn&rsquo;t make sense for Google Reader, why not try charging for the service? Google could charge the other feed readers that use its back-end API. Or it could even charge its users. <em>I would pay</em>. Google Reader is absolutely worth, say, $30/year to me.</p>
+<p>You hear that, Google? You&rsquo;ve got a user base you could actually <em>monetize</em>! If only you will listen before it&rsquo;s too late.</p>
+<p>Otherwise you&rsquo;re killing off the thriving-but-often-invisible universe of small blogs. You&rsquo;re alienating a base of vocal power-users. And you&rsquo;re shattering those users&rsquo; faith in your willingness to continue supporting services you&rsquo;ve developed.</p>
+<p>Originally posted at <a title="Tom Noir.com" href="http://www.tomnoir.com/2013/03/the-end-of-blogging.html" target="_blank">TomNoir.com</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/the-end-of-blogging/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

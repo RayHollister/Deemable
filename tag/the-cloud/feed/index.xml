@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; The Cloud</title>
+	<atom:link href="/tag/the-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Prem asks, &#8220;How can I recover files from a corrupt USB drive?&#8221;</title>
+		<link>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/</link>
+		<comments>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/#comments</comments>
+		<pubDate>Thu, 17 Oct 2013 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[data backup]]></category>
+		<category><![CDATA[Data Recovery]]></category>
+		<category><![CDATA[online backup]]></category>
+		<category><![CDATA[The Cloud]]></category>
+		<category><![CDATA[USB Thumbdrive]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8365</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/usb_drives-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: USBMemoryDirect.com / Flickr" style="float:left; margin:0 15px 15px 0;" />Q:&#160;I have a number of important files and folders on an 8 GB USB drive, but now I can&#8217;t open the files and I get error messages instead. I think the drive is corrupted or damaged. I really need these <a href="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/usb_drives-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image Credit: USBMemoryDirect.com / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p104971-embed" src="http://www.prx.org/p/104971/embed.js?size=small"></script></p>
+<p><strong>Q:&nbsp;</strong>I have a number of important files and folders on an 8 GB USB drive, but now I can&rsquo;t open the files and I get error messages instead. I think the drive is corrupted or damaged. I really need these files! Help!</p>
+<div id="attachment_8366" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/10/usb_drives.png" class="gallery_colorbox"><img class="size-medium wp-image-8366" alt="Image Credit: USBMemoryDirect.com / Flickr" src="//media/2013/10/usb_drives-300x193.png"  width="300" height="193"></a><p class="wp-caption-text">Image Credit: USBMemoryDirect.com / Flickr</p></div>
+<p><strong>A:&nbsp;</strong>Take a deep breath,&nbsp;Prem, we&rsquo;re going to steer you in the right direction. This is not a fun situation to be in, though. There&rsquo;s no way to guarantee that you can recover your files. This is why it is so important to keep your files in a safe place and back them up.</p>
+<p>For starters, never keep the only copy of your files on a USB drive! They&rsquo;re cheap and can be corrupted easily, and they can also easily get lost, dropped and stepped on.</p>
+<p>We always recommend keeping three copies of important files: one on your computer&rsquo;s hard drive; one on a backup external drive; and one more in The Cloud.</p>
+<p>Backing up to The Cloud basically means backing up your data online. This is actually very simple to do. You just need to download and install a cloud storage program like&nbsp;<a href="https://www.dropbox.com/" data-cke-saved-href="https://www.dropbox.com/">DropBox</a>,&nbsp;<a href="http://drive.google.com/" data-cke-saved-href="http://drive.google.com/">Google Drive</a>&nbsp;or&nbsp;<a href="http://pogoplug.com/" data-cke-saved-href="http://pogoplug.com/">PogoPlug</a>. All of these programs give you some storage (usually about 5 GB) for free. You can then pay a yearly subscription fee to get more.</p>
+<p>For our money,&nbsp;DropBox&nbsp;is the best and the easiest Cloud backup and storage solution. With&nbsp;DropBox&nbsp;installed, you don&rsquo;t even need a program to store your files on the Cloud ?&nbsp;DropBox&nbsp;simply creates a&nbsp;DropBox&nbsp;folder on your computer. Drag your files into that folder, and they will be uploaded to the&nbsp;DropBox&nbsp;Cloud. It doesn&rsquo;t get easier than that! And there&rsquo;s nothing to stop you from starting to save your important files online today.</p>
+<p>But let&rsquo;s get back to your situation,&nbsp;Prem. The good news is that since your computer can still see the USB drive, the drive is most likely only logically corrupted. In other words, the data has gotten scrambled somehow but there is nothing physically wrong with the drive. With any luck, a good recovery program can get most of the data back.</p>
+<p>There are numerous free data recovery programs available online, and there&rsquo;s even one built right into your computer. Windows PCs have a built in Check Disk utility that will analyze and attempt to repair your USB drive. You can learn more about using it on&nbsp;<a href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/" data-cke-saved-href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/">the Microsoft site</a>.</p>
+<p>If that doesn&rsquo;t work, the next step is to try a free third party recovery program.&nbsp;<a href="http://www.cgsecurity.org/wiki/TestDisk" data-cke-saved-href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk</a>&nbsp;is a well-regarded program, but it is somewhat advanced and must be run from the command line. Other good ones are&nbsp;<a href="http://www.piriform.com/recuva/download" data-cke-saved-href="http://www.piriform.com/recuva/download">Recuva</a>,&nbsp;<a href="http://diskdigger.org/" data-cke-saved-href="http://diskdigger.org/">Disk Digger</a>,&nbsp;<a href="http://www.pcinspector.de/default.htm" data-cke-saved-href="http://www.pcinspector.de/default.htm">PC Inspector</a>&nbsp;and&nbsp;<a href="http://www.snapfiles.com/get/restoration.html" data-cke-saved-href="http://www.snapfiles.com/get/restoration.html">Restoration</a>.</p>
+<p>Sadly, there is no perfect recovery program, which means you may need to download a few and try them. After each pass be sure to check your data and copy anything that has become usable to your hard drive. By doing so, you can hopefully retrieve most of the vital data on your USB drive.</p>
+<p>If that still doesn&rsquo;t get the job done, there are paid services that specialize in data recovery. You can find them online by doing a search for &ldquo;USB data recovery&rdquo;. Good luck! And remember: Backup! Backup! Backup!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Parker asks, &#8220;How can I share my printer more easily?&#8221;</title>
+		<link>/2013/09/parker-asks-can-share-printer-easily/</link>
+		<comments>/2013/09/parker-asks-can-share-printer-easily/#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 18:12:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud Print]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[The Cloud]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8188</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/cloudprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Google" style="float:left; margin:0 15px 15px 0;" />Q:&#160;A classmate came over to my house recently to work on a project with me. She brought her laptop. When it came time to print, we had to print from her laptop, which meant I had to find the printer <a href="/2013/09/parker-asks-can-share-printer-easily/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/parker-asks-can-share-printer-easily/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/cloudprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Google" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p102741-embed" src="http://www.prx.org/p/102741/embed.js?size=small"></script></p>
+<p><strong>Q:&nbsp;</strong>A classmate came over to my house recently to work on a project with me. She brought her laptop. When it came time to print, we had to print from her laptop, which meant I had to find the printer disk, hook her laptop up to the printer, and install it, just to print one thing. Is there a better way to do this?</p>
+<p><strong>A:&nbsp;</strong>Thank you for your question, Parker! This is a problem we probably have all faced at one time or another. The good news is that there is actually a pretty easy way to remedy this situation, and it involves one of our favorite things: The Cloud! Specifically,&nbsp;<a href="http://www.google.com/cloudprint/learn/">Google&rsquo;s Cloud Print</a>&nbsp;service.</p>
+<div id="attachment_8189" style="width: 327px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/09/cloudprint.jpg" class="gallery_colorbox"><img class=" wp-image-8189  " alt="Image Credit: Google" src="//media/2013/09/cloudprint.jpg"  width="317" height="229"></a><p class="wp-caption-text">Image Credit: Google</p></div>
+<p>The idea behind Google Cloud Print is that you can print from any computer to any printer without having to connect the two physically or install a bunch of drivers. As long as both the computer and the printer have an Internet connection, you can print. For example, if your work printer was connected to Cloud Print, you could print to it from home. If your home printer was connected to Cloud Print, you could print to it from work. And if your friend is at your house and needs to print, you can just share your Cloud Print connected printer with them , no printer connection required.</p>
+<p>Another cool thing about Google Cloud Print is that you control who gets to see your printer. You specify the email addresses of people you want to share your printer with, and only they are allowed to print to it. You can also revoke access to your shared printer at any time.</p>
+<p>Now, how do you start using Cloud Print? Well, you may have noticed that many new printers are labeled as being &ldquo;Google Cloud Print Ready&rdquo;. That means that once you have them turned on and connected to a network, you can share them through Google Cloud Print quickly and easily. If you don&rsquo;t have a &ldquo;Google Cloud Print Ready&rdquo; printer, don&rsquo;t worry! You can still use what Google calls &ldquo;classic printers&rdquo; with Cloud Print, with the only extra requirement being that the printer must be hooked up to a computer with Google Chrome installed on it.</p>
+<p>Open up the settings in Google Chrome on that computer, search for &ldquo;cloud printer&rdquo;, and you&rsquo;ll see options to add your printer to Cloud Print. Once your printer is connected, it&rsquo;s simple to print from Google Docs, your Chrome browser, or from a Google app.</p>
+<p>Yes, you read that correctly: you can print from Google&nbsp;<em>apps</em>. Most Google apps on iOS and Android let you use Cloud Print by default. For example, you could open the Gmail app, tap print and print away! For other apps on iOS, you can download the <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/printcentral-pro/id426362921?mt=8" target="_blank" rel="external nofollow">PrintCentral Pro</a> app to connect your device to Google Cloud Print (this app costs $4.99 for iPhone, and $7.99 for iPad). Many apps on Android have this function built in.</p>
+<p>So, Parker, try out Google Cloud Print, and see how it works for you. That way if you&rsquo;re ever in that predicament again, you can simply share your printer without all of the extra work.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/parker-asks-can-share-printer-easily/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alex asks, &#8220;What is &#8216;The Cloud?&#039;&#8221;</title>
+		<link>/2013/05/alex-asks-what-is-the-cloud/</link>
+		<comments>/2013/05/alex-asks-what-is-the-cloud/#comments</comments>
+		<pubDate>Thu, 02 May 2013 13:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[EverNote]]></category>
+		<category><![CDATA[Google Drive]]></category>
+		<category><![CDATA[Google Music]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[SpringPad]]></category>
+		<category><![CDATA[SugarShare]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech questions]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[The Cloud]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7306</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" />Q: You mentioned a few weeks ago that people could back up their information to &#8220;the Cloud.&#8221; I hear that term thrown around a lot, but what does it actually mean? What is &#8220;the Cloud&#8221;? A: That&#8217;s actually a great <a href="/2013/05/alex-asks-what-is-the-cloud/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/05/alex-asks-what-is-the-cloud/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/05/Cloud_2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="What Is The Cloud" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p96373-embed" src="http://www.prx.org/p/96373/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> You mentioned a few weeks ago that people could back up their information to &ldquo;the Cloud.&rdquo; I hear that term thrown around a lot, but what does it actually mean? What is &ldquo;the Cloud&rdquo;?</p>
+<div id="attachment_8442" style="width: 253px" class="wp-caption alignright"><a href="http://deemable.com/media/2013/05/Cloud_2.jpg" class="gallery_colorbox"><img class=" wp-image-8442 " title="What Is The Cloud" alt="What Is The Cloud" src="//media/2013/05/Cloud_2-300x244.jpg"  width="243" height="198"></a><p class="wp-caption-text">What Is The Cloud?</p></div>
+<p><strong>A: </strong>That&rsquo;s actually a great question, Alex. The funny thing is, most of us have actually been using &ldquo;the Cloud&rdquo; for years now. Anyone who has ever used an email service like Yahoo, Hotmail, or Gmail has already used the Cloud. For a normal, non-technical user, &ldquo;the Cloud&rdquo; is just storing your data on the Internet instead of just on your home computer.</p>
+<p>However, the actual technical definition of a cloud is a little more complicated than that. You see, the danger with storing documents, media or files on any single computer is that no matter how powerful they are, computers can (and do) break. But imagine if you could store your file on three different computers. Then if one or even two broke, you&rsquo;ve still got your document. The only problem is, every time you updated your document, you would have to update it on all three computers. That&rsquo;s a pain.</p>
+<p>But now imagine that you could treat those three physical computers as one virtual computer that your file is stored on. The actual, physical computers would essentially become invisible. Take this setup and multiply it by hundreds of computers, and that&rsquo;s basically what a cloud is.</p>
+<p>Now, you may have noticed that we said &ldquo;a cloud.&rdquo; The reason is that there are actually multiple clouds. In fact, tons of different companies offer their own clouds. They may work differently from each other, but they are all similar in that they allow you to store your files on the Internet instead of your computer, and they allow you to access those files from anywhere.</p>
+<p>So how does this affect you? For most of us, cloud services are a really great way to back up documents, pictures, music or whatever to the Internet. And once it&rsquo;s out on the Internet, you can access it from other computers or devices you own. For example, we use Google Music to back up the MP3s on our computers. All we had to do is download the Google Music program, and it automatically started uploading everything we had in iTunes to the Google Music cloud. When we add a new song or playlist to iTunes on our computers, those get uploaded too, and we can then listen to them on our phones straight from the Internet.</p>
+<p>Clouds aren&rsquo;t just good for music, though. Google and Microsoft both offer ways to do word processing in the Cloud, from anywhere, without even having to install a program. Google has a web application called Google Drive (we use it for Deemable Tech and love it), and Microsoft has introduced Office 365 which you can access through your web browser as well.</p>
+<p>For Apple users, there is iCloud, which automatically synchronizes your files across all of your Apple devices.</p>
+<p>If you&rsquo;re looking to backup and share your files, Alex, you should consider using Dropbox. We&rsquo;ve mentioned it before, but Dropbox is a service that allows you to select a folder on your computer, and anything you put in that folder will be automatically uploaded to the Dropbox cloud. If you install Dropbox on another computer, it will automatically mirror the folders between the two computers. There are a lot of other excellent cloud services as well (like EverNote, SpringPad and SugarShare), and there are more out there every day.</p>
+<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/alex-asks-what-is-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Episode 24 &#8211; Holiday Minisode 2: The not so &#8220;mini&#8221; episode</title>
+		<link>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/</link>
+		<comments>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/#comments</comments>
+		<pubDate>Mon, 17 Dec 2012 13:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[CloudMagic]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Google Chromebooks]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[The Cloud]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<category><![CDATA[Windows 8 tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6469</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/SearchingTheClouds-150x150.png" class="attachment-thumbnail wp-post-image" alt="Searching The Clouds" style="float:left; margin:0 15px 15px 0;" />Today, Tom and Ray were supposed to do another short mini episode, but they got way off the rails, and ended up recording a 49 minute episode! &#160;They had tons of fun, and answered four of your tech help questions. <a href="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/SearchingTheClouds-150x150.png" class="attachment-thumbnail wp-post-image" alt="Searching The Clouds" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/12/SearchingTheClouds.png" class="gallery_colorbox"><img class="alignright size-medium wp-image-6475" title="Searching The Clouds" alt="" src="//media/2012/12/SearchingTheClouds-300x234.png"  width="300" height="234"></a>Today, Tom and Ray were supposed to do another short mini episode, but they got way off the rails, and ended up recording a 49 minute episode! &nbsp;They had tons of fun, and answered four of your tech help questions.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="//feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3">Episode 24: Holiday Minisode 2: The not so &ldquo;mini&rdquo; episode</a><br><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><audio class="wp-audio-shortcode" id="audio-6469-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3</a></audio></p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Can I manage multiple email accounts from one web app like I can do on my iPhone?</li>
+<li>What are the differences between Windows and Android tablets, and which would be best for me as a writer?</li>
+<li>Why does Flash keep crashing on Chrome?</li>
+<li>How can I search my clouds?</li>
+</ul><h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a title="Lifehacker - Top 10 Handy iOS Tweaks That Don't Require Jailbreaking" href="http://lifehacker.com/5968627/top-10-handy-ios-tweaks-that-dont-require-jailbreaking?popular=true" target="_blank">Top 10 Handy iOS Tweaks That Don&rsquo;t Require Jailbreaking</a></li>
+<li><a href="http://lifehacker.com/5929546/see-the-actual-signal-strength-on-your-iphone-with-this-quick-tweak" target="_blank">See the Actual Signal Strength on Your iPhone or Android</a></li>
+<li><a href="http://www.makeuseof.com/tag/4-ways-simultaneously-manage-multiple-gmail-accounts/">http://www.makeuseof.com/tag/4-ways-simultaneously-manage-multiple-gmail-accounts/</a></li>
+<li><a title="CloudMagic - a better life with every search" href="https://cloudmagic.com/" target="_blank">Searching the cloud with Cloudmagic</a></li>
+</ul><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3" length="47327190" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

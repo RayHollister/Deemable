@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; imap</title>
+	<atom:link href="/tag/imap/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Episode 7 &#8211; Backup Your Data or You&#8217;ll Catch Cyberchondria</title>
+		<link>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/</link>
+		<comments>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/#comments</comments>
+		<pubDate>Mon, 23 Jul 2012 17:15:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[cyberchondria]]></category>
+		<category><![CDATA[data backup]]></category>
+		<category><![CDATA[imap]]></category>
+		<category><![CDATA[Microsoft Tag]]></category>
+		<category><![CDATA[outlook]]></category>
+		<category><![CDATA[pop3]]></category>
+		<category><![CDATA[QR codes]]></category>
+		<category><![CDATA[smtp]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=5304</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" />This week Ray Hollister, Tom Braun, Kevin Clark and Aaron Edelson beat to death how important it is to backup your data, figure out what those black and white &#8220;techie looking&#8221; squares are (QR codes) and we come down with <a href="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/06/DeemableTechLogoSquare-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Deemable Tech Logo" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="alignright  wp-image-5185" title="Deemable Tech Logo" src="//media/2012/06/DeemableTechLogoSquare-150x150.jpg" alt="" width="200" height="200">This week Ray Hollister, Tom Braun, Kevin Clark and Aaron Edelson beat to death how important it is to backup your data, figure out what those black and white &ldquo;techie looking&rdquo; squares are (QR codes) and we come down with a serious case of cyberchondria. All that and more on this episode of Deemable Tech.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-5304-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3">Deemable Tech &ndash; Episode 7 &ndash; Backup Your Data or You&rsquo;ll Catch Cyberchondria</a></p>
+<h3>Links we mentioned on the show:</h3>
+<p><a href="http://www.nlm.nih.gov/medlineplus/%20">http://www.nlm.nih.gov/medlineplus/ </a></p>
+<p><a href="http://www.cdc.gov/">http://www.cdc.gov/</a></p>
+<p><a href="http://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/">http://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/</a></p>
+<p><a href="http://www.dukehealth.org/health_library">http://www.dukehealth.org/health_library</a></p>
+<p><a href="http://tag.microsoft.com/home.aspx">http://tag.microsoft.com/home.aspx</a></p>
+<p><a href="http://qrcode.kaywa.com/">http://qrcode.kaywa.com/</a><a href="http://qrcode.kaywa.com/">/</a></p>
+<p><a href="http://www.clear.com/support/faq/clear-email/email/setting-up-and-accessing-clear">http://www.clear.com/support/faq/clear-email/email/setting-up-and-accessing-clear</a></p>
+<p><a href="http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=86374">http://support.google.com/mail/bin/answer.py?hl=en&amp;answer=86374</a></p>
+<h3>Today&rsquo;s Bumper Music:</h3>
+<p><a href="http://www.youtube.com/watch?v=4OmvPf4ALRs">Double Rainbow Chiptune Cover &ndash; Robinerd</a></p>
+<p style="padding-left: 30px;"><a title="http://www.youtube.com/watch?v=MX0D4oZwCsA" dir="ltr" href="http://www.youtube.com/watch?v=MX0D4oZwCsA" rel="nofollow" target="_blank">Songify This : DOUBLE RAINBOW SONG!!</a></p>
+<p><a href="http://www.youtube.com/watch?v=frbCqDSaS5I">Bed Intruder Chiptune Cover &ndash; Robinerd</a></p>
+<p style="padding-left: 30px;"><a href="http://www.youtube.com/watch?v=frbCqDSaS5I">Auto-Tune the News : iTunes Version &ndash; Bed Intruder Song</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 7 - Backup Your Data or You'll Catch Cyberchondria" data-link="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 7 - Backup Your Data or You'll Catch Cyberchondria" data-link="/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/07/deemable-tech-episode-7-backup-your-data-or-youll-catch-cyberchondria/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-07-23.mp3" length="54290088" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

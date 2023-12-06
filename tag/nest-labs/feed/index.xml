@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Nest Labs</title>
+	<atom:link href="/tag/nest-labs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Nest Thermostat Review</title>
+		<link>/2014/06/nest-thermostat-review/</link>
+		<comments>/2014/06/nest-thermostat-review/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 16:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[home automation]]></category>
+		<category><![CDATA[Nest Labs]]></category>
+		<category><![CDATA[Nest Thermostat]]></category>
+		<category><![CDATA[Works with Nest]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8977</guid>
+		<description><![CDATA[The Nest Thermostat is a learning, programmable thermostat. If you&#8217;re like most people your eyes just glazed over. I mean, those are two of the most boring words in the English language: thermostat and programmable. Thermostats are something that people <a href="/2014/06/nest-thermostat-review/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/nest-thermostat-review/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>The Nest Thermostat is a learning, programmable thermostat.</p>
+<p>If you&rsquo;re like most people your eyes just glazed over. I mean, those are two of the most boring words in the English language: thermostat and programmable. Thermostats are something that people use because they have to, not because they want to. They are boring gray boxes that go on the wall somewhere in your house. And, only nerds like to program stuff. I mean who enjoyed programming the time on their VCR?</p>
+<p><img class="alignleft wp-image-8980 size-full" src="//media/2014/06/HeroShotWoodBackground-e1404056315103.jpg" alt="Nest Thermostat Wood Background" width="296" height="296">What should be the most boring thing in my house is actually my favorite device in my house. Okay, let me be fair, maybe it&rsquo;s my third favorite device after my Macbook and my iPhone. Let&rsquo;s start with aesthetics. The thing is beautiful. It&rsquo;s round, and has a glass front, and brush steel ring around the outside. It blends in and compliments every wall it is on because it reflects the colors of the wall.&nbsp;It doesn&rsquo;t look like a gadget, It looks like a piece of modern art on my wall.</p>
+<p>The interface is incredibly intuitive. It&rsquo;s a thermostat, so to turn it up, or make it warmer, you turn it clockwise, to turn it down or make it colder, you turn it counterclockwise. Just like the old-fashioned thermostat that used to be in every school-house and home.&nbsp;When the AC is on, and the house is cooling, the screen is blue. When the heater is on and the house is warming, the screen is orange. So it gives you a visual indicator of what you&rsquo;re heating and cooling system is doing. And, I&rsquo;ll tell you, if that was all that it did, it would be a really nice thermostat. It would still be better than almost everything else on the market.</p>
+<p>But, that&rsquo;s not all that it does. One of the features that I love is that the Nest detects whether you are in the house, and if you&rsquo;ve been away for a certain time, it goes into &ldquo;auto?away &ldquo;mode. You don&rsquo;t have to worry about making sure that the air is turned down when you go on vacation anymore! Or when you go away just for the weekend.</p>
+<p>Another great feature is that the nest thermostat connects to the Internet via your Wi-Fi network, and you can control it from the web&nbsp;and&nbsp;from your iPhone or android device. That way when you&rsquo;re on your way home from your vacation, you can turn the AC back on, and it will be nice and comfortable when you walk in the door. The inherently lazy part of me also appreciates that I don&rsquo;t have to get out of bed in the middle of the night when my wife complains that it&rsquo;s too cold, Lord do I have to get off the couch in the middle of a movie marathon because it&rsquo;s too hot.&nbsp;Nest Labs recently announced <a href="https://nest.com/works-with-nest/">Works with Nest</a>, which essentially turns a Nest Thermostat into a hub for your home automation. Companies like <a href="http://www.whirlpool.com/jump-pages_works-with-nest.content.html">Whirlpool</a>, <a href="http://nest.drivestyleapp.com/">Mercedes-Benz</a>, and&nbsp;<a href="https://blog.jawbone.com/jawbone-up-works-with-nest/">Jawbone</a>&nbsp;have added integration with the Nest Thermostat into their products to make them more convenient and energy-efficient.</p>
+<p>At this point,&nbsp;you probably noticed that I haven&rsquo;t said anything about how to program it.&nbsp;Well, that is really one of the greatest things about it. You don&rsquo;t have to do anything. All you have to do is use it for a couple of weeks, and the Nest thermostat just figures out how long it takes your house to cool down or warm up, and it figures out how you like the temperature in your house to be and when, and sets your schedule based on how you use it. So, for instance, if you like it to be kind of cold when you go to bed but warmer when you wake up, and you always set it to 72&deg; around 10 o&rsquo;clock and 78&deg; when you wake up at 6:00, after a couple of weeks, the thermostat will automatically set itself to cool down to 72&deg; by 10 PM and warm back up to 78&deg; by 6 AM. And, if you always leave the house to go to work at about 8:15 AM and get home by 6:30 PM, your house will start going into auto away mode automatically at 8:15, and it will automatically turn back on in time to have the house cooled back down by 6:30.</p>
+<p>Americans&nbsp;waste a lot of energy running our our air conditioning units all the time. Most people forget or just don?t want to turn their AC up when they go to work. If you don&rsquo;t think that matters, just think about this, half of most home&rsquo;s electric bill is controlled by the thermostat. If you have a properly programmed thermostat, you can save 20% off of your energy costs.</p>
+<p><img class="alignright wp-image-8982 size-medium" src="//media/2014/06/backplate_with_wires_2x-300x280.jpg" alt="Nest Thermostat Back Plate" width="300" height="280">Finally, the Nest Thermostat is ridiculously easy to install.&nbsp;It took me a total of 20 minutes. Most of that time was me reading over the instructions 4 times because I was nervous that I would mess something up. The instructions are super easy to follow, and if you have a &ldquo;complicated&rdquo; old thermostat like I did, all you have to do is take a picture of your old thermostat, send it to Nest, and they will email you back a custom wiring diagram. All you have to do is remove the faceplate of your old thermostat, apply the included labels, and then plug them into the Nest Thermostat base plate. Everything you will need is included in the box, including a screwdriver.&nbsp;But if you really don&rsquo;t think you can do it, or you just don&rsquo;t want to do it, <a title="Nest Certified Installer Finder" href="https://certified.nest.com/certified_finder2#/">Nest has certified installers</a> that will be&nbsp;more than happy to take your money from you to install a Nest thermostat in your home.</p>
+<p>The Nest Thermostat&nbsp;is available for $249 at <a href="http://www.amazon.com/nest/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=deemtech-20&amp;linkId=N4XZLL2B3P2KNPCH" target="_blank">Amazon</a><img style="border: none !important; margin: 0px !important;" src="https://ir-na.amazon-adsystem.com/e/ir?t=deemtech-20&amp;l=ur2&amp;o=1" alt="" width="1" height="1" border="0">, <a href="http://store.apple.com/us/product/HA895LL/A/nest-learning-thermostat-2nd-generation?fnode=0001050701">Apple</a>, <a href="http://www.bestbuy.com/site/promo/nest-brand-experience-113582?DCMP=rdr118215">Best Buy</a>, <a href="https://play.google.com/store/devices/collection/promotion_5000122_nest_us">Google Play</a>, <a href="https://play.google.com/store/devices/collection/promotion_5000122_nest_us">The Home Depot</a>, <a href="http://www.lowes.com/pd_86217-22742-T200577_4294725683_4294937087_?identifier=The+Nest+Learning+Thermostat&amp;isFlattening=true&amp;productId=3878572&amp;Ns=p_product_qty_sales_dollar%7C1&amp;searchQueryType=1&amp;Ne=4294937087">Lowe&rsquo;s</a>, and of course, <a href="https://store.nest.com/">Nest.com</a>.</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Nest Thermostat Review" data-link="/2014/06/nest-thermostat-review/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Nest Thermostat Review" data-link="/2014/06/nest-thermostat-review/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/nest-thermostat-review/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

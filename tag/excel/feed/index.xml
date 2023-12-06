@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; excel</title>
+	<atom:link href="/tag/excel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Mary Beth asks &#8220;How do I change the size of text on an email?&#8221;</title>
+		<link>/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/</link>
+		<comments>/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/#comments</comments>
+		<pubDate>Thu, 29 Nov 2012 14:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Adobe Acrobat]]></category>
+		<category><![CDATA[excel]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[Microsoft Word]]></category>
+		<category><![CDATA[outlook]]></category>
+		<category><![CDATA[Powerpoint]]></category>
+		<category><![CDATA[Windows XP]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7182</guid>
+		<description><![CDATA[Mary Beth says the text on her email is too small. Is there an easy way to change the text size so it&#8217;s easier to read? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in <a href="/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Mary Beth says the text on her email is too small. Is there an easy way to change the text size so it&rsquo;s easier to read? The hosts of Deemable Tech, Ray Hollister and Tom Braun, help her out in this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p91009-embed" src="http://www.prx.org/p/91009/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister, </p>
+<p>TOM: I&rsquo;m Tom Braun, </p>
+<p>and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question: </p>
+<p>TOM: Mary Beth writes: Yesterday at work, when I came back from lunch, I opened my email and all of a sudden my emails were super tiny. I tried to find a menu or button to change the view, but I couldn&rsquo;t find anything. I&rsquo;m using Outlook 2003 on Windows XP. Help! The text is so small I can barely read it.</p>
+<p>RAY: Thanks for your question, Mary Beth. That has to be frustrating! My best guess is that you might have slipped on the wheel button on your mouse? Do you remember what you had for lunch that day? Maybe your fingers were greasy?</p>
+<p>TOM: All right Ray, quit picking on her eating habits, you don&rsquo;t even know this woman! Yeesh! </p>
+<p>RAY: OK, OK. Well, Mary Beth, here&rsquo;s why that might have happened. In Outlook 2003, the only way to change the font size in the body of an email you receive is to click on the body of the email, then hold down Ctrl on your keyboard, while you scroll the mouse wheel button up and down. Roll it up to make it larger, and roll it down to make it smaller. Play with it and just keeping rolling the button up and down until you find a size that is comfortable for you.</p>
+<p>TOM: The neat thing is, this trick also works in a lot of web browsers, like Internet Explorer, Chrome and Firefox. So, if something you&rsquo;re reading on the web is too small, or too big, just hold down the CTRL button and roll the mouse wheel button up and down until you find a size that is easier to read. You can do this on a lot of laptops also. Some laptops have specific areas of the touchpad that are designated for scrolling, and they&rsquo;ll usually be marked with arrows. Others will scroll if you use two fingers on the touchpad. Whichever way your laptop scrolls, just hold down the control button while you do it, and it will make the text size larger and smaller. </p>
+<p>RAY: And this trick works in a lot of other applications other than just Outlook and Internet Explorer. Adobe Acrobat, Microsoft Word, Excel and Powerpoint were just a few of the programs that we were able to find that this trick works in as well. </p>
+<p>Another thing is, if you try holding down the CTRL button and rolling the mouse wheel button up and down and it doesn&rsquo;t work, or you&rsquo;re not able to make it large enough to read comfortably, check your screen resolution. Right-click on your desktop when everything else is closed or minimized, and then click Properties and Settings. You&rsquo;ll see a slide bar under the heading Screen Resolution. Moving that slider and clicking &ldquo;Apply? will change the how big everything is on your screen. Generally, the &ldquo;native? setting, or the one that will look the best, is the one that is farthest to the right, but move it around until you find a setting that you like and is comfortable for your eyes. </p>
+<p>TOM: So, that&rsquo;s two things you can try, Mary Beth. One of them will definitely fix the problem. Try zooming the text size by holding down the CTRL button and rolling the mouse button up and down, and then if that doesn&rsquo;t work, right-click your desktop and then click Properties and Settings, and change your Screen Resolution. </p>
+<p>RAY: To hear more answers to questions like Mary Beth&rsquo;s listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast. </p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at 1-888-972-9868, or you can send us an email at questions@deemable.com.</p>
+<p>RAY: For Deemable Tech I&rsquo;m Ray Hollister,</p>
+<p>TOM: and I&rsquo;m Tom Braun.</p>
+<p><img title="Can you read me now?" alt="" src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/211466/Slide14_medium.png"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Mary Beth asks "How do I change the size of text on an email?"' data-link="/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Mary Beth asks "How do I change the size of text on an email?"' data-link="/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/mary-beth-asks-how-do-i-change-the-size-of-text-on-an-email/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

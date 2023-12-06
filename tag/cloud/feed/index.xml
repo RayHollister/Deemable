@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Cloud</title>
+	<atom:link href="/tag/cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Corey asks, &#8220;How can I listen to my music on the go?&#8221;</title>
+		<link>/2014/02/corey-asks-can-listen-music-go/</link>
+		<comments>/2014/02/corey-asks-can-listen-music-go/#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 11:40:54 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Amazon Cloud Drive]]></category>
+		<category><![CDATA[Amazon Cloud Player]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Music]]></category>
+		<category><![CDATA[Google Music]]></category>
+		<category><![CDATA[Google Play Music]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[MP3s]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8589</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/02/music_notes_cloud-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Daniel Paxton / Flickr" style="float:left; margin:0 15px 15px 0;" />Q: I have a music collection of thousands of songs on my computer. It&#8217;s too big to all fit on my old iPod. What&#8217;s the best way for me to take my music with me when I&#8217;m in the car <a href="/2014/02/corey-asks-can-listen-music-go/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/02/corey-asks-can-listen-music-go/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/02/music_notes_cloud-150x150.png" class="attachment-thumbnail wp-post-image" alt="Image credit: Daniel Paxton / Flickr" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p112233-embed" src="http://www.prx.org/p/112233/embed.js?size=small"></script></p>
+<p><strong>Q:</strong> I have a music collection of thousands of songs on my computer. It&rsquo;s too big to all fit on my old iPod. What&rsquo;s the best way for me to take my music with me when I&rsquo;m in the car or out for a jog?<span id="more-8589"></span></p>
+<p><strong>A:</strong> Well, Corey, we&rsquo;re going to go out on a limb and suggest that what you <em>don&rsquo;t</em> need is yet another device to transfer thousands of MP3s to. The fact is, the days of having your music collection attached to a single, physical device are over. This brings us to one of our favorite topics: the cloud.</p>
+<div id="attachment_8591" style="width: 360px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/02/music_notes_cloud.png" class="gallery_colorbox"><img class=" wp-image-8591   " src="//media/2014/02/music_notes_cloud.png"  alt="Image credit: Daniel Paxton / Flickr" width="350" height="257"></a><p class="wp-caption-text">Image credit: Daniel Paxton / Flickr</p></div>
+<p>Remember, &ldquo;the cloud&rdquo; is just a fancy way of saying that you are going to store your MP3s in some location out on the Internet, instead of on your computer or mobile device. This can make accessing your music collection from anywhere really simple. There are several companies that offer free ways to do this, including Amazon, Apple and Google.</p>
+<p>We&rsquo;re big fans of Google&rsquo;s Google Music service because it&rsquo;s very easy to use. All you have to do is download a program called Google Music Manager onto the computer you have your music collection stored on. Then the program will start going through your entire collection, song by song, and uploading them to Google&rsquo;s cloud. Depending on how many MP3s you have this can take anywhere from a couple of hours to a few days. Once you start it the process is automatic, so you don&rsquo;t have to sit and wait for it.</p>
+<p>Once a song is uploaded you can just point your web browser to play.google.com/music where you can play your music, create new playlists, search for songs and more. On your smartphone, the Google Music app will let you access the same thing. The music is streamed to your phone or computer, so it doesn&rsquo;t take up any space on them.</p>
+<p>Apple&rsquo;s version of the cloud, called iCloud, works almost the same way. It automatically stores all of the music you have bought through iTunes, as well as all of the TV shows and movies that you bought from them. However, it doesn&rsquo;t store any of the music that you bought outside of iTunes unless you buy their iTunes Match service for $24.99 a year.</p>
+<p>We would be remiss if we didn&rsquo;t mention the king of the cloud, Amazon.com. Their Amazon Cloud Player service works a lot like the other two, but it also automatically adds any MP3s or CDs you&rsquo;ve purchased on Amazon to your cloud collection. The premium version of their service starts at $10 a year for 20 GB of storage.</p>
+<p>So, if you have an Android phone, or if you really like the low price of free, check out Google Play Music. If you&rsquo;ve got an iPhone, an iPad and a Macbook, iCloud is practically made for you. And if you buy a lot of music through Amazon, you should check out their premium Amazon Cloud Player service.</p>
+<p><strong>Caution:</strong> Be aware that streaming music does use data, so if you have a tight cap on your monthly data plan these cloud services might not be the right place for your music. But if you&rsquo;ve got a decent data cap you probably don&rsquo;t need to worry. Getting access to all of your music wherever you are is so convenient, you&rsquo;ll never go back.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Corey asks, "How can I listen to my music on the go?"' data-link="/2014/02/corey-asks-can-listen-music-go/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Corey asks, "How can I listen to my music on the go?"' data-link="/2014/02/corey-asks-can-listen-music-go/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/02/corey-asks-can-listen-music-go/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Gearing Up for Cloud Music Service</title>
+		<link>/2011/05/apple-gearing-up-for-cloud-music-service/</link>
+		<comments>/2011/05/apple-gearing-up-for-cloud-music-service/#comments</comments>
+		<pubDate>Sun, 22 May 2011 21:03:44 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Amazon Cloud Drive]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Music]]></category>
+		<category><![CDATA[Google Music Beta]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[Service]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3268</guid>
+		<description><![CDATA[After signing contracts with three of the four major music labels (Sony Music Entertainment, EMI, and the Warner Music Group) to license their recordings, Apple has just entered the final stages of preparation for its cloud-based music service to be <a href="/2011/05/apple-gearing-up-for-cloud-music-service/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/apple-gearing-up-for-cloud-music-service/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://i2.cdn.turner.com/cnn/2011/TECH/gaming.gadgets/05/19/apple.religion/t1larg.apple.store.gi.jpg" alt="" width="496" height="279"></p>
+<p>After signing contracts with three of the four major music labels (Sony Music  Entertainment, EMI, and the Warner Music Group) to license their  recordings, Apple has just entered the final stages of preparation for its <a title="Cloud computing" href="../tech/2011/04/the-hype-behind-cloud-computing/" target="_blank">cloud-based</a> music service to be launched. Apple is still in negotiations with the largest of the four labels, Universal Music Group, but that deal is expected to be completed by sometime next week.</p>
+<p>Like Amazon&rsquo;s <a title="Cloud Drive" href="https://www.amazon.com/clouddrive" target="_blank">Cloud Drive</a> and Google&rsquo;s <a title="Music Beta" href="http://music.google.com/about/" target="_blank">Music Beta</a>, Apple&rsquo;s cloud-based music service would allow users to store their digital music library on the Web and stream it directly to their smartphones, computers, tablets, and other electronic devices. However, unlike Amazon<em></em> and Google&rsquo;s cloud-based music services, which were introduced within the past two months, Apple has taken the added precaution of obtaining licenses from the major music labels as well as beginning to obtain licenses from music publishers, who ultimately control the copyrights   for the composition of songs. While Amazon&rsquo;s <em>Cloud Drive</em> and Google&rsquo;s <em>Music Beta</em> services are free, Apple will likely charge a small fee to be able to  use their streaming music service to offset the cost of the contracts  with music labels and publishers. The permission to use copyrighted material will allow  Apple&rsquo;s cloud music service to have more advanced features than either  Amazon or Google&rsquo;s services though, which are essentially Web-based hard drives  that users would have to directly upload music to. The label licenses would also allow Apple to design a more efficient system in which it is predicted that the service would be able to scan a user&rsquo;s iTunes library and sync these songs to the company&rsquo;s master collection located on Apple&rsquo;s servers, without the hassle of having to upload each song to the cloud &ndash; which could take days.</p>
+<p>With a ready market of over 200 million iTunes users, analysts say that Apple might announce the new music service as early as next   month, when the company holds its annual Worldwide Developers Conference in San Francisco. &ldquo;The Apple <a title="WWDC" href="http://developer.apple.com/wwdc/about/" target="_blank">Worldwide Developers Conference (WWDC)</a> showcases the latest  innovations and the newest technologies in iOS  and Mac OS X. Over 1,000  Apple engineers guide you through five  exciting days of in-depth  technical sessions and hands-on labs that  demonstrate how to harness the  incredible power of the world&rsquo;s most  advanced operating systems into  your apps.&rdquo;</p>
+<p>Apple fanboys may have to wait a while until the service is ready for a release date though, as the company always makes sure to work out all the kinks and to release a product only when it has been thoroughly tested&hellip; but you should already know that by now, since Apple has seemingly become <a title="Apple Religion" href="http://www.cnn.com/2011/TECH/gaming.gadgets/05/19/apple.religion/index.html" target="_blank">its own religion</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://i2.cdn.turner.com/cnn/2011/TECH/gaming.gadgets/05/19/apple.religion/t1larg.apple.store.gi.jpg" target="_blank">Photo</a> by <a title="Mark Milian" href="Mark%20Milian" target="_blank">Mark Milian</a> via <a title="CNN" href="http://www.cnn.com/" target="_blank">CNN</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Apple Gearing Up for Cloud Music Service" data-link="/2011/05/apple-gearing-up-for-cloud-music-service/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Apple Gearing Up for Cloud Music Service" data-link="/2011/05/apple-gearing-up-for-cloud-music-service/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/apple-gearing-up-for-cloud-music-service/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>The End of Google I/O 2011</title>
+		<link>/2011/05/the-end-of-google-io-2011/</link>
+		<comments>/2011/05/the-end-of-google-io-2011/#comments</comments>
+		<pubDate>Thu, 12 May 2011 19:44:05 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[IO]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[netbook]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3100</guid>
+		<description><![CDATA[&#8220;Innovation in the Open&#8221; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&#8217;s &#8220;Google I/O&#8221;, a two-day developer-focused conference that&#8217;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions <a href="/2011/05/the-end-of-google-io-2011/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/the-end-of-google-io-2011/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://www.google.com/events/io/2011/static/img/logo-live.png" alt="" width="250" height="72"></p>
+<p>&ldquo;Innovation in the Open&rdquo; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&rsquo;s &ldquo;Google I/O&rdquo;, a two-day developer-focused conference that&rsquo;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions on ongoing developments in the world of Google&rsquo;s open technologies and applications. Take a look at some of the key highlights of this year&rsquo;s event; there are several exciting new Google products, applications, and services that will be  available soon that could change the industry, as well as important updates that are coming to the Android  mobile platform.</p>
+<p>&nbsp;</p>
+<p><strong>Chromebooks: &ldquo;Ready When You Are&rdquo;<br></strong></p>
+<p>June 15th, mark that date on your calendar because Google Chromebooks are on the way, with the first two offerings made by Samsung and Acer. The sleek, lightweight netbooks will run Google&rsquo;s Chrome OS for computers which will exclusively use Google&rsquo;s cloud computing services. Although the Chromebook may have come a little too late for consumer use with the rise of tablets and other netbooks, Google is <a title="Google vs Microsoft" href="http://www.businessinsider.com/google-is-going-after-microsofts-heart-with-chromebooks-2011-5" target="_blank">&ldquo;going right after Microsoft&rsquo;s heart</a> &mdash; the corporate IT department.&rdquo; The initial plan is for Google to target businesses and schools with the Web-based operating system by offering a cheaper and easier alternative to manage than current Windows PCs. Monthly subscriptions will be available from as low as $28/user for businesses and $20/user for schools.</p>
+<p>More about the <a title="Blog" href="http://googleblog.blogspot.com/2011/05/new-kind-of-computer-chromebook.html" target="_blank">Chromebook from Google&rsquo;s Official Blog</a>:</p>
+<p>&ldquo;These are not typical notebooks. With a Chromebook you won&rsquo;t wait  minutes for your computer to boot and browser to start. You&rsquo;ll be  reading your email in seconds. Thanks to automatic updates the software  on your Chromebook will get faster over time. Your apps, games, photos,  music, movies and documents will be accessible wherever you are and you  won&rsquo;t need to worry about losing your computer or forgetting to back up  files. Chromebooks will last a day of use on a single charge, so you  don&rsquo;t need to carry a power cord everywhere. And with optional 3G, just  like your phone, you&rsquo;ll have the web when you need it. Chromebooks have <a href="http://www.chromium.org/chromium-os/chromiumos-design-docs/security-overview">many layers of security built in</a> so there is no anti-virus software to buy and maintain. Even more  importantly, you won&rsquo;t spend hours fighting your computer to set it up  and keep it up to date.&rdquo;</p>
+<p>&nbsp;</p>
+<p><strong>The Future of Android</strong></p>
+<p>*<em>Ice Cream Sandwich</em><strong>*<br></strong></p>
+<p>At the I/O conference, Google announced the next version of Android, called <em>Ice Cream Sandwich</em>. The name shouldn&rsquo;t come as a surprise to Android users, as Google has put out each new version in the name of a tasty treat &ndash; from the likes of <em>Cupcake</em> and <em>&Eacute;clair</em>, to the most current Android versions <em>Gingerbread </em>and <em>Honeycomb</em>.</p>
+<p>With <em>Ice Cream Sandwich</em>, however, Google is beginning their transition into standardizing the Android platform across all types of mobile devices (including tablets) in response to the complaints from developers and Android fanboys about the heavy fragmentation that has been a black eye for the Android OS. A post on Google&rsquo;s <a title="Android blog" href="http://googleblog.blogspot.com/2011/05/android-momentum-mobile-and-more-at.html" target="_blank">Official Blog</a> states, &ldquo;Our goal with Ice Cream Sandwich is to deliver one operating system that  works everywhere, regardless of device. Ice Cream Sandwich will bring  everything you love about Honeycomb on your tablet to your phone, including the holographic user interface, more multitasking, the new launcher and richer widgets.&rdquo; Now developers will be able to create applications for one firmware instead of having to accommodate to separate versions of Android which depended on the device, manufacturer, and telecommunications provider to release compatible updates.</p>
+<p><em>*Important Changes to the Android Market*</em></p>
+<p>Another black eye for Android has been the ease of navigability (or lack thereof) in discovering apps, but Google listened to the complaints and added several updates to the Android Market. Specifically, there are several new lists including a top &ldquo;Trending&rdquo; list, &ldquo;Also Viewed&rdquo; list, and &ldquo;Also Installed&rdquo; list that will make it easier for both customers and app developers alike.</p>
+<p>Google also just launched a new app in the Android Market called Movies for Android, which allows users to rent and play movies on phones and tablets for $1.99 per movie.</p>
+<p>&nbsp;</p>
+<p><strong>The Launch of Google Music</strong></p>
+<p>Google Music is a new service that will allow you to upload up to 20,000 songs to Google&rsquo;s cloud for streaming directly to your Android devices and computer. Everything will be kept in sync automatically between all devices that are connected through the service<em>,</em> even offering the ability to access your most recently played music when you&rsquo;re offline. You can request an invitation to try out Google Music Beta <a title="Beta" href="http://music.google.com/music/userwaitinginvite#utm_source=en-music-lp&amp;utm_medium=music-lp&amp;utm_campaign=en&amp;utm_content=cta_flag_a" target="_blank">here</a>, and some of the new music service&rsquo;s features can be seen in the video below:<em><br></em></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="349" src="https://www.youtube.com/embed/ZrNhKcxBbZo?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>While I only touched on a handful of the keynotes that were addressed at Google I/O 2011, there are some developments on the way (like the <a title="@Home" href="http://arstechnica.com/gadgets/news/2011/05/googles-platform-extends-its-reach-with-androidhome.ars" target="_blank">Android@Home project</a>) that will change the game forever, but whatever the future holds for Google, it seems like they know <a title="Google IO Party" href="http://www.businessinsider.com/nerd-las-vegas-scenes-from-last-nights-google-io-party-2011-5#" target="_blank">how to have a good time</a>.</p>
+<p><img class="aligncenter" src="http://static.businessinsider.com/image/4dca248d49e2aeb022140000-590/but-this-is-how-most-people-watched-the-concert.jpg" alt="" width="443" height="331"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Featured Image" href="http://www.google.com/events/io/2011/static/img/logo-live.png" target="_blank">Photo</a> by <a title="Google IO" href="http://www.google.com/events/io/2011/index-live.html" target="_blank">Google.com</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/the-end-of-google-io-2011/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Hype Behind Cloud Computing</title>
+		<link>/2011/04/the-hype-behind-cloud-computing/</link>
+		<comments>/2011/04/the-hype-behind-cloud-computing/#comments</comments>
+		<pubDate>Thu, 28 Apr 2011 15:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Servers]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2858</guid>
+		<description><![CDATA[Cloud computing is all the rage these days, but what exactly is this mysterious &#8220;cloud&#8221; that businesses are trying to embrace? In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead <a href="/2011/04/the-hype-behind-cloud-computing/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/the-hype-behind-cloud-computing/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" alt="" width="454" height="229"></p>
+<p>Cloud computing is all the rage these days, but what exactly is this mysterious &ldquo;cloud&rdquo; that businesses are trying to embrace?</p>
+<p>In the most basic sense, cloud computing refers to users accessing applications through shared servers over the internet instead of the use of single dedicated servers. An even simpler way to view cloud computing is to see it as a way of outsourcing a business&rsquo;s hardware and software needs. These needs are met by outside providers who already host large data centers that have been configured to provide the utmost efficiency, providers such as Microsoft, Google, and Amazon (whose cloud system coincidentally <a title="collapsed" href="http://www.cnn.com/2011/TECH/web/04/22/amazon.cloud.mashable/index.html?iref=allsearch" target="_blank">collapsed</a> last week). Still confused? If you&rsquo;ve ever used Google Docs, GMail, or Google Maps then you&rsquo;ve used cloud computing without even realizing it!</p>
+<p>Instead of local computers handling all the work of running numerous applications, the network of computers that make up the &ldquo;cloud&rdquo; controls them instead (thereby reducing the demands for software and hardware for the individual user). By installing a cloud-based network, workers are able to access all the programs and tools they would need online, typically by Web browsers, instead of having to remotely install them on an individual&rsquo;s desktop computer &ndash; ultimately lowering the costs associated with IT and hardware needs.</p>
+<p>Before cloud computing, businesses had to estimate the number of software licenses that would be needed in the future, often wasting valuable resources should they overestimate the number of licenses to buy. However, cloud computing offers much more flexibility than traditional client-server forms of computing because they allow companies to pay for only the services that they actually used.</p>
+<p>While there are several issues associated with cloud networks &ndash; including concerns over security, privacy, and reliability &ndash; cloud computing has revolutionized the business world. A survey conducted by Elon University researchers discovered that a large majority of the respondents believe that Internet users will <a title="Elon Research" href="http://www.elon.edu/e-web/predictions/expertsurveys/2010survey/future_cloud_computing.xhtml" target="_blank">?live mostly in the cloud?</a> by the year 2020, and this fluffy endeavor will continue to change the way that individuals use software and hardware in the near future.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://th09.deviantart.net/fs9/PRE/i/2006/151/c/5/Clouds_by_jotamyg.jpg" target="_blank">Photo</a> by <a title="jotamyg" href="http://jotamyg.deviantart.com/" target="_blank">jotamyg</a> via <a title="deviantART" href="http://www.deviantart.com/" target="_blank">deviantART</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The Hype Behind Cloud Computing" data-link="/2011/04/the-hype-behind-cloud-computing/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/the-hype-behind-cloud-computing/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

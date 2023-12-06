@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; 2011</title>
+	<atom:link href="/tag/2011/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>The End of Google I/O 2011</title>
+		<link>/2011/05/the-end-of-google-io-2011/</link>
+		<comments>/2011/05/the-end-of-google-io-2011/#comments</comments>
+		<pubDate>Thu, 12 May 2011 19:44:05 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[IO]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[netbook]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3100</guid>
+		<description><![CDATA[&#8220;Innovation in the Open&#8221; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&#8217;s &#8220;Google I/O&#8221;, a two-day developer-focused conference that&#8217;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions <a href="/2011/05/the-end-of-google-io-2011/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/the-end-of-google-io-2011/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://www.google.com/events/io/2011/static/img/logo-live.png" alt="" width="250" height="72"></p>
+<p>&ldquo;Innovation in the Open&rdquo; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&rsquo;s &ldquo;Google I/O&rdquo;, a two-day developer-focused conference that&rsquo;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions on ongoing developments in the world of Google&rsquo;s open technologies and applications. Take a look at some of the key highlights of this year&rsquo;s event; there are several exciting new Google products, applications, and services that will be  available soon that could change the industry, as well as important updates that are coming to the Android  mobile platform.</p>
+<p>&nbsp;</p>
+<p><strong>Chromebooks: &ldquo;Ready When You Are&rdquo;<br></strong></p>
+<p>June 15th, mark that date on your calendar because Google Chromebooks are on the way, with the first two offerings made by Samsung and Acer. The sleek, lightweight netbooks will run Google&rsquo;s Chrome OS for computers which will exclusively use Google&rsquo;s cloud computing services. Although the Chromebook may have come a little too late for consumer use with the rise of tablets and other netbooks, Google is <a title="Google vs Microsoft" href="http://www.businessinsider.com/google-is-going-after-microsofts-heart-with-chromebooks-2011-5" target="_blank">&ldquo;going right after Microsoft&rsquo;s heart</a> &mdash; the corporate IT department.&rdquo; The initial plan is for Google to target businesses and schools with the Web-based operating system by offering a cheaper and easier alternative to manage than current Windows PCs. Monthly subscriptions will be available from as low as $28/user for businesses and $20/user for schools.</p>
+<p>More about the <a title="Blog" href="http://googleblog.blogspot.com/2011/05/new-kind-of-computer-chromebook.html" target="_blank">Chromebook from Google&rsquo;s Official Blog</a>:</p>
+<p>&ldquo;These are not typical notebooks. With a Chromebook you won&rsquo;t wait  minutes for your computer to boot and browser to start. You&rsquo;ll be  reading your email in seconds. Thanks to automatic updates the software  on your Chromebook will get faster over time. Your apps, games, photos,  music, movies and documents will be accessible wherever you are and you  won&rsquo;t need to worry about losing your computer or forgetting to back up  files. Chromebooks will last a day of use on a single charge, so you  don&rsquo;t need to carry a power cord everywhere. And with optional 3G, just  like your phone, you&rsquo;ll have the web when you need it. Chromebooks have <a href="http://www.chromium.org/chromium-os/chromiumos-design-docs/security-overview">many layers of security built in</a> so there is no anti-virus software to buy and maintain. Even more  importantly, you won&rsquo;t spend hours fighting your computer to set it up  and keep it up to date.&rdquo;</p>
+<p>&nbsp;</p>
+<p><strong>The Future of Android</strong></p>
+<p>*<em>Ice Cream Sandwich</em><strong>*<br></strong></p>
+<p>At the I/O conference, Google announced the next version of Android, called <em>Ice Cream Sandwich</em>. The name shouldn&rsquo;t come as a surprise to Android users, as Google has put out each new version in the name of a tasty treat &ndash; from the likes of <em>Cupcake</em> and <em>&Eacute;clair</em>, to the most current Android versions <em>Gingerbread </em>and <em>Honeycomb</em>.</p>
+<p>With <em>Ice Cream Sandwich</em>, however, Google is beginning their transition into standardizing the Android platform across all types of mobile devices (including tablets) in response to the complaints from developers and Android fanboys about the heavy fragmentation that has been a black eye for the Android OS. A post on Google&rsquo;s <a title="Android blog" href="http://googleblog.blogspot.com/2011/05/android-momentum-mobile-and-more-at.html" target="_blank">Official Blog</a> states, &ldquo;Our goal with Ice Cream Sandwich is to deliver one operating system that  works everywhere, regardless of device. Ice Cream Sandwich will bring  everything you love about Honeycomb on your tablet to your phone, including the holographic user interface, more multitasking, the new launcher and richer widgets.&rdquo; Now developers will be able to create applications for one firmware instead of having to accommodate to separate versions of Android which depended on the device, manufacturer, and telecommunications provider to release compatible updates.</p>
+<p><em>*Important Changes to the Android Market*</em></p>
+<p>Another black eye for Android has been the ease of navigability (or lack thereof) in discovering apps, but Google listened to the complaints and added several updates to the Android Market. Specifically, there are several new lists including a top &ldquo;Trending&rdquo; list, &ldquo;Also Viewed&rdquo; list, and &ldquo;Also Installed&rdquo; list that will make it easier for both customers and app developers alike.</p>
+<p>Google also just launched a new app in the Android Market called Movies for Android, which allows users to rent and play movies on phones and tablets for $1.99 per movie.</p>
+<p>&nbsp;</p>
+<p><strong>The Launch of Google Music</strong></p>
+<p>Google Music is a new service that will allow you to upload up to 20,000 songs to Google&rsquo;s cloud for streaming directly to your Android devices and computer. Everything will be kept in sync automatically between all devices that are connected through the service<em>,</em> even offering the ability to access your most recently played music when you&rsquo;re offline. You can request an invitation to try out Google Music Beta <a title="Beta" href="http://music.google.com/music/userwaitinginvite#utm_source=en-music-lp&amp;utm_medium=music-lp&amp;utm_campaign=en&amp;utm_content=cta_flag_a" target="_blank">here</a>, and some of the new music service&rsquo;s features can be seen in the video below:<em><br></em></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="349" src="https://www.youtube.com/embed/ZrNhKcxBbZo?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>While I only touched on a handful of the keynotes that were addressed at Google I/O 2011, there are some developments on the way (like the <a title="@Home" href="http://arstechnica.com/gadgets/news/2011/05/googles-platform-extends-its-reach-with-androidhome.ars" target="_blank">Android@Home project</a>) that will change the game forever, but whatever the future holds for Google, it seems like they know <a title="Google IO Party" href="http://www.businessinsider.com/nerd-las-vegas-scenes-from-last-nights-google-io-party-2011-5#" target="_blank">how to have a good time</a>.</p>
+<p><img class="aligncenter" src="http://static.businessinsider.com/image/4dca248d49e2aeb022140000-590/but-this-is-how-most-people-watched-the-concert.jpg" alt="" width="443" height="331"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Featured Image" href="http://www.google.com/events/io/2011/static/img/logo-live.png" target="_blank">Photo</a> by <a title="Google IO" href="http://www.google.com/events/io/2011/index-live.html" target="_blank">Google.com</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/the-end-of-google-io-2011/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Homeland Security</title>
+	<atom:link href="/tag/homeland-security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Disable Java Now! [HOW TO]</title>
+		<link>/2013/03/disable-java-now/</link>
+		<comments>/2013/03/disable-java-now/#comments</comments>
+		<pubDate>Thu, 21 Mar 2013 01:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Disable Java]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Homeland Security]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[Safari]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6985</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" />If you heard today&#8217;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, now! If you didn&#8217;t hear today&#8217;s Deemable Tech segment, you should listen to it, and well, you read <a href="/2013/03/disable-java-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/03/disable-java-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/03/JustSayNoToJava-150x150.png" class="attachment-thumbnail wp-post-image" alt="You need to disable Java now." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p94226-embed" src="http://www.prx.org/p/94226/embed.js?size=small"></script></p>
+<p><a href="http://deemable.com/media/2013/03/JustSayNoToJava.png" class="gallery_colorbox"><img class="size-medium wp-image-6989 alignright" title="You need to disable Java now." alt="" src="//media/2013/03/JustSayNoToJava-300x300.png"  width="200" height="200"></a></p>
+<p>If you heard today&rsquo;s Deemable Tech segment during Morning Edition, you know that you need to disable Java on your web browser, <em>now! </em>If you didn&rsquo;t hear today&rsquo;s Deemable Tech segment, you should listen to it, and well, you read the last sentence, so now you know too. It&rsquo;s not just our opinion, either. The&nbsp;Department of <a href="http://www.us-cert.gov/ncas/alerts/TA13-010A">Homeland Security put out an urgent advisory</a> in January for everyone to disable Java <em>now,</em>&nbsp;unless it is absolutely necessary for you to use it. What you need to know now is how to disable Java, <em>now</em>.</p>
+<p><span id="more-6985"></span></p>
+<p>Keep in mind, if you regularly&nbsp;visit a website that uses Java, that website will not work once you disable Java. To reenable Java, simply follow the directions again, and enable Java instead of disabling it. Also, you should probably call and complain to the company that owns the website, and&nbsp;ask them to stop using Java.</p>
+<p>Sadly, most people are still using Internet Explorer, so we&rsquo;ll start with that.</p>
+<h4>Internet Explorer 8 through 10</h4>
+<p>(If you are using anything older than Internet Explorer 8, you need to upgrade! Try one of the browsers listed below, except for Safari.)</p>
+<p>Click on the <strong>Tools</strong> menu at the top, and choose <strong>Manage Add-ons</strong>. On the left of the window that pops up, select <strong>All Add-ons</strong> from the drop down under the heading <strong>Show</strong>. Then, scroll down and disable anything that says ?<strong>Oracle America, Inc.</strong>? next to it. Finally, restart your browser.</p>
+<h4>Chrome</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;chrome://plugins&rdquo; (do not type the quotation marks). Then, press <strong>Enter</strong>. In the new tab that opens, look for the the item(s) with <strong>Java</strong>&nbsp;in the name. Click the blue <strong>Disable</strong> link below it. Finally, restart your browser.</p>
+<h4>Firefox</h4>
+<p>If you don&rsquo;t see the menu bar, (File, Edit, View, etc.) at the top of the page, first click the orange Firefox button at the top-left. Then go to <strong>Options</strong> and click&nbsp;<strong>Menu Bar</strong>.</p>
+<p>Open the <strong>Tools</strong> menu, and click <strong>Add-ons</strong>. &nbsp;On the tab that appears, click <strong>Plug-ins </strong>on the left. Scroll down the list on the right-hand side until you see something that begins&nbsp;<strong>Java (TM) Platform&hellip;</strong>&nbsp;Click the&nbsp;<strong>Disable</strong>&nbsp;button to the right of the listing. Finally, restart your browser.</p>
+<h4>Opera</h4>
+<p>Click the white address bar at the top of the screen. In that field, type &ldquo;opera:plugins&rdquo; (do not type the quotation marks). Then, press&nbsp;<strong>Enter</strong>. In the new tab that opens, look for the the item(s) with&nbsp;<strong>Java </strong>in the name. Click the blue&nbsp;<strong>Disable</strong>&nbsp;link to the right. Finally, restart your browser.</p>
+<h4>Safari</h4>
+<p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
+<p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
+<p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="http://deemable.com/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

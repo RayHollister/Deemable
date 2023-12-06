@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; spam</title>
+	<atom:link href="/tag/spam/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: How Do I Block Spam Text Messages?</title>
+		<link>/2016/05/ask-deemable-t-text-messages/</link>
+		<comments>/2016/05/ask-deemable-t-text-messages/#comments</comments>
+		<pubDate>Thu, 05 May 2016 22:12:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[Text Message]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10556</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" />Norma writes, &#8220;How do you stop receiving an automated text message? When I got my new phone I started receiving messages from a store telling me about their specials. I&#8217;ve tried visiting the website and &#8216;unsubscribing&#8217; but that didn&#8217;t work.&#8221; <a href="/2016/05/ask-deemable-t-text-messages/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/ask-deemable-t-text-messages/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/blocked_call-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image Credit: Tap Call" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9070" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/07/blocked_call.jpg" class="gallery_colorbox"><img class="size-medium wp-image-9070" src="//media/2014/07/blocked_call-300x225.jpg"  alt="Image Credit: Tap Call" width="300" height="225"></a><p class="wp-caption-text">Image Credit: Tap Call</p></div>
+<p><strong>Norma writes, &ldquo;How do you stop receiving an automated text message? When I got my new phone I started receiving messages from a store telling me about their specials. I&rsquo;ve tried visiting the website and &lsquo;unsubscribing&rsquo; but that didn&rsquo;t work.&rdquo;</strong></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10556-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3</a></audio><p>We feel you, Norma. Like junk mail and spam email, unsolicited text messages are the bane of our existence. Luckily there are ways to stop them.</p>
+<p>If you&rsquo;re receiving texts from a reputable company, there should be a way to unsubscribe from them through a text. Scroll back through the text messages from that number, and you&rsquo;ll probably find a message telling you to text the word &ldquo;STOP,&rdquo; &ldquo;QUIT,&rdquo; &ldquo;END,&rdquo; or &ldquo;UNSUBSCRIBE&rdquo; to stop receiving texts from them. Different companies use different keywords, but most of the time if you text the word &ldquo;HELP&rdquo; to them, they will tell you what other keywords work on their system.</p>
+<p>If you&rsquo;re receiving genuine spam texts from a less than reputable source, the best thing you can do is to not respond. This just lets the scammers know that your number is a good one to keep spamming. Your only choice is to block the number sending you those texts.</p>
+<p><strong>How to block numbers on iOS</strong></p>
+<ul><li>Open the offending text message</li>
+<li>Tap Details</li>
+<li>Tap the &ldquo;i&rdquo; button in the top right</li>
+<li>Tap &ldquo;Block this Caller&rdquo;</li>
+</ul><p><strong>How to block numbers on Android</strong></p>
+<ul><li>Find the text message you want to block in the Message app</li>
+<li>Press and hold it until a pop up appears</li>
+<li>Tap the &ldquo;Block it as spam&rdquo; option</li>
+</ul><p>If you&rsquo;re using a regular cell phone, you&rsquo;ll have to block the texts through your carrier.</p>
+<p><strong>AT&amp;T</strong></p>
+<ul><li>To report spam text messages on AT&amp;T, forward the offending text message to 7726 (SPAM)</li>
+<li>You can also call their customer service at 1-800-331-0500 to report spam</li>
+</ul><p><strong>Sprint</strong></p>
+<ul><li>Follow <a href="http://support.sprint.com/support/article/Block-restrict-or-allow-text-services-via-My-Sprint/case-fk158645-20100930-171711%22">these directions on Sprint&rsquo;s site</a> to block numbers</li>
+<li>Or call customer service at 1-888-211-4727</li>
+</ul><p><strong>Verizon</strong></p>
+<ul><li>Call 1-800-922-0204 to report the spam to customer service</li>
+</ul><p><strong>T-Mobile</strong></p>
+<ul><li>Call customer service at 1-877-453-1304</li>
+<li>Or use their <a href="https://support.t-mobile.com/community/contact-us">live chat</a> to block the number</li>
+</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How Do I Block Spam Text Messages?" data-link="/2016/05/ask-deemable-t-text-messages/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How Do I Block Spam Text Messages?" data-link="/2016/05/ask-deemable-t-text-messages/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/ask-deemable-t-text-messages/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160505.mp3" length="3623689" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#65 Shootin&#8217; from the Hip</title>
+		<link>/2014/08/65-shootin-hip/</link>
+		<comments>/2014/08/65-shootin-hip/#comments</comments>
+		<pubDate>Fri, 29 Aug 2014 01:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spam]]></category>
+		<category><![CDATA[Windows 7]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9144</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_crew-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_crew" style="float:left; margin:0 15px 15px 0;" />On this edition of the Deemable Tech podcast, Ray and Tom have off-the-cuff answers for&#160;your questions about Windows 7 service packs, spam and our very own Deemable Tech app. The guys also share their thoughts on the ALS Ice Bucket <a href="/2014/08/65-shootin-hip/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/08/65-shootin-hip/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/08/dt_crew-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_crew" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9152" style="width: 498px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2014/08/dt_crew.jpg" class="gallery_colorbox"><img class="wp-image-9152" src="//media/2014/08/dt_crew-1024x642.jpg"  alt="dt_crew" width="488" height="306"></a><p class="wp-caption-text">Image credit: Stephen Jones / WJCT</p></div>
+<p>On this edition of the Deemable Tech podcast, Ray and Tom have off-the-cuff answers for&nbsp;your questions about Windows 7 service packs, spam and our very own Deemable Tech app. The guys also share their thoughts on the ALS Ice Bucket Challenge currently making waves on social media, and discuss other recent tech news. Plus, Sean stops by with a preview of a new occasional series of reviews.<span id="more-9144"></span></p>
+<audio class="wp-audio-shortcode" id="audio-9144-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-08-25.mp3?_=2"></source><a href="http://deemable.com/audio/DeemableTech_2014-08-25.mp3">http://deemable.com/audio/DeemableTech_2014-08-25.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-08-25.mp3">#65 Shootin&rsquo; from the Hip</a></p>
+<p>We&rsquo;re currently working on our next&nbsp;hour-long public radio special, and we want you to be a part of it! Call us with your tech questions at 1-888-972-9868, or send an email to <a href="mailto:questions@deemable.com">questions@deemable.com</a>. And if you&rsquo;ve seen a story on social media that just seems too crazy to be true, send it to <a href="mailto:debunkable@deemable.com">debunkable@deemable.com</a> and we&rsquo;ll uncover the truth.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#65 Shootin' from the Hip" data-link="/2014/08/65-shootin-hip/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#65 Shootin' from the Hip" data-link="/2014/08/65-shootin-hip/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/65-shootin-hip/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-08-25.mp3" length="46046194" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

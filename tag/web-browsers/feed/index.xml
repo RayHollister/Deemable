@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Web browsers</title>
+	<atom:link href="/tag/web-browsers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Browser Extensions</title>
+		<link>/2016/05/browser-extensions/</link>
+		<comments>/2016/05/browser-extensions/#comments</comments>
+		<pubDate>Thu, 19 May 2016 16:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[add-ons]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10568</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" />Steve writes, &#8220;When I&#8217;m on the internet, I constantly see things pop up on the screen that say &#8216;Check for malware now&#8217; or &#8216;You&#8217;re missing drivers, click to update.&#8217; Should I click on it? The way things are nowadays, I&#8217;m <a href="/2016/05/browser-extensions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/browser-extensions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/browser_extensions-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="browser_extensions" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><strong><a href="http://deemable.com/media/2016/05/browser_extensions.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-10569" src="//media/2016/05/browser_extensions-300x228.jpg"  alt="browser_extensions" width="300" height="228"></a>Steve writes, &ldquo;When I&rsquo;m on the internet, I constantly see things pop up on the screen that say &lsquo;Check for malware now&rsquo; or &lsquo;You&rsquo;re missing drivers, click to update.&rsquo; Should I click on it? The way things are nowadays, I&rsquo;m afraid to try!&rdquo;&nbsp;</strong><span id="more-10568"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10568-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3</a></audio><p>Don&rsquo;t click on it, Steve! As our friend Admiral Ackbar would say:</p>
+<p><img class="aligncenter" src="http://i.giphy.com/3ornka9rAaKRA2Rkac.gif" alt="It's a trap!"></p>
+<p>What you&rsquo;re seeing is a pop-up ad designed to trick you into visiting a spam website or downloading harmful malware.</p>
+<p>Internet pop-ups will disguise themselves as all kinds of stuff to get you to click on them. Spammers have gotten pretty good at making pop-ups look like legitimate error messages, so sometimes it can be hard to tell it&rsquo;s a pop-up until it?s too late. Our advice is to install a pop-up blocker extension for your browser.</p>
+<p>Extensions (also known as add-ons) are little programs you can install on some web browsers which give them extra features. There are a lot of extensions for the Mozilla Firefox and Google Chrome browsers, including effective pop-up blockers.</p>
+<p><a href="https://adblockplus.org/" target="_blank">Adblock Plus</a> is one of the most popular pop-up blockers, and is available for both Firefox and Chrome. It not only kills 98 percent of pop-up ads, but also removes most of the in-page ads from many websites. Try it out, and hopefully you&rsquo;ll never see another one of those pesky fake error messages again.</p>
+<p>But we wouldn&rsquo;t stop there with browser extensions. You can trick out your browser in a number of cool ways. Some of our favorites include:</p>
+<ul><li>Lazarus: Form Recovery &ndash; Remembers what you were typing in an online form, in case something happens while you&rsquo;re filling one out and you lose everything. (<a href="https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno?hl=en" target="_blank">Lazarus for Chome</a>) (<a href="https://addons.mozilla.org/en-uS/firefox/addon/lazarus-form-recovery/" target="_blank">Lazarus for Firefox</a>)</li>
+</ul><ul><li><span style="line-height: 1.5;">Panic Button &ndash; Immediately hides all of your open browser tabs with a single click. We&rsquo;re not saying that it comes in really handy for when your boss walks by, but we&rsquo;d have to imagine it would. (<a href="https://chrome.google.com/webstore/detail/panicbutton/faminaibgiklngmfpfbhmokfmnglamcm?hl=en" target="_blank">Panic Button for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/panic-button/" target="_blank">Panic Button for Firefox</a>)</span></li>
+</ul><ul><li>LastPass<span style="line-height: 1.5;"> &ndash; One of our favorite password managers. Stores all of your passwords, generates complex new ones, and automatically fills in login fields for you. (<a href="https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US" target="_blank">LastPass for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/" target="_blank">LastPass for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Honey &ndash; Automatically finds coupon codes and sales for many popular online stores. (<a href="https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-US" target="_blank">Honey for Chrome</a>) (<a href="https://addons.mozilla.org/en-US/firefox/addon/honey/" target="_blank">Honey for Firefox</a>)</span></li>
+</ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
+</ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
+<p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/adt20160519.mp3" length="3484145" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Kevin asks, &#8220;How do I use my web browser?&#8221;</title>
+		<link>/2013/07/kevin-asks-how-do-i-use-my-web-browser/</link>
+		<comments>/2013/07/kevin-asks-how-do-i-use-my-web-browser/#comments</comments>
+		<pubDate>Thu, 18 Jul 2013 14:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Domain names]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[URIs]]></category>
+		<category><![CDATA[URLs]]></category>
+		<category><![CDATA[Web browsers]]></category>
+		<category><![CDATA[websites]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7545</guid>
+		<description><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" />Q: I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&#8217;m doing things the long way. To be honest I don&#8217;t <a href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/07/kevin-asks-how-do-i-use-my-web-browser/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="76" src="/media/2013/07/BrowserLogos-e1374176348422-150x76.png" class="attachment-thumbnail wp-post-image" alt="Web Browser Logos" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p100195-embed" src="http://www.prx.org/p/100195/embed.js?size=full"></script></p>
+<p></p>
+<p><strong>Q:</strong> I used to have a link to my email on my desktop, but somehow it got deleted. Now I search for my email on MSN. My son says I&rsquo;m doing things the long way. To be honest I don&rsquo;t know much about the web and I get a little bit overwhelmed every time I open Internet Explorer. Any advice?</p>
+<p><strong>A:</strong> Deep breaths, Kevin! It&rsquo;s going to be okay. We&rsquo;re here to help.</p>
+<p>The good news is that you are definitely not alone here. We talk to people all the time who can&rsquo;t figure out how to get from Point A to Point B on their browser. When you open Internet Explorer you may see up to three different fields where you can type things. You know you want to go to a specific website, but where do you type it in?</p>
+<p>What you want to do is type the URL into the address bar. URL stands for &ldquo;Uniform Resource Locator,&rdquo; which is just the formal name for a web address. For example, www.google.com and deemable.com are both URLs. Either way, they usually look like &ldquo;www.nameofthewebsite.com&rdquo;.</p>
+<p>Now here&rsquo;s a secret: 99% of the time you can leave off the &ldquo;www&rdquo;. You don&rsquo;t have to type &ldquo;www.google.com&rdquo;, you can just type &ldquo;google.com&rdquo; and your browser will figure out the rest.</p>
+<p>The place you want to type it is not the search bar of the website that is your home page. That will search for any web page that references the name of the website. Granted, the web page itself will probably be the first search result, but you&rsquo;re adding an extra step. You want to type the web address, or URL, into the address bar, which is above the web page. You can identify it because it will have the address of the current page, usually prefixed by &ldquo;http://&rdquo;/ or &ldquo;https://&rdquo;/ (incidentally, you don&rsquo;t have to type &ldquo;http://&rdquo;/ either, because your browser will fill that in as well).</p>
+<div id="attachment_7549" style="width: 537px" class="wp-caption aligncenter"><a href="http://deemable.com/media/2013/07/bing.png" class="gallery_colorbox"><img class=" wp-image-7549 " alt="Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you're new to surfing the Internet." src="//media/2013/07/bing-1024x544.png"  width="527" height="280"></a><p class="wp-caption-text">Telling the difference between a search box and your address bar can sometimes be a challenge, especially if you&rsquo;re new to surfing the Internet.</p></div>
+<p>There are a couple of things to be aware of. First, you may or may not have another field at the top of your browser that is for searching. Typing the web address into <em>that</em> field is just the same as if you went to Yahoo or Google or Bing and searched for the web address there. It&rsquo;s for searching, not for navigating directly to a website.</p>
+<p>The other thing to be aware of is that in newer browsers the address field can also do web searches. So if you type &ldquo;facebook.com&rdquo; you will be taken directly to Facebook, but if you type in &ldquo;books of faces&rdquo; it will search for &ldquo;books of faces&rdquo; on your preferred search engine.</p>
+<p>So, Kevin, try typing the URL for your email site into the address bar and hitting enter. Once you&rsquo;re there, don&rsquo;t forget that you can bookmark websites that you use frequently. Look for a star icon up at the top of your browser and click that. That will add your email to a list of favorite websites. Once you do that, you won&rsquo;t have to type anything &ndash; your email will always be just a click away.</p>
+<p><a href="http://deemable.com/media/2013/07/BrowserLogos.png" class="gallery_colorbox"><img src="//media/2013/07/BrowserLogos-300x153.png"  alt="Web Browser Logos" width="300" height="153" class="alignnone size-medium wp-image-7557"></a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Kevin asks, "How do I use my web browser?"' data-link="/2013/07/kevin-asks-how-do-i-use-my-web-browser/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/kevin-asks-how-do-i-use-my-web-browser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Christine asks, &#8220;Should I change web browsers?&#8221;</title>
+		<link>/2013/04/christine-asks-should-i-change-web-browsers/</link>
+		<comments>/2013/04/christine-asks-should-i-change-web-browsers/#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 13:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Web browsers]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7295</guid>
+		<description><![CDATA[What Internet browser do you use? There are dozens to choose from, and many offer unique features. So which one is best for you? Ray Hollister and Tom Braun, the hosts of Deemable Tech, have the answer on this week&#8217;s <a href="/2013/04/christine-asks-should-i-change-web-browsers/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/04/christine-asks-should-i-change-web-browsers/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>What Internet browser do you use? There are dozens to choose from, and many offer unique features. So which one is best for you? Ray Hollister and Tom Braun, the hosts of Deemable Tech, have the answer on this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p96277-embed" src="http://www.prx.org/p/96277/embed.js?size=full"></script></p>
+<p>RAY: Hi, I&rsquo;m Ray Hollister,</p>
+<p>TOM: I&rsquo;m Tom Braun,</p>
+<p>RAY: and we&rsquo;re the hosts of Deemable Tech. On the show, we answer your questions about computers, tablets, mobile phones and the Internet, like this question:</p>
+<p>TOM: Christine asks, I have been having trouble getting on the Internet lately because of pop-up error messages. My friend Jeff, who usually fixes my computer, says the problem is my &lsquo;browser&rsquo; and keeps trying to get me to use something called &lsquo;Firefox&rsquo;. I&rsquo;m used to the normal way I get online. Do I really need to change?</p>
+<p>RAY: It would be nice if the Internet worked and looked the same for everybody, Christine!</p>
+<p>TOM: But that would be too easy! It&rsquo;s a little more complicated than that.</p>
+<p>Any program you use to view web pages is called a &lsquo;browser&rsquo;. The browser that comes pre-installed on Windows is Internet Explorer, or IE for short. It&rsquo;s the most popular browser in the world. But, there&rsquo;s a catch.</p>
+<p>RAY: Yep. Different versions of Windows, like Windows XP, Vista or Windows 8, come with different versions of IE. For instance, if you still have Windows XP then you may be running the version of IE that came with it, version 6.</p>
+<p>TOM: But Internet Explorer is now on version 10! So IE 6 is way out of date.</p>
+<p>RAY: If you have an old version of IE, some web pages may look wrong or not load correctly. You may see bugs or weird pop-ups like you described, Christine. You are also in danger from all kinds of malware and online attacks through loopholes that were fixed in later versions.</p>
+<p>TOM: To find out what version you have you need to bring up the &lsquo;About Internet Explorer&rsquo; screen. Depending on what version you are running, that will be under the Help menu, or under the menu that comes up when you click the little gear icon. They&rsquo;re both at the top of the screen.</p>
+<p>Then you should install the latest version available for your version of Windows. On Windows XP you can get up to Version 8, and for newer versions of Windows you can get version 10. Having the latest version of IE will likely fix many of the problems you are having. Plus, it&rsquo;s just safer.</p>
+<p>RAY: Okay Tom, but Christine said her her friend Jeff is trying to get her to switch to Firefox? Why should she change to Firefox?</p>
+<p>TOM: Well there are lots of different web browsers besides Internet Explorer. There&rsquo;s Firefox, Chrome and Opera. Those are just some of the bigger ones. There are literally dozens out there.</p>
+<p>Other browsers offer a lot of different features and are often faster, so techies who want more control over their internet experience almost always use something else.</p>
+<p>For instance, with Firefox you can download &lsquo;add-ons&rsquo; for the browser, that do cool things like block ads, let you download YouTube videos to your computer, display the weather at the top of the screen and more.</p>
+<p>RAY: Google&rsquo;s Chrome browser is quickly gaining popularity. Chrome is known for being really fast, which is nice. But its killer feature, is that you can synchronize all your copies of Chrome on any computer, tablet or phone. Any changes you make to one copy are automatically made to the other copies. You can also access web pages that you had open on other machines.</p>
+<p>TOM: I love that feature. It&rsquo;s so nice to be able to open a web page at work that I had opened earlier on my computer at home.</p>
+<p>It&rsquo;s also worth mentioning that most browsers other than IE conform more closely to the standards for displaying web pages, so web sites may display better on Firefox, Chrome or Safari.</p>
+<p>RAY: Unless you&rsquo;re visiting a lot of Microsoft sites: often those sites won&rsquo;t work correctly on anything but Internet Explorer.</p>
+<p>TOM: But the good news is that you can have two browsers at once, and switch back and forth between them anytime you like. So there&rsquo;s no harm in downloading Firefox and giving it a try. It will get your friend Jeff off your back, and hey, you might even like it!</p>
+<p>RAY: To hear more answers to questions like this one, listen to our show at Deemable dot com, that&rsquo;s D-E E-M A-B-L-E dot com. There you can listen to all of our previous episodes and subscribe to our podcast.</p>
+<p>TOM: If you have a question for Deemable Tech give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or you can send us an email at questions at deemable dot com.</p>
+<p>RAY: For Deemable Tech, I&rsquo;m Ray Hollister,</p>
+<p>TOM: And I&rsquo;m Tom Braun.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/226934/internet_browsers_medium.jpg" title="Web Browser logos - So many choices!"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Christine asks, "Should I change web browsers?"' data-link="/2013/04/christine-asks-should-i-change-web-browsers/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Christine asks, "Should I change web browsers?"' data-link="/2013/04/christine-asks-should-i-change-web-browsers/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/christine-asks-should-i-change-web-browsers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

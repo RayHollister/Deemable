@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Greg asks, &#8220;What can I do with a broken laptop?&#8221;</title>
+	<atom:link href="/2013/07/greg-asks-what-can-i-do-with-a-broken-laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/07/greg-asks-what-can-i-do-with-a-broken-laptop/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/07/greg-asks-what-can-i-do-with-a-broken-laptop/#comment-891</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2013 00:17:49 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7498#comment-891</guid>
+		<description><![CDATA[No need to be sorry, Eva! We didn&#039;t say anything about deleting Windows. Of course you can&#039;t delete Windows while you&#039;re in the middle of using it. 
+
+We were talking about making sure that files that you have deleted are actually securely deleted. While completely reformatting your hard drive and doing a thorough secure erase of your entire hard drive is the best thing to do, it&#039;s way beyond what most people are going to be willing and able to do.]]></description>
+		<content:encoded><![CDATA[<p>No need to be sorry, Eva! We didn&#8217;t say anything about deleting Windows. Of course you can&#8217;t delete Windows while you&#8217;re in the middle of using it. </p>
+<p>We were talking about making sure that files that you have deleted are actually securely deleted. While completely reformatting your hard drive and doing a thorough secure erase of your entire hard drive is the best thing to do, it&#8217;s way beyond what most people are going to be willing and able to do.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Eva M. Sprinkle</title>
+		<link>/2013/07/greg-asks-what-can-i-do-with-a-broken-laptop/#comment-890</link>
+		<dc:creator><![CDATA[Eva M. Sprinkle]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 23:01:08 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=7498#comment-890</guid>
+		<description><![CDATA[Sorry, but my nephew who is an IT guy says that you can&#039;t erase the C: drive where Windows is located from XP. The programs you recommended only overwrite areas that are already empty but not the complete HD. He gave me a much more complex 5-step procedure that involves burning a boot-up disk to re-format the HD.]]></description>
+		<content:encoded><![CDATA[<p>Sorry, but my nephew who is an IT guy says that you can&#8217;t erase the C: drive where Windows is located from XP. The programs you recommended only overwrite areas that are already empty but not the complete HD. He gave me a much more complex 5-step procedure that involves burning a boot-up disk to re-format the HD.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; USB drives</title>
+	<atom:link href="/tag/usb-drives/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Hector asks, &#8220;Do I have to eject USB drives?&#8221;</title>
+		<link>/2014/07/hector-asks-eject-usb-drives/</link>
+		<comments>/2014/07/hector-asks-eject-usb-drives/#comments</comments>
+		<pubDate>Thu, 03 Jul 2014 10:38:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[flash memory]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[USB drives]]></category>
+		<category><![CDATA[USB flash drive]]></category>
+		<category><![CDATA[USB thumb drive]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9008</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" />Q: Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&#8217;t eject the drive, and it could cause damage if I don&#8217;t eject it. I usually ignore this message and it hasn&#8217;t caused me <a href="/2014/07/hector-asks-eject-usb-drives/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/07/hector-asks-eject-usb-drives/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/07/flash_drive-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="flash_drive" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p123307-embed" src="http://www.prx.org/p/123307/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>Whenever I unplug my USB thumb drive, a warning pops up telling me that I didn&rsquo;t eject the drive, and it could cause damage if I don&rsquo;t eject it. I usually ignore this message and it hasn&rsquo;t caused me any issues yet. Is this really a problem?<span id="more-9008"></span></p>
+<p><strong><a href="http://deemable.com/media/2014/07/flash_drive.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-9009" src="//media/2014/07/flash_drive-300x225.jpg"  alt="flash_drive" width="300" height="225"></a>A: </strong>We&rsquo;ll admit it, Hector, we&rsquo;ve occasionally done the same thing. There&rsquo;s nothing more irritating than waiting for a computer to eject a thumb drive when you&rsquo;ve got to be somewhere. What&rsquo;s worse is trying to eject a drive only to have the computer tell you that it&rsquo;s &ldquo;busy.&rdquo; Busy doing what? Getting a cup of coffee?</p>
+<p>As annoying as it can be, the truth is you really should eject all USB devices before you unplug them. This is especially true for external hard drives, as the sudden loss of power can cause physical damage to the spinning discs inside them. That doesn&rsquo;t have to happen too many times for the hard drive to fail, taking all that data with it.</p>
+<p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
+<p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
+<p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
+<p>Just remember, Hector: you must eject before you disconnect!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>#52 Spin The Battery</title>
+		<link>/2013/10/52-spin-battery/</link>
+		<comments>/2013/10/52-spin-battery/#comments</comments>
+		<pubDate>Sun, 13 Oct 2013 15:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[USB drives]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8362</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/SpinTheBattery-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Yeah, it&#039;s a bottle, but you get the picture." style="float:left; margin:0 15px 15px 0;" />&#160; This week on Deemable Tech Tom and Ray answered questions about what to do if your Windows is upside down, how to delete multiple emails on your iPhone, how to print from your tablet, what to do if you <a href="/2013/10/52-spin-battery/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/52-spin-battery/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/SpinTheBattery-150x150.gif" class="attachment-thumbnail wp-post-image" alt="Yeah, it&#039;s a bottle, but you get the picture." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>&nbsp;</p>
+<div style="min-height: 200px;"><img class="alignleft wp-image-8376" alt="Yeah, it's a bottle, but you get the idea." src="//media/2013/10/SpinTheBattery.gif" width="300" height="180">This week on Deemable Tech Tom and Ray answered questions about what to do if your Windows is upside down, how to delete multiple emails on your iPhone, how to print from your tablet, what to do if you have a corrupted USB drive, and more.</div>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8362-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3">#52 Spin The Battery</a></p>
+<p>TRANSCRIPT</p>
+<p dir="ltr">RAY: From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p dir="ltr">TOM: I&rsquo;m Tom Braun,</p>
+<p dir="ltr">RAY: and this is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p dir="ltr">TOM: Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email to <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p dir="ltr">TOM: Today on the show we&rsquo;re going to answer your questions about what to do if your Windows is upside down,</p>
+<p dir="ltr">RAY: How to delete multiple emails on your iPhone,</p>
+<p dir="ltr">TOM: How to print from your tablet,</p>
+<p dir="ltr">RAY: And what to do if you have a corrupted USB drive. But first &ndash;</p>
+<p dir="ltr">TOM: Ray, have you been to the Google homepage recently?</p>
+<p dir="ltr">RAY: Sure?</p>
+<p dir="ltr">TOM: Have you by chance noticed the blue bar across the top? Actually it&rsquo;s been across the top of Google+, Google Drive, Google Play and several other Google sites.</p>
+<p dir="ltr">RAY: Yeah, I&rsquo;ve seen it, but I just clicked OK or dismissed it or whatever.</p>
+<p dir="ltr">TOM: That&rsquo;s exactly what they want you to do.</p>
+<p dir="ltr">RAY: So what have they changed?</p>
+<p dir="ltr">TOM: Basically, Google wants to do what Facebook did a couple years&nbsp;ago and show ads&nbsp;to your friends based on things you&rsquo;ve +1&rsquo;d or rated highly. So if I bought the new Daft Punk album on Google Play Music, you might see an ad that says &ldquo;Tom Braun recommends Daft Punk&rsquo;s Random Access Memories.&rdquo; Or something like that.</p>
+<p dir="ltr">RAY: Oh wonderful. So now anything I plus can be advertised to other people on Google?</p>
+<p dir="ltr">TOM: Well, there is a way out. Next time you see that blue bar, actually click on the link to see the new terms and conditions. Or you can go to <a href="http://www.google.com/settings/ads">http://www.google.com/settings/ads</a>. Then select the option to ?opt out&rsquo; of Google&rsquo;s so-called ?interest based ads&rsquo;. There will be a pop-up that tries to talk you out of it, but persevere.</p>
+<p dir="ltr">RAY: Why would anyone want to be part of Google&rsquo;s ad program?</p>
+<p dir="ltr">TOM: Well they&rsquo;re counting on people to just not care enough to opt out. And if you don&rsquo;t, then don&rsquo;t. But folks should be aware that it&rsquo;s happening and no how to get out of it.</p>
+<p>RAY: Absolutely. Alright, let&rsquo;s take some questions. What&rsquo;s our first question, Tom?</p>
+<p dir="ltr"><strong>Prem writes</strong>, one of my 8 GB USB drive (with about 4 GB, very important data files in many folders) is corrupted&nbsp;or damaged. I can see all the folders but soon the computer goes to non-responding mode and cannot open any folder or files. What is the best data recovery software one can download and use or is there software&nbsp;i&nbsp;can purchase&nbsp;to recover the data from this USB drive? I do not want to send it outside for data recovery. Please help. Please note the types of files in folders are: word files, pdf&nbsp;files, images of checks, and saved e-files. Looking forward for your response.</p>
+<p dir="ltr">TOM: Hi Prem, thanks for your question. Having corrupted or inaccessible data is not a fun situation to be in. We can give you a couple of suggestions, but there&rsquo;s no guarantee that you will be able to get your data back. I know you don&rsquo;t want to send the drive out for data recovery services, but that is the #1 best way to make sure that you can salvage whatever you can from the drive. It&rsquo;s not as expensive as you might think, either. There are places that will do a basic recovery for as little as $60.</p>
+<p dir="ltr">RAY: The good news is, your computer can still see the USB drive. If you couldn&rsquo;t access the drive at all you would be out of luck.</p>
+<p dir="ltr">TOM: Right, most likely the drive is only logically corrupted. In other words, the data has gotten scrambled somehow but there is nothing physically wrong with the drive.</p>
+<p dir="ltr">Now, I hate to say this because it&rsquo;s like telling you to close the barn door after the horse has escaped, but backup, backup, backup! Always keep your important files in at least two places.</p>
+<p dir="ltr">RAY: In fact, keep them in three places. One on your USB drive, one on your hard drive, and one in the cloud. You definitely don&rsquo;t want to keep something only on a flash memory drive, though.</p>
+<p dir="ltr">Those little USB flash drives are not very reliable. They use the cheapest memory possible to keep the price down. Additionally, even if the drive doesn&rsquo;t become corrupted, it&rsquo;s very easy to lose or damage! I can&rsquo;t begin to count how many times I&rsquo;ve been unable to find a USB drive, and then later it turned up at the bottom of some drawer. Those things are easy to lose. You could leave it at the coffee shop. It could fall out of your pocket. It could get stepped on.</p>
+<p dir="ltr">You should never rely on a USB drive as the sole copy of your files.</p>
+<p dir="ltr">Anyway, enough lecturing. Tom, how can we help Prem recover those files?</p>
+<p dir="ltr">TOM: First things first, just in case, try plugging your USB drive into another computer. I have personally encountered cases before where one computer could read a drive but another couldn&rsquo;t. That probably won&rsquo;t solve your problem in this case, but it&rsquo;s worth trying.</p>
+<p dir="ltr">Also, make sure that you do not attempt to update files on the USB drive, delete them, or add them. Doing any of these things will make changes to the drive. This is known as ?writing&rsquo; to the drive. At this point every ?write&rsquo; to the drive pushes it further towards irrecoverable oblivion!</p>
+<p dir="ltr">Before we dive into the recovery tools that are available, let&rsquo;s use the ones you already have. You didn&rsquo;t specify but I assume you&rsquo;re using Windows. Windows actually has its own, fairly powerful recovery tool. But you&rsquo;ll need to run it from the command line.</p>
+<p dir="ltr">Click the start button and then search for ?cmd&rsquo; and hit enter. This will bring up a black box with white text. Do you know the letter of your USB drive? It&rsquo;s probably something like D, E or F.</p>
+<p dir="ltr">At the command line, type CHKDSK&nbsp;and the letter of your drive followed by /r. So for example, CHKDSK&nbsp;d /r. CHKDSK is a windows utility that will scan your damaged drive and attempt to figure out what&rsquo;s wrong. The /r option tells it to attempt to repair any problems it finds. Run that and then check your drive and see if it&rsquo;s recovered any files. If it has, be sure to immediately copy them to your hard drive!</p>
+<p dir="ltr">If you still don&rsquo;t have all your files, there are several free recovery programs out there. You might as well try as many as you can. Get everything you can from one program and then try the next.</p>
+<p dir="ltr">The first program we found was <a href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk</a>. TestDisk is an open-source program, so it&rsquo;s not extremely user-friendly. In fact you will have to run it from the Windows command prompt. But it&rsquo;s pretty good according to <a href="http://lifehacker.com/5951822/how-can-i-recover-data-from-a-dead-or-erased-hard-drive">LifeHacker</a>. There is documentation at the link in the show notes.</p>
+<p dir="ltr">Another program is <a href="http://www.icare-recovery.com/data-recovery-free.html">iCare Data Recovery Free</a>. It&rsquo;s got some positive reviews. You&rsquo;ll want to use the Format Recovery option. The user interface is barebones, but <a href="http://www.icare-recovery.com/drs-features-tutorial.html">there is a tutorial</a>. We will provide a link to it in the show notes.</p>
+<p dir="ltr">There are lots of other recovery programs. Three others that we found are <a href="http://diskdigger.org/">Disk Digger</a>, <a href="http://www.pcinspector.de/default.htm">PC Inspector</a> and <a href="http://www.snapfiles.com/get/restoration.html">Restoration</a>.</p>
+<p dir="ltr">Again, you can try more than one. Bear in mind, though, that as these programs have to ?write&rsquo; to the drive that as you continue to use them the drive will become increasingly unusable.</p>
+<p dir="ltr">When you&rsquo;ve recovered your files, you may be able to recover the USB drive too. Try formatting it. If the problem is merely some corrupt data, this will wipe it clean and you&rsquo;ll have a usable drive once more. Be sure not to keep the only copy of important files on it in the future, though!</p>
+<p dir="ltr">Okay, Prem. Hopefully some of these programs work for you. Good luck!</p>
+<p dir="ltr"><strong>Jan wrote in</strong>: I purchased my iPhone this year but have years&rsquo; worth of previous&nbsp;emails stored. How can I delete&nbsp;without having to delete&nbsp;one at a time? How can I sync my iPhone email and my computer email so that I don&rsquo;t have to delete on both? How can I store photos sent via text messaging? Thanks!</p>
+<p dir="ltr"><strong>Morgan writes</strong>, Hi, I have been having&nbsp;something really strange happen to my Galaxy S3. I will be using it and suddenly the screen will flicker and then it will shut down. It won&rsquo;t turn back on until I plug it in, even if it was charged&nbsp;very recently. I am worried that something is very wrong with my phone. Help!</p>
+<p dir="ltr">RAY: That&rsquo;s scary!</p>
+<p dir="ltr">TOM: Yeah, it is a scary-sounding problem. In fact I&rsquo;m pretty sure I know what&rsquo;s going on, and it&rsquo;s a good-news-bad-news type of situation.</p>
+<p dir="ltr">RAY: OK, what&rsquo;s the bad news?</p>
+<p dir="ltr">TOM: The bad news is that it is almost certainly a hardware problem. Something is physically wrong with Morgan&rsquo;s phone.</p>
+<p dir="ltr">RAY: Well that sucks! I hope the good news is really good!</p>
+<p dir="ltr">TOM: It&rsquo;s pretty good. The part of your phone that has probably gone bad is the easiest part to replace, and relatively inexpensive. I&rsquo;m talking about the battery. My guess is that Morgan needs a new battery. And there&rsquo;s an easy way to test that.</p>
+<p dir="ltr">Okay Morgan, here&rsquo;s what I want you to do: peel the back plate off of your phone and dig out that battery. Set it on a flat surface in front of you, like a table or desk.</p>
+<p dir="ltr">RAY: Okay?</p>
+<p dir="ltr">TOM: Now, spin it!</p>
+<p dir="ltr">RAY: What?</p>
+<p dir="ltr">TOM: Batteries are flat, or at least they are supposed&nbsp;to be. A good battery won&rsquo;t spin. However when a battery goes bad, at least in the case of the Galaxy S3, it may develop a slight bulge. If your battery spins on one side or the other, that means that side is now curved. You&rsquo;ve got a bulgy battery. Time for a new one!</p>
+<p dir="ltr">Fortunately, replacement batteries start for as low as $9.99 on Amazon.com. If you&rsquo;re still under warranty, you can take the phone to the store you bought it at, show them your cool battery trick, and they&rsquo;ll probably replace it for free.</p>
+<p dir="ltr"><strong>Morton asks:</strong>&nbsp;I recently bought an ASUS Transformer Pad (tablet), model #TF300T. I use it in conjunction with Wi-Fi connections to the internet.</p>
+<p dir="ltr">I would like to know if there is any SIMPLE printer on the market which I can use with this Tablet (Made in Taiwan). Right now the only access to printing is a friend&rsquo;s Wi-Fi-enabled Lap Top which has a printer attached.</p>
+<p dir="ltr">My tablet is an ANDROID-based tablet, and all printers I see are only compatible with WINDOWS or MAC.</p>
+<p dir="ltr">RAY: Go to <a href="https://www.google.com/cloudprint/learn/">https://www.google.com/cloudprint/learn/</a>&nbsp;or just look for the Cloud Print Ready. Or if you want to buy an AirPrint ready printer that isn&rsquo;t Cloud Print Ready, there is an app called <a href="https://play.google.com/store/apps/details?id=net.jsecurity.printbot&amp;hl=en">PrintBot</a>&nbsp;which will let you print from an Android device to an AirPrint ready printer.</p>
+<p><strong>Susanna wrote in</strong>: I have a new laptop, and I am planning on selling my old laptop. I have Adobe Creative Suite for on my old Mac laptop and I want to move it to my new Mac. Is there anything I need to do to put it on my new laptop or can I just install it?</p>
+<p>Adobe only lets you activate the software on as many computers as you have paid for; with a single license for Adobe software you may install it on two computers. So, if you do not deactivate&nbsp;it on the first computer and you only have paid for one license, you will not be able to install it on any other computers.</p>
+<p>To deactivate the software from your computer:</p>
+<p>Make sure the computer that has the software installed is connected to the Internet.<br>
+Choose Help &gt; Deactivate in the product you wish to deactivate. If you have a suite then choosing one of the products will Deactivate the entire suite.<br>
+Select Deactivate Permanently</p>
+<p>If you unfortunately already sold your old laptop, you&rsquo;re not out of luck, but you will have to contact Adobe directly to deactivate it so that you can activate it on another computer.</p>
+<p><a href="http://helpx.adobe.com/x-productkb/policy-pricing/activation-deactivation-products.html">http://helpx.adobe.com/x-productkb/policy-pricing/activation-deactivation-products.html</a></p>
+<p><strong>Richard writes</strong>, My cats walked on my computer one day and now my Dell laptop boots up upside down and to get it right I have to press the windows key and the p button, then when I stop duplicate screen mode, the screen reverts to normal. How can I get it to boot up right?<br>
+TOM: Geez, and I thought my cat was bad because he gets on top of the bookshelf.<br>
+RAY: Like any cat, this cat knows a good prank when he sees it.<br>
+TOM: Hahahah! Not to worry Richard, this is a very easy fix. On some versions of Windows some genius at Microsoft thought it was a good idea to have a hot-key combination that changes the orientation of your screen.<br>
+Now I can see why very occasionally you might want to flip your screen 90 degrees, but I can&rsquo;t imagine doing it often enough that you would need a short sequence of keystrokes to do it. Basically, Microsoft created the ultimate hotkey shortcut for pranksters.<br>
+RAY: Or cats.<br>
+TOM: Right. To change the orientation of&nbsp;your screen, once you&rsquo;ve logged in upside-down, hold down CTRL+ALT+UP ARROW and that ought to right&nbsp;your screen. CTRL+ALT+ANY ARROW KEY will change your screen so it&rsquo;s facing the direction of the arrow.<br>
+Now you know, so do us a favor: once you change your screen back, don&rsquo;t use this knowledge for evil.<br>
+RAY: If that doesn&rsquo;t work, you can also do it manually through the Control Panel.</p>
+<ul><li>Click the Start menu and open &ldquo;Control Panel.&rdquo;</li>
+<li>Click &ldquo;Adjust Screen Resolution&rdquo;</li>
+<li>Click to open the &ldquo;Orientation&rdquo; menu.</li>
+<li>Choose from : &ldquo;Landscape,&rdquo; &ldquo;Portrait,&rdquo; &ldquo;Landscape (Flipped)&rdquo; and &ldquo;Portrait (Flipped)&rdquo; Click your desired orientation option to have Windows display a thumbnail preview of what it will look like.</li>
+<li>Click &ldquo;Apply,&rdquo; then click &ldquo;Keep Changes&rdquo; or &ldquo;Revert&rdquo; to revert to the original orientation.</li>
+</ul><p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/52-spin-battery/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-13.mp3" length="28799341" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

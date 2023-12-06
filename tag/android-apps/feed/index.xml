@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Android Apps</title>
+	<atom:link href="/tag/android-apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Charles asks, &#8220;Does my smartphone have a virus?&#8221;</title>
+		<link>/2014/06/charles-asks-smartphone-virus/</link>
+		<comments>/2014/06/charles-asks-smartphone-virus/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android Apps]]></category>
+		<category><![CDATA[Anti-virus software]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8928</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" />Q: My smartphone (a Casio G&#8217;zOne) displayed a warning yesterday saying that it had a virus. I didn&#8217;t do anything as I&#8217;ve been told the warning is the actual virus.&#160;How can I tell if the phone has virus protection installed? <a href="/2014/06/charles-asks-smartphone-virus/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/charles-asks-smartphone-virus/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/gzone-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Casio" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><script id="prx-p141388-embed" src="http://www.prx.org/p/141388/embed.js?size=small"></script></p>
+<p><strong>Q: </strong>My smartphone (a Casio G&rsquo;zOne) displayed a warning yesterday saying that it had a virus. I didn&rsquo;t do anything as I&rsquo;ve been told the warning is the actual virus.&nbsp;How can I tell if the phone has virus protection installed? If not, can I download it&nbsp;for the phone?</p>
+<p><span id="more-8928"></span></p>
+<div id="attachment_8948" style="width: 232px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/gzone.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8948" src="//media/2014/06/gzone-222x300.jpg"  alt="Image credit: Casio" width="222" height="300"></a><p class="wp-caption-text">Image credit: Casio</p></div>
+<p><strong>A:&nbsp;</strong>Charles, let us set your mind at ease. It is very unlikely that your smart phone has a virus. What you saw was most likely a scam &ndash; a banner ad trying to trick you into buying something or clicking on something that you shouldn&rsquo;t. Uninstall whatever app you saw that in, and you should be fine.</p>
+<p>Smartphones work differently than PCs. A program on a PC basically has the run of the computer and can do anything it wants. But an app on a smartphone gets put in a little sandbox, and it is very limited in what it can do. This makes it&nbsp;harder for a classic virus to be effective on a phone.</p>
+<p>That isn&rsquo;t to say that a smartphone could&nbsp;<em>never</em> get a virus, but we have yet to see any big ones on Android or iOS that users need to worry about. If that ever happens, we will be the first ones to let you know.</p>
+<p>If you still don&rsquo;t feel safe, you <em>can</em> download anti-virus apps that will check for bad stuff on your phone, but recent studies have found that a lot of the free ones are basically useless.&nbsp;They catch very few pieces of malware, and can slow down your phone considerably. There are also paid apps from big anti-virus companies like&nbsp;Symantec, BitDefender and Trend Micro, but these too take up a lot of memory and will affect your phone&rsquo;s performance.</p>
+<p>What you really need to watch out for aren&rsquo;t viruses, they&rsquo;re malicious apps. Apps available in the&nbsp;the Apple App Store or the Google Play Store have been screened by those companies, and are trustworthy 99.99% of the time. But if you download and install an app from an unofficial source (this is known as &ldquo;side-loading&rdquo;), you run the risk of getting something dangerous. Most people who side-load apps are trying to install free versions of games you normally have to pay for, which is basically like catnip for hackers. Our advice is to never side-load an app unless you&rsquo;re confident of what it is and know the people who made it.</p>
+<p>So, Charles, don&rsquo;t worry too much about that warning you saw. If you play it safe when you&rsquo;re surfing the web, and make sure you&rsquo;re only downloading apps from official places, you should be fine.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/charles-asks-smartphone-virus/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>#61 An Explosion of Tech Questions</title>
+		<link>/2014/05/61-explosion-tech-questions/</link>
+		<comments>/2014/05/61-explosion-tech-questions/#comments</comments>
+		<pubDate>Thu, 15 May 2014 20:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Adobe Photoshop]]></category>
+		<category><![CDATA[Android Apps]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Audible]]></category>
+		<category><![CDATA[Downloadable]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[MAC Address]]></category>
+		<category><![CDATA[Microsoft Security Essentials]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Printers]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[Windows DVD Maker]]></category>
+		<category><![CDATA[Windows XP]]></category>
+		<category><![CDATA[XBMC]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8801</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/05/weather_doge-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="weather_doge" style="float:left; margin:0 15px 15px 0;" />This week on the Deemable Tech podcast, Ray and Tom answer a ginormous number of your questions about everything from Gmail message threads to iPhone apps that won&#8217;t update. Then the guys take a few minutes to discuss some of <a href="/2014/05/61-explosion-tech-questions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/05/61-explosion-tech-questions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/05/weather_doge-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="weather_doge" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week on the Deemable Tech podcast, Ray and Tom answer a ginormous number of your questions about everything from Gmail message threads to iPhone apps that won&rsquo;t update.</p>
+<p>Then the guys take a few minutes to discuss some of their favorite iOS&nbsp;and Android apps at the moment in our Downloadable segment &ndash; including Tom&rsquo;s current favorite, Doge Weather. Much tech advice. So wow.<span id="more-8801"></span></p>
+<p><a href="http://deemable.com/media/2014/05/weather_doge.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-8802" src="//media/2014/05/weather_doge-576x1024.jpg"  alt="weather_doge" width="394" height="700"></a></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8801-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://deemable.com/audio/DeemableTech_2014-05-13.mp3?_=1"></source><a href="http://deemable.com/audio/DeemableTech_2014-05-13.mp3">http://deemable.com/audio/DeemableTech_2014-05-13.mp3</a></audio><p><a href="http://deemable.com/audio/DeemableTech_2014-05-13.mp3">#61 An Explosion of Tech Questions</a></p>
+<p>&nbsp;</p>
+<p><strong>Links mentioned in this episode:</strong></p>
+<ul><li><a href="http://www.avast.com/">Avast! Antivirus</a></li>
+<li><a href="http://www.avg.com/">AVG Antivirus</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/apps-gone-free-best-daily/id470693788?mt=8" target="_blank" rel="external nofollow">Apps Gone Free</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Google Keep</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.launcher">Google Now Launcher</a></li>
+<li>Weather Doge &ndash; <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/doge-weather/id808357406?mt=8" target="_blank" rel="external nofollow">iOS</a> &ndash; <a href="https://play.google.com/store/apps/details?id=com.versobit.weatherdoge">Android</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/magnifier-flash-magnifier/id508627598?mt=8" target="_blank" rel="external nofollow">Magnifier Flash</a></li>
+<li><a href="http://www.baby-connect.com/">Baby Connect</a></li>
+<li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/moon-current-moon-phase/id660036257?mt=8" target="_blank" rel="external nofollow">MOON &ndash; Current Moon Phase</a></li>
+</ul><hr><p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/61-explosion-tech-questions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://deemable.com/audio/DeemableTech_2014-05-13.mp3" length="54198001" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The Hype Behind Cloud Computing</title>
+	<atom:link href="/2011/04/the-hype-behind-cloud-computing/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/the-hype-behind-cloud-computing/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Android Guide for non-Android Users &#171; Bleacher Views</title>
+		<link>/2011/04/the-hype-behind-cloud-computing/#comment-689</link>
+		<dc:creator><![CDATA[Android Guide for non-Android Users &#171; Bleacher Views]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2012 21:14:38 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=2858#comment-689</guid>
+		<description><![CDATA[[...] benefit is push-syncing of data from my Android phone, over the web, to my Google account in &#8220;the cloud.&#8220; Since I use Gmail as my primary email account (with my work emails forwarded to it), and [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] benefit is push-syncing of data from my Android phone, over the web, to my Google account in &#8220;the cloud.&#8220; Since I use Gmail as my primary email account (with my work emails forwarded to it), and [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: How Dropbox Rocks Your Sox Off &#171; Bleacher Views</title>
+		<link>/2011/04/the-hype-behind-cloud-computing/#comment-673</link>
+		<dc:creator><![CDATA[How Dropbox Rocks Your Sox Off &#171; Bleacher Views]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2012 20:32:04 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=2858#comment-673</guid>
+		<description><![CDATA[[...] the simplest way I could put it, Dropbox is a &#8220;Cloud&#8221; storage system. It is a program that allows for the instant, seamless, and secure synchronization of files, [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] the simplest way I could put it, Dropbox is a &#8220;Cloud&#8221; storage system. It is a program that allows for the instant, seamless, and secure synchronization of files, [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

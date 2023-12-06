@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; iPad Mini with Retina Display</title>
+	<atom:link href="/tag/ipad-mini-with-retina-display/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#53 Apple News, Saving Tunes and Scanning Documents</title>
+		<link>/2013/10/53-apple-news-saving-tunes-scanning-documents/</link>
+		<comments>/2013/10/53-apple-news-saving-tunes-scanning-documents/#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 16:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[computer questions]]></category>
+		<category><![CDATA[computer support]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad mini]]></category>
+		<category><![CDATA[iPad Mini with Retina Display]]></category>
+		<category><![CDATA[IT Help]]></category>
+		<category><![CDATA[IT Support]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Macbook Air]]></category>
+		<category><![CDATA[Macbook Pro]]></category>
+		<category><![CDATA[tech help]]></category>
+		<category><![CDATA[tech support]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8397</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" />This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&#160; They also answered <a href="/2013/10/53-apple-news-saving-tunes-scanning-documents/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/10/53-apple-news-saving-tunes-scanning-documents/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/10/10-23-2013-150x150.png" class="attachment-thumbnail wp-post-image" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray and Tom talked about the latest tech news from Cupertino California including the newly named iPad Air, the iPad Mini with Retina Display and the new Macbook Air, Macbook Pro and Mac Pro computers.&nbsp; They also answered questions about backing up your music collection, how to use your iPhone as a scanner and how to scrub&nbsp;a computer of your personal data before you donate it.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8397-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3</a></audio><p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3">#53 Apple News, Saving Tunes and Scanning Documents </a></p>
+<p><img class="alignright size-large wp-image-8402" alt="Macbook Pro, Mac Pro, Scanbox, FineScanner, iPad Air and iPad Mini" src="//media/2013/10/10-23-2013-1024x576.png" width="659" height="370"></p>
+<p>TRANSCRIPT</p>
+<p><strong>RAY:</strong> From WJCT studios in Jacksonville, Florida, I&rsquo;m Ray Hollister,</p>
+<p><strong>TOM:</strong> I&rsquo;m Tom Braun,</p>
+<p><strong>RAY: </strong>and <em>this </em>is Deemable Tech. This week&rsquo;s episode of the Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at a small orange dot com.</p>
+<p><strong>TOM:</strong>&nbsp;Got a question about your computer, smart phone, tablet or the Internet? You can give us a call us at One Eight Eight Eight, Nine Seven Two, Nine Eight Six Eight, or send us an email at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
+<p><strong>RAY: </strong>Hey, we are working on recording an hour long Deemable Tech radio special so give us a call to &ldquo;audition&rdquo; for the show.</p>
+<p><strong>TOM: </strong>Today on the show we?re going to answer your questions about using your smart phone to scan things, backing up your music files and donating your old computer. But first let?s talk tech news.</p>
+<p>Ray, I see you chomping at the bit there, so go ahead and tell us about your tech story of the week!</p>
+<p><strong>RAY: </strong>Well Tom, we get to talk about your favorite thing: Apple had a press event!</p>
+<p>Last Tuesday Apple had a big press announcement</p>
+<p>iPad Air</p>
+<p>? Dropped from 1.4 lbs to 1 lb</p>
+<p>iPad Mini with Retina display $399</p>
+<p>? Same price as the iPad 2 which is still on sale.</p>
+<p>iPad Mini price dropped from $329 to $299</p>
+<p>? Still more expensive than a Nexus 7 at $269 and the Nexus 7 has a better screen.</p>
+<p>New Macbook Pros with Retina Display</p>
+<p>? Faster Intel Haswell CPUs</p>
+<p>? 13&Prime; models saw a $200 price drop.</p>
+<p>13&Prime; Macbook stayed the same price</p>
+<p>The 15&Prime; Macbook disappeared.</p>
+<p>Mac Pro (iTrash&nbsp;can) available date and pricing was announced</p>
+<p>? December 2013</p>
+<p>? Starting at $2,999</p>
+<p>last major update was 2010</p>
+<p>Mavericks OSX 10 FREE</p>
+<p>iWork: Pages, Numbers, and Keynote Formerly $9.99 each on iOS and $19.99 on OSX</p>
+<p>iLife: GarageBand, iPhoto, iMovie&nbsp;&ndash; Formerly $4.99 each on iOS and $15.00 each on OSX</p>
+<p>TOM: In the interest of equal time, here are some other non-Apple stories from this week. Best Buy reports that returns of the Samsung Galaxy Gear are over 30%.</p>
+<p>Acer has a new Chromebook, the Acer 720. It?s got a Haswell CPU under the hood. 11.6-inch 1366&times;768 TN screen. It retails for $249. Includes USB 3.0, HDMI.</p>
+<p>RAY: Kenneth writes, <strong>I want to back up my music/photos files on my Dell Home Edition computer that&rsquo;s using Windows XP as an (OS)Operating System. Which backup system or program do you recommend?</strong></p>
+<p><strong>The reason why I need to do this is because while playing music files the music is skipping so I googled the problem and that&rsquo;s what it recommended me to do is backup my music files. I did try downloading a backup program but I was getting an error message at the finish part of the download.</strong></p>
+<p>TOM: Hey Kenneth. We talked a little about backup programs last week, so you?ll want to check that out. There are a lot of good cloud backup programs out there right now, and they?re easy to use.</p>
+<p>If you want to backup&nbsp;music specifically, it actually gets even easier. Google Play Music will scoop up your music library and upload it to their cloud automatically. From there you can access it from anywhere, or download it again if you lose it.</p>
+<p><strong>RAY:</strong> Yeah, it?s great. But I?m a little confused about something.</p>
+<p>TOM: What?s that?</p>
+<p><strong>RAY:</strong> Why would backing up Kenneth?s music files stop his music player from skipping?</p>
+<p>TOM: Uhhhhhhh? yeah, I don?t know. That seems strange. Backing up your music just makes a copy of it. It doesn?t do anything to the original files.</p>
+<p>The only thing I can think of is that maybe Kenneth is just running out of space on his hard drive.</p>
+<p><strong>RAY:</strong> He did say that he was unable to download a backup program. If he was out of space that would make sense.</p>
+<p>TOM: Yeah. Once you get very low on space on your hard drive you won?t be able to download anything that?s not very small. And it causes a lot of other problems too. Your Operating System uses spare hard drive space to do stuff. Like if a program is running in memory but you?re not using it, your OS might dump a snapshot of that memory onto your hard drive temporarily to free up space. But if you?re out of hard drive space, that?s not going to happen. You?ll see your entire computer getting slower and slower. It might even cause your music to skip.</p>
+<p><strong>RAY:</strong> The only way to fix this is to either delete some files, move files off your hard drive, or uninstall programs.</p>
+<p>TOM: Yeah. If you have an older, smaller hard drive you may find yourself having to do this kind of housekeeping quite a lot. Music files are a great way to start. Try downloading Google Music, because it?s super small. Once it has scanned and uploaded your music library to the cloud, which might take a couple days, start deleting music.</p>
+<p><strong>RAY:</strong> You also need to open up Program Files in the Windows control panel and go through and look for programs you aren?t using. If you see any, click and uninstall them. Remember with most programs you can always reinstall them later if you need them.</p>
+<p><strong>TOM:</strong> Nowadays people have a lot of video files on their hard drives. Nothing will eat up space faster. Time to burn some DVDs! And do you really need a copy of every season of Friends?</p>
+<p>We have a voicemail from Geri:</p>
+<p><strong>Hi guys this is jerry&nbsp;calling over wife I&nbsp;from Cameroon in Africa &hellip; I was calling to harass you asked me to let you know if my old computer game would work gravel &hellip; and it&rsquo;s working great it totally will run on my computer so thanks for the tip okay so my new question I&rsquo;ve just been informed by a friend on face book and that I can use my I phone &hellip; camera as a scanner and that they&rsquo;re apps for the I need to know more and so I&rsquo;m calling to best guys I know to help me find out so that you can do the research and tell me the best thing &hellip; I have an I phone for okay thanks</strong></p>
+<p>Depends on what you want to use it for, OCR or image capture.</p>
+<p><strong>OCR</strong></p>
+<p>ABBYY&nbsp;TextGrabber + Translator $5.99</p>
+<p><strong>Image capture</strong></p>
+<p>ABBYY&nbsp;FineScanner $1.99</p>
+<p>JotNot Scanner Pro $.99</p>
+<p>TOM: Julie wrote in: <strong>I have 2 laptop computers that I would like to donate&nbsp;to a school or organization. How can I erase/remove any personal information in the hard drive, before I donate&nbsp;them? i&nbsp;have been told&nbsp;i can reinstall the original set up discs that came with each one but I can&rsquo;t find those. Is there an inexpensive way to do this, i.e. where I don&rsquo;t have to buy expensive software or take it somewhere like Best Buy where it will cost a lot of $$? Thanks. </strong></p>
+<p>We talked about this once before, on episode #42, but it never hurts to repeat. You have the right idea. You definitely want to wipe your computer <em>before</em> you give it away or sell it.</p>
+<p>In that episode, we mentioned If it?s a Windows PC you?re getting rid of, use a program like Eraser or the Drive Wiper in CCleaner to completely eradicate your data. If you?re tossing out a Mac, there?s a program called Permanent Eraser. All of these programs are free.</p>
+<p>However, one of our listeners, Eva, pointed out that this will not wipe the entire hard drive clean, because it won&rsquo;t wipe the operating system. That is true. To wipe the entire hard drive clean, you need to do one of two things, boot it from the USB or CD/DVD drive or remove the hard drive and use a USB adapter to attach it as an external hard drive to another computer.</p>
+<p>Restore partition.</p>
+<p>Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week!</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#53 Apple News, Saving Tunes and Scanning Documents" data-link="/2013/10/53-apple-news-saving-tunes-scanning-documents/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/10/53-apple-news-saving-tunes-scanning-documents/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-10-27.mp3" length="39942353" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; google image search</title>
+	<atom:link href="/tag/google-image-search/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Ask Deemable Tech: Reverse Image Searching</title>
+		<link>/2015/04/ask-deemable-tech-reverse-image-searching/</link>
+		<comments>/2015/04/ask-deemable-tech-reverse-image-searching/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 12:18:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Ask Deemable Tech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google image search]]></category>
+		<category><![CDATA[question]]></category>
+		<category><![CDATA[radio segments]]></category>
+		<category><![CDATA[reverse image search]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9908</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" />Lori asks, &#8220;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find <a href="/2015/04/ask-deemable-tech-reverse-image-searching/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/04/ask-deemable-tech-reverse-image-searching/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/04/google_reverse_image_search-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google&#039;s &quot;search by image&quot; page." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-9908-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3">http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3</a></audio><div id="attachment_9914" style="width: 460px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/04/google_reverse_image_search.jpg" class="gallery_colorbox"><img class="wp-image-9914" src="//media/2015/04/google_reverse_image_search-300x167.jpg"  alt="Google's &quot;search by image&quot; page." width="450" height="251"></a><p class="wp-caption-text">Credit: Google</p></div>
+<p><em><strong>Lori asks, &ldquo;I have found a beautiful picture of an old barn that I would like to use for my website but the picture is too small. Is there such a thing as a website that will help you find a larger size of image?&rdquo;</strong></em></p>
+<p>As a matter of fact there is, Lori. It&rsquo;s called Google!</p>
+<p>You probably already know that you can use Google to search for images through their Google Images site, but there is a function of it that a lot of people miss. On the right side of that search bar is a camera icon which&nbsp;opens Google?s &ldquo;Search by Image&rdquo; page. This is commonly called &ldquo;reverse image searching.&rdquo;</p>
+<p>Click that icon and a pop-up will appear. In that window you will have a few options:</p>
+<ol><li>You can drag an image to it from your computer;</li>
+<li>Browse to an image on your hard drive;</li>
+<li>Or paste the web address of an image you found on the internet into it.</li>
+</ol><p>Once you&rsquo;ve done one of those things, Google will search for other similar images. It is actually pretty good at finding different sizes of the same image, so you are in luck. It will also show you what Google calls &ldquo;visually similar images,&rdquo; so you might see other pictures of old barns in addition to the one you were looking for.</p>
+<p>Speaking of similar images, when you do a regular Google Image search, it&rsquo;s going to show you a page with dozens of images on it as a result. You can actually use this page to do even more image searching. Click on any of the resulting, pictures and you&rsquo;ll see some related images plus a link above them that says &ldquo;search by image.&rdquo; You can actually click that and launch a new search based on the image you just expanded.</p>
+<p>That should help you find the image you&rsquo;re looking for, Lori, but there is something else you need to think about before you put it on your site: who took the picture that you like so much, and is it free for you to use?</p>
+<p>People often assume that just because you found an image on the internet it is free for anyone to use. However, this is not the case. Most images have owners, and unless those images are specifically licensed under Creative Commons or are in the public domain, you need to obtain written permission to use them. The only exception to this rule is if you&rsquo;re using them for educational purposes or some other very specific reasons. That&rsquo;s known as &ldquo;fair use.&rdquo; What counts as fair use can get complicated, so you should always just try emailing the person that originally took the picture and asking them if you can use it. If you found the picture on an image sharing social media site like Flickr, the photographer usually isn&rsquo;t hard to find.</p>
+<p>There are also lots of websites offering Creative Commons images, which are basically totally free to use as long as you credit them properly. The easiest way to find them is to use the Creative Commons search engine at <a href="http://search.creativecommons.org/" target="_blank">search.creativecommons.org</a>. It can search both Flickr and Google Image Search, as well as several other sites.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Reverse Image Searching" data-link="/2015/04/ask-deemable-tech-reverse-image-searching/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/04/ask-deemable-tech-reverse-image-searching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/04/adt_20150409_reverse_image_search.mp3" length="3396914" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

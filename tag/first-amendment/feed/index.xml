@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; First Amendment</title>
+	<atom:link href="/tag/first-amendment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Is Google censoring BitTorrent? Not exactly.</title>
+		<link>/2011/01/is-google-censoring-bittorrent-not-exactly/</link>
+		<comments>/2011/01/is-google-censoring-bittorrent-not-exactly/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 13:58:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[anti-censorship]]></category>
+		<category><![CDATA[autocomplete]]></category>
+		<category><![CDATA[bittorent]]></category>
+		<category><![CDATA[censorship]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[copyright law]]></category>
+		<category><![CDATA[copyright war]]></category>
+		<category><![CDATA[engadget]]></category>
+		<category><![CDATA[First Amendment]]></category>
+		<category><![CDATA[free speech]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Suggest]]></category>
+		<category><![CDATA[mashable]]></category>
+		<category><![CDATA[TorrentFreak]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=55</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2011/01/googlecensorship-e1353359509205-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google Censorship" style="float:left; margin:0 15px 15px 0;" />I&#8217;ve been reading&#160;a lot of stories on the web this past week about Google&#8217;s supposed &#8220;censorship&#8221; of BitTorrent. Apparently, Google has taken the terms torrent, BitTorrent,&#160;utorrent, RapidShare&#160;and Megaupload out of Google Suggest and Google Instant.&#160;Once TorrentFreak&#160;wrote about this,&#160;&#160;many other popular <a href="/2011/01/is-google-censoring-bittorrent-not-exactly/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/01/is-google-censoring-bittorrent-not-exactly/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/01/googlecensorship-e1353359509205-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google Censorship" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p style="text-align: center;"><img class="aligncenter" title="googlecensorship" src="http://deemable.com/wp-content/uploads/2011/01/googlecensorship.jpg" alt="Screenshot from Google searching for the term censorship"></p>
+<p>I&rsquo;ve been reading&nbsp;a lot of stories on the web this past week about Google&rsquo;s supposed &ldquo;censorship&rdquo; of BitTorrent. Apparently, Google has taken the terms torrent, BitTorrent,&nbsp;utorrent, RapidShare&nbsp;and Megaupload out of <a title="Google Suggest - Google Labs" href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3ITCxIMTGFic0FwcE1vZGVsGIQpDA" target="_blank">Google Suggest</a> and <a title="Google Instant" href="http://www.google.com/instant/" target="_blank">Google Instant</a>.&nbsp;Once <a title="Google Starts Censoring BitTorrent, RapidShare and More | TorrentFreak" href="http://torrentfreak.com/google-starts-censoring-bittorrent-rapidshare-and-more-110126/" target="_blank">TorrentFreak</a>&nbsp;wrote about this,&nbsp;&nbsp;many other popular and well respected blogs such as <a title="Google Engages in Subtle Form of Censorship | Mashable" href="http://mashable.com/2011/01/27/google-censorship/" target="_blank">Mashable</a> and <a title="Google begins censoring autocomplete results for BitTorrent, RapidShare and other Big Media profanity" href="http://www.engadget.com/2011/01/27/google-begins-censoring-bittorrent-rapidshare-and-other-big-med/" target="_blank">Engadget</a> jumped on the &ldquo;Let&rsquo;s&nbsp;beat up the big corporation!&rdquo; bandwagon.</p>
+<p>Now, with this being my first story on the issue, let me say that I am a fervent supporter of the <a title="First Amendment to the United States Constitution | Wikipedia" href="http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution" target="_blank">First&nbsp;Amendment</a>, but I am on the fence on the <a title="Anti-copyright | Wikipedia" href="http://en.wikipedia.org/wiki/Anti-copyright" target="_blank">copyright war</a>. On one hand, I respect the content creators and/or content owners who feel that they deserve to be&nbsp;compensated&nbsp;for their work. On the other hand, I respect those who believe that said content owners are overstepping the rights that the copyright laws give them.</p>
+<p>However, this story stands out to me because I believe this is not a decision about picking sides in the copyright war, but a decision by Google&nbsp;to protect itself from potential liability. &nbsp;Google has the right to prevent its&nbsp;own system from potentially committing a crime, even if that area of law is somewhat grey.&nbsp;If Google was eliminating BitTorrent from their search results I would be preaching from my anti-censorship soapbox too.</p>
+<p>Google Suggest, by the very nature of it&rsquo;s name, is more than just a search engine feature. The name implies that they are &ldquo;suggesting&rdquo; that you search for something in particular. By suggesting searches for you based on what you have already typed they are essentially promoting those searches. If they are promoting searches that lead to sites that allow or endorse an action which may be illegal, that could be&nbsp;interpreted&nbsp;as aiding and abetting.</p>
+<p>I know that I have been guilty of searching for something and getting completely distracted by something unrelated&nbsp;because something that Google suggested caught my eye. I appreciate the fact that Google is at least taking some effort, to prevent its service from suggesting that I do something that is questionably legal.</p>
+<p>For example, while I don&rsquo;t mind that pornography is searchable on Google, I certainly wouldn&rsquo;t appreciate it if Google suggested that I go to a popular porn stars website every time I typed in the first four letters of her name. Obviously, pornography isn&rsquo;t illegal, but it certainly isn&rsquo;t allowed at my workplace or at my house, for that matter. By remaining hands off with the search results, but excluding it from Suggest they are not censoring it, but they aren&rsquo;t pointing people in that direction either.</p>
+<p>While I was researching this article I discovered that apparently Google is referring to the service as <a title="Autocomplete : Features - Web Search Help | Google" href="http://www.google.com/support/websearch/bin/answer.py?hl=en&amp;answer=106230" target="_blank">Autocomplete</a>&nbsp;instead of Google Suggest. While this doesn&rsquo;t change my position&nbsp;on the issue, it I do see the irony. I&rsquo;m curious if the change was due to a recognition of&nbsp;the liability that the name could cause. The one thing that I will fault Google for is that, so far, they have been silent on the issue. I feel that it is always better public relations to be open and honest about your policies, especially if it is a policy that some might interpret as <a title="Freedom of expression - Issues | Google" href="http://www.google.com/publicpolicy/issues/freedom-of-expression.html" target="_blank">contrary to what you have stated before</a>.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Is Google censoring BitTorrent? Not exactly." data-link="/2011/01/is-google-censoring-bittorrent-not-exactly/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Is Google censoring BitTorrent? Not exactly." data-link="/2011/01/is-google-censoring-bittorrent-not-exactly/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/is-google-censoring-bittorrent-not-exactly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

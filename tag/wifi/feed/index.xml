@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; WiFi</title>
+	<atom:link href="/tag/wifi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Deemable Tech Tips: Hacker-Proof Your Phone</title>
+		<link>/2014/06/deemable-tech-tips-hacker-proof-phone/</link>
+		<comments>/2014/06/deemable-tech-tips-hacker-proof-phone/#comments</comments>
+		<pubDate>Sun, 29 Jun 2014 17:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[June 2014 Radio Special]]></category>
+		<category><![CDATA[Location tagging]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[WiFi]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8932</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2014/06/iphone_5s_fingerprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Kelvinsong / Wikimedia" style="float:left; margin:0 15px 15px 0;" />Every once in a while we like to cover something everyone should know, and this time we wanted to talk about securing your personal information &#8211; on your smartphone. If you own a smartphone, you probably keep tons of personal <a href="/2014/06/deemable-tech-tips-hacker-proof-phone/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2014/06/deemable-tech-tips-hacker-proof-phone/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2014/06/iphone_5s_fingerprint-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Image credit: Kelvinsong / Wikimedia" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Every once in a while we like to cover something everyone should know, and this time we wanted to talk about securing your personal information &ndash; on your smartphone.<span id="more-8932"></span></p>
+<div id="attachment_8956" style="width: 310px" class="wp-caption alignright"><a href="http://deemable.com/media/2014/06/iphone_5s_fingerprint.jpg" class="gallery_colorbox"><img class="size-medium wp-image-8956" src="//media/2014/06/iphone_5s_fingerprint-300x210.jpg"  alt="Image credit: Kelvinsong / Wikimedia" width="300" height="210"></a><p class="wp-caption-text">Image credit: Kelvinsong / Wikimedia</p></div>
+<p>If you own a smartphone, you probably keep tons of personal information on it: your address book, emails, passwords, maybe even credit card data. Your phone knows where you work and where you live and who is texting you. It&rsquo;s a gold mine for everyone from phone thieves to advertisers to hackers.</p>
+<p>Many smartphone owners would be surprised at how easy it is to learn some basic hacks which allow you to extract data from someone else&rsquo;s smartphone. But there are a few simple steps that they can take to make it much harder.</p>
+<p>We want to emphasize that it&rsquo;s probably impossible to completely hacker-proof your phone. If government spies are trying to break into your phone, they are probably going to get in. But you <em>can</em> stop your run of the mill identity thieves.</p>
+<h3>Tip #1: Lock your smartphone!</h3>
+<p>It&rsquo;s so simple, and yet so effective!&nbsp;Why should someone bother hacking into your phone when they can just pick it up and see everything on it? You need a lockscreen with a password or an unlock pattern or a fingerprint scanner.&nbsp;Using a password is the <em>most</em> secure technique, and the more characters you have to enter, the better. But even a simple pin code or unlock pattern is better than nothing.</p>
+<p>Most Android phones support unlock patterns. If you use one, though, you should take one extra step for security: wipe down your phone?s screen frequently! This way a thief can&rsquo;t simply follow the smudged fingerprints on the screen to determine your unlock pattern.</p>
+<p>Here&rsquo;s another lock screen tip for those of you with iPhones:&nbsp;by default, iPhones allow you to do a few things without unlocking your phone, like voice dialing and previewing texts. You can disable this, though, and you should.&nbsp;Unless you like the idea of a stranger at the coffee shop reading your texts!</p>
+<h3>Tip #3: Don&rsquo;t connect to open Wi-Fi networks!</h3>
+<p>Avoid that free coffee shop Wi-Fi if it doesn&rsquo;t have a password!&nbsp;Any device, whether it?s a phone or a tablet or a laptop, which is connected to an open Wi-Fi is a hacker?s dream. With some basic software installed, a hacker can see almost everything anyone on the Wi-Fi network is doing &ndash; sending emails, logging into Facebook, etc.</p>
+<p>The good news is, people are wising up to the fact that having unsecured Wi-Fi is not a good idea. Some places still offer it, though. If you don?t have to ask for a password to get in, it?s probably not a good idea to use that Wi-Fi.</p>
+<p>Speaking of Wi-Fi: if you got your iPhone from AT&amp;T it has an interesting extra feature.&nbsp;Any time an AT&amp;T iPhone detects a Wi-Fi network called <em>attwifi</em>, it will automatically try to connect to it.&nbsp;That&rsquo;s a problem, to put it bluntly. A hacker could just setup a network, call it <em>attwifi</em>, and wait for people?s phones to automatically connect to it so they can extract information. The good news is, this is a feature you can turn off on your iPhone, and you should. Just open the Settings app, tap Wi-Fi, and tap the check box next to ?Ask to join networks?. And contact AT&amp;T customer support and tell them that you don&rsquo;t approve of them making their customers&rsquo; phones vulnerable in this way.</p>
+<h3>Tip #4: Turn off location tagging on your smartphone&rsquo;s camera</h3>
+<p>When&nbsp;you&nbsp;take a picture with your smartphone, it adds the GPS coordinates of the place where you&nbsp;took the picture to the image file. Later on, that can help you&nbsp;remember where you&nbsp;took the picture at.&nbsp;That&rsquo;s convenient, but many times when you upload that picture to a website or email it to a friend, the GPS coordinates remain embedded in the file. Anyone who has that picture can figure out where you took it. And if it&rsquo;s your house, well, now they know where you live.&nbsp;And that?s no good.</p>
+<p>You can turn this feature off on Android phones, although the details depend on what phone you have. You should be able to find instructions with a Google search.&nbsp;On an iPhone, go&nbsp;to Settings, and then privacy, and then Location services and then you should see an option for the camera. Switch that to off.</p>
+<h3>Tip #5: Require a password for purchases</h3>
+<p>This&nbsp;is something we&rsquo;ve talked about before, but it?s worth repeating: both Android and iPhone allow you to set a password on the phone that must be entered before you can make purchases on the phone. Stopping kids or others from running up charges on your phone is always a great idea.</p>
+<h3>Tip #6: Disable third party cookies</h3>
+<p>Everybody likes cookies, right?&nbsp;Well, maybe not if they are cookies on your computer which can allow advertisers to track what websites you visit.&nbsp;For those readers&nbsp;who don?t know, a cookie is a small text file that a website places on your computer or smartphone. They can be used to help websites remember to automatically log you in, which is great. But they can also help advertisers to track you which not everybody likes.</p>
+<p>On the iPhone&rsquo;s Safari browser you can stop this. Safari lets you&nbsp;disable &lsquo;third party cookies&rsquo;, which are the kind of cookies that many&nbsp;people don&rsquo;t want, the kind that help advertisers offer targeted ads.&nbsp;Most browsers now offer a &lsquo;DO NOT TRACK&rsquo; option as well. It&rsquo;s a good idea to turn this on. Now here?s the thing, the &lsquo;do not track&rsquo; option is not universally respected. There are some advertisers that will ignore it and track you anyway. But it can?t hurt to have it turned on.</p>
+<h3>Tip #7: Wipe your personal data before you return your phone to the store</h3>
+<p>Occasionally you may need to take your smartphone somewhere to get it repaired or to swap it for a working model. Before you do this, it&rsquo;s a really good idea to wipe all of your personal data from your phone! What you need to do is reset your phone to factory defaults. Your smartphone should come with instructions on how to do this.&nbsp;Of course you should backup all your personal data before you do this as it WILL be erased!</p>
+<p>So these are just a few tips that will help you keep the personal data on your smartphone more secure from thieves, from hackers and even from advertisers. And if nothing else, you should always,&nbsp;<em>always &ndash;</em></p>
+<p><strong>LOCK YOUR PHONE.</strong></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/deemable-tech-tips-hacker-proof-phone/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; Chromebook</title>
+	<atom:link href="/tag/chromebook/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>#106 It&#8217;s So Hard To Say Goodbye&#8230; For Now</title>
+		<link>/2016/05/106-its-so-haroodbye-for-now/</link>
+		<comments>/2016/05/106-its-so-haroodbye-for-now/#comments</comments>
+		<pubDate>Tue, 24 May 2016 16:18:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Birch]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=10579</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2016/05/dt_explosion-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_explosion" style="float:left; margin:0 15px 15px 0;" />This week Ray, Tom and Sean talk about quantum computers, Google&#8217;s new messaging apps, and the possibility of an all-glass iPhone. Plus the guys share some sad news. A special message from Ray, Tom and Sean If you&#8217;re an avid <a href="/2016/05/106-its-so-haroodbye-for-now/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2016/05/106-its-so-haroodbye-for-now/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2016/05/dt_explosion-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="dt_explosion" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>This week Ray, Tom and Sean talk about quantum computers, Google&rsquo;s new messaging apps, and the possibility of an all-glass iPhone. Plus the guys share some sad news.</p>
+<p><a href="http://deemable.com/media/2016/05/dt_explosion.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-10585 size-full" src="//media/2016/05/dt_explosion.jpg"  alt="dt_explosion" width="960" height="720"></a></p>
+<p><span id="more-10579"></span></p>
+<h3>A special message from Ray, Tom and Sean</h3>
+<p>If you&rsquo;re an avid listener to Deemable Tech, it will probably come as no surprise that we&rsquo;ve been having some difficulty putting out shows for the past few months. The three of us have gone through some major changes in our careers and lives over the past year, and those have taken away a lot of the time we&rsquo;ve had to devote to bringing you this show every week.</p>
+<p>So, after months of not recording an episode, we&rsquo;ve made the tough decision to end the Deemable Tech podcast. For now, at least.</p>
+<p>We&rsquo;ve come to the realization that it is just not sustainable. We can&rsquo;t keep producing the show to the level that we did before, and it was unfair of us to leave you in the dark about it.</p>
+<p>We may relaunch the show down the road, if we are able to.&nbsp;If&nbsp;you are interested in finding out when we or if we do, sign up for our newsletter on the right side of this page.&nbsp;You&rsquo;ll be the first to know.</p>
+<p>We won&rsquo;t be gone completely, though. You can still catch us answering your tech questions every week on Ask Deemable Tech, so be sure to subscribe to that podcast or listen live Thursdays on 89.9 FM WJCT.</p>
+<p>If you have any farewell messages for us, leave us a voicemail at 1-888-972-9868 or send an email to feedback at deemable dot com.</p>
+<p>We&rsquo;ve truly appreciated you listening to (and sometimes even enjoying) our shenanigans for the past four years. It&rsquo;s been a blast.</p>
+<p>Now let&rsquo;s take this baby for one last ride!</p>
+<p><img class="aligncenter" src="http://i.giphy.com/mWmip2ArAPHJC.gif" alt=""></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10579-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3">http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3</a></audio><h1>THE RUN DOWN</h1>
+<h3>Google releases Science Journal app</h3>
+<p>For those of you who loved doing science projects as a kid, Google recently released a new app that you&rsquo;ll love.</p>
+<p>The app, Science Journal, uses the sensors in your phone to measure and record data in real time, including movement, light and sound.</p>
+<p><span style="letter-spacing: 0.05em; line-height: 1.6875;"><a href="https://makingscience.withgoogle.com/science-journal" target="_blank">As Google says on the Science Journal site</a>, &ldquo;See something you want to measure? How much light is in my room compared to outside? How loud is the dog&rsquo;s bark compared to my cough? Record your observations in real-time at the press of a button. Explore your environment or measure things you&rsquo;ve built yourself.&rdquo;</span></p>
+<p>Among other features, Science Journal lets you record measurements as charts and graphs, and record a voice memo as you&rsquo;re doing your experiment so you can give extra details about it.</p>
+<p>Google has also partnered with the Exploratorium in San Francisco to sell special little kits with materials like sensors your phone doesn&rsquo;t have to let you measure other stuff.</p>
+<p>Science Journal is currently only available for Android.</p>
+<h3>It&rsquo;s all about the qubits, baby</h3>
+<p>Verge is reporting that IBM has made <a href="http://www.theverge.com/2016/5/4/11589656/ibm-quantum-computing-cloud" target="_blank">a working quantum computer that anyone in the world can play with</a>.</p>
+<p>What does that mean? Glad you asked! Basically, as anyone who has watched any movie from the 90s that involved computers can tell you, computers work by translating ones and zeros into machine understandable language and then translating that into human language and user interfaces. Quantum computers use ones, zeros and both at the same time.</p>
+<p>Now the question is, what to do with that. We&rsquo;ve built an entire industry out of a binary system, and now that we have the capability to expand it to a trinary or &ldquo;ternary&rdquo; system, the question is how to use it. So, IBM has opened it to the public for research and experimentation because basically the only people who understand what we just said are scientists.</p>
+<h3>Google says hello to Allo and Duo</h3>
+<p>One area where Google has long lagged behind competitors like Apple and Facebook has been in messaging. Rather than having a single, unified messaging app, Google has introduced numerous messaging systems like Gchat, Google Hangouts, and the default Android text-messaging app.</p>
+<p>This week at Google&rsquo;s I/O event, the company announced <a href="http://arstechnica.com/gadgets/2016/05/googles-allo-and-duo-are-2-communication-apps-based-on-your-phone-number/" target="_blank">two new messaging apps, Allo and Duo</a>. Allo is for text messaging, and includes Google bot technology which offers up auto-responses to messages based on things you usually type.</p>
+<p>Duo, meanwhile, is a 1-on-1 video chat app. It is optimized to work even in low-bandwidth situations.</p>
+<p>Both apps support end-to-end encryption, however, controversially, it will not be enabled be default. Some think this might be because it would impede their ability to offer features like the auto response bot.</p>
+<h3>All-glass iPhone?</h3>
+<p>We couldn&rsquo;t do a final episode of the podcast without Ray talking about iPhones, could we?</p>
+<p>Forbes is reporting that the <a href="http://www.forbes.com/sites/ewanspence/2016/05/20/apple-news-digest-iphone-7-leak-ios-9-3-2-broken/#6d348b86407d" target="_blank">iPhone 8 could lose the unibody aluminium case for an all glass one</a>. No, you didn&rsquo;t read that incorrectly, the next iPhone is the presumptively going to be coined the &ldquo;7&rdquo;, but this rumor is about the iPhone 8.</p>
+<p>The glass case is expected to wrap around the entire device and have no bezel as a result.</p>
+<p>And apparently the entire front of the phone will be screen. The front facing camera, touch ID sensor, speaker and proximity sensor will somehow all be behind the screen.</p>
+<h3>Android apps coming to Chromebooks</h3>
+<p>The Google Play Store is coming to Chromebooks. Along with every single Android app!</p>
+<p><a href="http://arstechnica.com/gadgets/2016/05/if-you-want-to-run-android-apps-on-chromebooks-youll-need-a-newer-model/" target="_blank">As Ars Technica puts it</a>, everything &ldquo;from Microsoft Word to Hearthstone to Firefox will be able to run on Chrome OS without noticeable performance penalties.&rdquo;</p>
+<p>That&rsquo;s the pretty great stuff. Here&rsquo;s the asterisk: Google has released a compatibility list for this amazing new feature and it basically excludes any Chromebook older than two years old. This even includes Google&rsquo;s souped-up and overpriced Pixel Chromebook.</p>
+<p><em>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</em></p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#106 It's So Hard To Say Goodbye... For Now" data-link="/2016/05/106-its-so-haroodbye-for-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#106 It's So Hard To Say Goodbye... For Now" data-link="/2016/05/106-its-so-haroodbye-for-now/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/106-its-so-haroodbye-for-now/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2016/05/DeemableTech_2016-05-23.mp3" length="33498125" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#81 Don&#8217;t Call It A Gate!</title>
+		<link>/2015/05/81-dont-call-it-a-gate/</link>
+		<comments>/2015/05/81-dont-call-it-a-gate/#comments</comments>
+		<pubDate>Fri, 01 May 2015 14:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple iPhone]]></category>
+		<category><![CDATA[apple watch]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[MS-DOS]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Windows 8]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=9969</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2015/05/ScratchediPod-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="ScratchediPod" style="float:left; margin:0 15px 15px 0;" />This week, Google launched&#160;a Mobile Virtual Network Operator (MVNO). The new phone service uses Sprint, T0Mobile and Wi-Fi,&#160;but it only has one phone, the Nexus 6. There&#8217;s a few Apple Watch &#8216;scandals&#8217; ramping up: tattoo-gate, scratch-gate and tap-gate. Microsoft has <a href="/2015/05/81-dont-call-it-a-gate/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2015/05/81-dont-call-it-a-gate/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2015/05/ScratchediPod-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="ScratchediPod" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_9972" style="width: 410px" class="wp-caption alignright"><a href="http://deemable.com/media/2015/05/ScratchediPod.jpg" class="gallery_colorbox"><img class="wp-image-9972" src="//media/2015/05/ScratchediPod.jpg"  alt="ScratchediPod" width="400" height="300"></a><p class="wp-caption-text">Anyone who&rsquo;s ever owned an iPod knows that stainless steel scratches.</p></div>
+<p>This week, Google launched&nbsp;a Mobile Virtual Network Operator (MVNO). The new phone service uses Sprint, T0Mobile and Wi-Fi,&nbsp;but it only has one phone, the Nexus 6. There&rsquo;s a few Apple Watch &lsquo;scandals&rsquo; ramping up: tattoo-gate, scratch-gate and tap-gate. Microsoft has a new &ldquo;edge&rdquo;ier web browser, a man shoots up his Dell and the robots are coming to steal your car.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a><a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="//media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
+<p>If you haven?t <a title="Subscribe to Deemable Tech" href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/ca/podcast/deemable-tech-wjct/id540595466?mt=2" target="_blank" rel="external nofollow">subscribed to Deemable Tech</a> yet, get on it! Subscribe to <a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">Deemable Tech&nbsp;in iTunes</a>,&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader</a>. Make sure to leave a review on iTunes and Stitcher. The more reviews posted,&nbsp;the higher Deemable Tech will&nbsp;be listed, and the more listeners will see the&nbsp;show.</p>
+<p>And make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="http://deemable.com/reddit" target="_blank">Deemable.com/reddit</a> will take you there.</p>
+<p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
+<audio class="wp-audio-shortcode" id="audio-9969-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/05/DeemableTech_2015-05-01.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/05/DeemableTech_2015-05-01.mp3">http://cpa.ds.npr.org/wjct/audio/2015/05/DeemableTech_2015-05-01.mp3</a></audio><h1>THIS WEEK&rsquo;S&nbsp;RUN DOWN</h1>
+<h3>You can now embed playable MS-DOS games inside tweets</h3>
+<p>Earlier this year, the Internet Archive added roughly <a href="https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fsoftwarelibrary_msdos_games%26tab%3Dcollection&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF_I9w3Ka6yoFsvfYIUcO27Ep4P8w">2,400 MS-DOS games to their digital archive that are playable through your web browser</a>&nbsp;on their site, Archive.org. But if you?re too scared to leave Twitter to check this out, never fear. The folks at Wired discovered this week that you can <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.wired.com%2F2015%2F04%2Fembed-games-into-tweets%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFDEVcY7zZYUSwZ25qRCYuZhKsR8w">embed the games inside of tweets</a>&nbsp;and play them right from those tweets.</p>
+<p>So, you can now get your Oregon Trail, Sim City or Wolfenstein 3D fix from Twitter. Or, you can try out other classic games like the adaptation of the 1991 Hulk Hogan cinematic masterpiece <a href="https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fmsdos_Suburban_Commando_1993&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFmxb8aGo-5rR7cKBu4ZqyEQHYjFg">Suburban Commando</a>&nbsp;(just kidding, you should never do that).</p>
+<h3>Google announces cellular data network, which is actually two networks.</h3>
+<p>Google has <a href="http://www.google.com/url?q=http%3A%2F%2Farstechnica.com%2Fgadgets%2F2015%2F04%2F22%2Fhow-googles-project-fi-pricing-stacks-up-to-the-competition%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEIfE5LtjuX1Y_5Bd4Nvlx3TETCsQ">officially announced</a>&nbsp;its long-rumored cellular data network: its name is ProjectFi. As anticipated it is an MVNO network, which means that Google is ?renting? time on someone else?s network like many other small cellular companies. The differences is that Google is renting not from one other network, but two: Sprint &amp; T-mobile, as well as WiFi. When you are on a ProjectFi connection your phone will seamlessly switch to whichever one of those networks is strongest. ProjectFi?s offers a very straightforward billing structure which will be appealing to some. It also will let you ?bank? unused minutes each month. And it offers promises of more innovations to come. The catch? Right now it is only offered for a single phone: the Nexus 6, and there is no LTE high speed service.</p>
+<h3>Robot car movers</h3>
+<p>The <a href="http://www.google.com/url?q=http%3A%2F%2Fgizmodo.com%2Fthis-gang-of-flat-robots-can-autonomously-steal-or-par-1700680911&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_oJhAxLaHutxwvtz7d5M95pfVzQ">robots are coming to steal your car</a>, or just move it out of the way. Gizmodo shared a story that researchers in Europe have created AVERT, the Autonomous Vehicle Emergency Recovery Tool. It is a system of robots that look like something out of Battle Bots. They are flat pieces of steel with rotors on the ends of them. Eight of them work together to pick up your cars tires and wheel it away. They only lift the car about an inch off the ground, but that&rsquo;s all they need to move it out of the way. The idea is that the robots can easily move a car parked in a tight spot if there is a bomb in a nearby car. They could also be used to move an illegally parked car or a car that is blocking emergency services. Or, when the robots become sentient, they will likely start a car robbing career.</p>
+<h3>Man puts 8 bullets in his Dell desktop, tells police it was worth the ticket.</h3>
+<p><a href="http://www.google.com/url?q=http%3A%2F%2Farstechnica.com%2Ftech-policy%2F2015%2F04%2F22%2Fman-puts-8-bullets-in-his-dell-tells-police-its-worth-the-ticket%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHxdiaHiFSLGSpGwTy-gaDAVGHevw">Police say that at 7 PM on a Monday, Lucas Hinch, the owner of a homeopathic herb store in Colorado Springs, Colorado, took his Dell XPS 410 out into an alley behind the store and unloaded eight bullets into it with a 9mm pistol</a>. Hinch was ticketed for discharging a gun within city limits.</p>
+<p>Lynch told the Los Angeles Times, which interviewed him, that the machine kept giving him the blue screen of death and that he had ?had enough.? He said that the shooting was ?definitely premeditated? and that he had no regrets. He reportedly told officers he did not know he was breaking the law in discharging his weapon.</p>
+<h3>Microsoft unveils Edge browser</h3>
+<p>During the opening keynote of their Microsoft Build developers conference this week, <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C2817%2C2483459%2C00.asp&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGk4Rk3f2KJLqhuVRuTqKtqFY2aGw">Microsoft unveiled the successor to their Internet Explorer browser (which they recently announced was ending).</a></p>
+<p>The new browser, now called Edge (formerly Project Spartan), is said to be faster and more modern and will be a universal app across all Windows devices. Features will include, among others, extensions like you find for Chrome and Firefox, integration of Microsoft?s Cortana virtual assistant to help you search for things, reading mode (which removes everything from a page except for the text), and an annotation tool (which lets you draw on a webpage, take a picture of it and share that picture).</p>
+<p>The new browser will not be in the initial release of Windows 10 this year, but will be included in a later update. Windows 10 will be shipped with Internet Explorer 11 for legacy compatibility, so you will have one last chance to use everyone?s favorite browser before it goes softly into that good night.</p>
+<h3>Tired of remember your passwords? Try swallowing them instead?</h3>
+<p>In a recent interview with The Wall Street Journal, Paypal?s global head of developer advocacy, Jonathan Leblanc, <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.motherjones.com%2Fkevin-drum%2F2015%2F04%2Fswallowing-passwords-biometric-paypal-leblanc&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEVa64GMFTci-ARVRnBbhwV4EHOrQ">said that passwords might soon be available as ?embeddable, injectable and ingestible devices.?</a>&nbsp;Mr. Leblanc said that in the near future thin silicon chips might be embedded under our skin or capsules might detect glucose levels to verify that someone is who they say they are.</p>
+<p>The Wall Street Journal notes, &ldquo;Mr. Leblanc admits that there&rsquo;s still a ways to go before cultural norms catch up with ingestible and injectable ID devices.&rdquo;</p>
+<h3>Google files patent for laptop with no spacebar.</h3>
+<p>Google already kicked the CAPS-LOCK key to the curb with its Chromebooks and <a href="http://www.google.com/url?q=http%3A%2F%2Fqz.com%2F393209%2Fgoogle-wants-to-do-away-with-space-bars%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEFH21pgG7RnHwMAN_uw08JgYP6QQ">now it appears it may be preparing to do the same thing to the spacebar</a>. In a patent filed this week the company outlines a design where the spacebar is replaced by an extended trackpad. Sensors would determine whether the user wants the top of the trackpad to be treated as a spacebar or a mouse. Google told Quartz, who broke the story, that some patents get turned into products and some don?t, so only time will tell whether we will see a spacebar-free Chromebook.</p>
+<h3>Apple Watch &ndash; Tattoo-gate</h3>
+<p>Reports are coming in on Twitter and Reddit that people with tattoos on their wrists may have difficulty using their new Apple watches. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.imore.com%2Fheres-why-apple-watch-does-not-play-nice-with-some-tattoos&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHxa84tcqtJg-bjrlAehBVvopWbQQ">iMore.com looked into it and confirmed the reports</a>. The heart sensor detects pulse by flashing an LED light on your skin and senses the reflection. The problem is when you have a tattoo the reflection is distorted by the ink. Your mileage may vary, but for some folks it is really annoying. The Apple Watch uses the heart sensor to detect if you are wearing the watch, so when it doesn&rsquo;t sense your heart rate, it forces you to re-enter your pin number.</p>
+<h3>Apple Watch &ndash; Scratch-gate</h3>
+<p>If you don&rsquo;t like scratches, you probably shouldn&rsquo;t get the stainless steel Apple watch. A lot of folks are reporting on social media that their steel <a href="http://www.google.com/url?q=http%3A%2F%2Fmashable.com%2F2015%2F04%2F27%2Fapple-watch-stainless-steel-scratches%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH6Stlu5qbDBdG14wctYlZbAEg-WQ">Apple watches are already scratched up</a>. <a href="http://www.google.com/url?q=http%3A%2F%2F9to5mac.com%2F2015%2F04%2F26%2Fapple-watch-fix-scratches%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGyOd9RtCgjPs8gKhLvKrKICr5diQ">9to5Mac.com has an easy fix. Just buff it, like every other stainless steel watch in </a><a href="http://www.google.com/url?q=http%3A%2F%2F9to5mac.com%2F2015%2F04%2F26%2Fapple-watch-fix-scratches%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGyOd9RtCgjPs8gKhLvKrKICr5diQ">existence</a><a href="http://www.google.com/url?q=http%3A%2F%2F9to5mac.com%2F2015%2F04%2F26%2Fapple-watch-fix-scratches%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGyOd9RtCgjPs8gKhLvKrKICr5diQ">.</a>&nbsp;Or, get the aluminum model, which is actually harder than the steel version.</p>
+<h3>Apple Watch &ndash; Tap-gate</h3>
+<p>Now for the first, actual, real problem with the Apple watch. According to the Wall Street Journal, <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fapple-watch-faulty-taptic-engine-slows-roll-out-1430339460&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_NZhwUZRibof94tZ5XtkKmUiqhA">Apple has found a major defect in the taptic engine</a>&nbsp;in the watches. The taptic engine is the feature that causes the watch to vibrate or tap the wearer. It was a pretty groundbreaking feature because it models sounds so a tweet &ldquo;feels&rdquo; like a tweet, and a tap feels like a tap. Two companies built the taptic engines, but one of the suppliers has produced faulty engines. The Verge says that Daring Fireball&rsquo;s John Gruber received an Apple Watch that had a taptic engine that didn&rsquo;t work.</p>
+<h1>OUTRO</h1>
+<p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback@deemable.com.</p>
+<p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. deemable.com/reddit will take you there</p>
+<p>I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, I&rsquo;m Sean Birch and this is Deemable Tech. Thanks for listening.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#81 Don't Call It A Gate!" data-link="/2015/05/81-dont-call-it-a-gate/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#81 Don't Call It A Gate!" data-link="/2015/05/81-dont-call-it-a-gate/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2015/05/81-dont-call-it-a-gate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/05/DeemableTech_2015-05-01.mp3" length="32491838" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Google&#8217;s Chromebooks Take Another Step Toward Native Apps</title>
+		<link>/2013/09/googles-chromebooks-take-another-step-toward-native-apps/</link>
+		<comments>/2013/09/googles-chromebooks-take-another-step-toward-native-apps/#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 17:41:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chrome Apps]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Web Apps]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=8178</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/09/Pixlr_screenshot_610x3431-150x150.png" class="attachment-thumbnail wp-post-image" alt="The photo editing app, Pixlr shown working as a packaged Chrome app." style="float:left; margin:0 15px 15px 0;" />The most substantial&#160;criticism that could be lobbed against Chromebooks&#160;has been there are very few apps for the system that can be&#160;used offline. Most of the &#8220;apps&#8221; for Chromebooks are, in fact, actually just websites. The Chrome Web Store is full <a href="/2013/09/googles-chromebooks-take-another-step-toward-native-apps/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/09/googles-chromebooks-take-another-step-toward-native-apps/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/09/Pixlr_screenshot_610x3431-150x150.png" class="attachment-thumbnail wp-post-image" alt="The photo editing app, Pixlr shown working as a packaged Chrome app." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="attachment_8180" style="width: 620px" class="wp-caption alignnone"><img class="size-full wp-image-8180 " alt="The photo editing app, Pixlr shown working as a packaged Chrome app. " src="//media/2013/09/Pixlr_screenshot_610x3431.png" width="610" height="343"><p class="wp-caption-text">The photo editing app, Pixlr shown working as a packaged Chrome app.</p></div>
+<p>The most substantial&nbsp;criticism that could be lobbed against Chromebooks&nbsp;has been there are very few apps for the system that can be&nbsp;used offline. Most of the &ldquo;apps&rdquo; for Chromebooks are, in fact, actually just websites. The Chrome Web Store is full of apps that you give you big icons and sometimes include special splash screens for Chrome, but essentially, they are just bookmarks for the browser. However, that is about to start changing. The new Chrome Packaged Apps, found in the <a href="https://chrome.google.com/webstore/a/google.com/category/collection/for_your_desktop">For Your Desktop</a>&nbsp;section of the Chrome Web Store has apps that work outside of the browser. The apps download to the computer, work offline and are able to use more of the computer&rsquo;s hardware such as the bluetooth and USB connections. Right now, the Packaged Apps only work on Windows and Chromebooks, but Mac and Linux support is being developed. Unfortunately, these apps will not work in Android or iOS as both mobile platforms prevent apps from running inside other apps.</p>
+<p>For more on this story, check out Seth Rosenblatt story at CNET: <a title="Five years after it shook up the Web with its unexpected debut, Chrome gambles again as it takes the Web offline with its new " href="http://news.cnet.com/8301-1001_3-57601428-92/new-chrome-apps-take-the-web-out-of-the-browser/" target="_blank">New Chrome Apps take the Web out of the browser</a>.</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Google's Chromebooks Take Another Step Toward Native Apps" data-link="/2013/09/googles-chromebooks-take-another-step-toward-native-apps/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Google's Chromebooks Take Another Step Toward Native Apps" data-link="/2013/09/googles-chromebooks-take-another-step-toward-native-apps/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/googles-chromebooks-take-another-step-toward-native-apps/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Episode 25 &#8211; Single-Handedly Fixing New Year&#8217;s Resolutions and 2013 Tech Predictions!</title>
+		<link>/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/</link>
+		<comments>/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/#comments</comments>
+		<pubDate>Mon, 07 Jan 2013 05:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[computer help]]></category>
+		<category><![CDATA[desktop]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Chromebooks]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Microsoft Phone 8]]></category>
+		<category><![CDATA[PC help]]></category>
+		<category><![CDATA[predictions]]></category>
+		<category><![CDATA[RIM]]></category>
+		<category><![CDATA[tech questions]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6607</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2013/01/2013TechPredictions-150x150.png" class="attachment-thumbnail wp-post-image" alt="A crystal ball with the logos of Apple, Blackberry, Facebook, Google, HP and Microsoft floating around inside." style="float:left; margin:0 15px 15px 0;" />We&#8217;re back and we&#8217;ve got spam! Yes, folks, even we here at Deemable Tech get spam now and then. But, this is a new kind of spam scam, so tune in to find out more about it so you don&#8217;t <a href="/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2013/01/2013TechPredictions-150x150.png" class="attachment-thumbnail wp-post-image" alt="A crystal ball with the logos of Apple, Blackberry, Facebook, Google, HP and Microsoft floating around inside." style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2013/01/2013TechPredictions.png" class="gallery_colorbox"><img class="alignright  wp-image-6611" title="Deemable Tech's 2013 Tech Predictions!" alt="A crystal ball with the logos of Apple, Blackberry, Facebook, Google, HP and Microsoft floating around inside." src="//media/2013/01/2013TechPredictions.png"  width="300" height="300"></a>We&rsquo;re back and we&rsquo;ve got spam! Yes, folks, even we here at Deemable Tech get spam now and then. But, this is a new kind of spam scam, so tune in to find out more about it so you don&rsquo;t fall victim to it. Also, we have our predictions for 2013 in the tech industry, and we have apps to help you keep your New Year&rsquo;s resolutions<em>. </em>And one listener wants to know, can a laptop be used as a desktop? All that and more, on this episode of Deemable Tech!</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-3336 (DEEM), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-07.mp3">Episode 25 &ndash; Single-Handedly Fixing New Year&rsquo;s Resolutions and 2013 Tech Predictions! </a></p>
+<audio class="wp-audio-shortcode" id="audio-6607-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-07.mp3?_=3"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-07.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-07.mp3</a></audio><p><strong>What are your resolutions for 2013, and what apps are you using to keep track of them? Also, do you have any tech predictions for 2013? Tell us in the comments down below!</strong></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 25 - Single-Handedly Fixing New Year's Resolutions and 2013 Tech Predictions!" data-link="/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 25 - Single-Handedly Fixing New Year's Resolutions and 2013 Tech Predictions!" data-link="/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/episode-25-single-handedly-fixing-new-years-resolutions-and-2013-tech-predictions/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2013-01-07.mp3" length="33578423" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 24 &#8211; Holiday Minisode 2: The not so &#8220;mini&#8221; episode</title>
+		<link>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/</link>
+		<comments>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/#comments</comments>
+		<pubDate>Mon, 17 Dec 2012 13:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[CloudMagic]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Google Chromebooks]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[The Cloud]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<category><![CDATA[Windows 8 tablets]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6469</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/SearchingTheClouds-150x150.png" class="attachment-thumbnail wp-post-image" alt="Searching The Clouds" style="float:left; margin:0 15px 15px 0;" />Today, Tom and Ray were supposed to do another short mini episode, but they got way off the rails, and ended up recording a 49 minute episode! &#160;They had tons of fun, and answered four of your tech help questions. <a href="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/SearchingTheClouds-150x150.png" class="attachment-thumbnail wp-post-image" alt="Searching The Clouds" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/12/SearchingTheClouds.png" class="gallery_colorbox"><img class="alignright size-medium wp-image-6475" title="Searching The Clouds" alt="" src="//media/2012/12/SearchingTheClouds-300x234.png"  width="300" height="234"></a>Today, Tom and Ray were supposed to do another short mini episode, but they got way off the rails, and ended up recording a 49 minute episode! &nbsp;They had tons of fun, and answered four of your tech help questions.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" alt="" src="//media/2012/07/subscribe_on_iTunes.jpg" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="//feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3">Episode 24: Holiday Minisode 2: The not so &ldquo;mini&rdquo; episode</a><br><audio class="wp-audio-shortcode" id="audio-6469-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3?_=4"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3</a></audio></p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Can I manage multiple email accounts from one web app like I can do on my iPhone?</li>
+<li>What are the differences between Windows and Android tablets, and which would be best for me as a writer?</li>
+<li>Why does Flash keep crashing on Chrome?</li>
+<li>How can I search my clouds?</li>
+</ul><h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a title="Lifehacker - Top 10 Handy iOS Tweaks That Don't Require Jailbreaking" href="http://lifehacker.com/5968627/top-10-handy-ios-tweaks-that-dont-require-jailbreaking?popular=true" target="_blank">Top 10 Handy iOS Tweaks That Don&rsquo;t Require Jailbreaking</a></li>
+<li><a href="http://lifehacker.com/5929546/see-the-actual-signal-strength-on-your-iphone-with-this-quick-tweak" target="_blank">See the Actual Signal Strength on Your iPhone or Android</a></li>
+<li><a href="http://www.makeuseof.com/tag/4-ways-simultaneously-manage-multiple-gmail-accounts/">http://www.makeuseof.com/tag/4-ways-simultaneously-manage-multiple-gmail-accounts/</a></li>
+<li><a title="CloudMagic - a better life with every search" href="https://cloudmagic.com/" target="_blank">Searching the cloud with Cloudmagic</a></li>
+</ul><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-17.mp3" length="47327190" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episode 23 &#8211; Holiday Minisode 1: Tablets vs. Laptops</title>
+		<link>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/</link>
+		<comments>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/#comments</comments>
+		<pubDate>Mon, 10 Dec 2012 14:27:21 +0000</pubDate>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[ESRB]]></category>
+		<category><![CDATA[game ratings]]></category>
+		<category><![CDATA[Google Chromebooks]]></category>
+		<category><![CDATA[Google Nexus 7]]></category>
+		<category><![CDATA[Google tablet]]></category>
+		<category><![CDATA[hashtag baby]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[netbook]]></category>
+		<category><![CDATA[Nexus 7]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[wipe hard drive]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=6422</guid>
+		<description><![CDATA[<img width="150" height="150" src="/media/2012/12/ray_with_tom_smile-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s face with Tom&#039;s Smile" style="float:left; margin:0 15px 15px 0;" />Episode 23 &#8211; Holiday Minisode 1: Tablets vs. Laptops Ray Hollister was out for today&#8217;s episode, but don&#8217;t worry, he&#8217;s always with us in spirit! Kristen Spencer co-hosts with Tom Braun as they talk about what video games, game systems, <a href="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2012/12/ray_with_tom_smile-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Ray&#039;s face with Tom&#039;s Smile" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><a href="http://deemable.com/media/2012/12/ray_with_tom_smile.jpg" class="gallery_colorbox"><img class="alignright size-medium wp-image-6433" title="What a great smile!" src="//media/2012/12/ray_with_tom_smile.jpg"  alt="Ray's Face with Tom's Smile" width="300" height="260"></a></p>
+<p><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3">Episode 23 &ndash; Holiday Minisode 1: Tablets vs. Laptops</a></p>
+<audio class="wp-audio-shortcode" id="audio-6422-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3?_=5"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3">http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3</a></audio><p>Ray Hollister was out for today&rsquo;s episode, but don&rsquo;t worry, he&rsquo;s always with us in spirit! Kristen Spencer co-hosts with Tom Braun as they talk about what video games, game systems, tablets and laptops to get your kids for the holidays.</p>
+<p>And make sure you listen <em>all</em> the way to the end for a little something&hellip; extra.</p>
+<p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="itpc://feeds.feedburner.com/DeemableTech" rel="attachment wp-att-5275"><img title="Subscribe on iTunes" src="//media/2012/07/subscribe_on_iTunes.jpg" alt="" width="160" height="59"></a></p>
+<p>Make sure to&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="pcast://feeds.feedburner.com/DeemableTech">subscribe to the show in iTunes by clicking here</a>, or&nbsp;<a title="Subscribe to Deemable Tech Podcast!" href="http://dmbl.co/pod">subscribe to the show in another podcast reader by clicking here</a>. Also,&nbsp;make sure to leave us a review in iTunes. The more reviews we have the higher we&rsquo;ll be listed in iTunes and the more listeners will see our show!</p>
+<p>Need tech help? Got a problem or tech question about your computer, phone or tablet? Give us a call and leave us a voice mail at 904-372-DEEM (3336), or send us an email to questions at deemable dot com. We&rsquo;ll take the best questions and answer them on the show.</p>
+<h3>Today&rsquo;s Questions:</h3>
+<ul><li>Should I buy my son a tablet or a laptop?</li>
+<li>What&rsquo;s the point of Twitter? And did someone really name their baby &lsquo;Hashtag&rsquo;?</li>
+<li>How do I make sure all personal data is erased before giving someone my old computer?</li>
+</ul><h3>Links we mentioned on today&rsquo;s show:</h3>
+<ul><li><a href="http://www.esrb.org/mobile/">ESRB Game Rating Search App</a></li>
+<li><a href="https://play.google.com/store/devices/details?id=nexus_7_16gb">Buy a Nexus 7</a></li>
+<li><a href="http://www.google.com/intl/en/chrome/devices/#utm_campaign=en&amp;utm_source=en-ha-na-us-bkws&amp;utm_medium=ha">Buy Google Chromebooks</a></li>
+<li><a href="http://www.csmonitor.com/Innovation/Tech-Culture/2012/1128/Baby-named-Hashtag-draws-Internet-fame-ire-skepticism">Baby named &ldquo;Hashtag&rdquo; goes viral</a></li>
+<li><a href="http://sourceforge.net/projects/dban/">DBAN &ndash; Free program for wiping a hard drive</a></li>
+<li><a href="http://pcsupport.about.com/od/toolsofthetrade/ht/write-zeros-format-command.htm">The &lsquo;Write Zero&rsquo; method of hard drive formatting</a></li>
+</ul><p>&nbsp;</p>
+<div></div>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://cpa.ds.npr.org/wjct/audio/2015/02/DeemableTech_2012-12-09.mp3" length="29745319" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>The End of Google I/O 2011</title>
+		<link>/2011/05/the-end-of-google-io-2011/</link>
+		<comments>/2011/05/the-end-of-google-io-2011/#comments</comments>
+		<pubDate>Thu, 12 May 2011 19:44:05 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[IO]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[netbook]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=3100</guid>
+		<description><![CDATA[&#8220;Innovation in the Open&#8221; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&#8217;s &#8220;Google I/O&#8221;, a two-day developer-focused conference that&#8217;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions <a href="/2011/05/the-end-of-google-io-2011/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/05/the-end-of-google-io-2011/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://www.google.com/events/io/2011/static/img/logo-live.png" alt="" width="250" height="72"></p>
+<p>&ldquo;Innovation in the Open&rdquo; or Input/Output? Take your pick. Whichever you chose, yesterday marked the end of 2011&rsquo;s &ldquo;Google I/O&rdquo;, a two-day developer-focused conference that&rsquo;s taken place every year since 2008. The live conference features comprehensive and highly technical sessions on ongoing developments in the world of Google&rsquo;s open technologies and applications. Take a look at some of the key highlights of this year&rsquo;s event; there are several exciting new Google products, applications, and services that will be  available soon that could change the industry, as well as important updates that are coming to the Android  mobile platform.</p>
+<p>&nbsp;</p>
+<p><strong>Chromebooks: &ldquo;Ready When You Are&rdquo;<br></strong></p>
+<p>June 15th, mark that date on your calendar because Google Chromebooks are on the way, with the first two offerings made by Samsung and Acer. The sleek, lightweight netbooks will run Google&rsquo;s Chrome OS for computers which will exclusively use Google&rsquo;s cloud computing services. Although the Chromebook may have come a little too late for consumer use with the rise of tablets and other netbooks, Google is <a title="Google vs Microsoft" href="http://www.businessinsider.com/google-is-going-after-microsofts-heart-with-chromebooks-2011-5" target="_blank">&ldquo;going right after Microsoft&rsquo;s heart</a> &mdash; the corporate IT department.&rdquo; The initial plan is for Google to target businesses and schools with the Web-based operating system by offering a cheaper and easier alternative to manage than current Windows PCs. Monthly subscriptions will be available from as low as $28/user for businesses and $20/user for schools.</p>
+<p>More about the <a title="Blog" href="http://googleblog.blogspot.com/2011/05/new-kind-of-computer-chromebook.html" target="_blank">Chromebook from Google&rsquo;s Official Blog</a>:</p>
+<p>&ldquo;These are not typical notebooks. With a Chromebook you won&rsquo;t wait  minutes for your computer to boot and browser to start. You&rsquo;ll be  reading your email in seconds. Thanks to automatic updates the software  on your Chromebook will get faster over time. Your apps, games, photos,  music, movies and documents will be accessible wherever you are and you  won&rsquo;t need to worry about losing your computer or forgetting to back up  files. Chromebooks will last a day of use on a single charge, so you  don&rsquo;t need to carry a power cord everywhere. And with optional 3G, just  like your phone, you&rsquo;ll have the web when you need it. Chromebooks have <a href="http://www.chromium.org/chromium-os/chromiumos-design-docs/security-overview">many layers of security built in</a> so there is no anti-virus software to buy and maintain. Even more  importantly, you won&rsquo;t spend hours fighting your computer to set it up  and keep it up to date.&rdquo;</p>
+<p>&nbsp;</p>
+<p><strong>The Future of Android</strong></p>
+<p>*<em>Ice Cream Sandwich</em><strong>*<br></strong></p>
+<p>At the I/O conference, Google announced the next version of Android, called <em>Ice Cream Sandwich</em>. The name shouldn&rsquo;t come as a surprise to Android users, as Google has put out each new version in the name of a tasty treat &ndash; from the likes of <em>Cupcake</em> and <em>&Eacute;clair</em>, to the most current Android versions <em>Gingerbread </em>and <em>Honeycomb</em>.</p>
+<p>With <em>Ice Cream Sandwich</em>, however, Google is beginning their transition into standardizing the Android platform across all types of mobile devices (including tablets) in response to the complaints from developers and Android fanboys about the heavy fragmentation that has been a black eye for the Android OS. A post on Google&rsquo;s <a title="Android blog" href="http://googleblog.blogspot.com/2011/05/android-momentum-mobile-and-more-at.html" target="_blank">Official Blog</a> states, &ldquo;Our goal with Ice Cream Sandwich is to deliver one operating system that  works everywhere, regardless of device. Ice Cream Sandwich will bring  everything you love about Honeycomb on your tablet to your phone, including the holographic user interface, more multitasking, the new launcher and richer widgets.&rdquo; Now developers will be able to create applications for one firmware instead of having to accommodate to separate versions of Android which depended on the device, manufacturer, and telecommunications provider to release compatible updates.</p>
+<p><em>*Important Changes to the Android Market*</em></p>
+<p>Another black eye for Android has been the ease of navigability (or lack thereof) in discovering apps, but Google listened to the complaints and added several updates to the Android Market. Specifically, there are several new lists including a top &ldquo;Trending&rdquo; list, &ldquo;Also Viewed&rdquo; list, and &ldquo;Also Installed&rdquo; list that will make it easier for both customers and app developers alike.</p>
+<p>Google also just launched a new app in the Android Market called Movies for Android, which allows users to rent and play movies on phones and tablets for $1.99 per movie.</p>
+<p>&nbsp;</p>
+<p><strong>The Launch of Google Music</strong></p>
+<p>Google Music is a new service that will allow you to upload up to 20,000 songs to Google&rsquo;s cloud for streaming directly to your Android devices and computer. Everything will be kept in sync automatically between all devices that are connected through the service<em>,</em> even offering the ability to access your most recently played music when you&rsquo;re offline. You can request an invitation to try out Google Music Beta <a title="Beta" href="http://music.google.com/music/userwaitinginvite#utm_source=en-music-lp&amp;utm_medium=music-lp&amp;utm_campaign=en&amp;utm_content=cta_flag_a" target="_blank">here</a>, and some of the new music service&rsquo;s features can be seen in the video below:<em><br></em></p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="349" src="https://www.youtube.com/embed/ZrNhKcxBbZo?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
+<p>&nbsp;</p>
+<p>While I only touched on a handful of the keynotes that were addressed at Google I/O 2011, there are some developments on the way (like the <a title="@Home" href="http://arstechnica.com/gadgets/news/2011/05/googles-platform-extends-its-reach-with-androidhome.ars" target="_blank">Android@Home project</a>) that will change the game forever, but whatever the future holds for Google, it seems like they know <a title="Google IO Party" href="http://www.businessinsider.com/nerd-las-vegas-scenes-from-last-nights-google-io-party-2011-5#" target="_blank">how to have a good time</a>.</p>
+<p><img class="aligncenter" src="http://static.businessinsider.com/image/4dca248d49e2aeb022140000-590/but-this-is-how-most-people-watched-the-concert.jpg" alt="" width="443" height="331"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Featured Image" href="http://www.google.com/events/io/2011/static/img/logo-live.png" target="_blank">Photo</a> by <a title="Google IO" href="http://www.google.com/events/io/2011/index-live.html" target="_blank">Google.com</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Google I/O 2011" data-link="/2011/05/the-end-of-google-io-2011/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/the-end-of-google-io-2011/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

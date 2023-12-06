@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; location</title>
+	<atom:link href="/tag/location-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>iSpy: Apple is Secretly Recording Your Location History</title>
+		<link>/2011/04/ispy-apple-is-secretly-recording-your-location-history/</link>
+		<comments>/2011/04/ispy-apple-is-secretly-recording-your-location-history/#comments</comments>
+		<pubDate>Thu, 21 Apr 2011 17:46:13 +0000</pubDate>
+		<dc:creator><![CDATA[David Ahn]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[Apple Repair]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[location]]></category>
+		<category><![CDATA[spy]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=2641</guid>
+		<description><![CDATA[iSpy something red. iSpy something blue. iSpy Apple and they&#8217;re spying on you. Two security researchers, Alasdair Allan and Pete Warden, announced yesterday in an article on O&#8217;Reilly Radar that your iPhone or 3G iPad has been secretly ?recording the <a href="/2011/04/ispy-apple-is-secretly-recording-your-location-history/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/04/ispy-apple-is-secretly-recording-your-location-history/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><img class="aligncenter" src="http://radar.oreilly.com/2011/04/20/042011-iphonetracker.png" alt="" width="580" height="407"></p>
+<p>iSpy something red. iSpy something blue. iSpy Apple and they&rsquo;re spying on <em>you</em>. Two security researchers, Alasdair Allan and Pete Warden, announced yesterday in an article on <a title="Apple is Recording Your Moves" href="http://radar.oreilly.com/2011/04/apple-location-tracking.html" target="_blank">O&rsquo;Reilly Radar</a> that your iPhone or 3G iPad has been secretly ?recording the position of your device into a hidden file. Ever since iOS 4 arrived [in June of 2010], your device has been storing a long list of locations and time stamps. We&rsquo;re not sure why Apple is gathering this data, but it&rsquo;s clearly intentional, as the database is being restored across backups, and even device migrations.? Both Allan and Warden have come up with an <a title="iPhone Tracker" href="http://petewarden.github.com/iPhoneTracker/" target="_blank">application</a> that maps the information that your Apple device is tracking about your location history.</p>
+<p>What is alarming about this news is that the hidden file is both unencrypted and unprotected, and thus can be accessed by anyone who is in contact with any of the machines that you&rsquo;ve used to sync your device to &ndash; which is a direct breach of user&rsquo;s privacy and a threat to your security. While the availability of the data may not be an immediate cause for concern, Pete Warden says that it could potentially be used by &ldquo;a jealous spouse, or a  private detective ? with access to your phone or computer to get  detailed information about where you&rsquo;ve been.&rdquo; Although mobile networks already record the location of cell phones, this information is only  available to certain organisations through mandate of a court order. However, the system that the Apple iPhone and iPad 3G are using appear to record the data whether or  not the user agrees or even acknowledges that it is being created.</p>
+<p>Apple has declined to comment about the hidden file at this time, but to safeguard your information it is suggested that you encrypt your backups by clicking on your device within iTunes, then checking &ldquo;Encrypt iPhone  Backup&rdquo; under the &ldquo;Options&rdquo; tab.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Photo" href="http://radar.oreilly.com/2011/04/20/042011-iphonetracker.png" target="_blank">Photo</a> by <a title="Allan" href="http://radar.oreilly.com/aallan/index.html" target="_blank">Alasdair Allan</a> via <a title="O'Reilly Radar" href="http://radar.oreilly.com/" target="_blank">O&rsquo;Reilly Radar</a></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="iSpy: Apple is Secretly Recording Your Location History" data-link="/2011/04/ispy-apple-is-secretly-recording-your-location-history/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="iSpy: Apple is Secretly Recording Your Location History" data-link="/2011/04/ispy-apple-is-secretly-recording-your-location-history/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/ispy-apple-is-secretly-recording-your-location-history/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

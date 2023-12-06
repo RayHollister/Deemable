@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deemable Tech &#187; googling wrong</title>
+	<atom:link href="/tag/googling-wrong/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>Melvin asks &#8220;How do I improve my Google searches?&#8221;</title>
+		<link>/2013/02/melvin-asks-how-do-i-improve-my-google-searches/</link>
+		<comments>/2013/02/melvin-asks-how-do-i-improve-my-google-searches/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 14:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+				<category><![CDATA[Listen]]></category>
+		<category><![CDATA[Radio Segments]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google Search]]></category>
+		<category><![CDATA[googling wrong]]></category>
+
+		<guid isPermaLink="false">http://deemable.com/?p=7217</guid>
+		<description><![CDATA[Have you ever searched for something on Google, and gotten a bunch of unrelated results? As it turns out, many of us aren&#8217;t searching correctly. So what&#8217;s the right way to Google? Tom and Ray explain in this week&#8217;s Ask <a href="/2013/02/melvin-asks-how-do-i-improve-my-google-searches/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2013/02/melvin-asks-how-do-i-improve-my-google-searches/">Read more &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Have you ever searched for something on Google, and gotten a bunch of unrelated results? As it turns out, many of us aren&rsquo;t searching correctly. So what&rsquo;s the right way to Google? Tom and Ray explain in this week&rsquo;s Ask Deemable Tech.</p>
+<p><script id="prx-p94560-embed" src="http://www.prx.org/p/94560/embed.js?size=full"></script></p>
+<p><strong>Q: </strong>Apparently I am really bad at looking things up on the Internet. Recently I was trying to remember which country considered bats to be good luck. I searched for &ldquo;country where bats are an omen of good luck&rdquo; and couldn&rsquo;t find it. My teenage son, however, found the answer in about ten seconds (the answer is China, by the way). What can I do to get make Google give me more useful answers?&rdquo;</p>
+<p><strong>A: </strong>Great question Melvin! According to <a href="http://www.theatlanticwire.com/technology/2012/11/you-google-wrong/59013/">an article in The Atlantic Wire</a>, even many knowledgeable tech people are &ldquo;Googling&rdquo; wrong.</p>
+<p>We have a few tips that should improve your Google searches right away, but first let&rsquo;s talk about the basics. What makes a good Google search term? Surprisingly, shorter is better.</p>
+<p>When you search for &ldquo;country where bats are an omen of good luck&rdquo;, Google throws away about half of the words in that search. Google doesn&rsquo;t care about articles like &ldquo;a&rdquo;, &ldquo;an&rdquo; and &ldquo;the&rdquo;, and it generally ignores prepositions like &ldquo;where&rdquo; and &ldquo;of&rdquo;.</p>
+<p>What you really want to do is describe to Google what you are looking for in as few words as possible. We would start with searching for &ldquo;bats good luck&rdquo;. If you do that, the third search result down mentions Chinese folklore. Question answered! If that search doesn&rsquo;t work, you can then try adding words.</p>
+<p>Now here&rsquo;s a trick that should impress even your tech-smart teenager. Say you wanted to find out information about the Tribal Law and Order Act, but you don&rsquo;t want information about the various Law and Order TV shows. If you search for &ldquo;Tribal Law and Order&rdquo;, you&rsquo;re probably going to have to dig through ten pages of Dick Wolf. </p>
+<p>Try this instead: Google ?law and order -tv -show?. The minus sign tells Google to exclude whatever word follows it from the search results. If you do this, guess what? The very first result is the Justice Department&rsquo;s web page about the Tribal Law and Order Act. No mention of the TV show at all.</p>
+<p>And here&rsquo;s another Google pro tip for you: did you know you can use Google to search inside any website? Have you ever been on a website that had a search bar at the top, but it just didn&rsquo;t work very well? Or maybe you wanted to search a website that had no search bar at all. With Google&rsquo;s &ldquo;site search&rdquo; option, you can easily find what you&rsquo;re looking for on any site.</p>
+<p>In the Google search box, type &ldquo;site:&rdquo; and then the web address of the site you would like to search with no spaces. After that you put a space and type the phrase you would like to search within that site for. So for example, if you wanted to search the Deemable Tech website for episode 12, you would type &ldquo;site:deemable.com episode 12&rdquo;.</p>
+<p>If you want to learn more ways to improve your searches, Google offers an official online course on power searching. You can register for the class at <a href="http://www.powersearchingwithgoogle.com/">powersearchingwithgoogle.com</a>, and they run every couple of months (you can also watch videos of a previous class). Even if you think you&rsquo;re pretty tech savvy you are certain to learn a lot and improve your Google Fu.</p>
+<p><img src="http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/222234/GoogleSearch_medium.PNG" title="How can you improve your Google searches?"></p>
+<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Melvin asks "How do I improve my Google searches?"' data-link="/2013/02/melvin-asks-how-do-i-improve-my-google-searches/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Melvin asks "How do I improve my Google searches?"' data-link="/2013/02/melvin-asks-how-do-i-improve-my-google-searches/" data-summary=""></div></body></html>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/melvin-asks-how-do-i-improve-my-google-searches/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

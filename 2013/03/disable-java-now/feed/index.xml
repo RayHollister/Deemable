@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Disable Java Now! [HOW TO]</title>
+	<atom:link href="/2013/03/disable-java-now/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/03/disable-java-now/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Joe</title>
+		<link>/2013/03/disable-java-now/#comment-847</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 23:30:09 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-847</guid>
+		<description><![CDATA[Thanks guys.  I had disabled jucheck via msconfig.  I will go back and enable it.]]></description>
+		<content:encoded><![CDATA[<p>Thanks guys.  I had disabled jucheck via msconfig.  I will go back and enable it.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/03/disable-java-now/#comment-846</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 14:40:30 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-846</guid>
+		<description><![CDATA[You should still keep Java updated. That way, if you &lt;em&gt;need&lt;/em&gt; to use it you&#039;ll have the most recent, and hopefully, most secure version available.]]></description>
+		<content:encoded><![CDATA[<p>You should still keep Java updated. That way, if you <em>need</em> to use it you&#8217;ll have the most recent, and hopefully, most secure version available.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tom Braun</title>
+		<link>/2013/03/disable-java-now/#comment-844</link>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 14:27:53 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-844</guid>
+		<description><![CDATA[Hey Joe, we&#039;re talking more about this on today&#039;s podcast. But the short version is that you probably don&#039;t need to disable JUCheck.]]></description>
+		<content:encoded><![CDATA[<p>Hey Joe, we&#8217;re talking more about this on today&#8217;s podcast. But the short version is that you probably don&#8217;t need to disable JUCheck.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tom Braun</title>
+		<link>/2013/03/disable-java-now/#comment-843</link>
+		<dc:creator><![CDATA[Tom Braun]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2013 14:26:46 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-843</guid>
+		<description><![CDATA[That&#039;s a very good point. Tech support people like to follow their scripts! Be sure to emphasize that you have disabled Java.]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s a very good point. Tech support people like to follow their scripts! Be sure to emphasize that you have disabled Java.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Joe</title>
+		<link>/2013/03/disable-java-now/#comment-839</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2013 11:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-839</guid>
+		<description><![CDATA[There is this program called jucheck.exe that pops up every now and it asks permission to run.  It apparently is a Java updater.  I have gone through the steps above to disable Java across all of my machines/browsers but wonder if I don&#039;t disable jucheck, is it going to update Java next time there is a new version and turn itself back on in the browsers?  Thanks.]]></description>
+		<content:encoded><![CDATA[<p>There is this program called jucheck.exe that pops up every now and it asks permission to run.  It apparently is a Java updater.  I have gone through the steps above to disable Java across all of my machines/browsers but wonder if I don&#8217;t disable jucheck, is it going to update Java next time there is a new version and turn itself back on in the browsers?  Thanks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/03/disable-java-now/#comment-838</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2013 01:16:18 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-838</guid>
+		<description><![CDATA[You&#039;ve got it Shira. Sun Microsystems owned Java before Oracle bought them. Worse case scenario, if a site doesn&#039;t work, just go back in and reenable one plugin at a time until the site works.]]></description>
+		<content:encoded><![CDATA[<p>You&#8217;ve got it Shira. Sun Microsystems owned Java before Oracle bought them. Worse case scenario, if a site doesn&#8217;t work, just go back in and reenable one plugin at a time until the site works.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Shira</title>
+		<link>/2013/03/disable-java-now/#comment-837</link>
+		<dc:creator><![CDATA[Shira]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2013 01:01:03 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-837</guid>
+		<description><![CDATA[I found nothing that said Java and Oracle, but several plug-ins that were from Sun Microsystems from October 2011. I went ahead and disabled them (you guys were so insistent), but are they what I needed to disable? They were:
+
+on Firefox
+Java Deployment Toolkit 6.0.290.11 
+
+on my Internet Explorer (which I rarely use)
+Java TM Plug-in 2 SSV Helper
+Java Plug-in 1.6.0_29
+Deployment Toolkit
+
+I have no idea what any of these names and numbers mean--I am not a techie, but I follow directions. Let me know please if I did the right thing.]]></description>
+		<content:encoded><![CDATA[<p>I found nothing that said Java and Oracle, but several plug-ins that were from Sun Microsystems from October 2011. I went ahead and disabled them (you guys were so insistent), but are they what I needed to disable? They were:</p>
+<p>on Firefox<br />
+Java Deployment Toolkit 6.0.290.11 </p>
+<p>on my Internet Explorer (which I rarely use)<br />
+Java TM Plug-in 2 SSV Helper<br />
+Java Plug-in 1.6.0_29<br />
+Deployment Toolkit</p>
+<p>I have no idea what any of these names and numbers mean&#8211;I am not a techie, but I follow directions. Let me know please if I did the right thing.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: anduliina</title>
+		<link>/2013/03/disable-java-now/#comment-836</link>
+		<dc:creator><![CDATA[anduliina]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 16:29:32 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-836</guid>
+		<description><![CDATA[ha! thanks for clarifying it... just remember that when you call for tech support for a website, you start out by saying: i have disabled java... otherwise you are going waste their time and yours.... because they will make you jump through every trouble shooting step... AND it may still NOT let you do what you are trying to do......... and remember not to get upset with the tech...... because they are going by what you have disclosed............. just saying!]]></description>
+		<content:encoded><![CDATA[<p>ha! thanks for clarifying it&#8230; just remember that when you call for tech support for a website, you start out by saying: i have disabled java&#8230; otherwise you are going waste their time and yours&#8230;. because they will make you jump through every trouble shooting step&#8230; AND it may still NOT let you do what you are trying to do&#8230;&#8230;&#8230; and remember not to get upset with the tech&#8230;&#8230; because they are going by what you have disclosed&#8230;&#8230;&#8230;&#8230;. just saying!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/03/disable-java-now/#comment-835</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 15:47:31 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-835</guid>
+		<description><![CDATA[True, but the risk of leaving it enabled is MUCH greater than the risk of disabling it. I have been running with Java disabled since January, and I have yet to come across a website that needed to use it. If I did come across a website using Java, I wouldn’t be using that website anyway. 
+
+For our listeners, as we mentioned on the radio, Java is not JavaScript. Don’t disable JavaScript. Do disable Java.]]></description>
+		<content:encoded><![CDATA[<p>True, but the risk of leaving it enabled is MUCH greater than the risk of disabling it. I have been running with Java disabled since January, and I have yet to come across a website that needed to use it. If I did come across a website using Java, I wouldn’t be using that website anyway. </p>
+<p>For our listeners, as we mentioned on the radio, Java is not JavaScript. Don’t disable JavaScript. Do disable Java.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: anduliina</title>
+		<link>/2013/03/disable-java-now/#comment-832</link>
+		<dc:creator><![CDATA[anduliina]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 15:38:47 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-832</guid>
+		<description><![CDATA[follow this at your own risk... this does affect how  you are able to use some websites..... or remember that you disabled it.... so when you call tech support, you can save yourself and the tech 30 min of trouble shooting.... take it from someone who does this for living.... its NOT our idea of fun to try to figure out what you disabled... and if you to choose to disable it do not take it upon yourself to blame the website you are using......]]></description>
+		<content:encoded><![CDATA[<p>follow this at your own risk&#8230; this does affect how  you are able to use some websites&#8230;.. or remember that you disabled it&#8230;. so when you call tech support, you can save yourself and the tech 30 min of trouble shooting&#8230;. take it from someone who does this for living&#8230;. its NOT our idea of fun to try to figure out what you disabled&#8230; and if you to choose to disable it do not take it upon yourself to blame the website you are using&#8230;&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ray Hollister</title>
+		<link>/2013/03/disable-java-now/#comment-831</link>
+		<dc:creator><![CDATA[Ray Hollister]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 14:04:40 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-831</guid>
+		<description><![CDATA[Yes. Sun Microsystems owned Java until Oracle bought them in 2010. This means your Java hasn&#039;t been updated since 2010. Disable it...now!]]></description>
+		<content:encoded><![CDATA[<p>Yes. Sun Microsystems owned Java until Oracle bought them in 2010. This means your Java hasn&#8217;t been updated since 2010. Disable it&#8230;now!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul</title>
+		<link>/2013/03/disable-java-now/#comment-830</link>
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 14:00:04 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=6985#comment-830</guid>
+		<description><![CDATA[What if it shows Java (Specifically Java Plug-in 2 SSV Helper and Java Plug-in SSV Helper), but the publisher is Sun Microsystems and not Oracle?  Should that still be disabled? Thanks for the heads up!]]></description>
+		<content:encoded><![CDATA[<p>What if it shows Java (Specifically Java Plug-in 2 SSV Helper and Java Plug-in SSV Helper), but the publisher is Sun Microsystems and not Oracle?  Should that still be disabled? Thanks for the heads up!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

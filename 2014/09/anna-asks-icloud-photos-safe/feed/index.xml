@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Anna asks, &#8220;Are my iCloud photos safe?&#8221;</title>
+	<atom:link href="/2014/09/anna-asks-icloud-photos-safe/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/09/anna-asks-icloud-photos-safe/</link>
+	<description>Tech news worth talking about and tech help worth listening to</description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.28</generator>
+	<item>
+		<title>By: Nick Mirkis</title>
+		<link>/2014/09/anna-asks-icloud-photos-safe/#comment-3443</link>
+		<dc:creator><![CDATA[Nick Mirkis]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 02:33:46 +0000</pubDate>
+		<guid isPermaLink="false">http://deemable.com/?p=9175#comment-3443</guid>
+		<description><![CDATA[What an irresponsible post. According to you if I drive with my eyes closed then it means that my car is an unsafe design. If you are going to say iCloud is unsafe you should also qualify that statement by including any other cloud service that is just as vulnerable to user error (insecure passwords). You also should have mentioned the iCloud Keychain that helps users keep track of passwords across all of their devices. It will also choose a secure password for you when you setup new accounts.
+
+It is very hard not to assume that this poorly considered and executed post veils a clear ignorance and/or bias on your part.
+
+Tech help worth ignoring.]]></description>
+		<content:encoded><![CDATA[<p>What an irresponsible post. According to you if I drive with my eyes closed then it means that my car is an unsafe design. If you are going to say iCloud is unsafe you should also qualify that statement by including any other cloud service that is just as vulnerable to user error (insecure passwords). You also should have mentioned the iCloud Keychain that helps users keep track of passwords across all of their devices. It will also choose a secure password for you when you setup new accounts.</p>
+<p>It is very hard not to assume that this poorly considered and executed post veils a clear ignorance and/or bias on your part.</p>
+<p>Tech help worth ignoring.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
