@@ -12,7 +12,7 @@
 	<atom:link href="/tag/flash-memory/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,7 +45,7 @@
 <html><body><p>On this episode of the Deemable Tech podcast, Ray and Tom answer more of your questions about unwanted emails, transferring your copy of Windows to a friend and more.</p>
 <p>The guys are also&nbsp;once again joined by producer Sean Birch to discuss some interesting news from the tech world, including the Kickstarter project that raised almost $60,000 to make a batch of potato salad, and a hotel that threatened to fine customers who left negative Yelp reviews.<span id="more-9089"></span><a href="/media/2014/08/potato_salad_kickstarter.png" class="gallery_colorbox"><img class="aligncenter wp-image-9090" src="/media/2014/08/potato_salad_kickstarter.png"  alt="potato_salad_kickstarter" width="500" height="376"></a></p>
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-9089-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="/audio/DeemableTech_2014-08-05.mp3?_=1"></source><a href="/audio/DeemableTech_2014-08-05.mp3">http://deemable.com/audio/DeemableTech_2014-08-05.mp3</a></audio><p><a href="/audio/DeemableTech_2014-08-05.mp3">#64 Bacn and Potato Salad</a></p>
+<audio class="wp-audio-shortcode" id="audio-9089-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="//audio/DeemableTech_2014-08-05.mp3?_=1"></source><a href="//audio/DeemableTech_2014-08-05.mp3">//audio/DeemableTech_2014-08-05.mp3</a></audio><p><a href="//audio/DeemableTech_2014-08-05.mp3">#64 Bacn and Potato Salad</a></p>
 <p><span style="text-decoration: underline;"><strong>Links mentioned in this episode:</strong></span></p>
 <p><a href="http://lifehacker.com/5713914/how-to-wipe-out-spam-email-in-your-inbox">Lifehacker: How to Wipe Spam Email in Your Inbox</a></p>
 <p><a href="http://support.apple.com/kb/HT1414">Use iTunes to Your iOS Device to Factor Settings</a></p>
@@ -53,8 +53,7 @@
 <p><a href="https://www.kickstarter.com/blog/potato-salad-by-the-numbers?ref=HappeningNewsletterAug0514">Potato Salad Kickstarter &ndash; By the Numbers</a></p>
 <p><a href="http://arstechnica.com/tech-policy/2014/08/amid-backlash-hotel-rescinds-500-fines-for-negative-online-reviews/">Hotel Adds Negative Online Review Fine Clause to Terms of Service</a></p>
 <p><a href="http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/">Facebook Mood Experiment</a></p>
-<p><a href="http://blog.okcupid.com/index.php/we-experiment-on-human-beings/">OkCupid Experiment</a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div></body></html>
+<p><a href="http://blog.okcupid.com/index.php/we-experiment-on-human-beings/">OkCupid Experiment</a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/08/64-bacn-potato-salad/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -88,8 +87,7 @@
 <p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
 <p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
 <p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
-<p>Just remember, Hector: you must eject before you disconnect!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+<p>Just remember, Hector: you must eject before you disconnect!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>

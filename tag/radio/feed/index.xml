@@ -12,7 +12,7 @@
 	<atom:link href="/tag/radio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -41,8 +41,8 @@
 		<guid isPermaLink="false">http://deemable.com/?p=4570</guid>
 		<description><![CDATA[<img width="150" height="150" src="/media/2011/12/Veer_Pre3_TouchPad-150x150.png" class="attachment-thumbnail wp-post-image" alt="Veer Pre3 TouchPad" style="float:left; margin:0 15px 15px 0;" />HP Open-Sources webOS TRANSCRIPT: RAY HOLLISTER: Recently HP announced that they are open-sourcing the operating system that runs their phones and tablets called webOS. In a nutshell, open-sourcing means that Hewlett-Packard&#160;will be sharing the source code of webOS, the human <a href="/2011/12/hp-open-sources-webos/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/12/hp-open-sources-webos/">Read more &#8594;</a></p>]]></description>
 				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/12/Veer_Pre3_TouchPad-150x150.png" class="attachment-thumbnail wp-post-image" alt="Veer Pre3 TouchPad" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-4570-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3?_=1"></source><a href="/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">http://deemable.com/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3</a></audio><p><a title="Right click here to download the news story" href="/wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">HP Open-Sources webOS</a></p>
-<p><a href="/wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png" class="gallery_colorbox"><img class="alignleft wp-image-4664" title="Veer Pre3 TouchPad" src="/wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png"  alt="" width="128" height="104"></a></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]--><html><body><audio class="wp-audio-shortcode" id="audio-4570-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="//wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3?_=1"></source><a href="//wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">//wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3</a></audio><p><a title="Right click here to download the news story" href="//wp-content/uploads/2011/12/2011-12-22_HPwebOS.mp3">HP Open-Sources webOS</a></p>
+<p><a href="//wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png" class="gallery_colorbox"><img class="alignleft wp-image-4664" title="Veer Pre3 TouchPad" src="//wp-content/uploads/2011/12/Veer_Pre3_TouchPad.png"  alt="" width="128" height="104"></a></p>
 <h4>TRANSCRIPT:</h4>
 <p>RAY HOLLISTER: Recently HP announced that they are open-sourcing the operating system that runs their phones and tablets called webOS. <span id="more-4570"></span><br>
 In a nutshell, open-sourcing means that Hewlett-Packard&nbsp;will be sharing the source code of webOS, the human readable code that the operating system is programmed with. Now this is quite different compared to companies like Apple who jealously guards the code that their iOS operating system runs on.</p>
@@ -60,8 +60,7 @@ In a nutshell, open-sourcing means that Hewlett-Packard&nbsp;will be sharing the
 <p>DEREK&nbsp;KESSLER: If that is to be the future of webOS, that&rsquo;s a death sentence.</p>
 <p>RAY HOLLISTER: That was Derek Kessler, Editor-in-Chief of webOSNation.com, a news site dedicated to webOS news and discussion. Derek has been following&nbsp;the news around Palm and subsequently&nbsp;webOS and HP since 2000, and despite his concern that HP still has not announced any partners in manufacturing, he still remains optimistic.</p>
 <p>DEREK&nbsp;KESSLER: I&rsquo;m very hopeful that HP and other companies latch on to this open-source webOS and actually do something with it, and they do something amazing, and make hardware and software that is actually worth putting out, and worth buying, and good for the users, and good for the companies that make it.</p>
-<p>From 89.9 WJCT, I&rsquo;m Ray Hollister</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="HP Open-Sources webOS | Deemable Tech Report" data-link="/2011/12/hp-open-sources-webos/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="HP Open-Sources webOS | Deemable Tech Report" data-link="/2011/12/hp-open-sources-webos/" data-summary=""></div></body></html>
+<p>From 89.9 WJCT, I&rsquo;m Ray Hollister</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/12/hp-open-sources-webos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

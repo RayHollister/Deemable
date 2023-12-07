@@ -12,7 +12,7 @@
 	<atom:link href="/tag/spam-email/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,7 +45,7 @@
 <html><body><p>On this episode of the Deemable Tech podcast, Ray and Tom answer more of your questions about unwanted emails, transferring your copy of Windows to a friend and more.</p>
 <p>The guys are also&nbsp;once again joined by producer Sean Birch to discuss some interesting news from the tech world, including the Kickstarter project that raised almost $60,000 to make a batch of potato salad, and a hotel that threatened to fine customers who left negative Yelp reviews.<span id="more-9089"></span><a href="/media/2014/08/potato_salad_kickstarter.png" class="gallery_colorbox"><img class="aligncenter wp-image-9090" src="/media/2014/08/potato_salad_kickstarter.png"  alt="potato_salad_kickstarter" width="500" height="376"></a></p>
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-9089-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="/audio/DeemableTech_2014-08-05.mp3?_=1"></source><a href="/audio/DeemableTech_2014-08-05.mp3">http://deemable.com/audio/DeemableTech_2014-08-05.mp3</a></audio><p><a href="/audio/DeemableTech_2014-08-05.mp3">#64 Bacn and Potato Salad</a></p>
+<audio class="wp-audio-shortcode" id="audio-9089-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="//audio/DeemableTech_2014-08-05.mp3?_=1"></source><a href="//audio/DeemableTech_2014-08-05.mp3">//audio/DeemableTech_2014-08-05.mp3</a></audio><p><a href="//audio/DeemableTech_2014-08-05.mp3">#64 Bacn and Potato Salad</a></p>
 <p><span style="text-decoration: underline;"><strong>Links mentioned in this episode:</strong></span></p>
 <p><a href="http://lifehacker.com/5713914/how-to-wipe-out-spam-email-in-your-inbox">Lifehacker: How to Wipe Spam Email in Your Inbox</a></p>
 <p><a href="http://support.apple.com/kb/HT1414">Use iTunes to Your iOS Device to Factor Settings</a></p>
@@ -53,8 +53,7 @@
 <p><a href="https://www.kickstarter.com/blog/potato-salad-by-the-numbers?ref=HappeningNewsletterAug0514">Potato Salad Kickstarter &ndash; By the Numbers</a></p>
 <p><a href="http://arstechnica.com/tech-policy/2014/08/amid-backlash-hotel-rescinds-500-fines-for-negative-online-reviews/">Hotel Adds Negative Online Review Fine Clause to Terms of Service</a></p>
 <p><a href="http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/">Facebook Mood Experiment</a></p>
-<p><a href="http://blog.okcupid.com/index.php/we-experiment-on-human-beings/">OkCupid Experiment</a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#64 Bacn and Potato Salad" data-link="/2014/08/64-bacn-potato-salad/" data-summary=""></div></body></html>
+<p><a href="http://blog.okcupid.com/index.php/we-experiment-on-human-beings/">OkCupid Experiment</a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/08/64-bacn-potato-salad/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -85,8 +84,7 @@
 <p>What should you do if you mistakenly do let someone have control of your computer, and you suspect them of not being who they say they are? The first thing you would need to do is unplug your computer from the Internet. Pull the cord out of the wall; turn off your Wi-Fi; do whatever it takes.</p>
 <p>The next step would be to format your hard drive and reinstall Windows. You could try to uninstall programs and run your antivirus software, but the best bet would be to wipe it and start with a clean slate. This may sound pretty severe, but remember: these are criminals who, at the very least, are using your computer to send spam.</p>
 <p>There&rsquo;s a possibility that these scam artists may call you back after you&rsquo;ve reinstalled Windows. You have shut off their money-making spam machine, and they&rsquo;ll probably be upset about it. They might even threaten you to get you to turn it back on. Depending on what they have done, we would recommend contacting your Internet service provider and/or the police.</p>
-<p>We should clarify that if <em>you</em> called Microsoft or a local IT company, and they needed access to your computer to help you with a problem that <em>you</em> called them about, you should be able to trust them. But if you receive an unsolicited call like this, you have no reason to believe that the person on the phone is actually who they say they are.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Frank asks, "Are scam artists calling me?"' data-link="/2014/07/frank-asks-scam-artists-calling/" data-summary=""></div></body></html>
+<p>We should clarify that if <em>you</em> called Microsoft or a local IT company, and they needed access to your computer to help you with a problem that <em>you</em> called them about, you should be able to trust them. But if you receive an unsolicited call like this, you have no reason to believe that the person on the phone is actually who they say they are.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/07/frank-asks-scam-artists-calling/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -119,8 +117,7 @@
 <p>We want to stress the need to be very careful about where you enter your email address and password. When you are about to enter that information on a website, pay close attention to the address bar at the top of your browser. There should be a lock icon visible next to the address, showing that this site is securely encrypted. In addition, the normal address for the website should show. For instance, if you&rsquo;re logging into Yahoo Mail you should expect to see &ldquo;us.mail.yahoo.com&rdquo;.</p>
 <p>Changing your password should stop spammers from sending spam directly from your account. Unfortunately, it won&rsquo;t necessarily stop them from impersonating you. There&rsquo;s a third type of email attack where spammers send emails that look like they come from you but don&rsquo;t. This is harder to defend against, as your email account hasn&rsquo;t actually been compromised. The good news is that usually the spam isn&rsquo;t going to people you know because the spammers don&rsquo;t have access to your address book. However, you may receive strange bounce back emails telling you that a message you never sent could not be delivered. That&rsquo;s a clue that this is happening.</p>
 <p>If you&rsquo;re the victim of this type of spam, your best bet is to, well, wait. You&rsquo;re only hope is that the spammers will get tired of using your address and just move on to a different one. If they don&rsquo;t, your other option may be a painful one: changing your email address and updating your information on every other site you use that address to log into.</p>
-<p>That can be a long and arduous process, so it&rsquo;s a good idea to be proactive. Be wary of giving your primary email address to everyone who asks, and think about having a secondary address that you can use to sign up for new websites that you aren&rsquo;t familiar with. That will keep your main email address from winding up on some list of emails for unscrupulous spammers. And, again, always double check the web address of a site before you enter your email and password to make sure it&rsquo;s the real deal.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Ashton asks, "Am I spamming my friends?"' data-link="/2014/05/ashton-asks-spamming-friends/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Ashton asks, "Am I spamming my friends?"' data-link="/2014/05/ashton-asks-spamming-friends/" data-summary=""></div></body></html>
+<p>That can be a long and arduous process, so it&rsquo;s a good idea to be proactive. Be wary of giving your primary email address to everyone who asks, and think about having a secondary address that you can use to sign up for new websites that you aren&rsquo;t familiar with. That will keep your main email address from winding up on some list of emails for unscrupulous spammers. And, again, always double check the web address of a site before you enter your email and password to make sure it&rsquo;s the real deal.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/05/ashton-asks-spamming-friends/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

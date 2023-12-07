@@ -12,7 +12,7 @@
 	<atom:link href="/tag/computer/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -44,8 +44,7 @@
 <p>Now onto what virtual memory is. Your laptop has two main ways to store information: RAM (often referred to as &ldquo;memory&rdquo;) and the hard drive. Accessing the RAM is really fast, so your computer will try to store as many running programs and streaming videos as possible there.</p>
 <p>The thing about RAM, though, is that you often don&rsquo;t have that much of it &ndash; your computer probably only has two, four or maybe eight gigabytes of it. When it comes to hard drive space, on the other hand, your computer may have 500 or even 1000 gigabytes of that. When your computer runs low on RAM, it will use the slower hard drive to augment the memory. This is known as virtual memory.</p>
 <p>Basically, your computer carves off chunks of whatever it was try to put in the real memory, and puts it into the virtual memory on your hard drive instead. But this won&rsquo;t work very well if you&rsquo;re low on hard drive space. At that point, your system is constantly trying to swap things between the RAM and the hard dive in tiny bits, and your computer can really grind to a halt.</p>
-<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div></body></html>
+<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/11/osler-asks-virtual-memory-low/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -78,8 +77,7 @@
 <p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
 <p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
 <p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
-<p>Just remember, Hector: you must eject before you disconnect!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+<p>Just remember, Hector: you must eject before you disconnect!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -114,8 +112,7 @@
 <p>You may be asking, &ldquo;Why should I care?&rdquo; Well, the new 3-D Tri-Gate transistors will be <em>much</em> faster, <em>much</em> smaller, and consume up to 50% less power. Intel, the largest provider of PC processors, says that the new 3-D  transistors are so small that more than 100 million could fit on the  head of a pin. Ivy Bridge is also said to be 37% more efficient than the best  of Intel&rsquo;s current chips at low voltage, and could help Intel break  into the mobile arena of smartphones and tablets. Although the mass production of Ivy Bridge won&rsquo;t begin until later this   year or early next year, Intel began demonstrating prototypes of   computers and servers running the new 3-D chip yesterday at a news   conference. We are now witnessing the future of technology in transition!</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><a title="Photo" href="http://www.fastcompany.com/1751732/why-youll-care-about-intels-3-d-chip-invention-mobile-battery-life" target="_blank">Photo</a> by <a title="Kit Eaton" href="http://www.fastcompany.com/user/kit-eaton" target="_blank">Kit Eaton</a> via <a title="Fast Company" href="http://www.fastcompany.com/" target="_blank">Fast Company</a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Transitions: Intel's New 3-D Transistor" data-link="/2011/05/transitions-intels-new-3-d-transistor/" data-summary=""></div></body></html>
+<p><a title="Photo" href="http://www.fastcompany.com/1751732/why-youll-care-about-intels-3-d-chip-invention-mobile-battery-life" target="_blank">Photo</a> by <a title="Kit Eaton" href="http://www.fastcompany.com/user/kit-eaton" target="_blank">Kit Eaton</a> via <a title="Fast Company" href="http://www.fastcompany.com/" target="_blank">Fast Company</a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/05/transitions-intels-new-3-d-transistor/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

@@ -12,7 +12,7 @@
 	<atom:link href="/tag/pop-up-blocker/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -55,8 +55,7 @@ Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;"
 <p>Regardless of what your favorite browser is, if you&rsquo;re getting fed-up with annoying ads on the websites you frequent, there are tools out there that can make your web-browsing experience a little smoother.</p>
 <p>Now that we&rsquo;ve gotten that out of the way, it&rsquo;s time for a friendly little PSA about pop-up blocking. Many of your favorite free websites are ad-supported, so when you visit one of those sites and you&rsquo;ve got a pop-up blocker running, you may avoid seeing that annoying pop-up ad but you&rsquo;ve also cost that site some ad revenue. So be sure to deploy your pop-up blocker judiciously.</p>
 <p>This is such a big issue that the ever-popular Ad Block Plus actually has a setting called &ldquo;allow non-intrusive advertising&rdquo; which is on by default. As the name suggest, this allows many of the less annoying ads through. But keep in mind that the ones that it does block &ndash; the really annoying ones &ndash; may be real money makers for small, independent websites. Ad Block Plus gives you the option to allow pop-ups for certain websites to remedy this. Other pop-up blockers should, at minimum, allow you to turn them on and off.</p>
-<p>Please pop-up block responsibly! Ads may be annoying, but they help keep the web free.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div></body></html>
+<p>Please pop-up block responsibly! Ads may be annoying, but they help keep the web free.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/08/bill-asks-way-can-completely-block-pop-ads/feed/</wfw:commentRss>
 		<slash:comments>5</slash:comments>

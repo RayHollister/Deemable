@@ -12,7 +12,7 @@
 	<atom:link href="/tag/springpad/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -58,8 +58,7 @@
 <p>Clouds aren&rsquo;t just good for music, though. Google and Microsoft both offer ways to do word processing in the Cloud, from anywhere, without even having to install a program. Google has a web application called Google Drive (we use it for Deemable Tech and love it), and Microsoft has introduced Office 365 which you can access through your web browser as well.</p>
 <p>For Apple users, there is iCloud, which automatically synchronizes your files across all of your Apple devices.</p>
 <p>If you&rsquo;re looking to backup and share your files, Alex, you should consider using Dropbox. We&rsquo;ve mentioned it before, but Dropbox is a service that allows you to select a folder on your computer, and anything you put in that folder will be automatically uploaded to the Dropbox cloud. If you install Dropbox on another computer, it will automatically mirror the folders between the two computers. There are a lot of other excellent cloud services as well (like EverNote, SpringPad and SugarShare), and there are more out there every day.</p>
-<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div></body></html>
+<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/05/alex-asks-what-is-the-cloud/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

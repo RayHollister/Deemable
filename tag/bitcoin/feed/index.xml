@@ -12,7 +12,7 @@
 	<atom:link href="/tag/bitcoin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -37,7 +37,7 @@
 				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body><p>This week, Ray, Tom and Sean look at the dangers of over-the-top Christmas decorations, wonder when a tablet is too big, and try to solve the mystery of Bitcoin&rsquo;s creator.</p>
 <p><span id="more-10375"></span></p>
-<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="/reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
+<p>By the way, we don&rsquo;t just have a subreddit page for the fame and the glory. We have it because we want to know what you want us to talk about! We know you&rsquo;re purusing the tech news all week.&nbsp;Go to our subreddit page, <a href="//reddit" target="_blank">reddit.com/r/deemable</a>, and submit a story, and vote other stories up or down.</p>
 <p>And make sure to&nbsp;subscribe to the show and leave a review&nbsp;<a title="Subscribe to the Deemable Tech Podcast in iTunes!" href="http://dmbl.co/itunes">on iTunes</a>&nbsp;and&nbsp;<a title="Listen to Deemable Tech on Stitcher" href="http://dmbl.co/stitcher" target="_blank">on Stitcher</a>. The more subscribers we have and reviews we get, the more people will find our show.</p>
 <p>If you have a&nbsp;response or&nbsp;comment for the show, give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable dot com.</p>
 <p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at&nbsp;<a href="http://asmallorange.com/">asmallorange.com</a>.</p>
@@ -48,7 +48,7 @@
 <p>In mid-November, the crew of a Coast Guard C130 plane over Sacramento radioed that it was being blinded by a laser light &ndash; a distressingly common &lsquo;prank&rsquo; that has dangerous consequences for pilots. However, when Sacramento police tracked down the source of the laser, it was not a prankster, but a home Christmas light display.</p>
 <p><a href="http://www.nbclosangeles.com/investigations/Warning-Issued-About-Popular-Holiday-Decoration-360986471.html" target="_blank">NBC Los Angeles reports that a Christmas light display projector called the Star Shower</a> was the culprit. The Star Shower uses hundreds of pinpoint laser lights to simulate a surface covered with lights. It comes with a warning to point it only at solid surfaces, not the sky, and not to use it within ten miles of an airport. However, it appears that it is easy for someone attempting to project it up onto the wall of their home to allow the projector to accidentally beam lights into the sky, and the cockpit of passing planes. Homeowners using this product are advised to exercise caution.</p>
 <h3>Google ProjectFi gives customers the gift of Lego</h3>
-<p>You guys will remember we had long time listener Ardis on a few episodes ago to talk about <a href="/2015/11/102-we-dont-need-no-stinkin-producer/" target="_blank">his experience using Google?s ProjectFi cellular service</a>. Well Ardis informed us last week that Google had sent him an interesting gift in the mail: a Lego kit that could be assembled into a charging stand for his Nexus device.</p>
+<p>You guys will remember we had long time listener Ardis on a few episodes ago to talk about <a href="//2015/11/102-we-dont-need-no-stinkin-producer/" target="_blank">his experience using Google?s ProjectFi cellular service</a>. Well Ardis informed us last week that Google had sent him an interesting gift in the mail: a Lego kit that could be assembled into a charging stand for his Nexus device.</p>
 <p><a href="http://www.theverge.com/2015/11/26/9804216/google-project-fi-lego-kit" target="_blank">The Verge</a> reports that a number of ProjectFi subscribers have been reporting receiving the kits, along with a note that says ?Thank you for your support, let?s build on this.? It is not known if the kit will go out to all ProjectFi subscribers or not.</p>
 <h3>Samsung unveils new giant tablet</h3>
 <p>It seems like the giant tablet arms race has officially begun. Apple has released the 12.9 inch iPad Pro to compete with Microsoft?s Surface Pro, which is a measly 12.3 inches. So they&rsquo;re the winner, right? Not even close.</p>
@@ -67,8 +67,7 @@
 That was a smart thing to say, because things got weird in a hurry. The day after the stories were published, the Australian Federal Police raided Wright?s home and office, <a href="http://www.theguardian.com/technology/2015/dec/09/bitcoin-founder-craig-wrights-home-raided-by-australian-police" target="_blank">according to the Guardian</a>, executing a warrant on tax issues unrelated to the Bitcoin story.</p>
 <p>Since then, <a href="http://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/" target="_blank">Wired reports</a>, more holes have appeared in the story, casting doubt on whether or not Craig Wright really has two PhDs or whether his company in fact owns one of the world?s most powerful privately-owned supercomputers. Wright does, however, appear to own millions in Bitcoin, a point in his favor that is hard to explain away.</p>
 <p>A post on a listserv supposedly from Satoshi Nakamoto denied that Craig Wright was him the day after the original stories ran, however there was no way to verify.</p>
-<p>The full story is still unfolding and appears to involve either an extortion scheme or a hoaxer pretending to extort himself.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#104 Lasers We Have Seen On High" data-link="/2015/12/104-lasers-we-e-seen-on-high/" data-summary=""></div></body></html>
+<p>The full story is still unfolding and appears to involve either an extortion scheme or a hoaxer pretending to extort himself.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/12/104-lasers-we-e-seen-on-high/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

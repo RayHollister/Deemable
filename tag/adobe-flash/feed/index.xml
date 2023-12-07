@@ -12,7 +12,7 @@
 	<atom:link href="/tag/adobe-flash/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,7 +45,7 @@
 <p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
 <p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="/media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="/media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
 <p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
-<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="//reddit" target="_blank">Deemable.com/reddit</a> will take you there. We&rsquo;re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 <audio class="wp-audio-shortcode" id="audio-10150-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-17.mp3?_=1"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-17.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-17.mp3</a></audio><p>If you have a suggestion, or just have a comment for the show. Give us a call and leave us a voicemail, 1-888-972-9868 or you can send us an email to feedback at deemable&nbsp;dot com.</p>
 <p>And, don&rsquo;t forget to help us to decide what stories we talk about on the show, go to our subreddit page and submit a story, and vote other stories up or down. <a href="http://www.google.com/url?q=http%3A%2F%2Fdeemable.com%2Freddit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFBdyzC8hbWRsh1Un-185M3JttYnQ">deemable.com/reddit</a>&nbsp;will take you there.</p>
@@ -71,8 +71,7 @@
 <p>Also, it is just one more reason that everyone should stop using Flash.</p>
 <h3>Firefox Axes Flash</h3>
 <p>Speaking of Flash. Computerworld is reporting that partly as a result of these new and really bad vulnerabilities, <a href="http://www.computerworld.com/article/2948012/security/adobe-flash-must-die-firefox-facebook-itbwcw.html">Mozilla Firefox has taken the unusual step of blocking Flash</a> until it is completely patched. Alex Stamos, the chief of security for Facebook, has called on Adobe to announce an end-of-life date for Flash.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#92 Still A Better Deal Than Amazon Prime Day" data-link="/2015/07/92-still-a-better-deal-than-amazon-prime-day/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#92 Still A Better Deal Than Amazon Prime Day" data-link="/2015/07/92-still-a-better-deal-than-amazon-prime-day/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/07/92-still-a-better-deal-than-amazon-prime-day/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -110,8 +109,7 @@
 <p>Now, we should note that some people might actually need Flash on their computers. For instance, some corporate intranet sites require it, which means uninstalling it entirely is not a good option if you have to use one of those sites. However, even if you have to keep Flash around, there are ways to make it safer for you to use.</p>
 <p>One very easy way is to use Google&rsquo;s Chrome browser. Chrome runs Flash inside what is called a &ldquo;sandbox,&rdquo; which means it is isolated from the rest of the computer.</p>
 <p>If that isn&rsquo;t safe enough for you, there is a free browser plugin for both Firefox and Chrome called FlashBlock. FlashBlock, as the name implies, blocks all Flash on a web page by default, leaving only a small icon. You have to right-click that icon and tell it you want to enable that piece of Flash in order to view it.</p>
-<p>If you&rsquo;re not sure if you need Flash or not, try uninstalling it and see if you can get along without it! After all, you can reinstall it any time you want. In the meantime, you&rsquo;ll probably see a lot fewer of those auto-playing ad videos when you visit websites. We bet you won&rsquo;t miss those at all!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div></body></html>
+<p>If you&rsquo;re not sure if you need Flash or not, try uninstalling it and see if you can get along without it! After all, you can reinstall it any time you want. In the meantime, you&rsquo;ll probably see a lot fewer of those auto-playing ad videos when you visit websites. We bet you won&rsquo;t miss those at all!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

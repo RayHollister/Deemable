@@ -12,7 +12,7 @@
 	<atom:link href="/tag/ip-address/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -39,8 +39,7 @@
 <p>Your&nbsp;mysterious IP address thief is much more likely to be a misbehaving wireless printer or mobile device that is using your WiFi network than a hacker. Wireless printers are sometimes the culprit, because some of them have pre-set IP addresses. If the WiFi router hands out that preset address to another computer or device, the router will get confused about who to send data to. Of course it doesn&rsquo;t have to be a printer to blame, it could be anything that is using your Wi-Fi.</p>
 <p>Try disconnecting your&nbsp;laptop from the Wi-Fi and then reconnecting. That should cause the router to assign it a clean IP address. Actually it wouldn&rsquo;t be a bad idea to do that for every device connected to the Wi-Fi.</p>
 <p>It?s possible, though, that this problem stems from either your&nbsp;laptop or another device on the network having a static IP address set. If that?s the issue you&nbsp;will probably need a technician to come out and look at it, as that starts to get a little bit complicated.</p>
-<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div></body></html>
+<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>

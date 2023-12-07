@@ -12,7 +12,7 @@
 	<atom:link href="/tag/google-cloud-print/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -47,8 +47,7 @@
 <p>Now, how do you start using Cloud Print? Well, you may have noticed that many new printers are labeled as being &ldquo;Google Cloud Print Ready&rdquo;. That means that once you have them turned on and connected to a network, you can share them through Google Cloud Print quickly and easily. If you don&rsquo;t have a &ldquo;Google Cloud Print Ready&rdquo; printer, don&rsquo;t worry! You can still use what Google calls &ldquo;classic printers&rdquo; with Cloud Print, with the only extra requirement being that the printer must be hooked up to a computer with Google Chrome installed on it.</p>
 <p>Open up the settings in Google Chrome on that computer, search for &ldquo;cloud printer&rdquo;, and you&rsquo;ll see options to add your printer to Cloud Print. Once your printer is connected, it&rsquo;s simple to print from Google Docs, your Chrome browser, or from a Google app.</p>
 <p>Yes, you read that correctly: you can print from Google&nbsp;<em>apps</em>. Most Google apps on iOS and Android let you use Cloud Print by default. For example, you could open the Gmail app, tap print and print away! For other apps on iOS, you can download the <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/printcentral-pro/id426362921?mt=8" target="_blank" rel="external nofollow">PrintCentral Pro</a> app to connect your device to Google Cloud Print (this app costs $4.99 for iPhone, and $7.99 for iPad). Many apps on Android have this function built in.</p>
-<p>So, Parker, try out Google Cloud Print, and see how it works for you. That way if you&rsquo;re ever in that predicament again, you can simply share your printer without all of the extra work.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div></body></html>
+<p>So, Parker, try out Google Cloud Print, and see how it works for you. That way if you&rsquo;re ever in that predicament again, you can simply share your printer without all of the extra work.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/09/parker-asks-can-share-printer-easily/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

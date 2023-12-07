@@ -12,7 +12,7 @@
 	<atom:link href="/tag/audible/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -49,7 +49,7 @@
 <p>Then the guys take a few minutes to discuss some of their favorite iOS&nbsp;and Android apps at the moment in our Downloadable segment &ndash; including Tom&rsquo;s current favorite, Doge Weather. Much tech advice. So wow.<span id="more-8801"></span></p>
 <p><a href="/media/2014/05/weather_doge.jpg" class="gallery_colorbox"><img class="aligncenter wp-image-8802" src="/media/2014/05/weather_doge-576x1024.jpg"  alt="weather_doge" width="394" height="700"></a></p>
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-8801-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="/audio/DeemableTech_2014-05-13.mp3?_=1"></source><a href="/audio/DeemableTech_2014-05-13.mp3">http://deemable.com/audio/DeemableTech_2014-05-13.mp3</a></audio><p><a href="/audio/DeemableTech_2014-05-13.mp3">#61 An Explosion of Tech Questions</a></p>
+<audio class="wp-audio-shortcode" id="audio-8801-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="//audio/DeemableTech_2014-05-13.mp3?_=1"></source><a href="//audio/DeemableTech_2014-05-13.mp3">//audio/DeemableTech_2014-05-13.mp3</a></audio><p><a href="//audio/DeemableTech_2014-05-13.mp3">#61 An Explosion of Tech Questions</a></p>
 <p>&nbsp;</p>
 <p><strong>Links mentioned in this episode:</strong></p>
 <ul><li><a href="http://www.avast.com/">Avast! Antivirus</a></li>
@@ -62,8 +62,7 @@
 <li><a href="http://www.baby-connect.com/">Baby Connect</a></li>
 <li><a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/moon-current-moon-phase/id660036257?mt=8" target="_blank" rel="external nofollow">MOON &ndash; Current Moon Phase</a></li>
 </ul><hr><p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#61 An Explosion of Tech Questions" data-link="/2014/05/61-explosion-tech-questions/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/05/61-explosion-tech-questions/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -129,9 +128,9 @@
 <p dir="ltr">Hope that helps, Skip! Enjoy using your Samsung Galaxy Samsung II Skyrocket!</p>
 <p dir="ltr">TOM: Last week on Morning Edition we told people that they needed to disable Java, <em>now</em>.</p>
 <p dir="ltr">RAY: Right, Tom and I had talked about it on the show a couple of weeks ago while you were out, Tom.</p>
-<p dir="ltr">TOM: Right, but we felt it was so important for people to do that we covered it again in the Morning Edition spot, and we setup a page at <a title="Disable Java Now!" href="/java" target="_blank">deemable.com/java</a> where everyone could go to get instructions on how to disable java in each web browser.</p>
+<p dir="ltr">TOM: Right, but we felt it was so important for people to do that we covered it again in the Morning Edition spot, and we setup a page at <a title="Disable Java Now!" href="//java" target="_blank">deemable.com/java</a> where everyone could go to get instructions on how to disable java in each web browser.</p>
 <p dir="ltr">RAY: Yeah, we had a great response to it. In less than an hour after the segment aired, we already had 600 views on the page. By the end of the day, we had over 1,400 views, and over the next two days we had several hundred more. So, good job listening everyone!</p>
-<p dir="ltr">TOM: But, we know that several thousand people listen to Morning Edition each day on 89.9 FM, so if you haven&rsquo;t done it yet, do it, now! Go to <a title="Disable Java Now!" href="/java" target="_blank">deemable.com/java</a> and follow the directions and disable Java, <em>now</em>!</p>
+<p dir="ltr">TOM: But, we know that several thousand people listen to Morning Edition each day on 89.9 FM, so if you haven&rsquo;t done it yet, do it, now! Go to <a title="Disable Java Now!" href="//java" target="_blank">deemable.com/java</a> and follow the directions and disable Java, <em>now</em>!</p>
 <p dir="ltr">RAY: You better do it. He&rsquo;s just going to keep telling you to do it,&hellip;</p>
 <p dir="ltr">TOM: <em>Now</em>!</p>
 <p dir="ltr">RAY: OK, so we had some comments on the page that we wanted to address.</p>
@@ -200,8 +199,7 @@
 <p dir="ltr"><a title="The I.M.A.G.I.C." href="https://twitter.com/theimagic" target="_blank">twitter.com/theimagic</a></p>
 <p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
 <p dir="ltr">Thanks for listening. Have a great week.</p>
-<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 34 - We Made It! It's All Your Fault! Thank You!" data-link="/2013/03/episode-34-we-made-it-its-all-your-fault/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 34 - We Made It! It's All Your Fault! Thank You!" data-link="/2013/03/episode-34-we-made-it-its-all-your-fault/" data-summary=""></div></body></html>
+<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/episode-34-we-made-it-its-all-your-fault/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>

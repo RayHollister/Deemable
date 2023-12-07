@@ -12,7 +12,7 @@
 	<atom:link href="/tag/ram/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -44,8 +44,7 @@
 <p>Now onto what virtual memory is. Your laptop has two main ways to store information: RAM (often referred to as &ldquo;memory&rdquo;) and the hard drive. Accessing the RAM is really fast, so your computer will try to store as many running programs and streaming videos as possible there.</p>
 <p>The thing about RAM, though, is that you often don&rsquo;t have that much of it &ndash; your computer probably only has two, four or maybe eight gigabytes of it. When it comes to hard drive space, on the other hand, your computer may have 500 or even 1000 gigabytes of that. When your computer runs low on RAM, it will use the slower hard drive to augment the memory. This is known as virtual memory.</p>
 <p>Basically, your computer carves off chunks of whatever it was try to put in the real memory, and puts it into the virtual memory on your hard drive instead. But this won&rsquo;t work very well if you&rsquo;re low on hard drive space. At that point, your system is constantly trying to swap things between the RAM and the hard dive in tiny bits, and your computer can really grind to a halt.</p>
-<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Osler asks, &quot;Why is my 'virtual memory' too low?&quot;" data-link="/2014/11/osler-asks-virtual-memory-low/" data-summary=""></div></body></html>
+<p>Windows will try to help you with this problem, which is when you are getting those messages, but it can&rsquo;t do anything if you just don&rsquo;t have enough free space on your hard drive. So, like we said, try clearing a few things off of it, and you should be back to normal.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/11/osler-asks-virtual-memory-low/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

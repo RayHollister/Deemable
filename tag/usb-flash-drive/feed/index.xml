@@ -12,7 +12,7 @@
 	<atom:link href="/tag/usb-flash-drive/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,8 +45,7 @@
 <p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
 <p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
 <p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
-<p>Just remember, Hector: you must eject before you disconnect!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+<p>Just remember, Hector: you must eject before you disconnect!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -76,8 +75,7 @@
 <p>There are two factors that affect how long your USB flash drive will last, the rating of the flash memory itself, and the rating of the USB connector. The USB connector is the part that is most likely soonest to fail. USB Type A plugs are rated at 1,500 connections. So, after you&rsquo;ve plugged your thumb drive in 1,500 times, you are at risk of it failing. That seems like only a little, but if you only plug and unplug your thumb drive once a day, it should last at least 4 years without giving you any problems. However,&nbsp;let&rsquo;s say you plug and unplug your USB thumb drive 4 times, (arriving at work, two breaks,&nbsp;one lunch, and finally going home), your USB drive would only last about a year before it could potentially fail.</p>
 <p>The other factor that determines whether your USB flash drive will live long enough to collect Social Security is the rating of the flash memory. Some USB thumb drives use <a title="What is SLC Flash Memory Anyway? | USB Powered gadgets and more..." href="http://www.getusb.info/so-what-is-slc-flash-memory-anyway/">SLC (Single-level cell) memory</a>&nbsp;which is rated&nbsp;for 100,000 write cycles, but the vast majority of flash drives use <a title="Multi-level cell | Wikipedia" href="http://en.wikipedia.org/wiki/Multi-level_cell">MLC memory</a>&nbsp;because it is cheaper, but it is only good for 10,000 write cycles.</p>
 <p>So, to answer your question, it depends. Since you didn&rsquo;t use it a lot in college, I would guess that you&rsquo;ll probably get another few years out of it if you use it sparingly. If you use it constantly, I wouldn&rsquo;t be surprised if it doesn&rsquo;t last a year.</p>
-<p>&nbsp;We answered this question, <a title="How long will my thumbdrive last?" href="/2012/10/deemable-tech-episode-16-we-took-the-lollipop/" target="_blank">&ldquo;How long will my USB thumb drive survive?&rdquo;, on Episode 16 &ndash; We Took The Lollipop</a>.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="How long will my USB thumb drive survive? - Ask Deemable Tech" data-link="/2012/10/how-long-will-my-usb-thumb-drive-survive/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="How long will my USB thumb drive survive? - Ask Deemable Tech" data-link="/2012/10/how-long-will-my-usb-thumb-drive-survive/" data-summary=""></div></body></html>
+<p>&nbsp;We answered this question, <a title="How long will my thumbdrive last?" href="//2012/10/deemable-tech-episode-16-we-took-the-lollipop/" target="_blank">&ldquo;How long will my USB thumb drive survive?&rdquo;, on Episode 16 &ndash; We Took The Lollipop</a>.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/10/how-long-will-my-usb-thumb-drive-survive/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

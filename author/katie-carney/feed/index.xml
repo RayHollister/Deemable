@@ -12,7 +12,7 @@
 	<atom:link href="/author/katie-carney/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -37,11 +37,10 @@
 <p>One other amazing fact that came from this study is that, &ldquo;&hellip;almost half the information that originates from the media passes to the masses indirectly via a diffuse intermediate layer of opinion leaders,&rdquo; which means that instead of hearing breaking news from news Tweets, ordinary users hear it from celebrities, bloggers, their friends, or anyone with an opinion on a popular news story.</p>
 <p>Another important finding was, &ldquo;&hellip;although all categories devote a roughly similar fraction of their attention to different categories of news, there are some differences &ndash; organizations, for example, devote a surprisingly small fraction of their attention to business-related news.&rdquo; Also, different types of content have different lifespans. For example, media-originated URLs have a very short lifespan compared to blogger URLS, which seem to be over-represented. The longest-lived URLS are video and music content, which seem to &ldquo;persist indefinitely.&rdquo;</p>
 <p>This <a title="study" href="http://research.yahoo.com/pub/3386" target="_blank">study</a> was fascinating to read and, if you have any interest in Twitter and social media trends, you should check it out</p>
-<p>What do you think about this topic? Are you &ldquo;guilty&rdquo; of following dozens of celebrities and reading their Tweets before your morning cup of coffee? Do you normally hear your news information from a third party such as a friend or blogger? Talk about it in the comments below.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title=".05% of Twitter Users Control 50% of Tweets" data-link="/2011/04/05-of-twitter-users-control-50-of-tweets/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title=".05% of Twitter Users Control 50% of Tweets" data-link="/2011/04/05-of-twitter-users-control-50-of-tweets/" data-summary=""></div></body></html>
+<p>What do you think about this topic? Are you &ldquo;guilty&rdquo; of following dozens of celebrities and reading their Tweets before your morning cup of coffee? Do you normally hear your news information from a third party such as a friend or blogger? Talk about it in the comments below.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/04/05-of-twitter-users-control-50-of-tweets/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-	<p style="font-size:10px;">Plugin by <a target ="_blank" href="http://nickpowers.info/wordpress-plugins/social-author-bio/">Social Author Bio</a></p></channel>
+	</channel>
 </rss>

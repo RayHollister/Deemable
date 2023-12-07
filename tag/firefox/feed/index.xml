@@ -12,7 +12,7 @@
 	<atom:link href="/tag/firefox/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,8 +54,7 @@
 </ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
 </ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
 <p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
-<p><span style="line-height: 1.5;">Safe surfing!</span></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -94,7 +93,7 @@
 <p>The Deemable Tech Podcast is brought to you by A Small Orange, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
 <p><a title="Click here to subscribe to the Deemable Tech podcast on iTunes" href="http://dmbl.co/itunes" rel="attachment wp-att-5275"><img class="alignnone" title="Subscribe to Deemable Tech on iTunes" src="/media/2012/07/subscribe_on_iTunes.jpg" alt="Subscribe to Deemable Tech on iTunes" width="160" height="59"></a>&nbsp;<a href="http://dmbl.co/stitcher" target="_blank"><img class="alignnone wp-image-9769" title="Hear Deemable Tech On Stitcher Radio" src="/media/2015/02/HearUsOnStitcher.png" alt="Hear Deemable Tech On Stitcher Radio" width="183" height="61"></a></p>
 <p>Make sure to&nbsp;share Deemable Tech on the forums, <a href="http://facebook.com/Deemable" target="_blank">Facebook</a>, <a href="http://twitter.com/Deemable" target="_blank">Twitter</a>&nbsp;and all over the interwebs.</p>
-<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="/reddit" target="_blank">Deemable.com/reddit</a> will take you there. We?re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
+<p>Thank you to our Redditors&nbsp;who&nbsp;have been helping us decide what stories we talk about on the show. Go to our subreddit page and submit a story, and vote other stories up or down. <a title="Deemable Sub Reddit" href="//reddit" target="_blank">Deemable.com/reddit</a> will take you there. We?re also looking for a new admin to help manage and moderate our subreddit page. Submit a text post to our subreddit explaining why you would make a great admin.</p>
 <audio class="wp-audio-shortcode" id="audio-10183-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3?_=2"></source><a href="http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3">http://cpa.ds.npr.org/wjct/audio/2015/07/DeemableTech_2015-07-31.mp3</a></audio><h1>THIS WEEK?S RUNDOWN</h1>
 <h3><strong>Windows 10 is released.</strong></h3>
 <p>Our top story this week is the long-awaited release of Microsoft?s Windows 10. In an unprecedented move, Microsoft has made the new Windows available as a free upgrade to anyone who had Windows 7, 8 or 8.1. The upgrade became available to download for most of those folks starting on Wednesday.</p>
@@ -127,8 +126,7 @@
 <p>Google has released a patch and manufacturers have been notified, but we&rsquo;ll see how long it takes for them to get the update sent out to users.</p>
 <h3><strong>Fiat Chrysler follow-up</strong></h3>
 <p>Last week we reported that if you had a Jeep Cherokee with Fiat Chrysler?s ?uConnect? system, hackers could remotely take control of your vehicle and destroy everyone that you hold dear. It turns out that this was a source of some concern to Chrysler Fiat, as they have issued an official recall for 1.4 million vehicles to patch the issue. Affected models include certain Dodge Rams, Dodge Vipers, Dodge Chargers, Dodge Challengers, Chrysler 200s and 300s, and of course Jeep Grand Cherokees, all model year 2013 or later. If you are driving one of those vehicles you should check to see if your specific model is affected. The recall does not actually require the vehicles to be taken to the dealer: affected owners will receive a USB device which can be used to load the patch into their uConnect systems.</p>
-<p><a href="http://www.wired.com/2015/07/gadget-hacks-gm-cars-locate-unlock-start/"><strong>Wired &ndash; This Gadget Hacks GM Cars to Locate, Unlock, and Start Them</strong></a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#94 Windows 10 Is Out But We?re Still Sticking With Windows 9" data-link="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#94 Windows 10 Is Out But We?re Still Sticking With Windows 9" data-link="/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/" data-summary=""></div></body></html>
+<p><a href="http://www.wired.com/2015/07/gadget-hacks-gm-cars-locate-unlock-start/"><strong>Wired &ndash; This Gadget Hacks GM Cars to Locate, Unlock, and Start Them</strong></a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/07/94-windows-10-is-out-but-were-still-sticking-with-windows-9/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -172,8 +170,7 @@ Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;"
 <p>Regardless of what your favorite browser is, if you&rsquo;re getting fed-up with annoying ads on the websites you frequent, there are tools out there that can make your web-browsing experience a little smoother.</p>
 <p>Now that we&rsquo;ve gotten that out of the way, it&rsquo;s time for a friendly little PSA about pop-up blocking. Many of your favorite free websites are ad-supported, so when you visit one of those sites and you&rsquo;ve got a pop-up blocker running, you may avoid seeing that annoying pop-up ad but you&rsquo;ve also cost that site some ad revenue. So be sure to deploy your pop-up blocker judiciously.</p>
 <p>This is such a big issue that the ever-popular Ad Block Plus actually has a setting called &ldquo;allow non-intrusive advertising&rdquo; which is on by default. As the name suggest, this allows many of the less annoying ads through. But keep in mind that the ones that it does block &ndash; the really annoying ones &ndash; may be real money makers for small, independent websites. Ad Block Plus gives you the option to allow pop-ups for certain websites to remedy this. Other pop-up blockers should, at minimum, allow you to turn them on and off.</p>
-<p>Please pop-up block responsibly! Ads may be annoying, but they help keep the web free.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Bill asks, "Is there any way I can completely block pop-up ads?"' data-link="/2013/08/bill-asks-way-can-completely-block-pop-ads/" data-summary=""></div></body></html>
+<p>Please pop-up block responsibly! Ads may be annoying, but they help keep the web free.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/08/bill-asks-way-can-completely-block-pop-ads/feed/</wfw:commentRss>
 		<slash:comments>5</slash:comments>
@@ -288,8 +285,7 @@ Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;"
 <p><b><b>&nbsp;</b></b></p>
 <p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
 <p dir="ltr">Thanks for listening. Have a great week.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 35 - Ray Grows Extra Arms" data-link="/2013/04/episode-35-ray-grows-extra-arms/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/04/episode-35-ray-grows-extra-arms/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -337,8 +333,7 @@ Image credit: Minesweeper / Wikipedia" style="float:left; margin:0 15px 15px 0;"
 <p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
 <p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
 <p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
-<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="//category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
 		<slash:comments>12</slash:comments>

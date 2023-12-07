@@ -12,7 +12,7 @@
 	<atom:link href="/tag/adware/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -47,9 +47,8 @@
 <p>One thing we should mention about avast! is that, while it is free, you&rsquo;ll need to register the program when you install it. It will prompt you to provide an email address the first time you run it, and ask you to confirm your license every year. The program will not protect your computer if you don&rsquo;t do this, so make sure you take the time to register.</p>
 <p>Now, antivirus software like avast! mainly focus on traditional viruses like Trojan horses, worms and similar infections, so it may not catch that pesky adware. For that, we recommend installing a second program called <a href="www.malwarebytes.org/" target="_blank">Malwarebytes Anti-Malware</a>. This free program is exceptionally good at getting rid of malware that is so new traditional antivirus software won&rsquo;t even detect it.</p>
 <p>Both of these programs should help you out, but ideally we should all try to avoid the risk of being infected in the first place. One thing that you can do to stave off adware is to pay attention when you&rsquo;re installing programs, because it will often piggyback on other software. If a program asks you if you&rsquo;d like to install a toolbar, say no!</p>
-<p>Another good way to protect yourself is to stay off of sketchy websites. If you are using the Google Chrome browser, it will alert you with a red warning screen if you click on a website that is known to host infections. You can check out some of our other tips for avoiding malicious websites in <a title="Jamie asks, ?How can I avoid malicious software and dangerous websites??" href="/2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" target="_blank">this article</a>.</p>
-<p>So, to sum up: pay attention when you are installing software, stay off of dangerous websites, and try out Malwarebytes Anti-Malware and avast! Antivirus.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Sandra asks, "Is my computer infected?"' data-link="/2014/04/sandra-asks-computer-infected/" data-summary=""></div></body></html>
+<p>Another good way to protect yourself is to stay off of sketchy websites. If you are using the Google Chrome browser, it will alert you with a red warning screen if you click on a website that is known to host infections. You can check out some of our other tips for avoiding malicious websites in <a title="Jamie asks, ?How can I avoid malicious software and dangerous websites??" href="//2013/10/jamie-asks-can-avoid-malicious-software-dangerous-websites/" target="_blank">this article</a>.</p>
+<p>So, to sum up: pay attention when you are installing software, stay off of dangerous websites, and try out Malwarebytes Anti-Malware and avast! Antivirus.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/04/sandra-asks-computer-infected/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>

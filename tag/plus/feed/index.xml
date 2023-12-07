@@ -1,7 +1,3 @@
-
-Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
-
-Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes/template.php on line 555
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -16,7 +12,7 @@ Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes
 	<atom:link href="/tag/plus/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -42,8 +38,8 @@ Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes
 		<guid isPermaLink="false">http://deemable.com/?p=3746</guid>
 		<description><![CDATA[<img width="150" height="150" src="/media/2011/06/Google+-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google+" style="float:left; margin:0 15px 15px 0;" />Facebook has caused a worldwide revolution in social media, and Google may have finally developed a similar product that can rival their nemesis. Google&#8217;s response to Facebook, Google+, was launched on Tuesday to a select number of people as a <a href="/2011/06/is-google-the-next-facebook/#more-'" class="more-link">more »</a><p class="more-link-p"><a class="more-link" href="/2011/06/is-google-the-next-facebook/">Read more &#8594;</a></p>]]></description>
 				<content:encoded><![CDATA[<img width="150" height="150" src="/media/2011/06/Google+-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Google+" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p style="text-align: center"><a href="/wp-content/uploads/2011/06/Google+.jpg"><br></a><a href="/wp-content/uploads/2011/06/Google+.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-3747" src="/wp-content/uploads/2011/06/Google+.jpg"  alt="" width="545" height="371"></a></p>
-<p>Facebook has caused a worldwide <a title="Facebook" href="/stuff/2011/04/the-facebook-empire/" target="_blank">revolution in social media</a>, and Google may have finally developed a similar product that can rival their <a title="Facebook vs Google War" href="http://money.cnn.com/2011/05/12/technology/facebook_google/index.htm" target="_blank">nemesis</a>. Google&rsquo;s response to Facebook, Google+, was launched on Tuesday to a select number of people as a &ldquo;social field test&rdquo; &ndash; meaning Google+ is not in the public beta release stage yet.&nbsp;<em>Plus</em> is the first major launch by Larry Page,&nbsp;Google&rsquo;s co-founder and new Chief Executive Officer since April.</p>
+<html><body><p style="text-align: center"><a href="//wp-content/uploads/2011/06/Google+.jpg"><br></a><a href="//wp-content/uploads/2011/06/Google+.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-3747" src="//wp-content/uploads/2011/06/Google+.jpg"  alt="" width="545" height="371"></a></p>
+<p>Facebook has caused a worldwide <a title="Facebook" href="//stuff/2011/04/the-facebook-empire/" target="_blank">revolution in social media</a>, and Google may have finally developed a similar product that can rival their <a title="Facebook vs Google War" href="http://money.cnn.com/2011/05/12/technology/facebook_google/index.htm" target="_blank">nemesis</a>. Google&rsquo;s response to Facebook, Google+, was launched on Tuesday to a select number of people as a &ldquo;social field test&rdquo; &ndash; meaning Google+ is not in the public beta release stage yet.&nbsp;<em>Plus</em> is the first major launch by Larry Page,&nbsp;Google&rsquo;s co-founder and new Chief Executive Officer since April.</p>
 <p>Google has had prior hiccups entering the social media game with failed products like Google Buzz, Google Orkut, and Google Wave, so it&rsquo;s no surprise that&nbsp;the search giant&rsquo;s latest attempt at a social media avenue has generated mixed feelings from its users.&nbsp;Some are receptive of the features offered in the Facebook alternative, most notably the ability to create &ldquo;Circles&rdquo; &ndash; an easier way to maintain and group contacts. Other features are described by <a title="Reuters" href="http://blogs.reuters.com/mediafile/2011/06/28/google-dont-call-it-the-facebook-killer-for-now/" target="_blank">Reuters</a> below:</p>
 <blockquote><p>Google+ will have some obviously-essential features for a social network ? a news component called the Stream, a search/alert component called Sparks which will serve up different results on your interests than a plain vanilla Google search. There is also the ability to share with people who aren&rsquo;t signed up for the service ? which addresses the problem of opt-in-itis.</p>
 <p>But at first blush the most intriguing aspect of Google+ seems to be the granularity with which you can pigeonhole your friends, acquaintances, family, contacts and whomever into the exact right slot in your social web. It&rsquo;s a seemingly obvious problem to solve and one which Facebook hasn&rsquo;t, perhaps, because it hasn&rsquo;t seen the need to ? ?groups? notwithstanding.</p></blockquote>
@@ -53,8 +49,7 @@ Warning: require_once(): Unable to allocate memory for pool. in /app/wp-includes
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><a title="Google+ Circles Photo" href="/wp-content/uploads/2011/06/Google+.jpg" target="_blank">Photo</a> by <a title="Google+" href="http://www.google.com/intl/en-US/+/demo/" target="_blank">Google</a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Is Google+ the Next Facebook?" data-link="/2011/06/is-google-the-next-facebook/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Is Google+ the Next Facebook?" data-link="/2011/06/is-google-the-next-facebook/" data-summary=""></div></body></html>
+<p><a title="Google+ Circles Photo" href="//wp-content/uploads/2011/06/Google+.jpg" target="_blank">Photo</a> by <a title="Google+" href="http://www.google.com/intl/en-US/+/demo/" target="_blank">Google</a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/06/is-google-the-next-facebook/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

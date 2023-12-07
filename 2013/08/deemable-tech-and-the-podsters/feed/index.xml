@@ -1,9 +1,3 @@
-
-Warning: include_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/wordpress-popup/inc/class-popup-base.php on line 288
-
-Warning: require_once(): Unable to allocate memory for pool. in /app/wp-content/plugins/jetpack/class.jetpack.php on line 1004
-
-Warning: require_once(): Unable to allocate memory for pool. in /app/wp-blog-header.php on line 16
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"

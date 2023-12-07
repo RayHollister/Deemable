@@ -12,7 +12,7 @@
 	<atom:link href="/author/tombraun/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,8 +31,7 @@
 <html><body><p>If it seems th<img class="alignleft wp-image-9370 size-thumbnail" src="/media/2014/11/bad-windows-resized-600-150x150.png" alt="bad windows-resized-600" width="150" height="150">at in the last year or so you&rsquo;ve been bombarded by one scary online security threat after another, you&rsquo;re not wrong. And here comes another one. Microsoft disclosed on Tuesday, Nov. 11 that there is a &lsquo;vulnerability&rsquo; in the code that handles encryption and authentication in Windows that could allow attackers to take control of computers running the operating system. And here&rsquo;s the really fun part: virtually every modern version of Windows is affected. Windows Vista, Windows 7, Windows 8, Windows 8.1, and even the more obscure flavors like Windows RT and Windows Server ALL have this security hole.<span id="more-9369"></span></p>
 <p>That&rsquo;s the bad news. The good news is that Microsoft didn&rsquo;t just announce that it had found a problem, it also announced that it had a fix. The fix is a patch which should automatically download if you perform a system update (to find out how to do that <a href="http://windows.microsoft.com/en-us/windows/windows-update" target="_blank">go here</a>).</p>
 <p>Microsoft says that so far it is not aware of any bad guys exploiting this vulnerability, but now that they have disclosed its existence it is only a matter of time.</p>
-<p>However, savvy web surfers who download the patch now can make sure they are safe before any bad guys get a hold of their Windows machines.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Dangerous hole in Windows security! All users should patch immediately! This is not a drill!" data-link="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Dangerous hole in Windows security! All users should patch immediately! This is not a drill!" data-link="/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/" data-summary=""></div></body></html>
+<p>However, savvy web surfers who download the patch now can make sure they are safe before any bad guys get a hold of their Windows machines.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/11/dangerous-hole-windows-security-users-patch-immediately-drill/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -75,8 +74,7 @@
 <p>For instance, cute animals&nbsp;are always a big hit. Facebook also loves &ldquo;positive&rdquo; posts. It probably searches posts for keywords like &ldquo;happy&rdquo;, &ldquo;engaged&rdquo;, &ldquo;married&rdquo;, &ldquo;pregnant&rdquo;, &ldquo;kitty&rdquo;, &ldquo;love&rdquo; and so on.&nbsp;Facebook likes happy posts because they are more likely to be shared. Happy links are more likely to be clicked on. And when people click links, Facebook is usually making money.</p>
 <p>So if you&rsquo;re happy and you know it, tell Facebook!</p>
 <p>Following these tips will give you much more control over your Facebook feed. More control, but not complete control. At the end of the day, the secret Facebook algorithm is still deciding what it thinks you&nbsp;should see. You may be wondering, is there a way&nbsp;tiycan have total control over my news feed?</p>
-<p>There is only one we know of: switch to Twitter.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Taking Control of Your Facebook Feed" data-link="/2014/10/deemable-tech-tips-taking-control-facebook-feed/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Taking Control of Your Facebook Feed" data-link="/2014/10/deemable-tech-tips-taking-control-facebook-feed/" data-summary=""></div></body></html>
+<p>There is only one we know of: switch to Twitter.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/10/deemable-tech-tips-taking-control-facebook-feed/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -104,8 +102,7 @@
 <p>Android phones, including the Samsung Galaxy models, store all the big, important passwords, like email accounts and social media accounts, in the same place. You need to bring up &ldquo;settings&rdquo;. Not the settings for the email app, but the main settings menu that you get to from the desktop.</p>
 <p>Then you need to scroll way down. You&rsquo;re looking for a section called &ldquo;Accounts&rdquo;. Keep scrolling down until you find it. Under that you should see an option called &ldquo;Email&rdquo;. Tap that. Then tap &ldquo;Settings&rdquo;. Then tap your email address again. Now you should see a page with a bunch of options, including one that says &ldquo;password&rdquo; &ndash; tap that and enter your new password.</p>
 <p>Basically, any time you want to change a major password you have to go under &ldquo;Accounts&rdquo; under your main settings. Your email login, your Facebook login, your Twitter login, your LinkedIn login, it&rsquo;s all stored there. These are all apps that have deep, native integration into the Android operating system, so it actually makes some sense for them to be stored down in the main settings of the phone.</p>
-<p>That&rsquo;s pretty similar to how it is handled on the iPhone and iPad too. Under the Settings app, you tap &ldquo;Mail, Contacts, and Calendars&rdquo;, then tap the account and tap your email address, then enter the correct password.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Dale asks, "How can I change the email password on my Samsung Galaxy S4?"' data-link="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Dale asks, "How can I change the email password on my Samsung Galaxy S4?"' data-link="/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/" data-summary=""></div></body></html>
+<p>That&rsquo;s pretty similar to how it is handled on the iPhone and iPad too. Under the Settings app, you tap &ldquo;Mail, Contacts, and Calendars&rdquo;, then tap the account and tap your email address, then enter the correct password.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/10/dale-asks-can-change-email-password-samsung-galaxy-s4/feed/</wfw:commentRss>
 		<slash:comments>9</slash:comments>
@@ -141,7 +138,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <li><a href="https://www.paypal.com/webapps/mpp/credit-card-reader" target="_blank">PayPal Here</a></li>
 <li><a href="http://localregister.amazon.com/" target="_blank">Amazon Register</a></li>
 <li><a href="http://payments.intuit.com/mobile-credit-card-processing/" target="_blank">Intuit GoPayment</a></li>
-</ul><p>You can get all of these for essentially free (for example, the Square reader is $9.99 at retail stores, but it comes with a $10 mail-in rebate). The card reader companies make their money off transaction fees, which vary by device. You can read more about credit cards readers in <a title="Norman asks, ?How can I accept credit card payments using my smartphone??" href="/2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" target="_blank"><strong>this article</strong></a>.</p>
+</ul><p>You can get all of these for essentially free (for example, the Square reader is $9.99 at retail stores, but it comes with a $10 mail-in rebate). The card reader companies make their money off transaction fees, which vary by device. You can read more about credit cards readers in <a title="Norman asks, ?How can I accept credit card payments using my smartphone??" href="//2014/07/norman-asks-can-accept-credit-card-payments-using-smartphone/" target="_blank"><strong>this article</strong></a>.</p>
 <p>Let&rsquo;s talk about a different type of cards: business cards.</p>
 <h3>Business Card Readers</h3>
 <p>There are apps that will allow you to photograph, scan&nbsp;and store the information from people&rsquo;s business cards, creating a digital Rolodex. There are two major apps. Abbyy&rsquo;s is the tried-and-true original, Evernote&rsquo;s is the new upstart:</p>
@@ -157,8 +154,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>You have two major options for productivity software. The first is Google Drive, which includes Google Docs and Google Sheets. This is free, but not as fully-featured as Microsoft Office. You can also get Microsoft Office 365, the cloud-based (read: online) version of Office. One user is $6/month.</p>
 <p>Also, this is not exactly an app but we would be remiss if we didn&rsquo;t mention Google Apps for Work. Do you want to have your own, custom email address that still uses the Gmail interface? Google Apps for Work can give you that. For instance, Ray@SmallBusiness.com could be accessed through Gmail and would also have full access to Google Drive.</p>
 <p>Google Apps for Work is $5/user/month or $50/year.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Downloadable: Apps for Small Business" data-link="/2014/10/downloadable-apps-small-business/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Downloadable: Apps for Small Business" data-link="/2014/10/downloadable-apps-small-business/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/10/downloadable-apps-small-business/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -184,8 +180,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>Kindle Fires have a standard one year warranty so unfortunately that won&rsquo;t help you. You might be able to take it to someone to get it repaired, but do you really want to spend money on this? You can get a new Kindle Fire for $119.00 and a previous generation version for only $73.00. You could easily spend that on the repair bill.</p>
 <p>If you are feeling really crafty, you can get a replacement battery for about $50, but I&rsquo;ll tell you, they are not easy to replace.</p>
 <p>If you liked your Kindle Fire I would just order a new one, or look at other cheap tablets. There are a lot on the market right now.</p>
-<p>Don&rsquo;t think of it as losing a tablet so much as&hellip; gaining a newer tablet? At any rate, good luck!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Meghan asks, &quot;Why won't my Kindle battery charge?&quot;" data-link="/2014/06/meghan-asks-kindle-battery-isnt-charging/" data-summary=""></div></body></html>
+<p>Don&rsquo;t think of it as losing a tablet so much as&hellip; gaining a newer tablet? At any rate, good luck!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/06/meghan-asks-kindle-battery-isnt-charging/feed/</wfw:commentRss>
 		<slash:comments>9</slash:comments>
@@ -235,8 +230,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <h3>Tip #7: Wipe your personal data before you return your phone to the store</h3>
 <p>Occasionally you may need to take your smartphone somewhere to get it repaired or to swap it for a working model. Before you do this, it&rsquo;s a really good idea to wipe all of your personal data from your phone! What you need to do is reset your phone to factory defaults. Your smartphone should come with instructions on how to do this.&nbsp;Of course you should backup all your personal data before you do this as it WILL be erased!</p>
 <p>So these are just a few tips that will help you keep the personal data on your smartphone more secure from thieves, from hackers and even from advertisers. And if nothing else, you should always,&nbsp;<em>always &ndash;</em></p>
-<p><strong>LOCK YOUR PHONE.</strong></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Deemable Tech Tips: Hacker-Proof Your Phone" data-link="/2014/06/deemable-tech-tips-hacker-proof-phone/" data-summary=""></div></body></html>
+<p><strong>LOCK YOUR PHONE.</strong></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/06/deemable-tech-tips-hacker-proof-phone/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -263,8 +257,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>Your&nbsp;mysterious IP address thief is much more likely to be a misbehaving wireless printer or mobile device that is using your WiFi network than a hacker. Wireless printers are sometimes the culprit, because some of them have pre-set IP addresses. If the WiFi router hands out that preset address to another computer or device, the router will get confused about who to send data to. Of course it doesn&rsquo;t have to be a printer to blame, it could be anything that is using your Wi-Fi.</p>
 <p>Try disconnecting your&nbsp;laptop from the Wi-Fi and then reconnecting. That should cause the router to assign it a clean IP address. Actually it wouldn&rsquo;t be a bad idea to do that for every device connected to the Wi-Fi.</p>
 <p>It?s possible, though, that this problem stems from either your&nbsp;laptop or another device on the network having a static IP address set. If that?s the issue you&nbsp;will probably need a technician to come out and look at it, as that starts to get a little bit complicated.</p>
-<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Linda writes, "Help! My computer says someone is using my IP address!"' data-link="/2014/06/linda-asks-help-computer-says-someone-using-ip-address/" data-summary=""></div></body></html>
+<p>It?s also possible your wireless router is having problems, in which case it will need to be replaced. While that can be a pain, the good news is that you aren&rsquo;t having your identity stolen by hackers!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/06/linda-asks-help-computer-says-someone-using-ip-address/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
@@ -295,8 +288,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>That isn&rsquo;t to say that a smartphone could&nbsp;<em>never</em> get a virus, but we have yet to see any big ones on Android or iOS that users need to worry about. If that ever happens, we will be the first ones to let you know.</p>
 <p>If you still don&rsquo;t feel safe, you <em>can</em> download anti-virus apps that will check for bad stuff on your phone, but recent studies have found that a lot of the free ones are basically useless.&nbsp;They catch very few pieces of malware, and can slow down your phone considerably. There are also paid apps from big anti-virus companies like&nbsp;Symantec, BitDefender and Trend Micro, but these too take up a lot of memory and will affect your phone&rsquo;s performance.</p>
 <p>What you really need to watch out for aren&rsquo;t viruses, they&rsquo;re malicious apps. Apps available in the&nbsp;the Apple App Store or the Google Play Store have been screened by those companies, and are trustworthy 99.99% of the time. But if you download and install an app from an unofficial source (this is known as &ldquo;side-loading&rdquo;), you run the risk of getting something dangerous. Most people who side-load apps are trying to install free versions of games you normally have to pay for, which is basically like catnip for hackers. Our advice is to never side-load an app unless you&rsquo;re confident of what it is and know the people who made it.</p>
-<p>So, Charles, don&rsquo;t worry too much about that warning you saw. If you play it safe when you&rsquo;re surfing the web, and make sure you&rsquo;re only downloading apps from official places, you should be fine.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Charles asks, "Does my smartphone have a virus?"' data-link="/2014/06/charles-asks-smartphone-virus/" data-summary=""></div></body></html>
+<p>So, Charles, don&rsquo;t worry too much about that warning you saw. If you play it safe when you&rsquo;re surfing the web, and make sure you&rsquo;re only downloading apps from official places, you should be fine.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/06/charles-asks-smartphone-virus/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -360,8 +352,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>Check websites that you regularly visit for the&nbsp;Heartbleed&nbsp;vulnerability using the link above. If you find that one has problems, you could try emailing their IT administrators to inform them and find out what steps are being taken. In the meantime, stay off of that website. Once the hole is plugged, log in and change your password.</p>
 <p>Keep an eye on bank statements and credit card information for unusual activity.&nbsp;Heartbleed&nbsp;was discovered by security researchers. We have no proof that hackers have been using it, but the possibility exists. That means you need to take precautions to protect yourself in the digital world.</p>
 <p>If you have more questions, call us a <a href="tel:18889729868">1-888-972-9868</a> or email us at <a href="mailto:questions@deemable.com">questions@deemable.com</a>.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Heartbleed, Passwords and You" data-link="/2014/04/heartbleed-passwords/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/04/heartbleed-passwords/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
@@ -416,8 +407,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>If Google&rsquo;s give-it-away-free model doesn&rsquo;t make sense for Google Reader, why not try charging for the service? Google could charge the other feed readers that use its back-end API. Or it could even charge its users. <em>I would pay</em>. Google Reader is absolutely worth, say, $30/year to me.</p>
 <p>You hear that, Google? You&rsquo;ve got a user base you could actually <em>monetize</em>! If only you will listen before it&rsquo;s too late.</p>
 <p>Otherwise you&rsquo;re killing off the thriving-but-often-invisible universe of small blogs. You&rsquo;re alienating a base of vocal power-users. And you&rsquo;re shattering those users&rsquo; faith in your willingness to continue supporting services you&rsquo;ve developed.</p>
-<p>Originally posted at <a title="Tom Noir.com" href="http://www.tomnoir.com/2013/03/the-end-of-blogging.html" target="_blank">TomNoir.com</a></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="The End of Blogging?" data-link="/2013/03/the-end-of-blogging/" data-summary=""></div></body></html>
+<p>Originally posted at <a title="Tom Noir.com" href="http://www.tomnoir.com/2013/03/the-end-of-blogging.html" target="_blank">TomNoir.com</a></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/the-end-of-blogging/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -437,8 +427,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 		<description><![CDATA[Someone made a supercut of really mean ways to wake people up. They&#8217;re funny when they aren&#8217;t happening to&#160;you!<p class="more-link-p"><a class="more-link" href="/2013/03/very-bad-ways-to-wake-up-friday-funnies/">Read more &#8594;</a></p>]]></description>
 				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body><p>Someone made a supercut of really mean ways to wake people up. They&rsquo;re funny when they aren&rsquo;t happening to&nbsp;<em>you!</em></p>
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/aIyQn9jRjP8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Very Bad Ways To Wake Up [Friday Funnies]" data-link="/2013/03/very-bad-ways-to-wake-up-friday-funnies/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Very Bad Ways To Wake Up [Friday Funnies]" data-link="/2013/03/very-bad-ways-to-wake-up-friday-funnies/" data-summary=""></div></body></html>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="752" height="453" src="https://www.youtube.com/embed/aIyQn9jRjP8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe></span></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/very-bad-ways-to-wake-up-friday-funnies/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -493,8 +482,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <li><a href="http://sourceforge.net/projects/dban/">DBAN &ndash; Free program for wiping a hard drive</a></li>
 <li><a href="http://pcsupport.about.com/od/toolsofthetrade/ht/write-zeros-format-command.htm">The &lsquo;Write Zero&rsquo; method of hard drive formatting</a></li>
 </ul><p>&nbsp;</p>
-<div></div>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 23 - Holiday Minisode 1: Tablets vs. Laptops" data-link="/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/" data-summary=""></div></body></html>
+<div></div></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/12/episode-23-holiday-minisode-1-tablets-vs-laptops/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
@@ -541,8 +529,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>Predictably, George himself seems pretty happy about selling out.</p>
 <p><a href="/media/2012/10/lucas_disney-300x223.jpg" class="gallery_colorbox" rel="attachment wp-att-5950"><img class="alignnone size-medium wp-image-5950" title="George Lucas poses with Mickey, Minnie, Goofy and Donald dressed up as the cast of Star Wars." src="/media/2012/10/lucas_disney-300x223.jpg"  alt="" width="300" height="223"></a></p>
 <p>You don&rsquo;t need to see any more pictures. These aren&rsquo;t the pictures you&rsquo;re looking for. Move along.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disney Buys Star Wars! Image Mashup Roundup" data-link="/2012/10/disney-buys-star-wars-image-mashup-roundup/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disney Buys Star Wars! Image Mashup Roundup" data-link="/2012/10/disney-buys-star-wars-image-mashup-roundup/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/10/disney-buys-star-wars-image-mashup-roundup/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -603,7 +590,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <h2>Shake It Like A Polaroid Picture</h2>
 <p><a href="/media/2012/09/Screenshot_2012-09-13-08-50-40.png" class="gallery_colorbox"><img class="alignright  wp-image-5505" title="The Motion Settings menu" src="/media/2012/09/Screenshot_2012-09-13-08-50-40-168x300.png"  alt="The Motion Settings menu" width="134" height="240"></a>The first thing that any new GS3 owner should do with their phone is to go to the main settings menu and select ?Motion&rsquo;. Every smartphone owner knows about simple touch gestures like flicking up and down a list to scroll quickly or pinch-to-zoom (although the calendar app adds a cool use for this &ndash; zooming in and out of calendar, from days to weeks to months), but Samsung and Google have added an impressive number of intuitive motions to the gesture control alphabet.</p>
 <p>A few of my favorites: swipe <em>left</em> on a contact to text them, swipe <em>right</em> to call them. Want to capture what&rsquo;s on your screen? Swipe your entire hand across it. Ever had a text message conversation get to the point where you realize that it&rsquo;s simpler to just pick up the phone and call the person? While on the text message screen, pick up the phone and hold it to your ear and the GS3 will make the call. Brilliant!</p>
-<p><a href="/2012/09/getting-smarter-about-my-smartphone/screenshot_swipe_contacts/" rel="attachment wp-att-5511"><img class="alignleft size-medium wp-image-5511" title="Swiping contacts" src="/media/2012/09/Screenshot_Swipe_Contacts-168x300.png" alt="Swiping contacts" width="168" height="300"></a>Shaking also happens to be the default ?refresh&rsquo; motion for many things. From the Bluetooth screen or the Wi-Fi screen try shaking your phone to look for nearby networks and devices.</p>
+<p><a href="/media/2012/09/Screenshot_Swipe_Contacts.png" class="gallery_colorbox" rel="attachment wp-att-5511"><img class="alignleft size-medium wp-image-5511" title="Swiping contacts" src="/media/2012/09/Screenshot_Swipe_Contacts-168x300.png"  alt="Swiping contacts" width="168" height="300"></a>Shaking also happens to be the default ?refresh&rsquo; motion for many things. From the Bluetooth screen or the Wi-Fi screen try shaking your phone to look for nearby networks and devices.</p>
 <p>There are too many motion-activated abilities on this phone to list here, but that&rsquo;s okay. Clicking on any of them in the settings menu will allow you to enter a tutorial mode where you can try the gesture out for yourself. You&rsquo;ll be panning, tilting and shaking in no time flat.</p>
 <h2>Pics Or It Didn&rsquo;t Happen</h2>
 <p>If you&rsquo;ve seen the TV commercials for the Samsung Galaxy S3, you know that it is supposed to allow you to watch a video and do other things with the phone, such as text. This actually works as advertised &ndash; clicking the box in the lower right hand corner of a video will put it in a small window and then you&rsquo;re free to navigate the phone as usual while the video plays. Why you&rsquo;d want to do this is another question entirely. For my money, there are several video and camera features on the phone that are far more useful.</p>
@@ -613,8 +600,7 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <h2>It&rsquo;s the Little Things</h2>
 <p>There&rsquo;s so much more. You probably figured you could assign your contacts custom ringtones, but did you know you can also assign them custom vibration patterns? Love of your life calling? How about giving them the ?heartbeat&rsquo; vibration? Hair stylist? You can drum out a custom pattern: ?Shave-and-a-haircut, two bits.?</p>
 <p>The Samsung Galaxy SIII does a great job of making the basic jobs of smartphones fast, easy and hassle-free. You don&rsquo;t have to know about any of these features to really enjoy using it. But this phone is packed with clever little surprises that can make your life that much easier, so it&rsquo;s worth exploring!</p>
-<p><em>* To be fair, Samsung does discuss some of these ?hidden&rsquo; features in the phone&rsquo;s thick manual. But who actually reads those things??</em></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Getting Smarter About My Smartphone" data-link="/2012/09/getting-smarter-about-my-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Getting Smarter About My Smartphone" data-link="/2012/09/getting-smarter-about-my-smartphone/" data-summary=""></div></body></html>
+<p><em>* To be fair, Samsung does discuss some of these ?hidden&rsquo; features in the phone&rsquo;s thick manual. But who actually reads those things??</em></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/09/getting-smarter-about-my-smartphone/feed/</wfw:commentRss>
 		<slash:comments>3</slash:comments>
@@ -647,11 +633,10 @@ Image credit: PayPal" style="float:left; margin:0 15px 15px 0;" /><!DOCTYPE html
 <p>Nokia has not neglected its new phones&rsquo; styling: the 920 comes in a variety of bright, vibrant colors including ?spectacular yellow, stunning lipstick red and seductive gray.? The 820 features easily swappable snap-on backs in a variety of colors. Both phones boast a rounded form-factor, including curved Gorilla Glass screens. Customers are certainly unlikely to confuse the new Nokia Lumia phones with any other smartphone.</p>
 <p>There were a couple small flies in the ointment after the unveiling. Nokia admitted that its impressive side-by-side image stabilization comparisons were not shot with the actual phone. They have now <a title="Nokia's apology and updated demo" href="http://conversations.nokia.com/2012/09/06/an-apology-is-due/" target="_blank">posted a new demo video</a>&nbsp;using the actual phone. While the Lumia 920&rsquo;s stabilized video certainly compares favorably against the iPhone 4s, it&rsquo;s not as effortlessly smooth as the original demo video. Some bloggers are also <a href="http://sefsar.com/nokia-faked-the-still-photos-too" target="_blank">calling some of the demo images of the phone&rsquo;s low-light photo capabilities into question</a>, but we&rsquo;ll probably have to wait until the phone is out in the wild to see how its night-shot camera really stacks up.</p>
 <p>There&rsquo;s no word yet on the official release date although it will probably coincide closely with the official release of Windows 8. The final&nbsp;phone is expected&nbsp;to boast a 1.5GHz dual-core Snapdragon S4&nbsp;processor and 32 mb of on-board memory (no expandable SD slot, though). Pricing and carriers have yet to be announced.</p>
-<p>Both Microsoft and Nokia have a lot riding on the new Lumia phones. Microsoft needs to get a ?must-have&rsquo; Windows 8 phone into the marketplace in order to&nbsp;seriously compete with iOS and Android. And Nokia desperately needs a big hit to help it regain its old position as a major phone maker, or at least put it back in the black.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Nokia unveils flagship Windows 8 smartphone Lumia 920" data-link="/2012/09/nokia-unveils-flagship-windows-8-smartphone/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Nokia unveils flagship Windows 8 smartphone Lumia 920" data-link="/2012/09/nokia-unveils-flagship-windows-8-smartphone/" data-summary=""></div></body></html>
+<p>Both Microsoft and Nokia have a lot riding on the new Lumia phones. Microsoft needs to get a ?must-have&rsquo; Windows 8 phone into the marketplace in order to&nbsp;seriously compete with iOS and Android. And Nokia desperately needs a big hit to help it regain its old position as a major phone maker, or at least put it back in the black.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/09/nokia-unveils-flagship-windows-8-smartphone/feed/</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
-	<p style="font-size:10px;">Plugin by <a target ="_blank" href="http://nickpowers.info/wordpress-plugins/social-author-bio/">Social Author Bio</a></p></channel>
+	</channel>
 </rss>

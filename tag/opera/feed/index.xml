@@ -12,7 +12,7 @@
 	<atom:link href="/tag/opera/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -59,8 +59,7 @@
 <p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
 <p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
 <p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
-<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="//category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
 		<slash:comments>12</slash:comments>
@@ -108,7 +107,7 @@
 <li><a href="http://www.flixster.com/">Flixster</a></li>
 <li><a href="http://www.uvvu.com/">UltraViolet</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.zomut.watchdoglite&amp;hl=en">Watchdog Manager Lite from Zomut</a></li>
-</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 8 - I want to shoot my iPhone because my Android is so slow" data-link="/2012/07/deemable-tech-episode-8-i-want-to-shoot-my-iphone-because-my-android-is-so-slow/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 8 - I want to shoot my iPhone because my Android is so slow" data-link="/2012/07/deemable-tech-episode-8-i-want-to-shoot-my-iphone-because-my-android-is-so-slow/" data-summary=""></div></body></html>
+</ul></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/07/deemable-tech-episode-8-i-want-to-shoot-my-iphone-because-my-android-is-so-slow/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

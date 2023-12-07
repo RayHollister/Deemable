@@ -12,7 +12,7 @@
 	<atom:link href="/tag/add-ons/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -54,8 +54,7 @@
 </ul><ul><li><span style="line-height: 1.5;">Google Tone &ndash; Google&rsquo;s experimental extension, only for Chrome, which lets you share links with your nearby friends through sound. (<a href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne?hl=en" target="_blank">Google Tone for Chrome</a>)</span></li>
 </ul><p><span style="line-height: 1.5;">It&rsquo;s important that you only download Firefox </span><span style="line-height: 1.5;">a</span>dd-ons<span style="line-height: 1.5;"> from the official <a href="https://addons.mozilla.org/en-US/firefox/" target="_blank">Mozilla Firefox add-on site</a>, and only download Chrome extensions from the <a href="https://chrome.google.com/webstore/category/apps" target="_blank">Google Chrome web store</a>. Downloading extensions from other locations could be dangerous. </span></p>
 <p><span style="line-height: 1.5;">You may have noticed that we haven?t mentioned extensions for Microsoft?s Internet Explorer browser. The reason is, well, IE doesn?t really support them. That?s just one of its many, many issues. In fact, with Windows 10, Microsoft is officially killing it and replacing it with the new Edge Browser, which will support extensions soon. Until then, we recommend giving Firefox or Chrome a shot. </span></p>
-<p><span style="line-height: 1.5;">Safe surfing!</span></p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: Browser Extensions" data-link="/2016/05/browser-extensions/" data-summary=""></div></body></html>
+<p><span style="line-height: 1.5;">Safe surfing!</span></p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2016/05/browser-extensions/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>

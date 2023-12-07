@@ -12,7 +12,7 @@
 	<atom:link href="/author/arthurdouglas/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -41,7 +41,7 @@
 				<content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body><p>The DMC-GH2, the newest camera in Panasonic&rsquo;s Micro Four Thirds line, delivers a vast array of features in a relatively small package. What sets the camera apart from the pack is its rare combination of image and video quality. The Gh2 is one of the first cameras to offer stills and video of such high quality at this price point (around $900 MSRP for the body only).</p>
 <p>What differentiates&nbsp;Micro Four Thirds cameras from the enormous DSLRs you see tourists, birdwatchers, and soccer moms lugging around is that they include no mirrors or optical viewfinders. The omission of the mirror and slightly smaller sensor size allow for significantly smaller and lighter cameras and lenses, while still delivering considerable image quality and competitive feature sets. In place of the mirror and optical viewfinder found in traditional DSLR cameras, the GH2 sports an electronic viewfinder composed of more than a million pixels, delivering a vibrant, crystal-clear image. In addition to the electronic viewfinder is a 460 thousand dot swivel touch screen.</p>
-<div id="attachment_1875" style="width: 310px" class="wp-caption alignleft"><a href="/wp-content/uploads/2011/03/panasonic-gh2-slant.jpg" class="gallery_colorbox"><img class="size-medium wp-image-1875" src="/wp-content/uploads/2011/03/panasonic-gh2-slant-300x200.jpg"  alt="" width="300" height="200"></a><p class="wp-caption-text">The GH2 showing off its swivel touch screen.</p></div>
+<div id="attachment_1875" style="width: 310px" class="wp-caption alignleft"><a href="//wp-content/uploads/2011/03/panasonic-gh2-slant.jpg" class="gallery_colorbox"><img class="size-medium wp-image-1875" src="//wp-content/uploads/2011/03/panasonic-gh2-slant-300x200.jpg"  alt="" width="300" height="200"></a><p class="wp-caption-text">The GH2 showing off its swivel touch screen.</p></div>
 <p>Fans of touch screens will be pleased, as the GH2&rsquo;s proves quite responsive. While providing the ability to alter general camera settings, it also allows the user to focus and take pictures simply by clicking anywhere on the screen.&nbsp;For those who prefer a more tactile relationship with their camera, there&rsquo;s a nice big mode dial, a ?clickable? thumbwheel on the back of the camera, as well as several customizable function buttons.</p>
 <p>Even though the image sensor found in Micro Four Thirds cameras and in the GH2 is a little bit smaller than in a standard DSLR system, image quality remains fantastic, and higher ISO sensitivities are much cleaner than on your standard point and shoot.&nbsp;Fans of shallow depth of field will find that they can isolate their subjects nicely, given the right lens and aperture&ndash;although it is admittedly more difficult to get the same shallow depth of field on a camera like the GH2, especially when compared to a DSLR with a full-frame sensor.</p>
 <p>Ergonomically, the GH2 feels pretty comfortable in the hand with its sizable grip. Its small size and lightweight design allow for comfortable one-handed shooting, while remaining heavy enough for steady low-light shots.</p>
@@ -49,11 +49,10 @@
 <p>On the top of the camera you&rsquo;ll find a built-in stereo microphone. This included microphone records some decent sound, but for more serious work you&rsquo;ll probably want to invest in an external microphone.</p>
 <p>While the GH2 is currently a unique camera, those who are after sheer image quality and don&rsquo;t care about video capabilities are still better off going for a more traditional DSLR of the Nikon or Canon variety. &nbsp;Nonetheless, if it&rsquo;s smaller size and a balance of great image quality and superb video capture that you&rsquo;re after, there&rsquo;s little that can touch the GH2 right now.</p>
 <p>The Micro Four Thirds camera system and the GH2 present some exciting changes in the photography world. The technology is far from perfect just yet, but it&rsquo;s hard to argue against mirrorless cameras being the future of photography.</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="A Quick Look at the Panasonic Gh2" data-link="/2011/04/a-quick-look-at-the-panasonic-gh2/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="A Quick Look at the Panasonic Gh2" data-link="/2011/04/a-quick-look-at-the-panasonic-gh2/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/04/a-quick-look-at-the-panasonic-gh2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-	<p style="font-size:10px;">Plugin by <a target ="_blank" href="http://nickpowers.info/wordpress-plugins/social-author-bio/">Social Author Bio</a></p></channel>
+	</channel>
 </rss>

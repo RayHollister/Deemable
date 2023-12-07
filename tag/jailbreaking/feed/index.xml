@@ -12,7 +12,7 @@
 	<atom:link href="/tag/jailbreaking/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -88,7 +88,7 @@ There are fantastic customizations like alternative keyboards and themes. There 
 <p>Ironically, if you want to see what will likely be in the next version of iOS, check Cydia, the app store you get when you have a jailbroken iPhone. You know how you can take a picture by pressing the volume button? Jailbreakers had that first. You know how you can double tap the home button to open another app that you were just running? Jailbreakers had that first. You know how you can change your wallpaper? Jailbreakers, well you get the point. Many of the &ldquo;new&rdquo; features in each version of iOS are features that jailbreakers have already had for months or years.</p>
 <p>Is there a chance you&rsquo;ll get in trouble? Yes, of course, it could happen, but no, probably not, at least not with the law. The Library of Congress has said that <a href="http://arstechnica.com/tech-policy/2012/10/jailbreaking-now-legal-under-dmca-for-smartphones-but-not-tablets/">it is legal to jailbreak a smart phone</a>. Strangely, the same is not true about an iPad. It has to do with the vague definition of a tablet device. However, the lawyers for the movie, television and music industry are fighting to try to change that. When it comes to the law, especially copyright law, which is what impacts this the most, what is true today could be false tomorrow. Also, you could get in trouble with Apple. As of yet, Apple has never tried to take legal action against jailbreakers, but even though you aren&rsquo;t breaking the law, you are breaking the terms of service that you agreed to when you set up your device. Obviously, if you do &ldquo;brick&rdquo; your iPhone (damage it beyond the point of repair) while jailbreaking your iPhone don&rsquo;t even think about taking your iPhone to the folks at the Genius Bar.</p>
 <p>What happens if you screw up your phone? Well, fortunately, that isn&rsquo;t as great a risk as it used to be. If it does happen, you can usually just restore your iPhone back to its factory default settings. Don&rsquo;t get too excited. You could still brick your phone. But it is much safer than it was a few years ago. Jailbreaking is dangerous. It&rsquo;s risky. You are intentionally making something work in a way it was not intended to by the company that created it. So, in doing that, you take on all the possible risk and benefits on yourself. You&rsquo;re on your own, but you&rsquo;re not really alone because there is a whole community of jailbreakers out there that are willing to help you.<br>
-So, ultimately, I can&rsquo;t tell you if it&rsquo;s worth it. It&rsquo;s up to you. If you want to do it, and you&rsquo;re willing to take the risk, give it a shot. Check out guide on how to <a href="/how-to-jailbreak-your-iphone">jailbreak your iPhone</a> on Deemable.com.</p>
+So, ultimately, I can&rsquo;t tell you if it&rsquo;s worth it. It&rsquo;s up to you. If you want to do it, and you&rsquo;re willing to take the risk, give it a shot. Check out guide on how to <a href="//how-to-jailbreak-your-iphone">jailbreak your iPhone</a> on Deemable.com.</p>
 <p><strong>Robert writes: I&rsquo;ve heard that it is now illegal to unlock your cellphone. Is that really true?!?</strong><br>
 TOM: That&rsquo;s correct Robert. The Library of Congress decided that starting January 26th, unlocking your cell phone would no longer be legal.</p>
 <p>RAY: Now, to be clear, that&rsquo;s unlocking your cell phone. Not rooting or jail-breaking it, right?</p>
@@ -131,8 +131,7 @@ So your secret is safe with us!</p>
 <p>Whatever you do, I wouldn&rsquo;t pay for anything in their store. You won&rsquo;t likely be able to use it ever again. There are a few fun apps that you should be able to download for free though.<a href="http://m.opera.com/"> Opera Web Browser</a> most likely works much better than the default web browser. There is a<a href="http://gmail-mobile.en.softonic.com/java"> Gmail</a> app that still works, but Google does not support it anymore. Don&rsquo;t be surprised if it suddenly stops working when Gmail gets an update. If all else fails, you should at least be able to play<a href="http://www.kiang.org/jordan/software/tetrismidlet/"> Tetris</a>.</p>
 <p>TOM: To be honest, if you want apps you probably need to invest in a beefier phone. One that runs iOS, Android or Windows Phone. Those all have app stores with lots of third party apps which will run across a number of different phones.</p>
 <p>Make sure to support <a href="http://dmbl.co/kick">Deemable Tech&rsquo;s Kickstarter Project</a>.</p>
-<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 33 - If We Don't Make It, It's All Your Fault" data-link="/2013/03/episode-33-if-we-dont-make-it-its-all-your-fault/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 33 - If We Don't Make It, It's All Your Fault" data-link="/2013/03/episode-33-if-we-dont-make-it-its-all-your-fault/" data-summary=""></div></body></html>
+<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/episode-33-if-we-dont-make-it-its-all-your-fault/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -178,7 +177,7 @@ So your secret is safe with us!</p>
 <li><a href="http://www.senstic.com/android/iClickr/iClickr.aspx">iClickr PowerPoint Remote for Android</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.gwyn.stageflow&amp;hl=en">StageFlow Keynote Remote</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=ratisbonsoft.presenter.full&amp;hl=en">Presenter</a></li>
-</ul><div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 5" data-link="/2012/07/deemable-tech-episode-5/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 5" data-link="/2012/07/deemable-tech-episode-5/" data-summary=""></div></body></html>
+</ul></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/07/deemable-tech-episode-5/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>

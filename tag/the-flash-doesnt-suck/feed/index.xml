@@ -12,7 +12,7 @@
 	<atom:link href="/tag/the-flash-doesnt-suck/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -50,8 +50,7 @@
 <p>Now, we should note that some people might actually need Flash on their computers. For instance, some corporate intranet sites require it, which means uninstalling it entirely is not a good option if you have to use one of those sites. However, even if you have to keep Flash around, there are ways to make it safer for you to use.</p>
 <p>One very easy way is to use Google&rsquo;s Chrome browser. Chrome runs Flash inside what is called a &ldquo;sandbox,&rdquo; which means it is isolated from the rest of the computer.</p>
 <p>If that isn&rsquo;t safe enough for you, there is a free browser plugin for both Firefox and Chrome called FlashBlock. FlashBlock, as the name implies, blocks all Flash on a web page by default, leaving only a small icon. You have to right-click that icon and tell it you want to enable that piece of Flash in order to view it.</p>
-<p>If you&rsquo;re not sure if you need Flash or not, try uninstalling it and see if you can get along without it! After all, you can reinstall it any time you want. In the meantime, you&rsquo;ll probably see a lot fewer of those auto-playing ad videos when you visit websites. We bet you won&rsquo;t miss those at all!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Ask Deemable Tech: How do I uninstall Flash?" data-link="/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/" data-summary=""></div></body></html>
+<p>If you&rsquo;re not sure if you need Flash or not, try uninstalling it and see if you can get along without it! After all, you can reinstall it any time you want. In the meantime, you&rsquo;ll probably see a lot fewer of those auto-playing ad videos when you visit websites. We bet you won&rsquo;t miss those at all!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/06/ask-deemable-tech-how-do-i-uninstall-flash/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

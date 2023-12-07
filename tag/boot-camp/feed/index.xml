@@ -12,7 +12,7 @@
 	<atom:link href="/tag/boot-camp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,8 +45,7 @@
 <p>To install Windows on a Mac, you will use one of two programs: Boot Camp or Parallels. Boot Camp comes free with your Apple computer, while Parallels is a separate program that costs around $80. The major difference between the two programs is how your computer will run the different operating systems in relation to each other. Boot Camp allows you to run Windows <em>or</em> Mac OS, and you decide which one you want to use when you boot your computer. If you want to switch to the other operating system, you have restart your machine.</p>
 <p>Parallels, on the other hand, lets you use Windows <em>and</em> Mac OS at the same time and switch back and forth while both are running. You can even launch Windows applications right from your Mac dock, and it will switch over to Windows automatically. The downside to this program (apart from the price tag) is that your computer can become really bogged down since you&rsquo;re running two operating systems at the same time.</p>
 <p>Of the two, we prefer Boot Camp. To install Windows using it, just open your Launchpad, go to the Boot Camp Assistant and follow the instructions. As with any major change to your computer, we recommend that you back up all of your important files and documents before you install Windows.</p>
-<p>With a little time and energy, Clare, you&rsquo;ll be doing everything you want and need to with two computers in one!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Clare asks, "How can I have both a Mac and a PC?"' data-link="/2014/05/clare-asks-can-mac-pc/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Clare asks, "How can I have both a Mac and a PC?"' data-link="/2014/05/clare-asks-can-mac-pc/" data-summary=""></div></body></html>
+<p>With a little time and energy, Clare, you&rsquo;ll be doing everything you want and need to with two computers in one!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/05/clare-asks-can-mac-pc/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>

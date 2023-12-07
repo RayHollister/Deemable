@@ -12,7 +12,7 @@
 	<atom:link href="/tag/usb-drives/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,8 +45,7 @@
 <p>Now that&rsquo;s just for USB <em>hard</em> drives. USB <em>flash</em> drives (or thumb drives as many people call them) use flash memory so they don&rsquo;t have any moving parts inside them. However, flash drives do have an important limitation: they only have a certain number of times they can be written to before they wear out. Each time a computer writes to a flash drive, that number decreases. To try to extend that lifespan, your computer will try to make fewer writes to the drive by grouping them all together.</p>
 <p>For example, let&rsquo;s say you decide to copy three different files to your flash drive. Instead of writing to your drive three separate times, Windows will hold onto them. Then when you tell Windows to eject that device, it will finish copying the files over, reducing three jobs down to one. This is where that &ldquo;busy&rdquo; warning comes in; Windows is letting you know that it needs to finish saving these files.</p>
 <p>You may be wondering how long you can expect your flash drive to last. This varies based on the quality of the drive, so unfortunately there is no one true answer. However, high quality flash memory is rated to nearly one million writes, which translates to one use every day for almost 10 years.</p>
-<p>Just remember, Hector: you must eject before you disconnect!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Hector asks, "Do I have to eject USB drives?"' data-link="/2014/07/hector-asks-eject-usb-drives/" data-summary=""></div></body></html>
+<p>Just remember, Hector: you must eject before you disconnect!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/07/hector-asks-eject-usb-drives/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -158,8 +157,7 @@ RAY: If that doesn&rsquo;t work, you can also do it manually through the Control
 <li>Choose from : &ldquo;Landscape,&rdquo; &ldquo;Portrait,&rdquo; &ldquo;Landscape (Flipped)&rdquo; and &ldquo;Portrait (Flipped)&rdquo; Click your desired orientation option to have Windows display a thumbnail preview of what it will look like.</li>
 <li>Click &ldquo;Apply,&rdquo; then click &ldquo;Keep Changes&rdquo; or &ldquo;Revert&rdquo; to revert to the original orientation.</li>
 </ul><p dir="ltr">Thanks for all your questions, and keep them coming. Call us at our toll-free number, 1-888-972-9868 or you can send us an email at questions@deemable.com. Also, subscribe to the show! Search for Deemable Tech on iTunes, YouTube, Facebook and Twitter and follow us or subscribe.</p>
-<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="#52 Spin The Battery" data-link="/2013/10/52-spin-battery/" data-summary=""></div></body></html>
+<p>Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech. Thanks for listening. Have a great week.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/10/52-spin-battery/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

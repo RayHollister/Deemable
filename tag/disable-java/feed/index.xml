@@ -12,7 +12,7 @@
 	<atom:link href="/tag/disable-java/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -78,9 +78,9 @@
 <p dir="ltr">Hope that helps, Skip! Enjoy using your Samsung Galaxy Samsung II Skyrocket!</p>
 <p dir="ltr">TOM: Last week on Morning Edition we told people that they needed to disable Java, <em>now</em>.</p>
 <p dir="ltr">RAY: Right, Tom and I had talked about it on the show a couple of weeks ago while you were out, Tom.</p>
-<p dir="ltr">TOM: Right, but we felt it was so important for people to do that we covered it again in the Morning Edition spot, and we setup a page at <a title="Disable Java Now!" href="/java" target="_blank">deemable.com/java</a> where everyone could go to get instructions on how to disable java in each web browser.</p>
+<p dir="ltr">TOM: Right, but we felt it was so important for people to do that we covered it again in the Morning Edition spot, and we setup a page at <a title="Disable Java Now!" href="//java" target="_blank">deemable.com/java</a> where everyone could go to get instructions on how to disable java in each web browser.</p>
 <p dir="ltr">RAY: Yeah, we had a great response to it. In less than an hour after the segment aired, we already had 600 views on the page. By the end of the day, we had over 1,400 views, and over the next two days we had several hundred more. So, good job listening everyone!</p>
-<p dir="ltr">TOM: But, we know that several thousand people listen to Morning Edition each day on 89.9 FM, so if you haven&rsquo;t done it yet, do it, now! Go to <a title="Disable Java Now!" href="/java" target="_blank">deemable.com/java</a> and follow the directions and disable Java, <em>now</em>!</p>
+<p dir="ltr">TOM: But, we know that several thousand people listen to Morning Edition each day on 89.9 FM, so if you haven&rsquo;t done it yet, do it, now! Go to <a title="Disable Java Now!" href="//java" target="_blank">deemable.com/java</a> and follow the directions and disable Java, <em>now</em>!</p>
 <p dir="ltr">RAY: You better do it. He&rsquo;s just going to keep telling you to do it,&hellip;</p>
 <p dir="ltr">TOM: <em>Now</em>!</p>
 <p dir="ltr">RAY: OK, so we had some comments on the page that we wanted to address.</p>
@@ -149,8 +149,7 @@
 <p dir="ltr"><a title="The I.M.A.G.I.C." href="https://twitter.com/theimagic" target="_blank">twitter.com/theimagic</a></p>
 <p dir="ltr">Our producer is Sean Birch. I&rsquo;m Ray Hollister, I&rsquo;m Tom Braun, and this is Deemable Tech.</p>
 <p dir="ltr">Thanks for listening. Have a great week.</p>
-<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Episode 34 - We Made It! It's All Your Fault! Thank You!" data-link="/2013/03/episode-34-we-made-it-its-all-your-fault/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Episode 34 - We Made It! It's All Your Fault! Thank You!" data-link="/2013/03/episode-34-we-made-it-its-all-your-fault/" data-summary=""></div></body></html>
+<p>Support for Deemable Tech is provided by <a href="http://asmallorange.com/">A Small Orange</a>, Homegrown Hosting. A refreshingly different approach to web hosting. On the web at <a href="http://asmallorange.com/">asmallorange.com</a>.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/episode-34-we-made-it-its-all-your-fault/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>
@@ -198,8 +197,7 @@
 <p>If you&rsquo;re using Safari on Windows, you should get rid of it. Apple has stopped updating it. <a title="How To Geek - Migrate to another browser from Safari." href="http://www.howtogeek.com/132602/safari-for-windows-is-probably-dead-how-to-migrate-to-another-browser/" target="_blank">Follow this guide to migrate to a new browser</a>.</p>
 <p>If you decide not to heed our advice, and you want to keep Safari on Windows, click the Action menu in the top-right corner. It looks like a gear. Click <strong>Show Menu Bar</strong>. Now, click <strong>Edit</strong>, then <strong>Preferences</strong>. On the window that appears, click the <strong>Security</strong> tab. Uncheck the box next to <strong>Enable Java </strong>if it is checked. Finally, restart your browser.</p>
 <p>In Safari on Mac, if the menu bar isn&rsquo;t visible, press the&nbsp;<strong>Esc </strong>button on your keyboard to exit full-screen mode.&nbsp;Now, click&nbsp;<strong>Edit</strong>, then&nbsp;<strong>Preferences</strong>. On the window that appears, click the&nbsp;<strong>Security</strong>&nbsp;tab. Uncheck the box next to&nbsp;<strong>Enable Java&nbsp;</strong>if it is checked. Finally, restart your browser.</p>
-<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="/category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Disable Java Now! [HOW TO]" data-link="/2013/03/disable-java-now/" data-summary=""></div></body></html>
+<hr><p>Follow these directions, and keep Java disabled until Oracle pulls their act together. Stay tuned to <a href="//category/podcast/">Deemable Tech</a>, and we&rsquo;ll let you know when and if that happens.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/03/disable-java-now/feed/</wfw:commentRss>
 		<slash:comments>12</slash:comments>

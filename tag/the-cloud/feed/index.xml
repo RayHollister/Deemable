@@ -12,7 +12,7 @@
 	<atom:link href="/tag/the-cloud/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tech news worth talking about and tech help worth listening to</description>
-	<lastBuildDate>Fri, 30 Sep 2016 19:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2016 19:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -48,8 +48,7 @@
 <p>There are numerous free data recovery programs available online, and there&rsquo;s even one built right into your computer. Windows PCs have a built in Check Disk utility that will analyze and attempt to repair your USB drive. You can learn more about using it on&nbsp;<a href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/" data-cke-saved-href="http://windows.microsoft.com/en-US/windows-vista/Check-your-hard-disk-for-errors/">the Microsoft site</a>.</p>
 <p>If that doesn&rsquo;t work, the next step is to try a free third party recovery program.&nbsp;<a href="http://www.cgsecurity.org/wiki/TestDisk" data-cke-saved-href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk</a>&nbsp;is a well-regarded program, but it is somewhat advanced and must be run from the command line. Other good ones are&nbsp;<a href="http://www.piriform.com/recuva/download" data-cke-saved-href="http://www.piriform.com/recuva/download">Recuva</a>,&nbsp;<a href="http://diskdigger.org/" data-cke-saved-href="http://diskdigger.org/">Disk Digger</a>,&nbsp;<a href="http://www.pcinspector.de/default.htm" data-cke-saved-href="http://www.pcinspector.de/default.htm">PC Inspector</a>&nbsp;and&nbsp;<a href="http://www.snapfiles.com/get/restoration.html" data-cke-saved-href="http://www.snapfiles.com/get/restoration.html">Restoration</a>.</p>
 <p>Sadly, there is no perfect recovery program, which means you may need to download a few and try them. After each pass be sure to check your data and copy anything that has become usable to your hard drive. By doing so, you can hopefully retrieve most of the vital data on your USB drive.</p>
-<p>If that still doesn&rsquo;t get the job done, there are paid services that specialize in data recovery. You can find them online by doing a search for &ldquo;USB data recovery&rdquo;. Good luck! And remember: Backup! Backup! Backup!</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Prem asks, "How can I recover files from a corrupt USB drive?"' data-link="/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/" data-summary=""></div></body></html>
+<p>If that still doesn&rsquo;t get the job done, there are paid services that specialize in data recovery. You can find them online by doing a search for &ldquo;USB data recovery&rdquo;. Good luck! And remember: Backup! Backup! Backup!</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/10/prem-asks-can-recover-files-corrupt-usb-drive/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
@@ -84,8 +83,7 @@
 <p>Now, how do you start using Cloud Print? Well, you may have noticed that many new printers are labeled as being &ldquo;Google Cloud Print Ready&rdquo;. That means that once you have them turned on and connected to a network, you can share them through Google Cloud Print quickly and easily. If you don&rsquo;t have a &ldquo;Google Cloud Print Ready&rdquo; printer, don&rsquo;t worry! You can still use what Google calls &ldquo;classic printers&rdquo; with Cloud Print, with the only extra requirement being that the printer must be hooked up to a computer with Google Chrome installed on it.</p>
 <p>Open up the settings in Google Chrome on that computer, search for &ldquo;cloud printer&rdquo;, and you&rsquo;ll see options to add your printer to Cloud Print. Once your printer is connected, it&rsquo;s simple to print from Google Docs, your Chrome browser, or from a Google app.</p>
 <p>Yes, you read that correctly: you can print from Google&nbsp;<em>apps</em>. Most Google apps on iOS and Android let you use Cloud Print by default. For example, you could open the Gmail app, tap print and print away! For other apps on iOS, you can download the <a href="http://click.linksynergy.com/fs-bin/stat?id=n4MZJN75Txs&amp;offerid=146261&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https://itunes.apple.com/us/app/printcentral-pro/id426362921?mt=8" target="_blank" rel="external nofollow">PrintCentral Pro</a> app to connect your device to Google Cloud Print (this app costs $4.99 for iPhone, and $7.99 for iPad). Many apps on Android have this function built in.</p>
-<p>So, Parker, try out Google Cloud Print, and see how it works for you. That way if you&rsquo;re ever in that predicament again, you can simply share your printer without all of the extra work.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Parker asks, "How can I share my printer more easily?"' data-link="/2013/09/parker-asks-can-share-printer-easily/" data-summary=""></div></body></html>
+<p>So, Parker, try out Google Cloud Print, and see how it works for you. That way if you&rsquo;re ever in that predicament again, you can simply share your printer without all of the extra work.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/09/parker-asks-can-share-printer-easily/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -131,8 +129,7 @@
 <p>Clouds aren&rsquo;t just good for music, though. Google and Microsoft both offer ways to do word processing in the Cloud, from anywhere, without even having to install a program. Google has a web application called Google Drive (we use it for Deemable Tech and love it), and Microsoft has introduced Office 365 which you can access through your web browser as well.</p>
 <p>For Apple users, there is iCloud, which automatically synchronizes your files across all of your Apple devices.</p>
 <p>If you&rsquo;re looking to backup and share your files, Alex, you should consider using Dropbox. We&rsquo;ve mentioned it before, but Dropbox is a service that allows you to select a folder on your computer, and anything you put in that folder will be automatically uploaded to the Dropbox cloud. If you install Dropbox on another computer, it will automatically mirror the folders between the two computers. There are a lot of other excellent cloud services as well (like EverNote, SpringPad and SugarShare), and there are more out there every day.</p>
-<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title="Alex asks, &quot;What is 'The Cloud?'&quot;" data-link="/2013/05/alex-asks-what-is-the-cloud/" data-summary=""></div></body></html>
+<p>In a nutshell, why should you care about &ldquo;the Cloud&rdquo;? Because the Cloud allows robust backups of any data that&rsquo;s important to you, and it makes that data accessible not just on one computer, but on any computer or device that you authorize. You know, pretty much just like email.</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2013/05/alex-asks-what-is-the-cloud/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -185,8 +182,7 @@
 <li><a title="CloudMagic - a better life with every search" href="https://cloudmagic.com/" target="_blank">Searching the cloud with Cloudmagic</a></li>
 </ul><p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="shareaholic-canvas" data-app-id="14656494" data-app="share_buttons" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div><div class="shareaholic-canvas" data-app-id="14656501" data-app="recommendations" data-title='Episode 24 - Holiday Minisode 2: The not so "mini" episode' data-link="/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/" data-summary=""></div></body></html>
+<p>&nbsp;</p></body></html>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/12/episode-24-holiday-minisode-2-the-not-so-mini-episode/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
