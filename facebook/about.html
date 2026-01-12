@@ -159,6 +159,7 @@ main {
     border-radius: 8px;
     margin-bottom: 16px;
     box-shadow: var(--shadow);
+    overflow: hidden;
 }
 
 .post-header {
@@ -208,11 +209,65 @@ main {
     width: 100%;
 }
 
-.post-media img {
+.post-media img, .post-media video {
     width: 100%;
     display: block;
 }
 
+/* Link Preview Styles */
+.link-preview {
+    display: block;
+    border: 1px solid var(--border-color);
+    border-radius: 0;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background: var(--bg-primary);
+}
+
+.link-preview:hover {
+    background: #e4e6e9;
+}
+
+.link-preview-image {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.link-preview-content {
+    padding: 12px 16px;
+}
+
+.link-preview-site {
+    font-size: 12px;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.link-preview-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 4px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.link-preview-description {
+    font-size: 14px;
+    color: var(--text-secondary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Simple link fallback (no preview available) */
 .post-link {
     margin: 0 16px 12px;
     padding: 12px;
@@ -399,6 +454,10 @@ footer a {
         padding: 12px 16px;
         font-size: 14px;
     }
+
+    .link-preview-image {
+        height: 180px;
+    }
 }
 </style>
 </head>
@@ -434,6 +493,7 @@ footer a {
                 <p>This is an archived copy of the Deemable Tech Facebook Page.</p>
                 <p>Deemable Tech was a technology podcast and news site that ran from 2011-2016, providing tech tips, reviews, and discussions about the latest in consumer technology.</p>
                 <p>This archive preserves the posts, photos, and content that was shared on the Facebook Page during that time.</p>
+                <p><strong>Note:</strong> Comments and reactions from other users are not included because Facebook's data export only provides data that you created, not interactions from other users on your posts.</p>
                 <p>Visit <a href="/">deemable.rayhollister.com</a> for the main Deemable Tech archive.</p>
             </div>
         </article>
