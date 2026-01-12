@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memeable - Deemable Tech Facebook Archive</title>
+    <style>
+:root {
+    --fb-blue: #1877f2;
+    --fb-blue-dark: #166fe5;
+    --bg-primary: #f0f2f5;
+    --bg-card: #ffffff;
+    --text-primary: #050505;
+    --text-secondary: #65676b;
+    --border-color: #dddfe2;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.34;
+    font-size: 15px;
+}
+
+.archive-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 14px;
+}
+
+.archive-banner a {
+    color: white;
+    text-decoration: underline;
+}
+
+header {
+    background: var(--fb-blue);
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.header-content h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header-content h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border-color);
+}
+
+nav ul {
+    max-width: 900px;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    gap: 0;
+}
+
+nav a {
+    display: block;
+    padding: 16px 20px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    border-bottom: 3px solid transparent;
+    transition: all 0.2s;
+}
+
+nav a:hover, nav a.active {
+    color: var(--fb-blue);
+    border-bottom-color: var(--fb-blue);
+}
+
+main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+.cover-section {
+    position: relative;
+    margin-bottom: 20px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+}
+
+.cover-photo {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.profile-section {
+    display: flex;
+    align-items: flex-end;
+    padding: 0 20px 20px;
+    margin-top: -60px;
+    position: relative;
+}
+
+.profile-pic {
+    width: 168px;
+    height: 168px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+    box-shadow: var(--shadow);
+}
+
+.profile-info {
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+
+.profile-info h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.profile-info p {
+    color: var(--text-secondary);
+    margin-top: 4px;
+}
+
+.post {
+    background: var(--bg-card);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    gap: 12px;
+}
+
+.post-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.post-meta h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.post-meta .date {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.post-content {
+    padding: 0 16px 12px;
+}
+
+.post-content p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.post-content a {
+    color: var(--fb-blue);
+    text-decoration: none;
+}
+
+.post-content a:hover {
+    text-decoration: underline;
+}
+
+.post-media {
+    width: 100%;
+}
+
+.post-media img {
+    width: 100%;
+    display: block;
+}
+
+.post-link {
+    margin: 0 16px 12px;
+    padding: 12px;
+    background: var(--bg-primary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.post-link a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.post-link a:hover {
+    text-decoration: underline;
+}
+
+/* Albums page */
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.album-card {
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s;
+}
+
+.album-card:hover {
+    transform: translateY(-2px);
+}
+
+.album-cover {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.album-info {
+    padding: 12px;
+}
+
+.album-info h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.album-info p {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+/* Album detail page */
+.album-header {
+    background: var(--bg-card);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+}
+
+.album-header h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.photos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 4px;
+}
+
+.photo-item {
+    position: relative;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
+.photo-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.photo-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Lightbox */
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lightbox.active {
+    display: flex;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    object-fit: contain;
+}
+
+.lightbox-caption {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+    font-size: 13px;
+}
+
+footer a {
+    color: var(--text-secondary);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .profile-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: -40px;
+    }
+
+    .profile-pic {
+        width: 120px;
+        height: 120px;
+    }
+
+    .profile-info {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+
+    .profile-info h2 {
+        font-size: 24px;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+    nav a {
+        padding: 12px 16px;
+        font-size: 14px;
+    }
+}
+</style>
+</head>
+<body>
+    
+    <div class="archive-banner">
+        This is an archived copy of the Deemable Tech Facebook Page.
+        <a href="/">Visit Deemable Tech</a>
+    </div>
+    <header>
+        <div class="header-content">
+            <h1><a href="/facebook/">Deemable Tech Archive</a></h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="/facebook/" class="">Posts</a></li>
+            <li><a href="/facebook/photos.html" class="active">Photos</a></li>
+            <li><a href="/facebook/about.html" class="">About</a></li>
+        </ul>
+    </nav>
+
+
+    <main>
+        <div class="album-header">
+            <h2>Memeable</h2>
+            <p>81 photos</p>
+        </div>
+        <div class="photos-grid">
+            
+            <div class="photo-item" onclick="openLightbox('media/459281494090162.jpg', 'Oh 90s tech, I don&#x27;t miss you at all. Or Dawson. I don&#x27;t miss him either.')">
+                <img src="media/459281494090162.jpg" alt="Oh 90s tech, I don&#x27;t miss you at all. Or Dawson. I don&#x27;t miss him either." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/459294104088901.jpg', 'That awkward moment right after you come back to your desk and find your coffee cup empty...')">
+                <img src="media/459294104088901.jpg" alt="That awkward moment right after you come back to your desk and find your coffee cup empty..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/459367007414944.jpg', 'Every computer nerd knows how this feels... http://qkme.me/3q51z3')">
+                <img src="media/459367007414944.jpg" alt="Every computer nerd knows how this feels... http://qkme.me/3q51z3" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/459748507376794.jpg', 'Do you know how to answer this question? We talked about this in episode 6 http://dmbl.co/e6')">
+                <img src="media/459748507376794.jpg" alt="Do you know how to answer this question? We talked about this in episode 6 http://dmbl.co/e6" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/460877823930529.jpg', 'As Ray mentions on the show every single time we talk about Google Drive...')">
+                <img src="media/460877823930529.jpg" alt="As Ray mentions on the show every single time we talk about Google Drive..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/460913523926959.jpg', 'Those were the good ol&#x27; days...')">
+                <img src="media/460913523926959.jpg" alt="Those were the good ol&#x27; days..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/461455587206086.jpg', 'Have you seen the gorgeous Google Doodle tribute to Amelia Earhart&#x27;s 115th birthday?')">
+                <img src="media/461455587206086.jpg" alt="Have you seen the gorgeous Google Doodle tribute to Amelia Earhart&#x27;s 115th birthday?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/461600167191628.jpg', 'Apparently someone on Reddit agrees with Tom...')">
+                <img src="media/461600167191628.jpg" alt="Apparently someone on Reddit agrees with Tom..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464287636922881.jpg', 'That is pretty awesome when it happens.')">
+                <img src="media/464287636922881.jpg" alt="That is pretty awesome when it happens." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464563253561986.jpg', 'Definitely a first world problem...')">
+                <img src="media/464563253561986.jpg" alt="Definitely a first world problem..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464612440223734.jpg', 'Yeah right. That happens to no one.')">
+                <img src="media/464612440223734.jpg" alt="Yeah right. That happens to no one." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464655490219429.jpg', 'That would hurt. It would really cut deep.')">
+                <img src="media/464655490219429.jpg" alt="That would hurt. It would really cut deep." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464816920203286.jpg', 'That&#x27;s just wrong! 
+USB teddy bear holds data, scares children. http://m.engadget.com/2006/')">
+                <img src="media/464816920203286.jpg" alt="That&#x27;s just wrong! 
+USB teddy bear holds data, scares children. http://m.engadget.com/2006/" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464828113535500.jpg', 'Assuming that Facebook and Twitter are still relevant in 20-30 years.')">
+                <img src="media/464828113535500.jpg" alt="Assuming that Facebook and Twitter are still relevant in 20-30 years." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/464991360185842.jpg', 'This just happened. For real.')">
+                <img src="media/464991360185842.jpg" alt="This just happened. For real." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/465872343431077.jpg', 'For the Princess Bride fans... For those times when a meme just isn&#x27;t funny because someone put the wrong caption on the picture.')">
+                <img src="media/465872343431077.jpg" alt="For the Princess Bride fans... For those times when a meme just isn&#x27;t funny because someone put the wrong caption on the picture." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/467698373248474.jpg', 'Maybe NASA could get the broadcasting rights for the Olympics in 2016?')">
+                <img src="media/467698373248474.jpg" alt="Maybe NASA could get the broadcasting rights for the Olympics in 2016?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/467701993248112.jpg', 'A sad reminder that the CDC&#x27;s zombie preparedness guide was just a publicity stunt.')">
+                <img src="media/467701993248112.jpg" alt="A sad reminder that the CDC&#x27;s zombie preparedness guide was just a publicity stunt." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/468064766545168.jpg', 'Tag, you&#x27;re it, and you look rediculous!')">
+                <img src="media/468064766545168.jpg" alt="Tag, you&#x27;re it, and you look rediculous!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/468512503167061.jpg', 'Don&#x27;t let this picture give you &quot;paws!&quot; We&#x27;ll give you the right answer to your question.')">
+                <img src="media/468512503167061.jpg" alt="Don&#x27;t let this picture give you &quot;paws!&quot; We&#x27;ll give you the right answer to your question." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/468606849824293.jpg', 'Pitting fanboys against each other for gain? That&#x27;s just wrong! Like if you&#x27;re an Apple fan; comment if you&#x27;re an Android fan. ;-)')">
+                <img src="media/468606849824293.jpg" alt="Pitting fanboys against each other for gain? That&#x27;s just wrong! Like if you&#x27;re an Apple fan; comment if you&#x27;re an Android fan. ;-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/468904543127857.jpg', 'You just sang the theme song didn&#x27;t you?')">
+                <img src="media/468904543127857.jpg" alt="You just sang the theme song didn&#x27;t you?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469076479777330.jpg', 'True dat.')">
+                <img src="media/469076479777330.jpg" alt="True dat." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469238116427833.jpg', 'Flash photography comparison.')">
+                <img src="media/469238116427833.jpg" alt="Flash photography comparison." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469310199753958.jpg', 'For thou art worthy.')">
+                <img src="media/469310199753958.jpg" alt="For thou art worthy." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469497906401854.jpg', 'Pet peeves.')">
+                <img src="media/469497906401854.jpg" alt="Pet peeves." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469648303053481.jpg', 'This is quite an awkward Situation.')">
+                <img src="media/469648303053481.jpg" alt="This is quite an awkward Situation." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469652143053097.jpg', 'Uh oh... Nigeria is a federal republic. They don&#x27;t have a prince.')">
+                <img src="media/469652143053097.jpg" alt="Uh oh... Nigeria is a federal republic. They don&#x27;t have a prince." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/469877879697190.jpg', 'We&#x27;ll post some notes on this... later.')">
+                <img src="media/469877879697190.jpg" alt="We&#x27;ll post some notes on this... later." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/470379956313649.jpg', 'I know a guy like that...OK, let me be honest; I am that guy. -Ray')">
+                <img src="media/470379956313649.jpg" alt="I know a guy like that...OK, let me be honest; I am that guy. -Ray" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/470765959608382.jpg', 'You gotta teach kids the basics. Required reading:')">
+                <img src="media/470765959608382.jpg" alt="You gotta teach kids the basics. Required reading:" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/471761349508843.jpg', 'Windows Update. (via: http://arbroath.blogspot.com/2012/08/windows-update.html#f)')">
+                <img src="media/471761349508843.jpg" alt="Windows Update. (via: http://arbroath.blogspot.com/2012/08/windows-update.html#f)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/472655629419415.jpg', 'For the Mathletes...')">
+                <img src="media/472655629419415.jpg" alt="For the Mathletes..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/472729219412056.jpg', 'Stop and think about this...')">
+                <img src="media/472729219412056.jpg" alt="Stop and think about this..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/473199809364997.jpg', '5.5 Terapixels! Well, that&#x27;s impressive.')">
+                <img src="media/473199809364997.jpg" alt="5.5 Terapixels! Well, that&#x27;s impressive." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/474559859228992.jpg', 'Uh oh! Is Apple seeking an injunction against all Samsung products?!')">
+                <img src="media/474559859228992.jpg" alt="Uh oh! Is Apple seeking an injunction against all Samsung products?!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/475241605827484.jpg', 'Just overheard someone say that about their son... Yeah.')">
+                <img src="media/475241605827484.jpg" alt="Just overheard someone say that about their son... Yeah." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/475589862459325.jpg', 'Check out this junction box. Now THIS is what we call graffiti!')">
+                <img src="media/475589862459325.jpg" alt="Check out this junction box. Now THIS is what we call graffiti!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/475839249101053.jpg', 'I want one now! Shut up and take my money! :-)')">
+                <img src="media/475839249101053.jpg" alt="I want one now! Shut up and take my money! :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/477187975632847.jpg', 'Look out Fisher-Price! You&#x27;ll be next. I&#x27;m sure that this device is in violation of at least 3 of Apple&#x27;s patents. :-)')">
+                <img src="media/477187975632847.jpg" alt="Look out Fisher-Price! You&#x27;ll be next. I&#x27;m sure that this device is in violation of at least 3 of Apple&#x27;s patents. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/478644108820567.jpg', 'My mind just exploded. I&#x27;ll never be able to watch either show without thinking of this ever again! -Ray')">
+                <img src="media/478644108820567.jpg" alt="My mind just exploded. I&#x27;ll never be able to watch either show without thinking of this ever again! -Ray" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/481820075169637.jpg', 'Cutest thing ever or strange form of child abuse? You decide in the comments below. :-)')">
+                <img src="media/481820075169637.jpg" alt="Cutest thing ever or strange form of child abuse? You decide in the comments below. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488533151164996.jpg', 'Good question...')">
+                <img src="media/488533151164996.jpg" alt="Good question..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488582004493444.jpg', 'Earth&#x27;s Mightiest Heroes...and Joss Whedon being a dork. :-)')">
+                <img src="media/488582004493444.jpg" alt="Earth&#x27;s Mightiest Heroes...and Joss Whedon being a dork. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/489027397782238.jpg', 'Thor and Loki&#x27;s epic battle for the Rainbow Road. Unlike the Rainbox Bridge, the fate of the world wasn&#x27;t exactly hanging on this one.')">
+                <img src="media/489027397782238.jpg" alt="Thor and Loki&#x27;s epic battle for the Rainbow Road. Unlike the Rainbox Bridge, the fate of the world wasn&#x27;t exactly hanging on this one." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/493656607319317.jpg', 'Diagram Venn, of Yoda it is.')">
+                <img src="media/493656607319317.jpg" alt="Diagram Venn, of Yoda it is." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/500603373291307.jpg', 'To all the people hating on disney for purchasing LucasArts...')">
+                <img src="media/500603373291307.jpg" alt="To all the people hating on disney for purchasing LucasArts..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/509662899052021.jpg', 'And so it begins...')">
+                <img src="media/509662899052021.jpg" alt="And so it begins..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/511832795501698.jpg', 'Just a helpful reminder for those with cats this time of year. Keep your smartphone handy for when your festive feline starts knocking glass ornaments on the floor. I hear that cats are really great at making funny Internet videos.')">
+                <img src="media/511832795501698.jpg" alt="Just a helpful reminder for those with cats this time of year. Keep your smartphone handy for when your festive feline starts knocking glass ornaments on the floor. I hear that cats are really great at making funny Internet videos." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/513059362045708.jpg', 'Also known as &quot;Deemable Tech hosts.&quot;')">
+                <img src="media/513059362045708.jpg" alt="Also known as &quot;Deemable Tech hosts.&quot;" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/513827688635542.jpg', 'Yup')">
+                <img src="media/513827688635542.jpg" alt="Yup" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/520489061302738.jpg', 'We don&#x27;t normally give out dating advice, but this is worth making an exception.')">
+                <img src="media/520489061302738.jpg" alt="We don&#x27;t normally give out dating advice, but this is worth making an exception." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/520893931262251.jpg', 'Why have I never heard about this before?! Must find a copy! 
+NPR + Star Wars = &lt;3')">
+                <img src="media/520893931262251.jpg" alt="Why have I never heard about this before?! Must find a copy! 
+NPR + Star Wars = &lt;3" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/524442687574042.jpg', 'Merry Christmas from Deemable Tech. We hope your holiday was merry and peaceful. :-)')">
+                <img src="media/524442687574042.jpg" alt="Merry Christmas from Deemable Tech. We hope your holiday was merry and peaceful. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/528973130454331.jpg', 'Like our new wallpaper?')">
+                <img src="media/528973130454331.jpg" alt="Like our new wallpaper?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/528973357120975.jpg', 'Like our new wallpaper?')">
+                <img src="media/528973357120975.jpg" alt="Like our new wallpaper?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/547722665246044.jpg', 'Come on Facebook! We can do it!')">
+                <img src="media/547722665246044.jpg" alt="Come on Facebook! We can do it!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/548523668499277.jpg', 'This is the director they were looking for.')">
+                <img src="media/548523668499277.jpg" alt="This is the director they were looking for." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/549494905068820.jpg', 'Mom! Get off the phone! I&#x27;m on AOL!')">
+                <img src="media/549494905068820.jpg" alt="Mom! Get off the phone! I&#x27;m on AOL!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/552271548124489.jpg', 'I already have my backpack filled with Pop Tarts, my favorite Transformer and a change of clothes.')">
+                <img src="media/552271548124489.jpg" alt="I already have my backpack filled with Pop Tarts, my favorite Transformer and a change of clothes." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/554013577950286.jpg', 'Getting ready for Deemable Tech Live has been a little bit stressful. :-)')">
+                <img src="media/554013577950286.jpg" alt="Getting ready for Deemable Tech Live has been a little bit stressful. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/555033257848318.jpg', 'Too soon? ;-)')">
+                <img src="media/555033257848318.jpg" alt="Too soon? ;-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/569143293103981.jpg', 'Yes, I was in bed when I posted this.')">
+                <img src="media/569143293103981.jpg" alt="Yes, I was in bed when I posted this." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/569244673093843.jpg', 'Someday soon the Smithsonian will have this in an exhibit on ancient civilizations.')">
+                <img src="media/569244673093843.jpg" alt="Someday soon the Smithsonian will have this in an exhibit on ancient civilizations." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/569678783050432.jpg', 'This must be especially frightening for bibliophobics.')">
+                <img src="media/569678783050432.jpg" alt="This must be especially frightening for bibliophobics." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/570967579588219.jpg', 'Take a note of this Johnson: &quot;Do not drop the bass when attempting first contact.&quot;')">
+                <img src="media/570967579588219.jpg" alt="Take a note of this Johnson: &quot;Do not drop the bass when attempting first contact.&quot;" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/571363606215283.jpg', 'Deep Thoughts with Philosoraptor.')">
+                <img src="media/571363606215283.jpg" alt="Deep Thoughts with Philosoraptor." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/575524662465844.jpg', 'Thank God it&#x27;s Pfriday!')">
+                <img src="media/575524662465844.jpg" alt="Thank God it&#x27;s Pfriday!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/576706465680997.jpg', 'Am I the only one this happens to? - Ray')">
+                <img src="media/576706465680997.jpg" alt="Am I the only one this happens to? - Ray" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/577088418976135.jpg', 'And from the day before, and from the day before that...')">
+                <img src="media/577088418976135.jpg" alt="And from the day before, and from the day before that..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580736895277954.jpg', 'It might end up in the middle of the Australian desert.')">
+                <img src="media/580736895277954.jpg" alt="It might end up in the middle of the Australian desert." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/582658378419139.jpg', 'Those were the good old days. Oh wait. No, they weren&#x27;t!')">
+                <img src="media/582658378419139.jpg" alt="Those were the good old days. Oh wait. No, they weren&#x27;t!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/584019398283037.jpg', 'Fellowship of the Hipsters')">
+                <img src="media/584019398283037.jpg" alt="Fellowship of the Hipsters" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/586288781389432.jpg', 'This can never be unseen.')">
+                <img src="media/586288781389432.jpg" alt="This can never be unseen." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/588176811200629.jpg', 'It looks as though they&#x27;re here to stay')">
+                <img src="media/588176811200629.jpg" alt="It looks as though they&#x27;re here to stay" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/588330744518569.jpg', 'Yes. A long time ago in a galaxy far, far away, before I was Darth Vader, I had this whole other life...')">
+                <img src="media/588330744518569.jpg" alt="Yes. A long time ago in a galaxy far, far away, before I was Darth Vader, I had this whole other life..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/588580671160243.jpg', 'For the Whovian Bronies. I wonder where their cutie marks are?')">
+                <img src="media/588580671160243.jpg" alt="For the Whovian Bronies. I wonder where their cutie marks are?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/626554884029488.jpg', 'Yes, that is Starbuck drinking Starbucks with Starbuck at Starbucks. If you don&#x27;t understand that, I feel sorry for you.')">
+                <img src="media/626554884029488.jpg" alt="Yes, that is Starbuck drinking Starbucks with Starbuck at Starbucks. If you don&#x27;t understand that, I feel sorry for you." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/626702354014741.jpg', 'Things I love: The person who did this.')">
+                <img src="media/626702354014741.jpg" alt="Things I love: The person who did this." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/685270528157923.jpg', 'Happy Thanksgiving from everybody at Deemable Tech!')">
+                <img src="media/685270528157923.jpg" alt="Happy Thanksgiving from everybody at Deemable Tech!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/687246344627008.jpg', 'We&#x27;re almost surprised this wasn&#x27;t written by Ray&#x27;s kid.')">
+                <img src="media/687246344627008.jpg" alt="We&#x27;re almost surprised this wasn&#x27;t written by Ray&#x27;s kid." loading="lazy">
+            </div>
+            
+        </div>
+    </main>
+
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+        <img src="" alt="" id="lightbox-img">
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+    </div>
+
+    
+    <footer>
+        <p>This archive was created from a Facebook data export.</p>
+        <p>Original content &copy; Deemable Tech. Archive generated January 2026.</p>
+    </footer>
+
+
+    <script>
+    function openLightbox(src, caption) {
+        document.getElementById('lightbox-img').src = src;
+        document.getElementById('lightbox-caption').textContent = caption;
+        document.getElementById('lightbox').classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+        document.getElementById('lightbox').classList.remove('active');
+        document.body.style.overflow = '';
+    }
+
+    document.getElementById('lightbox').addEventListener('click', function(e) {
+        if (e.target === this) closeLightbox();
+    });
+
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeLightbox();
+    });
+    </script>
+</body>
+</html>

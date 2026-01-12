@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photos - Deemable Tech Facebook Archive</title>
+    <style>
+:root {
+    --fb-blue: #1877f2;
+    --fb-blue-dark: #166fe5;
+    --bg-primary: #f0f2f5;
+    --bg-card: #ffffff;
+    --text-primary: #050505;
+    --text-secondary: #65676b;
+    --border-color: #dddfe2;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.34;
+    font-size: 15px;
+}
+
+.archive-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 14px;
+}
+
+.archive-banner a {
+    color: white;
+    text-decoration: underline;
+}
+
+header {
+    background: var(--fb-blue);
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.header-content h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header-content h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border-color);
+}
+
+nav ul {
+    max-width: 900px;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    gap: 0;
+}
+
+nav a {
+    display: block;
+    padding: 16px 20px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    border-bottom: 3px solid transparent;
+    transition: all 0.2s;
+}
+
+nav a:hover, nav a.active {
+    color: var(--fb-blue);
+    border-bottom-color: var(--fb-blue);
+}
+
+main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+.cover-section {
+    position: relative;
+    margin-bottom: 20px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+}
+
+.cover-photo {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.profile-section {
+    display: flex;
+    align-items: flex-end;
+    padding: 0 20px 20px;
+    margin-top: -60px;
+    position: relative;
+}
+
+.profile-pic {
+    width: 168px;
+    height: 168px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+    box-shadow: var(--shadow);
+}
+
+.profile-info {
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+
+.profile-info h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.profile-info p {
+    color: var(--text-secondary);
+    margin-top: 4px;
+}
+
+.post {
+    background: var(--bg-card);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    gap: 12px;
+}
+
+.post-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.post-meta h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.post-meta .date {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.post-content {
+    padding: 0 16px 12px;
+}
+
+.post-content p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.post-content a {
+    color: var(--fb-blue);
+    text-decoration: none;
+}
+
+.post-content a:hover {
+    text-decoration: underline;
+}
+
+.post-media {
+    width: 100%;
+}
+
+.post-media img {
+    width: 100%;
+    display: block;
+}
+
+.post-link {
+    margin: 0 16px 12px;
+    padding: 12px;
+    background: var(--bg-primary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.post-link a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.post-link a:hover {
+    text-decoration: underline;
+}
+
+/* Albums page */
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.album-card {
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s;
+}
+
+.album-card:hover {
+    transform: translateY(-2px);
+}
+
+.album-cover {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.album-info {
+    padding: 12px;
+}
+
+.album-info h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.album-info p {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+/* Album detail page */
+.album-header {
+    background: var(--bg-card);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+}
+
+.album-header h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.photos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 4px;
+}
+
+.photo-item {
+    position: relative;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
+.photo-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.photo-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Lightbox */
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lightbox.active {
+    display: flex;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    object-fit: contain;
+}
+
+.lightbox-caption {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+    font-size: 13px;
+}
+
+footer a {
+    color: var(--text-secondary);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .profile-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: -40px;
+    }
+
+    .profile-pic {
+        width: 120px;
+        height: 120px;
+    }
+
+    .profile-info {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+
+    .profile-info h2 {
+        font-size: 24px;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+    nav a {
+        padding: 12px 16px;
+        font-size: 14px;
+    }
+}
+</style>
+</head>
+<body>
+    
+    <div class="archive-banner">
+        This is an archived copy of the Deemable Tech Facebook Page.
+        <a href="/">Visit Deemable Tech</a>
+    </div>
+    <header>
+        <div class="header-content">
+            <h1><a href="/facebook/">Deemable Tech Archive</a></h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="/facebook/" class="">Posts</a></li>
+            <li><a href="/facebook/photos.html" class="active">Photos</a></li>
+            <li><a href="/facebook/about.html" class="">About</a></li>
+        </ul>
+    </nav>
+
+
+    <main>
+        <div class="album-header">
+            <h2>Photos</h2>
+            <p>111 photos</p>
+        </div>
+        <div class="photos-grid">
+            
+            <div class="photo-item" onclick="openLightbox('media/451032944915017.jpg', 'The new Apple Podcast app for iPhone is unsurprisingly elegant. Oh yeah, and Deemable Tech is in iTunes now!')">
+                <img src="media/451032944915017.jpg" alt="The new Apple Podcast app for iPhone is unsurprisingly elegant. Oh yeah, and Deemable Tech is in iTunes now!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/477237528961225.jpg', 'Hope everyone had a safe and Happy Labor Day! Make sure to listen today&#x27;s mini episode: http://dmbl.co/2p')">
+                <img src="media/477237528961225.jpg" alt="Hope everyone had a safe and Happy Labor Day! Make sure to listen today&#x27;s mini episode: http://dmbl.co/2p" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/477566938928284.jpg', 'Well, it&#x27;s not a rumor anymore. Apple has sent out invitations for an announcement September 12th. One rumor down, dozens to go. Also, notice anything interesting in the picture?')">
+                <img src="media/477566938928284.jpg" alt="Well, it&#x27;s not a rumor anymore. Apple has sent out invitations for an announcement September 12th. One rumor down, dozens to go. Also, notice anything interesting in the picture?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/478189972199314.jpg', 'Please stop announcing products that aren&#x27;t ready to launch! Check out Ray&#x27;s Rant at http://dmbl.co/2t')">
+                <img src="media/478189972199314.jpg" alt="Please stop announcing products that aren&#x27;t ready to launch! Check out Ray&#x27;s Rant at http://dmbl.co/2t" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/478704858814492.jpg', 'Hey nerds, check out today&#x27;s Google Doodle! 
+
+http://www.google.com')">
+                <img src="media/478704858814492.jpg" alt="Hey nerds, check out today&#x27;s Google Doodle! 
+
+http://www.google.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/479855055366139.jpg', 'It&#x27;s just been one of those days, folks!
+
+GoDaddy.com, one of Deemable Tech&#x27;s hosting services, is down and it has taken us down with it! Hopefully they will figure things out quickly so we can get our new episode out to you soonest!')">
+                <img src="media/479855055366139.jpg" alt="It&#x27;s just been one of those days, folks!
+
+GoDaddy.com, one of Deemable Tech&#x27;s hosting services, is down and it has taken us down with it! Hopefully they will figure things out quickly so we can get our new episode out to you soonest!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/480543708630607.jpg', 'Why are you looking at this? You should be working!')">
+                <img src="media/480543708630607.jpg" alt="Why are you looking at this? You should be working!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/482541205097524.jpg', 'The logical evolution of smartphones...')">
+                <img src="media/482541205097524.jpg" alt="The logical evolution of smartphones..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/482831321735179.jpg', 'This week&#x27;s episode: &quot;Cats On A Laptop.&quot; The iPhone 5, the next Nintendo Wii, how you should sign your emails and so much more!
+
+http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1')">
+                <img src="media/482831321735179.jpg" alt="This week&#x27;s episode: &quot;Cats On A Laptop.&quot; The iPhone 5, the next Nintendo Wii, how you should sign your emails and so much more!
+
+http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/483635291654782.jpg', 'Apparently the iOS6 map app has a few quirks that still need to be worked out. There&#x27;s a Tumblr blog devoted to its weirdly distorted fly-overs, cities in the middle of water and walking directions that go exactly nowhere:
+
+http://theamazingios6maps.tumblr.com/')">
+                <img src="media/483635291654782.jpg" alt="Apparently the iOS6 map app has a few quirks that still need to be worked out. There&#x27;s a Tumblr blog devoted to its weirdly distorted fly-overs, cities in the middle of water and walking directions that go exactly nowhere:
+
+http://theamazingios6maps.tumblr.com/" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/483992858285692.jpg', 'Of course the Enterprise has a great data plan.')">
+                <img src="media/483992858285692.jpg" alt="Of course the Enterprise has a great data plan." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/484958201522491.jpg', '')">
+                <img src="media/484958201522491.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/485080518176926.jpg', 'If you laughed, you&#x27;re a nerd.')">
+                <img src="media/485080518176926.jpg" alt="If you laughed, you&#x27;re a nerd." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/486252854726359.jpg', 'So, had you ever thought about how crazy the floorplan is in Sheldon and Leonard&#x27;s apartment? Do you really think Dr. Cooper could live in this insanity? By the way, Bing Bang Theory season premier is tonight!')">
+                <img src="media/486252854726359.jpg" alt="So, had you ever thought about how crazy the floorplan is in Sheldon and Leonard&#x27;s apartment? Do you really think Dr. Cooper could live in this insanity? By the way, Bing Bang Theory season premier is tonight!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/487823827902595.jpg', 'Look at what I&#x27;m playing with! Unboxing and review will be coming soon. - Ray')">
+                <img src="media/487823827902595.jpg" alt="Look at what I&#x27;m playing with! Unboxing and review will be coming soon. - Ray" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488697844481860.jpg', 'Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened...')">
+                <img src="media/488697844481860.jpg" alt="Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488698267815151.jpg', 'Tom participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened...')">
+                <img src="media/488698267815151.jpg" alt="Tom participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488699917814986.jpg', 'Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened...')">
+                <img src="media/488699917814986.jpg" alt="Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/488700017814976.jpg', 'Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened...')">
+                <img src="media/488700017814976.jpg" alt="Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/489423681075943.jpg', '')">
+                <img src="media/489423681075943.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/490956180922693.jpg', 'So true!')">
+                <img src="media/490956180922693.jpg" alt="So true!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/491076340910677.jpg', 'Did you take the lollipop yet? Find out more about the creepiest thing we&#x27;ve ever seen on the Internet on this week&#x27;s episode of Deemable Tech! http://dmbl.co/e16')">
+                <img src="media/491076340910677.jpg" alt="Did you take the lollipop yet? Find out more about the creepiest thing we&#x27;ve ever seen on the Internet on this week&#x27;s episode of Deemable Tech! http://dmbl.co/e16" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/491946364157008.jpg', 'Darth Vader was an Android user. He wanted to rule the Galaxy as father and son.')">
+                <img src="media/491946364157008.jpg" alt="Darth Vader was an Android user. He wanted to rule the Galaxy as father and son." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/496380887046889.jpg', 'We had tons of fun playing with the Rover Spy Tank. Check out our unboxing and review. http://dmbl.co/rv003')">
+                <img src="media/496380887046889.jpg" alt="We had tons of fun playing with the Rover Spy Tank. Check out our unboxing and review. http://dmbl.co/rv003" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/497960093555635.jpg', 'We&#x27;re hard at work on a very special Halloween Episode of the Deemable podcast! Got any spoooooooky questions or digital urban legends for us? We&#x27;d love to hear from you! Send &#x27;em to questions@deemable.com with the subject line &quot;Trick or treat!&quot;')">
+                <img src="media/497960093555635.jpg" alt="We&#x27;re hard at work on a very special Halloween Episode of the Deemable podcast! Got any spoooooooky questions or digital urban legends for us? We&#x27;d love to hear from you! Send &#x27;em to questions@deemable.com with the subject line &quot;Trick or treat!&quot;" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/499311596753818.jpg', 'You probably shouldn’t even listen to this week’s episode; it’s too much for you to handle. This week’s very special Halloween episode is the creepiest, grossest and scariest episode of Deemable Tech ever! If you dare, you’ll hear all about zombie computers, how to send tweets and Facebook posts from beyond the grave, what to do with your digital estate, how to recover passwords from our departed relatives, how your cell phone is probably going to kill you, or at least make you really sick, new high-tech grave markers, and folks who chose to commit virtual (social media) suicide and others who plan on living forever and are using the Internet to try to make it happen. All that, and Ray tries his best Bela Lugosi impression, on this episode of Deemable Tech!
+
+http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-afterlife/')">
+                <img src="media/499311596753818.jpg" alt="You probably shouldn’t even listen to this week’s episode; it’s too much for you to handle. This week’s very special Halloween episode is the creepiest, grossest and scariest episode of Deemable Tech ever! If you dare, you’ll hear all about zombie computers, how to send tweets and Facebook posts from beyond the grave, what to do with your digital estate, how to recover passwords from our departed relatives, how your cell phone is probably going to kill you, or at least make you really sick, new high-tech grave markers, and folks who chose to commit virtual (social media) suicide and others who plan on living forever and are using the Internet to try to make it happen. All that, and Ray tries his best Bela Lugosi impression, on this episode of Deemable Tech!
+
+http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-afterlife/" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/500231716661806.png', 'Have you seen today&#x27;s spooky ooky Google Doodle? Try clicking around...
+
+http://www.google.com')">
+                <img src="media/500231716661806.png" alt="Have you seen today&#x27;s spooky ooky Google Doodle? Try clicking around...
+
+http://www.google.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/506187169399594.jpg', '')">
+                <img src="media/506187169399594.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/511175675567410.jpg', 'Good morning! How&#x27;s your computer working? Not so good?
+
+Maybe we can help: questions@deemable.com')">
+                <img src="media/511175675567410.jpg" alt="Good morning! How&#x27;s your computer working? Not so good?
+
+Maybe we can help: questions@deemable.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/514587691892875.jpg', 'The apps on Mr. Burns&#x27; iPad.')">
+                <img src="media/514587691892875.jpg" alt="The apps on Mr. Burns&#x27; iPad." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/517682394916738.jpg', 'Round 1...')">
+                <img src="media/517682394916738.jpg" alt="Round 1..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/521330241218620.jpg', 'Merry Christmas from all of us at Deemable Tech!')">
+                <img src="media/521330241218620.jpg" alt="Merry Christmas from all of us at Deemable Tech!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/522877461063898.jpg', 'Ray found this at Walmart. His brain subsequently exploded.')">
+                <img src="media/522877461063898.jpg" alt="Ray found this at Walmart. His brain subsequently exploded." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/529076497110661.jpg', 'The ultimate geek&#x27;s med alert bracelet.')">
+                <img src="media/529076497110661.jpg" alt="The ultimate geek&#x27;s med alert bracelet." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/530855000266144.jpg', 'Brilliant!')">
+                <img src="media/530855000266144.jpg" alt="Brilliant!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/533419246676386.jpg', 'Oh, oh, yeah...I forgot. I&#x27;m also gonna need you to come in on Sunday too. We, uh, lost some Storm Troopers this week and we need to sorta catch up. Thanks.')">
+                <img src="media/533419246676386.jpg" alt="Oh, oh, yeah...I forgot. I&#x27;m also gonna need you to come in on Sunday too. We, uh, lost some Storm Troopers this week and we need to sorta catch up. Thanks." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/535044853180492.jpg', 'What browser do you use?')">
+                <img src="media/535044853180492.jpg" alt="What browser do you use?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/535577769793867.jpg', 'You can trust Honest Abe on this one.')">
+                <img src="media/535577769793867.jpg" alt="You can trust Honest Abe on this one." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/542282925790018.jpg', 'There it is folks! Deemable Tech in Folio Weekly! Make sure to pick up a copy and checkout their fantastic new website at http://www.folioweekly.com')">
+                <img src="media/542282925790018.jpg" alt="There it is folks! Deemable Tech in Folio Weekly! Make sure to pick up a copy and checkout their fantastic new website at http://www.folioweekly.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/546885095329801.jpg', 'You have been warned.')">
+                <img src="media/546885095329801.jpg" alt="You have been warned." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/548486331836344.jpg', 'One does not simply &#x27;like&#x27; into Mordor...')">
+                <img src="media/548486331836344.jpg" alt="One does not simply &#x27;like&#x27; into Mordor..." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/552979201387057.jpg', 'You just gotta click hard enough!')">
+                <img src="media/552979201387057.jpg" alt="You just gotta click hard enough!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/558609120824065.jpg', 'We have a new reward! Deemable Tech stress balls! http://dmbl.co/kick')">
+                <img src="media/558609120824065.jpg" alt="We have a new reward! Deemable Tech stress balls! http://dmbl.co/kick" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/559157110769266.jpg', 'It&#x27;s like that guy Journey said...
+
+http://dmbl.co/ff009')">
+                <img src="media/559157110769266.jpg" alt="It&#x27;s like that guy Journey said...
+
+http://dmbl.co/ff009" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/565745193443791.png', '')">
+                <img src="media/565745193443791.png" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/569813459703631.jpg', 'We&#x27;re so close! Thanks to everyone that has supported us so far! http://dmbl.co/kick')">
+                <img src="media/569813459703631.jpg" alt="We&#x27;re so close! Thanks to everyone that has supported us so far! http://dmbl.co/kick" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/570296056322038.jpg', 'Oh my goodness! We&#x27;re so close! Only $24 dollars left to go! If we go over we&#x27;ll put the money towards additional features in the app and swag to give away at One Spark. :-)')">
+                <img src="media/570296056322038.jpg" alt="Oh my goodness! We&#x27;re so close! Only $24 dollars left to go! If we go over we&#x27;ll put the money towards additional features in the app and swag to give away at One Spark. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/570590276292616.jpg', 'WE DID IT!!! Thank you to everyone that contributed! We&#x27;re in the last 30 hours of the project, and we have met already our goal! If you still want to contribute, you can until 7:00 PM EDT 3/25. We can certainly use it! We&#x27;ll be able to get more swag to give away at One Spark. :-)')">
+                <img src="media/570590276292616.jpg" alt="WE DID IT!!! Thank you to everyone that contributed! We&#x27;re in the last 30 hours of the project, and we have met already our goal! If you still want to contribute, you can until 7:00 PM EDT 3/25. We can certainly use it! We&#x27;ll be able to get more swag to give away at One Spark. :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/571351959549781.jpg', 'Have you checked out Kai&#x27;s Kickstarter project yet? http://theimagic.com')">
+                <img src="media/571351959549781.jpg" alt="Have you checked out Kai&#x27;s Kickstarter project yet? http://theimagic.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/571892956162348.jpg', 'Video games are art! Support The IMAGIC! http://theimagic.com')">
+                <img src="media/571892956162348.jpg" alt="Video games are art! Support The IMAGIC! http://theimagic.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/573066076045036.jpg', '')">
+                <img src="media/573066076045036.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/574655115886132.jpg', 'If only!')">
+                <img src="media/574655115886132.jpg" alt="If only!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/577205102297800.jpg', 'Guess who just got a big ol&#x27; box of balls? Stress balls to be specific! We&#x27;ll be bringing them to One Spark!')">
+                <img src="media/577205102297800.jpg" alt="Guess who just got a big ol&#x27; box of balls? Stress balls to be specific! We&#x27;ll be bringing them to One Spark!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580562471962063.jpg', 'See what&#x27;s at the end of the hallway? :-)')">
+                <img src="media/580562471962063.jpg" alt="See what&#x27;s at the end of the hallway? :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580834731934837.png', 'Help &quot;Spark&quot; Deemable Tech!')">
+                <img src="media/580834731934837.png" alt="Help &quot;Spark&quot; Deemable Tech!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580944141923896.jpg', 'Two of our listeners just stopped by to say hi, and vote for us! #253')">
+                <img src="media/580944141923896.jpg" alt="Two of our listeners just stopped by to say hi, and vote for us! #253" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580949328590044.jpg', 'Gia, a Deemable Tech and WJCT 89.9 FM listener, just stopped by our booth at 6 E Bay Street and voted for Deemable Tech! Have you voted yet? #253')">
+                <img src="media/580949328590044.jpg" alt="Gia, a Deemable Tech and WJCT 89.9 FM listener, just stopped by our booth at 6 E Bay Street and voted for Deemable Tech! Have you voted yet? #253" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/580981868586790.jpg', 'Joy, a fan of Deemable Tech, stopped by to see us at and voted for Deemable Tech #253! Have you voted yet? We&#x27;ll be at One Spark tomorrow 9 AM to 9 PM, and at the Pitch Deck in Hemming Plaza tomorrow at 5:15 PM.')">
+                <img src="media/580981868586790.jpg" alt="Joy, a fan of Deemable Tech, stopped by to see us at and voted for Deemable Tech #253! Have you voted yet? We&#x27;ll be at One Spark tomorrow 9 AM to 9 PM, and at the Pitch Deck in Hemming Plaza tomorrow at 5:15 PM." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581021221916188.jpg', 'Michael, a Deemable Tech podcast subscriber and one of our Kickstarter supporters came out to see us, and voted for us #253! 
+
+Also, he has the most epic Doctor Who t-shirt ever made in the history of time and space.')">
+                <img src="media/581021221916188.jpg" alt="Michael, a Deemable Tech podcast subscriber and one of our Kickstarter supporters came out to see us, and voted for us #253! 
+
+Also, he has the most epic Doctor Who t-shirt ever made in the history of time and space." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581151228569854.jpg', 'A little drizzle won&#x27;t stop us from coming out to One Spark! This Is FLORIDA!! :-)')">
+                <img src="media/581151228569854.jpg" alt="A little drizzle won&#x27;t stop us from coming out to One Spark! This Is FLORIDA!! :-)" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581214491896861.jpg', 'Listeners Tommy &amp; Uli just stopped by and voted for Deemable Tech #253! Make sure to come visit us today! We&#x27;re at Ignite Adecco at Bay &amp; Main Street.')">
+                <img src="media/581214491896861.jpg" alt="Listeners Tommy &amp; Uli just stopped by and voted for Deemable Tech #253! Make sure to come visit us today! We&#x27;re at Ignite Adecco at Bay &amp; Main Street." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581237498561227.jpg', 'Come support Deemable Tech! Ray and Tom will be pitching Deemable Tech at the Community First Pitch Deck at Hemming Plaza at 5:15. Show up early, applaud, and laugh at Ray and Tom!')">
+                <img src="media/581237498561227.jpg" alt="Come support Deemable Tech! Ray and Tom will be pitching Deemable Tech at the Community First Pitch Deck at Hemming Plaza at 5:15. Show up early, applaud, and laugh at Ray and Tom!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581238311894479.jpg', 'Marjorie, Wiliam and Langston, WJCT 89.9 FM listeners and Deemable Tech fans just stopped in to see us and vote for #253! Thanks!')">
+                <img src="media/581238311894479.jpg" alt="Marjorie, Wiliam and Langston, WJCT 89.9 FM listeners and Deemable Tech fans just stopped in to see us and vote for #253! Thanks!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581274645224179.jpg', 'We are gonna be up there in 15 minutes! Head down to Hemming Plaza and support Deemable Tech!')">
+                <img src="media/581274645224179.jpg" alt="We are gonna be up there in 15 minutes! Head down to Hemming Plaza and support Deemable Tech!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581318098553167.jpg', 'Laura and Cari, fans of Deemable Tech and WJCT just stopped by and voted for Deemable Tech #253! Thanks!')">
+                <img src="media/581318098553167.jpg" alt="Laura and Cari, fans of Deemable Tech and WJCT just stopped by and voted for Deemable Tech #253! Thanks!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/581949961823314.jpg', 'Thanks to everyone who came out and visited us at OneSpark! It was truly inspiring and humbling to meet actual fans and listeners. You guys are awesome!')">
+                <img src="media/581949961823314.jpg" alt="Thanks to everyone who came out and visited us at OneSpark! It was truly inspiring and humbling to meet actual fans and listeners. You guys are awesome!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/588967271121583.jpg', 'CSI: Death Star')">
+                <img src="media/588967271121583.jpg" alt="CSI: Death Star" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/592843680733942.jpg', 'What is your Batman Name?')">
+                <img src="media/592843680733942.jpg" alt="What is your Batman Name?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/595395187145458.jpg', 'When fandom and manscaping goes too far.')">
+                <img src="media/595395187145458.jpg" alt="When fandom and manscaping goes too far." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/597279240290386.jpg', 'Everyone&#x27;s a critic')">
+                <img src="media/597279240290386.jpg" alt="Everyone&#x27;s a critic" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/603466189671691.jpg', 'Whose excited about the stylish new trash can Apple unveiled at WWDC???')">
+                <img src="media/603466189671691.jpg" alt="Whose excited about the stylish new trash can Apple unveiled at WWDC???" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/606013759416934.jpg', 'Sorry, no full length episode of Deemable Tech this week. On top of it being Fathers Day and them spending time with their families, Ray and Tom were recovering from the Newsroom Street Fight!')">
+                <img src="media/606013759416934.jpg" alt="Sorry, no full length episode of Deemable Tech this week. On top of it being Fathers Day and them spending time with their families, Ray and Tom were recovering from the Newsroom Street Fight!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/608074982544145.jpg', 'Apparently, Commander Riker is in the Google Glass Explorer program!')">
+                <img src="media/608074982544145.jpg" alt="Apparently, Commander Riker is in the Google Glass Explorer program!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/609470345737942.jpg', '')">
+                <img src="media/609470345737942.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/610887852262858.jpg', 'We nerds do love our Venn diagrams.')">
+                <img src="media/610887852262858.jpg" alt="We nerds do love our Venn diagrams." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/611949325490044.jpg', 'Four Fantastic Presidents')">
+                <img src="media/611949325490044.jpg" alt="Four Fantastic Presidents" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/613244995360477.jpg', '')">
+                <img src="media/613244995360477.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/614252591926384.jpg', 'And the award for the nerdiest and geekiest hotel employee goes to...whoever posted this in the lobby! The only people Who should like or share this are those Who get the joke.')">
+                <img src="media/614252591926384.jpg" alt="And the award for the nerdiest and geekiest hotel employee goes to...whoever posted this in the lobby! The only people Who should like or share this are those Who get the joke." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/617690258249284.jpg', 'True story.')">
+                <img src="media/617690258249284.jpg" alt="True story." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/620168281334815.jpg', 'What you didn&#x27;t know about cow licks.')">
+                <img src="media/620168281334815.jpg" alt="What you didn&#x27;t know about cow licks." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/620469977971312.jpg', 'Can&#x27;t decide which tech book to buy? Guest author, Elizabeth Pampalone, the Jax Computer Chic, breaks it down. 
+
+http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/')">
+                <img src="media/620469977971312.jpg" alt="Can&#x27;t decide which tech book to buy? Guest author, Elizabeth Pampalone, the Jax Computer Chic, breaks it down. 
+
+http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-guide/" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/620644787953831.jpg', 'Its funny, even if it is a bit derivative.')">
+                <img src="media/620644787953831.jpg" alt="Its funny, even if it is a bit derivative." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/626011004083876.jpg', '')">
+                <img src="media/626011004083876.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/626817684003208.jpg', 'It doesn&#x27;t get much hotter than this! Vote Ray &amp; Tom for HOTTEST Local Celebrity! http://folioweekly.com/bestofjax')">
+                <img src="media/626817684003208.jpg" alt="It doesn&#x27;t get much hotter than this! Vote Ray &amp; Tom for HOTTEST Local Celebrity! http://folioweekly.com/bestofjax" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/626818427336467.jpg', 'Look at those faces! They were made for radio. Vote Ray &amp; Tom for Hottest Local Celebrity! http://folioweekly.com/bestofjax')">
+                <img src="media/626818427336467.jpg" alt="Look at those faces! They were made for radio. Vote Ray &amp; Tom for Hottest Local Celebrity! http://folioweekly.com/bestofjax" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/627229843961992.png', 'Seriously, what is hotter than a neck tattoo? Vote Ray &amp; Tom for Hottest Local Celebrity! http://folioweekly.com/bestofjax')">
+                <img src="media/627229843961992.png" alt="Seriously, what is hotter than a neck tattoo? Vote Ray &amp; Tom for Hottest Local Celebrity! http://folioweekly.com/bestofjax" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/627744077243902.jpg', '')">
+                <img src="media/627744077243902.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/628806910470952.jpg', 'Look at that stache! Look at that smile! How could you not vote for Ray and Tom for Hottest Local Celebrity? http://folioweekly.com/bestofjax No, seriously! Look at that stache! Ray could almost give Shad Khan a run for his money.')">
+                <img src="media/628806910470952.jpg" alt="Look at that stache! Look at that smile! How could you not vote for Ray and Tom for Hottest Local Celebrity? http://folioweekly.com/bestofjax No, seriously! Look at that stache! Ray could almost give Shad Khan a run for his money." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/630772416941068.jpg', 'Even though Martha Jones thought his breath stunk, she was still glad to meet him. We&#x27;ll be talking about Shakespeare on Deemable Tech tonight with Adam Daveline, founder of DiscoveringShakespeare.com.')">
+                <img src="media/630772416941068.jpg" alt="Even though Martha Jones thought his breath stunk, she was still glad to meet him. We&#x27;ll be talking about Shakespeare on Deemable Tech tonight with Adam Daveline, founder of DiscoveringShakespeare.com." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/634692186549091.jpg', 'Not everything is as frightening as they make it out to be on the local news. http://dmbl.co/e47')">
+                <img src="media/634692186549091.jpg" alt="Not everything is as frightening as they make it out to be on the local news. http://dmbl.co/e47" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/640948575923452.jpg', '')">
+                <img src="media/640948575923452.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/643942105624099.jpg', 'A gold iPhone! A fingerprint scanner! The iPhone 5c! 
+
+So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? Bored?')">
+                <img src="media/643942105624099.jpg" alt="A gold iPhone! A fingerprint scanner! The iPhone 5c! 
+
+So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? Bored?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/657996174218692.jpg', '')">
+                <img src="media/657996174218692.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/677614638923512.jpg', 'The Playstation 4 is out today! Will you be picking one up?')">
+                <img src="media/677614638923512.jpg" alt="The Playstation 4 is out today! Will you be picking one up?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/680296165322026.jpg', 'The Xbox One drops Friday.
+
+So how bout it kids? XBox One or PS4?')">
+                <img src="media/680296165322026.jpg" alt="The Xbox One drops Friday.
+
+So how bout it kids? XBox One or PS4?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/689604711057838.jpg', 'Congrats to Ray Hollister for becoming a daddy for the second time!')">
+                <img src="media/689604711057838.jpg" alt="Congrats to Ray Hollister for becoming a daddy for the second time!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/691545374197105.jpg', '')">
+                <img src="media/691545374197105.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/724280017590307.png', 'Happy Valentine&#x27;s Day. And, what would make Valentine&#x27;s Day better than love stories from This American Life on the Google home page? Check it out! http://google.com')">
+                <img src="media/724280017590307.png" alt="Happy Valentine&#x27;s Day. And, what would make Valentine&#x27;s Day better than love stories from This American Life on the Google home page? Check it out! http://google.com" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/737275802957395.jpg', 'Today is the 25th anniversary of the World Wide Web. But NOT the Internet! The Internet is much older. 
+
+Did you realize that the Web and the Internet were two different things?')">
+                <img src="media/737275802957395.jpg" alt="Today is the 25th anniversary of the World Wide Web. But NOT the Internet! The Internet is much older. 
+
+Did you realize that the Web and the Internet were two different things?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/743110065707302.jpg', 'Ray and Tom will be on First Coast Connect Tuesday morning with host Melissa Ross during the 9 o&#x27;clock hour. Tune into WJCT 89.9 and hear what they are up to!')">
+                <img src="media/743110065707302.jpg" alt="Ray and Tom will be on First Coast Connect Tuesday morning with host Melissa Ross during the 9 o&#x27;clock hour. Tune into WJCT 89.9 and hear what they are up to!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/750962078255434.jpg', 'So, they&#x27;ve figured out who introduced the Heartbleed bug. And you thought you had awkward conversations with your boss.')">
+                <img src="media/750962078255434.jpg" alt="So, they&#x27;ve figured out who introduced the Heartbleed bug. And you thought you had awkward conversations with your boss." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/769535999731375.jpg', '')">
+                <img src="media/769535999731375.jpg" alt="" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/778102488874726.jpg', 'Hey tech-savvy DT listeners! What are your most useful travel websites? What are you favorite travel apps? Got any high-tech travel tips? Let us know in the comments!')">
+                <img src="media/778102488874726.jpg" alt="Hey tech-savvy DT listeners! What are your most useful travel websites? What are you favorite travel apps? Got any high-tech travel tips? Let us know in the comments!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/791931314158510.jpg', 'WE&#x27;RE BACK! This Sunday, 1 PM on WJCT 89.9. It&#x27;s gonna be fun. You won&#x27;t wanna miss it!')">
+                <img src="media/791931314158510.jpg" alt="WE&#x27;RE BACK! This Sunday, 1 PM on WJCT 89.9. It&#x27;s gonna be fun. You won&#x27;t wanna miss it!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/829532210398420.png', 'We are live tweeting the Apple Event right now. Follow us on Twitter @Deemable.')">
+                <img src="media/829532210398420.png" alt="We are live tweeting the Apple Event right now. Follow us on Twitter @Deemable." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/841123455905962.jpg', 'It&#x27;s happening again!
+
+This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!')">
+                <img src="media/841123455905962.jpg" alt="It&#x27;s happening again!
+
+This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/842557802429194.jpg', 'Don&#x27;t miss our hour-long radio special today on @[100031454033697:2048:WJCT] FM! We&#x27;ll answer your tech questions, talk about some useful apps for small businesses and more. You can stream it live today at 1PM at http://wjctnews.org')">
+                <img src="media/842557802429194.jpg" alt="Don&#x27;t miss our hour-long radio special today on @[100031454033697:2048:WJCT] FM! We&#x27;ll answer your tech questions, talk about some useful apps for small businesses and more. You can stream it live today at 1PM at http://wjctnews.org" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/979668322051474.jpg', 'Ready for your life to be changed? Try this on your iPhone or iPad: Open the Facebook app. Tap More &gt; Account Settings &gt; Apps &gt; Platform &gt; No. No more game invites. You&#x27;re welcome! Tell your friends.')">
+                <img src="media/979668322051474.jpg" alt="Ready for your life to be changed? Try this on your iPhone or iPad: Open the Facebook app. Tap More &gt; Account Settings &gt; Apps &gt; Platform &gt; No. No more game invites. You&#x27;re welcome! Tell your friends." loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/1007079409310365.jpg', 'Does the punishment fit the crime? Thursday morning on @[100069598652398:2048:First Coast Connect], @[186676434684004:274:Deemable Tech] host Ray Hollister will join Melissa Ross to discuss the online outrage on Yelp, Facebook and other social media sites about the killing of Cecil the lion. Tune in Thursday at 9 a.m. EDT to @[97641756161:274:WJCT] 89.9 FM or online at WJCT.org/listen')">
+                <img src="media/1007079409310365.jpg" alt="Does the punishment fit the crime? Thursday morning on @[100069598652398:2048:First Coast Connect], @[186676434684004:274:Deemable Tech] host Ray Hollister will join Melissa Ross to discuss the online outrage on Yelp, Facebook and other social media sites about the killing of Cecil the lion. Tune in Thursday at 9 a.m. EDT to @[97641756161:274:WJCT] 89.9 FM or online at WJCT.org/listen" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/1009938335691139.jpg', 'Oh man, I&#x27;m not so sure we&#x27;re going to be able to record an episode of Deemable Tech this week. We&#x27;re going to be busy doing some important um.... research?')">
+                <img src="media/1009938335691139.jpg" alt="Oh man, I&#x27;m not so sure we&#x27;re going to be able to record an episode of Deemable Tech this week. We&#x27;re going to be busy doing some important um.... research?" loading="lazy">
+            </div>
+            
+            <div class="photo-item" onclick="openLightbox('media/1018280251523614.png', 'Hey folks! Sorry if you wait patiently on Friday for the new Deemable Tech episode. We are recording the show this Sunday instead of today. Check your podcast app Monday morning. We are in the midst of downloading the Ashley Madison data dump. We will definitely be talking about it on the show.')">
+                <img src="media/1018280251523614.png" alt="Hey folks! Sorry if you wait patiently on Friday for the new Deemable Tech episode. We are recording the show this Sunday instead of today. Check your podcast app Monday morning. We are in the midst of downloading the Ashley Madison data dump. We will definitely be talking about it on the show." loading="lazy">
+            </div>
+            
+        </div>
+    </main>
+
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+        <img src="" alt="" id="lightbox-img">
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+    </div>
+
+    
+    <footer>
+        <p>This archive was created from a Facebook data export.</p>
+        <p>Original content &copy; Deemable Tech. Archive generated January 2026.</p>
+    </footer>
+
+
+    <script>
+    function openLightbox(src, caption) {
+        document.getElementById('lightbox-img').src = src;
+        document.getElementById('lightbox-caption').textContent = caption;
+        document.getElementById('lightbox').classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+        document.getElementById('lightbox').classList.remove('active');
+        document.body.style.overflow = '';
+    }
+
+    document.getElementById('lightbox').addEventListener('click', function(e) {
+        if (e.target === this) closeLightbox();
+    });
+
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeLightbox();
+    });
+    </script>
+</body>
+</html>

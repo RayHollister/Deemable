@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Deemable Tech Facebook Archive</title>
+    <style>
+:root {
+    --fb-blue: #1877f2;
+    --fb-blue-dark: #166fe5;
+    --bg-primary: #f0f2f5;
+    --bg-card: #ffffff;
+    --text-primary: #050505;
+    --text-secondary: #65676b;
+    --border-color: #dddfe2;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.34;
+    font-size: 15px;
+}
+
+.archive-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 14px;
+}
+
+.archive-banner a {
+    color: white;
+    text-decoration: underline;
+}
+
+header {
+    background: var(--fb-blue);
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.header-content h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header-content h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border-color);
+}
+
+nav ul {
+    max-width: 900px;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    gap: 0;
+}
+
+nav a {
+    display: block;
+    padding: 16px 20px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    border-bottom: 3px solid transparent;
+    transition: all 0.2s;
+}
+
+nav a:hover, nav a.active {
+    color: var(--fb-blue);
+    border-bottom-color: var(--fb-blue);
+}
+
+main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+.cover-section {
+    position: relative;
+    margin-bottom: 20px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+}
+
+.cover-photo {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.profile-section {
+    display: flex;
+    align-items: flex-end;
+    padding: 0 20px 20px;
+    margin-top: -60px;
+    position: relative;
+}
+
+.profile-pic {
+    width: 168px;
+    height: 168px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+    box-shadow: var(--shadow);
+}
+
+.profile-info {
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+
+.profile-info h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.profile-info p {
+    color: var(--text-secondary);
+    margin-top: 4px;
+}
+
+.post {
+    background: var(--bg-card);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    gap: 12px;
+}
+
+.post-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.post-meta h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.post-meta .date {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.post-content {
+    padding: 0 16px 12px;
+}
+
+.post-content p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.post-content a {
+    color: var(--fb-blue);
+    text-decoration: none;
+}
+
+.post-content a:hover {
+    text-decoration: underline;
+}
+
+.post-media {
+    width: 100%;
+}
+
+.post-media img {
+    width: 100%;
+    display: block;
+}
+
+.post-link {
+    margin: 0 16px 12px;
+    padding: 12px;
+    background: var(--bg-primary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.post-link a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.post-link a:hover {
+    text-decoration: underline;
+}
+
+/* Albums page */
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.album-card {
+    background: var(--bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s;
+}
+
+.album-card:hover {
+    transform: translateY(-2px);
+}
+
+.album-cover {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.album-info {
+    padding: 12px;
+}
+
+.album-info h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.album-info p {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+/* Album detail page */
+.album-header {
+    background: var(--bg-card);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+}
+
+.album-header h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.photos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 4px;
+}
+
+.photo-item {
+    position: relative;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
+.photo-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.photo-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Lightbox */
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lightbox.active {
+    display: flex;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    object-fit: contain;
+}
+
+.lightbox-caption {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+    font-size: 13px;
+}
+
+footer a {
+    color: var(--text-secondary);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .profile-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: -40px;
+    }
+
+    .profile-pic {
+        width: 120px;
+        height: 120px;
+    }
+
+    .profile-info {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+
+    .profile-info h2 {
+        font-size: 24px;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+    nav a {
+        padding: 12px 16px;
+        font-size: 14px;
+    }
+}
+</style>
+</head>
+<body>
+    
+    <div class="archive-banner">
+        This is an archived copy of the Deemable Tech Facebook Page.
+        <a href="/">Visit Deemable Tech</a>
+    </div>
+    <header>
+        <div class="header-content">
+            <h1><a href="/facebook/">Deemable Tech Archive</a></h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="/facebook/" class="">Posts</a></li>
+            <li><a href="/facebook/photos.html" class="">Photos</a></li>
+            <li><a href="/facebook/about.html" class="active">About</a></li>
+        </ul>
+    </nav>
+
+
+    <main>
+        <article class="post">
+            <div class="post-header">
+                <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+                <div class="post-meta">
+                    <h3>About This Archive</h3>
+                </div>
+            </div>
+            <div class="post-content">
+                <p>This is an archived copy of the Deemable Tech Facebook Page.</p>
+                <p>Deemable Tech was a technology podcast and news site that ran from 2011-2016, providing tech tips, reviews, and discussions about the latest in consumer technology.</p>
+                <p>This archive preserves the posts, photos, and content that was shared on the Facebook Page during that time.</p>
+                <p>Visit <a href="/">deemable.rayhollister.com</a> for the main Deemable Tech archive.</p>
+            </div>
+        </article>
+    </main>
+
+    
+    <footer>
+        <p>This archive was created from a Facebook data export.</p>
+        <p>Original content &copy; Deemable Tech. Archive generated January 2026.</p>
+    </footer>
+
+</body>
+</html>
