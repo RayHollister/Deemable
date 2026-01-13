@@ -214,6 +214,25 @@ main {
     display: block;
 }
 
+.post-link {
+    margin: 0 16px 12px;
+    padding: 12px;
+    background: var(--bg-primary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.post-link a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.post-link a:hover {
+    text-decoration: underline;
+}
+
 /* Link Preview Styles */
 .link-preview {
     display: block;
@@ -267,25 +286,38 @@ main {
     overflow: hidden;
 }
 
-/* Simple link fallback (no preview available) */
-.post-link {
-    margin: 0 16px 12px;
-    padding: 12px;
-    background: var(--bg-primary);
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-}
-
-.post-link a {
-    color: var(--text-primary);
-    text-decoration: none;
+/* Reactions */
+.post-reactions {
+    padding: 8px 16px;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
     font-size: 14px;
-    word-break: break-all;
+    color: var(--text-secondary);
 }
 
-.post-link a:hover {
-    text-decoration: underline;
+.reaction-icons {
+    display: flex;
+    gap: 2px;
 }
+
+.reaction-icon {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.reaction-icon.like { background: #1877f2; }
+.reaction-icon.love { background: #f33e58; }
+.reaction-icon.haha { background: #f7b125; }
+.reaction-icon.wow { background: #f7b125; }
+.reaction-icon.sad { background: #f7b125; }
+.reaction-icon.angry { background: #e9710f; }
 
 /* Albums page */
 .albums-grid {
@@ -454,10 +486,6 @@ footer a {
         padding: 12px 16px;
         font-size: 14px;
     }
-
-    .link-preview-image {
-        height: 180px;
-    }
 }
 </style>
 </head>
@@ -516,6 +544,12 @@ footer a {
         </div>
     </a>
     
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon wow">😮</span></div>
+        <span>1</span>
+    </div>
+    
     </article>
     
     <article class="post">
@@ -535,6 +569,138 @@ footer a {
                 </div>
                 
         
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span><span class="reaction-icon love">❤️</span></div>
+        <span>25</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">July 05, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>No need to say this, but this is kind of a big deal...</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span></div>
+        <span>4</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">July 04, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>Windows 10 showing ads to users on the lock screen?? Fortunately, you CAN turn them off.</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span></div>
+        <span>3</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">July 03, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>It breaks our heart, but it was time. Don&#x27;t worry though, we&#x27;ll still be answering your tech questions on Ask Deemable Tech on WJXT4!</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span><span class="reaction-icon sad">😢</span></div>
+        <span>8</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">July 02, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>Didn&#x27;t see that one coming.</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon haha">😆</span></div>
+        <span>1</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">July 01, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>Tune in Monday morning at 11 to River City Live on WJXT4 The Local Station to catch Ray Hollister, owner of Bold City IT, and host of Ask Deemable Tech.</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span></div>
+        <span>2</span>
+    </div>
+    
+    </article>
+    
+    <article class="post">
+        <div class="post-header">
+            <img src="media/459089626231489.jpg" alt="Deemable Tech" class="post-avatar">
+            <div class="post-meta">
+                <h3>Deemable Tech</h3>
+                <span class="date">June 30, 2016 at 08:00 PM</span>
+            </div>
+        </div>
+        <div class="post-content">
+            <p>Your AirPort Extreme may now be a collector&#x27;s item.</p>
+        </div>
+        
+        
+        
+    <div class="post-reactions">
+        <div class="reaction-icons"><span class="reaction-icon like">👍</span></div>
+        <span>1</span>
+    </div>
+    
     </article>
     
     <article class="post">
@@ -553,6 +719,7 @@ footer a {
                     <img src="media/1018280251523614.png" alt="Hey folks! Sorry if you wait patiently on Friday for the new Deemable Tech episode. We are recording the show this Sunday instead of today. Check your podcast app Monday morning. We are in the midst of downloading the Ashley Madison data dump. We will definitely be talking about it on the show." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -573,6 +740,7 @@ footer a {
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -591,6 +759,7 @@ footer a {
                     <img src="media/1007079409310365.jpg" alt="Does the punishment fit the crime? Thursday morning on @[100069598652398:2048:First Coast Connect], @[186676434684004:274:Deemable Tech] host Ray Hollister will join Melissa Ross to discuss the online outrage on Yelp, Facebook and other social media sites about the killing of Cecil the lion. Tune in Thursday at 9 a.m. EDT to @[97641756161:274:WJCT] 89.9 FM or online at WJCT.org/listen" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -611,6 +780,7 @@ footer a {
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -629,6 +799,7 @@ footer a {
                     <img src="media/979668322051474.jpg" alt="Ready for your life to be changed? Try this on your iPhone or iPad: Open the Facebook app. Tap More &gt; Account Settings &gt; Apps &gt; Platform &gt; No. No more game invites. You&#x27;re welcome! Tell your friends." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -649,6 +820,7 @@ footer a {
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -668,6 +840,7 @@ footer a {
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -681,6 +854,7 @@ footer a {
         <div class="post-content">
             <p>We are recording the podcast tonight. Got any tech stories you want us to discuss? Submit them now at <a href="http://reddit.com/r/deemable" target="_blank" rel="noopener">http://reddit.com/r/deemable</a></p>
         </div>
+        
         
         
     </article>
@@ -700,6 +874,7 @@ Listen live at <a href="http://wjct.org/listen," target="_blank" rel="noopener">
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -713,6 +888,7 @@ Listen live at <a href="http://wjct.org/listen," target="_blank" rel="noopener">
         <div class="post-content">
             <p>Did you miss our fall hour-long radio special last month on 89.9 WJCT? Tune in this Friday morning at 9:00 for another chance to catch it! It&#x27;s the perfect soundtrack for your Black Friday shopping.</p>
         </div>
+        
         
         
     </article>
@@ -733,6 +909,7 @@ Listen live at <a href="http://wjct.org/listen," target="_blank" rel="noopener">
                     <img src="media/842557802429194.jpg" alt="Don&#x27;t miss our hour-long radio special today on @[100031454033697:2048:WJCT] FM! We&#x27;ll answer your tech questions, talk about some useful apps for small businesses and more. You can stream it live today at 1PM at http://wjctnews.org" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -757,6 +934,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -776,6 +954,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -791,6 +970,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -804,6 +984,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         <div class="post-content">
             <p>Have your friends shared any news stories on Facebook or Twitter that just seemed too crazy to be true? Send them to debunkable@deemable.com, and we&#x27;ll uncover the truth on our next hour-long radio special.</p>
         </div>
+        
         
         
     </article>
@@ -825,6 +1006,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -838,6 +1020,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         <div class="post-content">
             <p>Tune in this morning at 9:00 AM to 89.9 FM WJCT to hear Ray Hollister of Deemable Tech talk about the CyberVor data breach on First Coast Connect.</p>
         </div>
+        
         
         
     </article>
@@ -859,6 +1042,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -878,6 +1062,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -891,6 +1076,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         <div class="post-content">
             <p>Tune in to First Coast Connect on 89.9 FM today at 9:00 am to hear Ray Hollister talk about the Deemable Tech Radio Special coming up this Sunday.</p>
         </div>
+        
         
         
     </article>
@@ -912,6 +1098,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -931,6 +1118,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -949,6 +1137,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                     <img src="media/776564932361815.jpg" alt="I don&#x27;t think that&#x27;s how it works." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -985,6 +1174,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1004,6 +1194,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1019,6 +1210,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1032,6 +1224,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
         <div class="post-content">
             <p>Tune in to 1010 XL 92.5 FM today at 12:00 PM to hear Ray Hollister on Managing Money Matters with David Kossak. They&#x27;ll be chatting about the upcoming end of support of Windows XP, and how that can impact your finances.</p>
         </div>
+        
         
         
     </article>
@@ -1052,6 +1245,7 @@ This Sunday at 1PM catch a full hour of Deemable Tech on WJCT 89.9!" loading="la
                     <img src="media/743110065707302.jpg" alt="Ray and Tom will be on First Coast Connect Tuesday morning with host Melissa Ross during the 9 o&#x27;clock hour. Tune into WJCT 89.9 and hear what they are up to!" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1076,6 +1270,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1095,6 +1290,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1108,6 +1304,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
         <div class="post-content">
             <p>Our first, You&#x27;re the Expert question is, what&#x27;s your favorite app for tracking mileage? It can be web, iOS, Android or Windows Phone. And go...</p>
         </div>
+        
         
         
     </article>
@@ -1125,6 +1322,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1138,6 +1336,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
         <div class="post-content">
             <p>Happy Holidays from all of us here at Deemable Tech!</p>
         </div>
+        
         
         
     </article>
@@ -1159,6 +1358,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1178,6 +1378,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1196,6 +1397,7 @@ Did you realize that the Web and the Internet were two different things?" loadin
                     <img src="media/685371201481189.jpg" alt="Have a warm Thanksgiving, but not that warm." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1220,6 +1422,7 @@ So how bout it kids? XBox One or PS4?" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1237,6 +1440,7 @@ Anyone else had their appendix removed?</p>
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1250,6 +1454,7 @@ Anyone else had their appendix removed?</p>
         <div class="post-content">
             <p>Sorry folks, no Deemable Tech tonight. Ray is in the ER. It might be appendicitis. It&#x27;s probably just bad Mexican food.</p>
         </div>
+        
         
         
     </article>
@@ -1271,6 +1476,7 @@ Anyone else had their appendix removed?</p>
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1284,6 +1490,7 @@ Anyone else had their appendix removed?</p>
         <div class="post-content">
             <p>We are getting ready for our first hour-long radio special, and we need your help! We need live callers with great questions! Call us at 1-888-972-9868 and leave your question. Thanks!</p>
         </div>
+        
         
         
     </article>
@@ -1305,6 +1512,7 @@ Anyone else had their appendix removed?</p>
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1318,6 +1526,7 @@ Anyone else had their appendix removed?</p>
         <div class="post-content">
             <p>Today Google turns 15 years old. Try Googling for &#x27;Google in 1998&#x27; and see what happens...</p>
         </div>
+        
         
         
     </article>
@@ -1335,6 +1544,7 @@ Anyone else had their appendix removed?</p>
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1348,6 +1558,7 @@ Anyone else had their appendix removed?</p>
         <div class="post-content">
             <p>Have you missed us? Ray and Tom will be back in the studio this weekend for a new podcast episode! Tune in at a special time this Saturday at 11:00 AM for the live show. <a href="https://deemable.rayhollister.com/live" target="_blank" rel="noopener">https://deemable.rayhollister.com/live</a></p>
         </div>
+        
         
         
     </article>
@@ -1373,6 +1584,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1392,6 +1604,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1405,6 +1618,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
         <div class="post-content">
             <p>Get your votes in for Ray &amp; Tom for Hottest Local Celebrity! #bestofjax2013 <a href="http://folioweekly.com/bestofjax" target="_blank" rel="noopener">http://folioweekly.com/bestofjax</a></p>
         </div>
+        
         
         
     </article>
@@ -1426,6 +1640,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1441,6 +1656,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1454,6 +1670,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
         <div class="post-content">
             <p>The Bard of Avon, Costa Rican cell phones, Purchasing Power, and a clever kid&#x27;s voicemail. <a href="https://deemable.rayhollister.com/e46" target="_blank" rel="noopener">https://deemable.rayhollister.com/e46</a></p>
         </div>
+        
         
         
     </article>
@@ -1475,6 +1692,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1493,6 +1711,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                     <img src="media/628806910470952.jpg" alt="Look at that stache! Look at that smile! How could you not vote for Ray and Tom for Hottest Local Celebrity? http://folioweekly.com/bestofjax No, seriously! Look at that stache! Ray could almost give Shad Khan a run for his money." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1513,6 +1732,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1531,6 +1751,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                     <img src="media/626818427336467.jpg" alt="Look at those faces! They were made for radio. Vote Ray &amp; Tom for Hottest Local Celebrity! http://folioweekly.com/bestofjax" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1551,6 +1772,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1564,6 +1786,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
         <div class="post-content">
             <p>We will be live tonight at 6:30 PM EST. Want to watch Ray prepare for the show until then? You&#x27;re weird! But, you can. <a href="https://deemable.rayhollister.com/live/" target="_blank" rel="noopener">https://deemable.rayhollister.com/live/</a></p>
         </div>
+        
         
         
     </article>
@@ -1584,6 +1807,7 @@ So how do you feel about Apple&#x27;s big iPhone announcements today? Excited? B
                     <img src="media/620644787953831.jpg" alt="Its funny, even if it is a bit derivative." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1608,6 +1832,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1627,6 +1852,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1642,6 +1868,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1655,6 +1882,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         <div class="post-content">
             <p>Tonight on Deemable Tech, Angel Torres from The Logica is stopping by the studio to talk about the Aurora App and his take on the changes for One Spark 2014. Also, Ray and Tom are taking their first live call. Spoiler: it&#x27;s Ray&#x27;s Mom. No, seriously!</p>
         </div>
+        
         
         
     </article>
@@ -1676,6 +1904,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1694,6 +1923,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                     <img src="media/614252591926384.jpg" alt="And the award for the nerdiest and geekiest hotel employee goes to...whoever posted this in the lobby! The only people Who should like or share this are those Who get the joke." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1714,6 +1944,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1733,6 +1964,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1746,6 +1978,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         <div class="post-content">
             <p>Here&#x27;s an RSS reader we didn&#x27;t mention on the show last night, AOL Reader. Free month trial CD not included. <a href="http://thenextweb.com/insider/2013/06/24/aol-reader/" target="_blank" rel="noopener">http://thenextweb.com/insider/2013/06/24/aol-reader/</a></p>
         </div>
+        
         
         
     </article>
@@ -1767,6 +2000,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1786,6 +2020,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1799,6 +2034,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         <div class="post-content">
             <p>Do you use a Dvorak or Colemak keyboard layout? Why? How did you discover it? What has your experience been like? Tell us your story. Post your response here, or email us at keyboards@deemable.com.</p>
         </div>
+        
         
         
     </article>
@@ -1820,6 +2056,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1833,6 +2070,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         <div class="post-content">
             <p>If you&#x27;re in Jax, come see Ray and Tom beat the crap out of the other news teams in Jacksonville! They&#x27;ll be playing for the WJCT team in the Newsroom Street Fight, a dodgeball tournament to benefit the Police Athletic League. The event is Saturday 6/15 at 6:00 PM at 3450 Monument Rd. Tickets are $7.</p>
         </div>
+        
         
         
     </article>
@@ -1850,6 +2088,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -1863,6 +2102,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
         <div class="post-content">
             <p>Want to watch us record the show? Come hang out with us at <a href="https://deemable.rayhollister.com/live" target="_blank" rel="noopener">https://deemable.rayhollister.com/live</a></p>
         </div>
+        
         
         
     </article>
@@ -1884,6 +2124,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1902,6 +2143,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                     <img src="media/595395187145458.jpg" alt="When fandom and manscaping goes too far." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -1922,6 +2164,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1937,6 +2180,7 @@ http://deemable.com/2013/07/technology-book-buying-guide-how-to-pick-a-how-to-gu
 
 On a different note, we are looking for a graphic artist to help with a t-shirt idea, and we&#x27;re looking for a 8-bit/chiptune musician in Jacksonville to collaborate with. Anybody know somebody?</p>
         </div>
+        
         
         
     </article>
@@ -1958,6 +2202,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -1971,6 +2216,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
         <div class="post-content">
             <p>Looking for a Deemable Tech segment you heard on the radio? Look no further! <a href="https://deemable.rayhollister.com/radio" target="_blank" rel="noopener">https://deemable.rayhollister.com/radio</a></p>
         </div>
+        
         
         
     </article>
@@ -1992,6 +2238,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2010,6 +2257,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                     <img src="media/581318098553167.jpg" alt="Laura and Cari, fans of Deemable Tech and WJCT just stopped by and voted for Deemable Tech #253! Thanks!" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2030,6 +2278,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2048,6 +2297,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                     <img src="media/581245948560382.jpg" alt="Thanks to Deemable fan Ashish for coming by our One Spark booth and supporting us!" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2068,6 +2318,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2086,6 +2337,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                     <img src="media/581237498561227.jpg" alt="Come support Deemable Tech! Ray and Tom will be pitching Deemable Tech at the Community First Pitch Deck at Hemming Plaza at 5:15. Show up early, applaud, and laugh at Ray and Tom!" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2106,6 +2358,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2124,6 +2377,7 @@ On a different note, we are looking for a graphic artist to help with a t-shirt 
                     <img src="media/581151228569854.jpg" alt="A little drizzle won&#x27;t stop us from coming out to One Spark! This Is FLORIDA!! :-)" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2148,6 +2402,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2166,6 +2421,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                     <img src="media/580981868586790.jpg" alt="Joy, a fan of Deemable Tech, stopped by to see us at and voted for Deemable Tech #253! Have you voted yet? We&#x27;ll be at One Spark tomorrow 9 AM to 9 PM, and at the Pitch Deck in Hemming Plaza tomorrow at 5:15 PM." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2186,6 +2442,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2205,6 +2462,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2218,6 +2476,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>Anyone want to come help Deemable Tech at One Spark? We need folks to pass out flyers to bring people to our venue.</p>
         </div>
+        
         
         
     </article>
@@ -2239,6 +2498,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2258,6 +2518,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2273,6 +2534,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2286,6 +2548,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>Need a laugh? Enjoy Sherlock? You&#x27;ll like this one. <a href="https://deemable.rayhollister.com/ff011" target="_blank" rel="noopener">https://deemable.rayhollister.com/ff011</a></p>
         </div>
+        
         
         
     </article>
@@ -2307,6 +2570,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2326,6 +2590,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2341,6 +2606,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2354,6 +2620,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>April Fools&#x27; Internet Round Up 2013 <a href="https://deemable.rayhollister.com/62" target="_blank" rel="noopener">https://deemable.rayhollister.com/62</a></p>
         </div>
+        
         
         
     </article>
@@ -2375,6 +2642,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2388,6 +2656,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>Have you ever wondered, &quot;How do astronauts wash their hands in space?&quot; <a href="https://deemable.rayhollister.com/ff010" target="_blank" rel="noopener">https://deemable.rayhollister.com/ff010</a></p>
         </div>
+        
         
         
     </article>
@@ -2409,6 +2678,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2428,6 +2698,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2441,6 +2712,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>Thank you to everyone that contributed to our Kickstarter project and everyone that spread the word about it!</p>
         </div>
+        
         
         
     </article>
@@ -2458,6 +2730,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2471,6 +2744,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>Less than 10 hours until the end of our Kickstarter project! Can we make it to $1,100? <a href="https://deemable.rayhollister.com/kick" target="_blank" rel="noopener">https://deemable.rayhollister.com/kick</a></p>
         </div>
+        
         
         
     </article>
@@ -2492,6 +2766,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2511,6 +2786,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2524,6 +2800,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
         <div class="post-content">
             <p>58 hours and $144 left in our Kickstarter project! That&#x27;s only $2.50 an hour! We can do it. Pledge now! <a href="https://deemable.rayhollister.com/kick" target="_blank" rel="noopener">https://deemable.rayhollister.com/kick</a></p>
         </div>
+        
         
         
     </article>
@@ -2545,6 +2822,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2563,6 +2841,7 @@ Also, he has the most epic Doctor Who t-shirt ever made in the history of time a
                     <img src="media/565745193443791.png" alt="" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2587,6 +2866,7 @@ http://dmbl.co/ff009" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2606,6 +2886,7 @@ http://dmbl.co/ff009" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2619,6 +2900,7 @@ http://dmbl.co/ff009" loading="lazy">
         <div class="post-content">
             <p>Deemable Tech will be at the Hemming Plaza One Spark Pitch Deck on Saturday April 20 @ 5:15 PM!</p>
         </div>
+        
         
         
     </article>
@@ -2640,6 +2922,7 @@ http://dmbl.co/ff009" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2653,6 +2936,7 @@ http://dmbl.co/ff009" loading="lazy">
         <div class="post-content">
             <p>First Coast Connect starts now. Tune in to WJCT 89.9 FM if you are in Jacksonville or <a href="http://ondemand.wjct.org" target="_blank" rel="noopener">http://ondemand.wjct.org</a></p>
         </div>
+        
         
         
     </article>
@@ -2670,6 +2954,7 @@ http://dmbl.co/ff009" loading="lazy">
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2683,6 +2968,7 @@ http://dmbl.co/ff009" loading="lazy">
         <div class="post-content">
             <p>While other people were busy finding their comfy spot on the couch for the Grammy&#x27;s we were joined in the studio by Angel Ayala Torres to talk about The Logica&#x27;s new app being released at One Spark called Aurora. Make sure to listen to Deemable Tech tomorrow to hear all about it!</p>
         </div>
+        
         
         
     </article>
@@ -2704,6 +2990,7 @@ http://dmbl.co/ff009" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2723,6 +3010,7 @@ http://dmbl.co/ff009" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2740,6 +3028,7 @@ I did not.
 
 (apologies that we posted the wrong key combo earlier!)</p>
         </div>
+        
         
         
     </article>
@@ -2761,6 +3050,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2774,6 +3064,7 @@ I did not.
         <div class="post-content">
             <p>If you like Deemable Tech, be sure to like us on Facebook,  follow us on Twitter, and tell your friends about us.</p>
         </div>
+        
         
         
     </article>
@@ -2795,6 +3086,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2808,6 +3100,7 @@ I did not.
         <div class="post-content">
             <p>Don&#x27;t forget to tune in tomorrow morning to hear the Deemable Tech guys answer a question during Morning Edition on WJCT 89.9 FM. If you&#x27;re not in Jacksonville, let your local public radio station know that you want to hear Deemable Tech! They can find us now on PRX.org.</p>
         </div>
+        
         
         
     </article>
@@ -2829,6 +3122,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2847,6 +3141,7 @@ I did not.
                     <img src="media/533419246676386.jpg" alt="Oh, oh, yeah...I forgot. I&#x27;m also gonna need you to come in on Sunday too. We, uh, lost some Storm Troopers this week and we need to sorta catch up. Thanks." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -2867,6 +3162,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2882,6 +3178,7 @@ I did not.
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2895,6 +3192,7 @@ I did not.
         <div class="post-content">
             <p>What is Shadenfreude? It&#x27;s funny! That&#x27;s what! <a href="https://deemable.rayhollister.com/5n" target="_blank" rel="noopener">https://deemable.rayhollister.com/5n</a></p>
         </div>
+        
         
         
     </article>
@@ -2916,6 +3214,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2929,6 +3228,7 @@ I did not.
         <div class="post-content">
             <p>This morning, on WJCT 89.9 FM, Deemable Tech answers &quot;How can I get a refund for a bad app?&quot; 8:35 AM EST</p>
         </div>
+        
         
         
     </article>
@@ -2946,6 +3246,7 @@ I did not.
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -2959,6 +3260,7 @@ I did not.
         <div class="post-content">
             <p>We hope everyone had a happy holiday season. What was your favorite gift?</p>
         </div>
+        
         
         
     </article>
@@ -2980,6 +3282,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -2999,6 +3302,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3012,6 +3316,7 @@ I did not.
         <div class="post-content">
             <p>On Christmas morning when you open your gifts, and you don&#x27;t know how they work, make sure to call us @ 904-372-3336!</p>
         </div>
+        
         
         
     </article>
@@ -3033,6 +3338,7 @@ I did not.
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3051,6 +3357,7 @@ I did not.
                     <img src="media/514587691892875.jpg" alt="The apps on Mr. Burns&#x27; iPad." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3075,6 +3382,7 @@ Maybe we can help: questions@deemable.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3088,6 +3396,7 @@ Maybe we can help: questions@deemable.com" loading="lazy">
         <div class="post-content">
             <p>We&#x27;re thankful for our awesome listeners and for the support of WJCT, A Small Orange and our families in making Deemable Tech happen! Happy Thanksgiving from everybody at Deemable Tech.</p>
         </div>
+        
         
         
     </article>
@@ -3109,6 +3418,7 @@ Maybe we can help: questions@deemable.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3122,6 +3432,7 @@ Maybe we can help: questions@deemable.com" loading="lazy">
         <div class="post-content">
             <p>Make sure to listen to WJCT 89.9 FM tomorrow for the Deemable Tech segment during Morning Edition at 6:35 and 8:35!</p>
         </div>
+        
         
         
     </article>
@@ -3147,6 +3458,7 @@ http://www.google.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3160,6 +3472,7 @@ http://www.google.com" loading="lazy">
         <div class="post-content">
             <p>Did you know there&#x27;s a number that you can call to get free tech support? It&#x27;s 904-372-3336!</p>
         </div>
+        
         
         
     </article>
@@ -3185,6 +3498,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3204,6 +3518,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3217,6 +3532,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
         <div class="post-content">
             <p>Want to watch the Apple event live? For once, you actually can! <a href="https://deemable.rayhollister.com/3k" target="_blank" rel="noopener">https://deemable.rayhollister.com/3k</a></p>
         </div>
+        
         
         
     </article>
@@ -3238,6 +3554,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3256,6 +3573,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/491946364157008.jpg" alt="Darth Vader was an Android user. He wanted to rule the Galaxy as father and son." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3276,6 +3594,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3294,6 +3613,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/490956180922693.jpg" alt="So true!" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3314,6 +3634,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3332,6 +3653,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/488700017814976.jpg" alt="Ray participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3352,6 +3674,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3370,6 +3693,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/488698267815151.jpg" alt="Tom participated in Kedgar Volta&#x27;s public art installation, ǝɯ embellished, and this is what happened..." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3390,6 +3714,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3408,6 +3733,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/487823827902595.jpg" alt="Look at what I&#x27;m playing with! Unboxing and review will be coming soon. - Ray" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3428,6 +3754,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3447,6 +3774,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3460,6 +3788,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
         <div class="post-content">
             <p>Hey folks, Ray&#x27;s curled up in bed with a sore throat. So, there&#x27;s no Deemable Tech show this week. Sorry! Keep sending in your questions though: 904-372-DEEM (3336).</p>
         </div>
+        
         
         
     </article>
@@ -3481,6 +3810,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3499,6 +3829,7 @@ http://deemable.com/2012/10/deemable-tech-episode-19-death-and-the-digital-after
                     <img src="media/483992858285692.jpg" alt="Of course the Enterprise has a great data plan." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3523,6 +3854,7 @@ http://theamazingios6maps.tumblr.com/" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3536,6 +3868,7 @@ http://theamazingios6maps.tumblr.com/" loading="lazy">
         <div class="post-content">
             <p>Have you updated to iOS 6 yet? What do you think?</p>
         </div>
+        
         
         
     </article>
@@ -3561,6 +3894,7 @@ http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1" load
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3579,6 +3913,7 @@ http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1" load
                     <img src="media/482541205097524.jpg" alt="The logical evolution of smartphones..." loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3599,6 +3934,7 @@ http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1" load
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3612,6 +3948,7 @@ http://deemable.com/2012/09/deemable-tech-episode-14-cats-on-a-laptop/?1=1" load
         <div class="post-content">
             <p>Pop quiz: what is Deemable Tech&#x27;s Twitter handle?</p>
         </div>
+        
         
         
     </article>
@@ -3637,6 +3974,7 @@ GoDaddy.com, one of Deemable Tech&#x27;s hosting services, is down and it has ta
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3660,6 +3998,7 @@ http://www.google.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3678,6 +4017,7 @@ http://www.google.com" loading="lazy">
                     <img src="media/478189972199314.jpg" alt="Please stop announcing products that aren&#x27;t ready to launch! Check out Ray&#x27;s Rant at http://dmbl.co/2t" loading="lazy">
                 </div>
                 
+        
         
     </article>
     
@@ -3698,6 +4038,7 @@ http://www.google.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3717,6 +4058,7 @@ http://www.google.com" loading="lazy">
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3730,6 +4072,7 @@ http://www.google.com" loading="lazy">
         <div class="post-content">
             <p>About to record Episode 10!</p>
         </div>
+        
         
         
     </article>
@@ -3749,6 +4092,7 @@ Strangely, the news already seems to know about this.</p>
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3764,6 +4108,7 @@ Strangely, the news already seems to know about this.</p>
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3777,6 +4122,7 @@ Strangely, the news already seems to know about this.</p>
         <div class="post-content">
             <p>We want you to be on Deemable Tech! Call us at 904-372-DEEM(3336) and leave a voicemail that says &quot;Hi, I&#x27;m (Insert your name here) from (Insert your town&#x27;s name here), and you&#x27;re listening to Deemable Tech&quot;. Then, say whatever you want. We&#x27;ll take the best/funniest voicemails we get and use them on the show.</p>
         </div>
+        
         
         
     </article>
@@ -3796,6 +4142,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3809,6 +4156,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Deemable Tech - Episode 8 - I want to shoot my iPhone because my Android is so slow <a href="https://deemable.rayhollister.com/e8" target="_blank" rel="noopener">https://deemable.rayhollister.com/e8</a></p>
         </div>
+        
         
         
     </article>
@@ -3827,6 +4175,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3840,6 +4189,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Woo Hoo! 150 likes! Thanks everybody!</p>
         </div>
+        
         
         
     </article>
@@ -3857,6 +4207,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3870,6 +4221,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>PSA: What you say on the Internet can and will be used against you. <a href="http://on.mash.to/Q8WOjm" target="_blank" rel="noopener">http://on.mash.to/Q8WOjm</a></p>
         </div>
+        
         
         
     </article>
@@ -3887,6 +4239,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
 
 <a href="http://rt.com/usa/news/obama-president-order-communications-770/" target="_blank" rel="noopener">http://rt.com/usa/news/obama-president-order-communications-770/</a></p>
         </div>
+        
         
         
     </article>
@@ -3908,6 +4261,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
                 </div>
                 
         
+        
     </article>
     
     <article class="post">
@@ -3925,6 +4279,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3938,6 +4293,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Latest version of Waze finds cheap gas <a href="https://deemable.rayhollister.com/2b" target="_blank" rel="noopener">https://deemable.rayhollister.com/2b</a></p>
         </div>
+        
         
         
     </article>
@@ -3955,6 +4311,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3968,6 +4325,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>This is absolutely adorable! <a href="http://mashable.com/2012/06/08/toddler-hide-seek-cam/" target="_blank" rel="noopener">http://mashable.com/2012/06/08/toddler-hide-seek-cam/</a></p>
         </div>
+        
         
         
     </article>
@@ -3985,6 +4343,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -3998,6 +4357,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Got a question about computers, phones, gadgets or other tech that you&#x27;d like us to answer? Call us at 904-372-DEEM (3336), email us at questions at deemable.com, tweet us @Deemable, or post a message here on our Facebook page.</p>
         </div>
+        
         
         
     </article>
@@ -4015,6 +4375,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4028,6 +4389,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>10 Must-Have Android Apps <a href="http://ow.ly/1cADuu" target="_blank" rel="noopener">http://ow.ly/1cADuu</a></p>
         </div>
+        
         
         
     </article>
@@ -4045,6 +4407,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4058,6 +4421,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Transitions: Intel&#x27;s New 3-D Transistor <a href="http://ow.ly/1cvNoh" target="_blank" rel="noopener">http://ow.ly/1cvNoh</a></p>
         </div>
+        
         
         
     </article>
@@ -4075,6 +4439,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4088,6 +4453,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Whee for Wii 2! <a href="http://ow.ly/1cpmky" target="_blank" rel="noopener">http://ow.ly/1cpmky</a></p>
         </div>
+        
         
         
     </article>
@@ -4105,6 +4471,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4118,6 +4485,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Copycat! Apple Sues Samsung <a href="http://ow.ly/1cgkIV" target="_blank" rel="noopener">http://ow.ly/1cgkIV</a></p>
         </div>
+        
         
         
     </article>
@@ -4135,6 +4503,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4148,6 +4517,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Apple Releases iOS Update 4.3.2 <a href="http://ow.ly/1cbGNv" target="_blank" rel="noopener">http://ow.ly/1cbGNv</a></p>
         </div>
+        
         
         
     </article>
@@ -4165,6 +4535,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4178,6 +4549,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>The Battle Over Net Neutrality <a href="http://ow.ly/1caw88" target="_blank" rel="noopener">http://ow.ly/1caw88</a></p>
         </div>
+        
         
         
     </article>
@@ -4195,6 +4567,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4208,6 +4581,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>What we&#x27;re up against, take 1 <a href="http://ow.ly/1c4E2B" target="_blank" rel="noopener">http://ow.ly/1c4E2B</a></p>
         </div>
+        
         
         
     </article>
@@ -4225,6 +4599,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4238,6 +4613,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Pro Wrestler Slams Gaddafi over a Wooden Table <a href="http://ow.ly/1c4gTs" target="_blank" rel="noopener">http://ow.ly/1c4gTs</a></p>
         </div>
+        
         
         
     </article>
@@ -4255,6 +4631,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4268,6 +4645,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>“Slumping high school ballplayers arrested for sacrificing livestock” <a href="http://ow.ly/1c3BC9" target="_blank" rel="noopener">http://ow.ly/1c3BC9</a></p>
         </div>
+        
         
         
     </article>
@@ -4285,6 +4663,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4298,6 +4677,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Getting Fit (By Eating Betterish) <a href="http://ow.ly/1c08sV" target="_blank" rel="noopener">http://ow.ly/1c08sV</a></p>
         </div>
+        
         
         
     </article>
@@ -4315,6 +4695,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4328,6 +4709,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Bumbling Bud Selig Strikes Out Again <a href="https://deemable.rayhollister.com/sports/2011/04/bumbling-bud-selig-strikes-out-again/" target="_blank" rel="noopener">https://deemable.rayhollister.com/sports/2011/04/bumbling-bud-selig-strikes-out-again/</a></p>
         </div>
+        
         
         
     </article>
@@ -4345,6 +4727,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4358,6 +4741,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>A Natural Way To Lower Your Blood Pressure <a href="https://deemable.rayhollister.com/science/health/2011/04/a-natural-way-to-lower-your-blood-pressure/" target="_blank" rel="noopener">https://deemable.rayhollister.com/science/health/2011/04/a-natural-way-to-lower-your-blood-pressure/</a></p>
         </div>
+        
         
         
     </article>
@@ -4375,6 +4759,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4388,6 +4773,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>It&#x27;s Friday, Friday, Gotta get down on Friday! Yes, you will have that song stuck in your head all day now! <a href="http://ow.ly/4qBdR" target="_blank" rel="noopener">http://ow.ly/4qBdR</a></p>
         </div>
+        
         
         
     </article>
@@ -4405,6 +4791,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4418,6 +4805,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Bipolar Disorder Highest in the U.S. <a href="https://deemable.rayhollister.com/science/health/2011/03/bipolar-disorder-highest-in-the-u-s/" target="_blank" rel="noopener">https://deemable.rayhollister.com/science/health/2011/03/bipolar-disorder-highest-in-the-u-s/</a></p>
         </div>
+        
         
         
     </article>
@@ -4435,6 +4823,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4448,6 +4837,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Two stupid things people say about Marx <a href="http://ow.ly/4qrAJ" target="_blank" rel="noopener">http://ow.ly/4qrAJ</a></p>
         </div>
+        
         
         
     </article>
@@ -4465,6 +4855,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4478,6 +4869,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Everybody ready for some baseball? - I can&#x27;t speak for all, but I think I know the answer it cities located in north... <a href="http://ow.ly/1bYpyC" target="_blank" rel="noopener">http://ow.ly/1bYpyC</a></p>
         </div>
+        
         
         
     </article>
@@ -4495,6 +4887,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4508,6 +4901,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>The Nuclear Non-Issue and Gaddafi Two Step <a href="https://deemable.rayhollister.com/world/2011/03/the-nuclear-non-issue-and-gaddafi-two-step/" target="_blank" rel="noopener">https://deemable.rayhollister.com/world/2011/03/the-nuclear-non-issue-and-gaddafi-two-step/</a></p>
         </div>
+        
         
         
     </article>
@@ -4525,6 +4919,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4538,6 +4933,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Cooking with Chrissy: Sticky Rice with Chicken and Leeks | Deemable <a href="https://deemable.rayhollister.com/?p=463" target="_blank" rel="noopener">https://deemable.rayhollister.com/?p=463</a></p>
         </div>
+        
         
         
     </article>
@@ -4555,6 +4951,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4568,6 +4965,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Quick and Easy Baked Flounder | Deemable <a href="https://deemable.rayhollister.com/2011/02/food/quick-and-easy-baked-flounder/" target="_blank" rel="noopener">https://deemable.rayhollister.com/2011/02/food/quick-and-easy-baked-flounder/</a></p>
         </div>
+        
         
         
     </article>
@@ -4585,6 +4983,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         </div>
         
         
+        
     </article>
     
     <article class="post">
@@ -4598,6 +4997,7 @@ So, remember &quot;that thing&quot; we said we would do if we hit 200 likes?! We
         <div class="post-content">
             <p>Thanks for being awesome and liking us! We are going to launch in March and we want to have our Facebook page username before we launch.</p>
         </div>
+        
         
         
     </article>

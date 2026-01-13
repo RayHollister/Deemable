@@ -214,6 +214,25 @@ main {
     display: block;
 }
 
+.post-link {
+    margin: 0 16px 12px;
+    padding: 12px;
+    background: var(--bg-primary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.post-link a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.post-link a:hover {
+    text-decoration: underline;
+}
+
 /* Link Preview Styles */
 .link-preview {
     display: block;
@@ -267,25 +286,38 @@ main {
     overflow: hidden;
 }
 
-/* Simple link fallback (no preview available) */
-.post-link {
-    margin: 0 16px 12px;
-    padding: 12px;
-    background: var(--bg-primary);
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-}
-
-.post-link a {
-    color: var(--text-primary);
-    text-decoration: none;
+/* Reactions */
+.post-reactions {
+    padding: 8px 16px;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
     font-size: 14px;
-    word-break: break-all;
+    color: var(--text-secondary);
 }
 
-.post-link a:hover {
-    text-decoration: underline;
+.reaction-icons {
+    display: flex;
+    gap: 2px;
 }
+
+.reaction-icon {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.reaction-icon.like { background: #1877f2; }
+.reaction-icon.love { background: #f33e58; }
+.reaction-icon.haha { background: #f7b125; }
+.reaction-icon.wow { background: #f7b125; }
+.reaction-icon.sad { background: #f7b125; }
+.reaction-icon.angry { background: #e9710f; }
 
 /* Albums page */
 .albums-grid {
@@ -453,10 +485,6 @@ footer a {
     nav a {
         padding: 12px 16px;
         font-size: 14px;
-    }
-
-    .link-preview-image {
-        height: 180px;
     }
 }
 </style>
